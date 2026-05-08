@@ -2,17 +2,18 @@
 """
 Build a self-contained search.html from all 12 Callan Method books.
 
-Index structure (per entry):
-  book, lesson, page, cefr   — location
-  t = 'v'                    — vocab item  → text field
-  t = 'q'                    — Q&A pair    → q, a fields
+Strategy (two-pass):
+  Pass 1 — parse_book() from convert.py: reliable extraction of every vocab
+            word and Q&A pair, grouped by lesson.  (proven, no reimplementation)
+  Pass 2 — page-location scan: for each entry, scan the raw PDF pages starting
+            from the lesson's first page to find the exact page the text is on.
+
+Every entry in the index records the exact 0-indexed PDF page it appears on,
+so clicking a search result jumps to that precise page in the book HTML viewer.
 
 Output:
-  html/search.html   — open in browser, type any word to find its location
-  html/index.json    — raw JSON for external tools
-
-Usage:
-  python3 build_index.py
+  html/search.html   — self-contained browser search tool
+  html/index.json    — raw JSON for other tools
 """
 
 import json
@@ -28,17 +29,41 @@ PDF_DIR = Path('/Users/cuijianchen/Downloads')
 BASE    = Path('/Users/cuijianchen/gh-projects/kb-personal/callan-method')
 OUT_DIR = BASE / 'html'
 
-_LESSON_RE = re.compile(r'\bLESSON\s+(\d+)\b')
-
 CEFR_SHORT = {
-    1: 'A1', 2: 'A1–A2', 3: 'A2',
-    4: 'A2–B1', 5: 'B1', 6: 'B1–B2',
-    7: 'B2', 8: 'B2–C1', 9: 'C1',
-    10: 'C1–C2', 11: 'C2', 12: 'C2',
+    1:'A1', 2:'A1–A2', 3:'A2', 4:'A2–B1', 5:'B1', 6:'B1–B2',
+    7:'B2', 8:'B2–C1', 9:'C1', 10:'C1–C2', 11:'C2', 12:'C2',
 }
 
+_LESSON_RE = re.compile(r'\bLESSON\s+(\d+)\b')
 
-# ── Data extraction ───────────────────────────────────────────────────────────
+
+# ── Pass 2: page location ─────────────────────────────────────────────────────
+
+def lesson_page_map(raw_pages):
+    """Return {lesson_num: first_0indexed_page} from pdftotext pages."""
+    mapping = {}
+    for i, pt in enumerate(raw_pages):
+        for m in _LESSON_RE.finditer(pt):
+            ln = int(m.group(1))
+            if ln not in mapping:
+                mapping[ln] = i
+    return mapping
+
+
+def find_page(needle, lesson_num, raw_pages, lp_map, window=40):
+    """
+    Return the 0-indexed page where `needle` first appears at or after
+    the lesson's start page.  Falls back to the lesson start page.
+    """
+    start  = lp_map.get(lesson_num, 0)
+    needle = needle[:50].lower().strip()
+    for i in range(start, min(start + window, len(raw_pages))):
+        if needle in raw_pages[i].lower():
+            return i
+    return start
+
+
+# ── Pass 1 + 2 combined ───────────────────────────────────────────────────────
 
 def extract_book(book_num):
     pdf = PDF_DIR / f'Callan Method {book_num}.pdf'
@@ -54,34 +79,39 @@ def extract_book(book_num):
     )
     raw = result.stdout
 
-    # lesson → first page (1-indexed)
-    lesson_pages = {}
-    for i, pt in enumerate(raw.split('\x0c')):
-        for m in _LESSON_RE.finditer(pt):
-            ln = int(m.group(1))
-            if ln not in lesson_pages:
-                lesson_pages[ln] = i + 1
+    # Split into per-page strings for location scanning
+    raw_pages = raw.split('\x0c')
 
+    # Pass 1: reliable parse
     sections = parse_book(raw, book_num)
-    cefr     = CEFR_SHORT.get(book_num, '')
-    entries  = []
+
+    # Lesson → first page map
+    lp_map = lesson_page_map(raw_pages)
+    cefr   = CEFR_SHORT.get(book_num, '')
+    entries = []
 
     for sec in sections:
-        ln   = sec['num']
-        page = lesson_pages.get(ln, 0)
-        base = {'b': book_num, 'l': ln, 'p': page, 'c': cefr}
+        ln = sec['num']
 
+        # Vocab words (deduplicated within lesson)
         seen_vocab = set()
         for w in sec['vocab']:
             w = w.strip()
-            if w and w not in seen_vocab:
-                seen_vocab.add(w)
-                entries.append({**base, 't': 'v', 'w': w})
+            if not w or w in seen_vocab:
+                continue
+            seen_vocab.add(w)
+            page = find_page(w, ln, raw_pages, lp_map)
+            entries.append({'b': book_num, 'l': ln, 'p': page, 'c': cefr,
+                             't': 'v', 'w': w})
 
+        # Q&A pairs
         for q, a in sec['qa_pairs']:
             q, a = q.strip(), a.strip()
-            if q:
-                entries.append({**base, 't': 'q', 'q': q, 'a': a})
+            if not q:
+                continue
+            page = find_page(q, ln, raw_pages, lp_map)
+            entries.append({'b': book_num, 'l': ln, 'p': page, 'c': cefr,
+                             't': 'q', 'q': q, 'a': a})
 
     v = sum(1 for e in entries if e['t'] == 'v')
     q = sum(1 for e in entries if e['t'] == 'q')
@@ -89,7 +119,7 @@ def extract_book(book_num):
     return entries
 
 
-# ── HTML template ─────────────────────────────────────────────────────────────
+# ── HTML ──────────────────────────────────────────────────────────────────────
 
 HTML = r"""<!DOCTYPE html>
 <html lang="en">
@@ -99,122 +129,95 @@ HTML = r"""<!DOCTYPE html>
 <title>Callan Method — Search</title>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
   body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     background: #0f1117; color: #e0e0e0; min-height: 100vh;
   }
-
-  /* ── Header ── */
   header {
     background: #16181f; border-bottom: 1px solid #2a2d3a;
-    padding: 20px 32px; display: flex; align-items: center; gap: 20px;
+    padding: 18px 28px; display: flex; align-items: center; gap: 16px;
     position: sticky; top: 0; z-index: 100;
   }
-  header h1 { font-size: 16px; font-weight: 600; color: #fff; white-space: nowrap; }
-  .search-wrap {
-    flex: 1; position: relative; max-width: 600px;
-  }
+  header h1 { font-size: 15px; font-weight: 600; color: #fff; white-space: nowrap; }
+  .search-wrap { flex: 1; position: relative; max-width: 560px; }
   .search-wrap input {
-    width: 100%; padding: 10px 16px 10px 42px;
+    width: 100%; padding: 9px 16px 9px 40px;
     background: #1e2130; border: 1px solid #2a2d3a; border-radius: 8px;
-    color: #e0e0e0; font-size: 15px; outline: none;
-    transition: border-color .15s;
+    color: #e0e0e0; font-size: 15px; outline: none; transition: border-color .15s;
   }
   .search-wrap input:focus { border-color: #4a9eff; }
   .search-wrap::before {
-    content: '⌕'; position: absolute; left: 14px; top: 50%;
-    transform: translateY(-50%); color: #555; font-size: 18px; pointer-events: none;
+    content: '⌕'; position: absolute; left: 13px; top: 50%;
+    transform: translateY(-50%); color: #555; font-size: 17px; pointer-events: none;
   }
-  .filters { display: flex; gap: 8px; align-items: center; }
+  .filters { display: flex; gap: 6px; }
   .filter-btn {
-    padding: 6px 12px; border-radius: 6px; border: 1px solid #2a2d3a;
-    background: #1e2130; color: #999; font-size: 12px; cursor: pointer;
+    padding: 5px 11px; border-radius: 6px; border: 1px solid #2a2d3a;
+    background: #1e2130; color: #888; font-size: 12px; cursor: pointer;
     transition: all .15s;
   }
   .filter-btn.active { background: #4a9eff22; border-color: #4a9eff; color: #4a9eff; }
-
-  /* ── Stats bar ── */
-  #stats-bar {
-    padding: 10px 32px; font-size: 12px; color: #555;
-    border-bottom: 1px solid #1e2130; background: #0f1117;
-  }
-
-  /* ── Results ── */
-  #results { padding: 16px 32px 40px; max-width: 1000px; }
-
-  .empty-state {
-    text-align: center; padding: 80px 0; color: #444; font-size: 15px;
-  }
-  .empty-state .hint { font-size: 13px; color: #333; margin-top: 8px; }
-
-  .result-group { margin-bottom: 8px; }
-  .result-group-header {
-    font-size: 11px; text-transform: uppercase; letter-spacing: 1px;
-    color: #555; margin-bottom: 4px; padding-left: 4px;
-  }
-
+  #stats-bar { padding: 8px 28px; font-size: 12px; color: #444; border-bottom: 1px solid #1a1c26; }
+  #results { padding: 14px 28px 40px; max-width: 960px; }
+  .empty-state { text-align: center; padding: 80px 0; color: #3a3d4a; }
+  .empty-state p { font-size: 15px; }
+  .empty-state small { font-size: 12px; display: block; margin-top: 6px; color: #2a2d3a; }
   .result-card {
-    background: #16181f; border: 1px solid #1e2130; border-radius: 8px;
-    padding: 12px 16px; margin-bottom: 6px; display: flex;
-    align-items: flex-start; gap: 14px;
-    transition: border-color .15s, background .15s;
+    background: #13151e; border: 1px solid #1e2130; border-radius: 8px;
+    margin-bottom: 5px; transition: border-color .12s, background .12s;
   }
-  .result-card:hover { border-color: #2a2d3a; background: #1a1c26; }
+  .result-card:hover { border-color: #2a2d3a; background: #161824; }
   .result-card a {
-    text-decoration: none; color: inherit; display: flex;
-    align-items: flex-start; gap: 14px; width: 100%;
+    display: flex; align-items: flex-start; gap: 12px;
+    padding: 11px 14px; text-decoration: none; color: inherit;
   }
-
-  /* Location badge */
   .loc {
     flex-shrink: 0; display: flex; flex-direction: column;
-    align-items: center; gap: 2px; min-width: 64px;
+    align-items: flex-start; gap: 3px; min-width: 108px;
   }
   .loc-book {
-    font-size: 11px; font-weight: 700; color: #fff;
-    background: #2a2d3a; padding: 2px 8px; border-radius: 4px;
+    font-size: 11px; font-weight: 700; color: #c8d0e0;
+    background: #1e2538; padding: 2px 7px; border-radius: 4px;
   }
-  .loc-lesson { font-size: 11px; color: #888; }
-  .loc-page   { font-size: 10px; color: #555; }
-  .cefr-badge {
+  .loc-detail { font-size: 11px; color: #555; }
+  .loc-detail b { color: #7a8aaa; font-weight: 500; }
+  .cefr-tag {
     font-size: 9px; color: #4a9eff; background: #4a9eff18;
     padding: 1px 5px; border-radius: 3px; font-weight: 600;
   }
-
-  /* Type badge */
-  .type-badge {
-    flex-shrink: 0; font-size: 10px; font-weight: 700;
-    padding: 2px 6px; border-radius: 4px; margin-top: 2px;
-    text-transform: uppercase; letter-spacing: .5px;
+  .page-badge {
+    flex-shrink: 0; display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    min-width: 44px; background: #1a1c26; border-radius: 6px;
+    padding: 4px 6px; border: 1px solid #1e2130;
   }
-  .type-v { background: #22543d; color: #68d391; }
-  .type-q { background: #2a2068; color: #7f9cf5; }
-
-  /* Content */
+  .page-badge .pg-label { font-size: 9px; color: #444; text-transform: uppercase; }
+  .page-badge .pg-num   { font-size: 14px; font-weight: 700; color: #7a8aaa; line-height: 1; }
+  .type-badge {
+    flex-shrink: 0; font-size: 9px; font-weight: 700;
+    padding: 2px 6px; border-radius: 4px; margin-top: 3px;
+    text-transform: uppercase; align-self: flex-start;
+  }
+  .type-v { background: #1a3a28; color: #4ade80; }
+  .type-q { background: #1a1a40; color: #818cf8; }
   .content { flex: 1; min-width: 0; }
-  .vocab-word { font-size: 15px; font-weight: 600; color: #fff; }
-  .vocab-word mark { background: #4a9eff33; color: #7ec8ff; border-radius: 2px; }
-  .qa-q { font-size: 14px; color: #d0d0d0; line-height: 1.4; }
-  .qa-q mark { background: #4a9eff33; color: #7ec8ff; border-radius: 2px; }
-  .qa-a { font-size: 13px; color: #888; margin-top: 3px; line-height: 1.4; }
-  .qa-a mark { background: #4a9eff22; color: #7ec8ff; border-radius: 2px; }
-
-  /* Load more */
+  .vocab-word { font-size: 14px; font-weight: 600; color: #e2e8f0; }
+  .qa-q { font-size: 13px; color: #c8d0e0; line-height: 1.45; }
+  .qa-a { font-size: 12px; color: #5a6480; margin-top: 3px; line-height: 1.4; }
+  mark { background: #4a9eff30; color: #93c5fd; border-radius: 2px; }
   #load-more {
-    display: none; margin: 16px auto 0; padding: 10px 24px;
+    display: none; margin: 14px 0 0; padding: 9px 22px;
     background: #1e2130; border: 1px solid #2a2d3a; border-radius: 8px;
-    color: #999; font-size: 13px; cursor: pointer;
+    color: #888; font-size: 13px; cursor: pointer;
   }
   #load-more:hover { background: #2a2d3a; color: #fff; }
 </style>
 </head>
 <body>
-
 <header>
   <h1>Callan Method</h1>
   <div class="search-wrap">
-    <input type="text" id="search" placeholder="Type a word…" autofocus autocomplete="off">
+    <input type="text" id="search" placeholder="Search any word…" autofocus autocomplete="off">
   </div>
   <div class="filters">
     <button class="filter-btn active" data-type="all">All</button>
@@ -222,184 +225,123 @@ HTML = r"""<!DOCTYPE html>
     <button class="filter-btn" data-type="q">Q&amp;A</button>
   </div>
 </header>
-
 <div id="stats-bar">
-  <span id="stats-text">__TOTAL_ENTRIES__ entries across 12 books · __VOCAB_COUNT__ vocab · __QA_COUNT__ Q&amp;A pairs</span>
+  <span id="stats-text">__TOTAL__ entries · __VOCAB__ vocab · __QA__ Q&amp;A · 12 books</span>
 </div>
-
 <div id="results">
   <div class="empty-state">
-    <div>Search across all 12 Callan Method stages</div>
-    <div class="hint">Stage → Lesson → Page → Content</div>
+    <p>Search across all 12 Callan Method stages</p>
+    <small>Each result links to the exact page in the original book</small>
   </div>
 </div>
-<button id="load-more">Show more results</button>
-
+<button id="load-more">Show more</button>
 <script>
 const INDEX = __INDEX_JSON__;
-
-const BOOK_NAMES = {
-  1:'Book 1',2:'Book 2',3:'Book 3',4:'Book 4',5:'Book 5',6:'Book 6',
-  7:'Book 7',8:'Book 8',9:'Book 9',10:'Book 10',11:'Book 11',12:'Book 12'
-};
-
-let filtered = [];
-let shown    = 0;
-const PAGE   = 50;
-let activeType = 'all';
-
-const searchEl  = document.getElementById('search');
+const PER_PAGE = 60;
+let filtered = [], shown = 0, activeType = 'all';
+const searchEl = document.getElementById('search');
 const resultsEl = document.getElementById('results');
 const loadMore  = document.getElementById('load-more');
-const statsText = document.getElementById('stats-text');
+const statsEl   = document.getElementById('stats-text');
 
 function esc(s) {
-  return String(s).replace(/[&<>"']/g, c =>
-    ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  return String(s ?? '').replace(/[&<>"']/g,
+    c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
-
-function highlight(text, term) {
+function hi(text, term) {
   if (!term) return esc(text);
-  const re = new RegExp('(' + term.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + ')', 'gi');
-  return esc(text).replace(re, '<mark>$1</mark>');
+  return esc(text).replace(
+    new RegExp('('+term.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi'),
+    '<mark>$1</mark>');
 }
-
-function renderCard(entry, term) {
-  const book    = entry.b;
-  const lesson  = entry.l;
-  const page    = entry.p;
-  const cefr    = entry.c;
-  const href    = `book-${book}.html#lesson-${lesson}`;
-
+function card(e, term) {
+  const href = `book-${e.b}.html#page-${e.p}`;
   const loc = `
     <div class="loc">
-      <span class="loc-book">${BOOK_NAMES[book]}</span>
-      <span class="cefr-badge">${esc(cefr)}</span>
-      <span class="loc-lesson">Lesson ${lesson}</span>
-      ${page ? `<span class="loc-page">p.${page}</span>` : ''}
-    </div>`;
-
-  if (entry.t === 'v') {
-    return `
-    <div class="result-card">
-      <a href="${href}" target="_blank">
-        ${loc}
-        <span class="type-badge type-v">vocab</span>
-        <div class="content">
-          <div class="vocab-word">${highlight(entry.w, term)}</div>
-        </div>
-      </a>
-    </div>`;
-  } else {
-    return `
-    <div class="result-card">
-      <a href="${href}" target="_blank">
-        ${loc}
-        <span class="type-badge type-q">Q&amp;A</span>
-        <div class="content">
-          <div class="qa-q">${highlight(entry.q, term)}</div>
-          ${entry.a ? `<div class="qa-a">${highlight(entry.a, term)}</div>` : ''}
-        </div>
-      </a>
-    </div>`;
-  }
+      <span class="loc-book">Book ${e.b}</span>
+      <span class="cefr-tag">${esc(e.c)}</span>
+      <span class="loc-detail">Lesson <b>${e.l}</b></span>
+    </div>
+    <div class="page-badge">
+      <span class="pg-label">page</span>
+      <span class="pg-num">${e.p + 1}</span>
+    </div>
+    <span class="type-badge type-${e.t}">${e.t==='v'?'vocab':'Q&amp;A'}</span>`;
+  const content = e.t === 'v'
+    ? `<div class="vocab-word">${hi(e.w, term)}</div>`
+    : `<div class="qa-q">${hi(e.q, term)}</div>${e.a?`<div class="qa-a">${hi(e.a,term)}</div>`:''}`;
+  return `<div class="result-card"><a href="${href}" target="_blank">${loc}<div class="content">${content}</div></a></div>`;
 }
-
 function doSearch() {
-  const raw  = searchEl.value.trim();
-  const term = raw.toLowerCase();
-
+  const raw = searchEl.value.trim(), term = raw.toLowerCase();
   if (!term) {
-    resultsEl.innerHTML = `
-      <div class="empty-state">
-        <div>Search across all 12 Callan Method stages</div>
-        <div class="hint">Stage → Lesson → Page → Content</div>
-      </div>`;
+    resultsEl.innerHTML = `<div class="empty-state"><p>Search across all 12 Callan Method stages</p><small>Each result links to the exact page in the original book</small></div>`;
     loadMore.style.display = 'none';
-    statsText.textContent = `__TOTAL_ENTRIES__ entries across 12 books · __VOCAB_COUNT__ vocab · __QA_COUNT__ Q&A pairs`;
+    statsEl.textContent = `__TOTAL__ entries · __VOCAB__ vocab · __QA__ Q&A · 12 books`;
     return;
   }
-
   filtered = INDEX.filter(e => {
     if (activeType !== 'all' && e.t !== activeType) return false;
-    if (e.t === 'v') return e.w.toLowerCase().includes(term);
-    return e.q.toLowerCase().includes(term) || (e.a && e.a.toLowerCase().includes(term));
+    return e.t === 'v'
+      ? e.w.toLowerCase().includes(term)
+      : e.q.toLowerCase().includes(term) || (e.a && e.a.toLowerCase().includes(term));
   });
-
   shown = 0;
-  renderPage(raw, true);
+  render(raw, true);
 }
-
-function renderPage(term, reset) {
-  const slice  = filtered.slice(shown, shown + PAGE);
-  const html   = slice.map(e => renderCard(e, term)).join('');
-  const count  = filtered.length;
-  const vCount = filtered.filter(e => e.t === 'v').length;
-  const qCount = filtered.filter(e => e.t === 'q').length;
-
-  if (reset) {
-    resultsEl.innerHTML = count === 0
-      ? `<div class="empty-state"><div>No results for "${esc(term)}"</div></div>`
+function render(term, reset) {
+  const slice = filtered.slice(shown, shown + PER_PAGE);
+  const html  = slice.map(e => card(e, term)).join('');
+  const total = filtered.length;
+  if (reset)
+    resultsEl.innerHTML = total === 0
+      ? `<div class="empty-state"><p>No results for "${esc(term)}"</p></div>`
       : html;
-  } else {
+  else
     resultsEl.insertAdjacentHTML('beforeend', html);
-  }
-
   shown += slice.length;
-  loadMore.style.display = (shown < count) ? 'block' : 'none';
-
-  if (count > 0) {
-    statsText.textContent = `${count} result${count!==1?'s':''} · ${vCount} vocab · ${qCount} Q&A`;
-  }
+  loadMore.style.display = shown < total ? 'block' : 'none';
+  const v = filtered.filter(e=>e.t==='v').length, q = filtered.filter(e=>e.t==='q').length;
+  if (total > 0) statsEl.textContent = `${total.toLocaleString()} result${total!==1?'s':''} · ${v.toLocaleString()} vocab · ${q.toLocaleString()} Q&A`;
 }
-
 searchEl.addEventListener('input', doSearch);
-
-document.querySelectorAll('.filter-btn').forEach(btn => {
+document.querySelectorAll('.filter-btn').forEach(btn =>
   btn.addEventListener('click', () => {
-    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    activeType = btn.dataset.type;
-    doSearch();
-  });
-});
-
-loadMore.addEventListener('click', () => {
-  renderPage(searchEl.value.trim(), false);
-});
+    document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+    btn.classList.add('active'); activeType = btn.dataset.type; doSearch();
+  }));
+loadMore.addEventListener('click', () => render(searchEl.value.trim(), false));
 </script>
 </body>
 </html>
 """
 
 
-# ── Builder ───────────────────────────────────────────────────────────────────
+# ── Entry point ───────────────────────────────────────────────────────────────
 
 def build():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-
     print('Building Callan Method search index\n')
+
     all_entries = []
     for n in range(1, 13):
         all_entries.extend(extract_book(n))
 
-    vocab_count = sum(1 for e in all_entries if e['t'] == 'v')
-    qa_count    = sum(1 for e in all_entries if e['t'] == 'q')
-    total       = len(all_entries)
-    print(f'\nTotal: {total} entries · {vocab_count} vocab · {qa_count} Q&A\n')
+    vocab = sum(1 for e in all_entries if e['t'] == 'v')
+    qa    = sum(1 for e in all_entries if e['t'] == 'q')
+    total = len(all_entries)
+    print(f'\nTotal: {total:,} entries · {vocab:,} vocab · {qa:,} Q&A\n')
 
-    # Write raw JSON index
     json_path = OUT_DIR / 'index.json'
     json_path.write_text(json.dumps(all_entries, ensure_ascii=False), encoding='utf-8')
     print(f'Wrote {json_path}  ({json_path.stat().st_size/1_048_576:.1f} MB)')
 
-    # Write self-contained search.html
-    index_json = json.dumps(all_entries, ensure_ascii=False, separators=(',', ':'))
+    idx_json = json.dumps(all_entries, ensure_ascii=False, separators=(',', ':'))
     html = (HTML
-        .replace('__INDEX_JSON__', index_json)
-        .replace('__TOTAL_ENTRIES__', f'{total:,}')
-        .replace('__VOCAB_COUNT__', f'{vocab_count:,}')
-        .replace('__QA_COUNT__', f'{qa_count:,}')
+        .replace('__INDEX_JSON__', idx_json)
+        .replace('__TOTAL__', f'{total:,}')
+        .replace('__VOCAB__', f'{vocab:,}')
+        .replace('__QA__', f'{qa:,}')
     )
     html_path = OUT_DIR / 'search.html'
     html_path.write_text(html, encoding='utf-8')
