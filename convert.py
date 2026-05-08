@@ -175,13 +175,15 @@ def leading_spaces(line):
 def parse_book(raw_text, book_num):
     lines = raw_text.replace('\x0c', '\n').split('\n')
 
-    sections     = []
-    current      = None
-    current_q    = None
-    current_a    = []
-    in_dictation = False
-    dict_lines   = []
-    in_intro     = True
+    sections         = []
+    current          = None
+    current_q        = None
+    current_a        = []
+    in_dictation     = False
+    dict_lines       = []
+    in_intro         = True
+    saw_cefr_end     = False  # True after standalone 'A1' (end of CEFR table)
+    finished         = False  # True once we hit the multilingual vocab index
 
     def new_lesson(num):
         nonlocal current, current_q, current_a, in_dictation, dict_lines
@@ -216,7 +218,17 @@ def parse_book(raw_text, book_num):
                 if w and len(w) < 70 and not is_encoded_text(w) and is_vocab_word(w):
                     current['vocab'].append(w)
 
+    # Regex to detect the start of the multilingual vocabulary index
+    _VOCAB_INDEX_RE = re.compile(
+        r'\b(Chinese|Japanese|French|Spanish|German|Portuguese|Polish|Turkish|'
+        r'Arabic|Korean|Italian|Russian|Czech|Slovak|Hungarian)\s+vocabulary\b',
+        re.I,
+    )
+
     for line in lines:
+        if finished:
+            break
+
         s    = line.strip()
         lead = leading_spaces(line)
 
@@ -225,10 +237,28 @@ def parse_book(raw_text, book_num):
         if re.match(r'^\s*\d{3}\s*$', line):  # bare page number
             continue
 
-        # ── Structural ──
+        # Detect multilingual vocabulary index → stop parsing
+        if _VOCAB_INDEX_RE.search(s):
+            flush_qa(); flush_dict()
+            finished = True
+            break
+
+        # ── Structural / intro detection ──
         if re.match(r'^\s*STAGE\s+\d+\s*$', s):
             in_intro = False; continue
+
         if in_intro:
+            # Detect end of CEFR comparison table (standalone 'A1' is the last row)
+            if re.match(r'^\s*A1\s*$', s):
+                saw_cefr_end = True
+            # For books with no STAGE header before lessons (Books 1-3 etc.),
+            # the first LESSON line after the CEFR table is real content.
+            elif saw_cefr_end:
+                m_lesson = re.match(r'^\s*LESSON\s+(\d+)\s*$', s)
+                if m_lesson:
+                    in_intro = False
+                    new_lesson(int(m_lesson.group(1)))
+                    continue
             continue
 
         m = re.match(r'^\s*LESSON\s+(\d+)\s*$', s)
@@ -343,11 +373,18 @@ def parse_book(raw_text, book_num):
 # ── Markdown renderer ─────────────────────────────────────────────────────────
 
 STAGE_CEFR = {
-    4: 'A2–B1 (approx. KET level)',
-    5: 'B1 (approx. PET level)',
-    6: 'B1–B2',
-    7: 'B2 (approx. FCE level)',
-    8: 'B2–C1 (FCE and above)',
+    1:  'A1 (beginner)',
+    2:  'A1–A2',
+    3:  'A2',
+    4:  'A2–B1 (approx. KET level)',
+    5:  'B1 (approx. PET level)',
+    6:  'B1–B2',
+    7:  'B2 (approx. FCE level)',
+    8:  'B2–C1 (FCE and above)',
+    9:  'C1',
+    10: 'C1–C2',
+    11: 'C2 (approx. CPE level)',
+    12: 'C2 (CPE)',
 }
 
 def render_markdown(sections, book_num):
@@ -428,7 +465,7 @@ def convert_book(raw_path, out_path, book_num):
 
 if __name__ == '__main__':
     base  = Path('/Users/cuijianchen/gh-projects/kb-personal/callan-method')
-    books = [4, 5, 6, 7, 8]
+    books = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     print('Converting Callan Method PDFs → Markdown\n')
     for n in books:
         raw = base / f'book{n}_raw.txt'
