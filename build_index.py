@@ -22,6 +22,8 @@ import subprocess
 import sys
 from pathlib import Path
 
+import fitz  # PyMuPDF — for exact Y-coordinate location
+
 sys.path.insert(0, str(Path(__file__).parent))
 from convert import parse_book, STAGE_CEFR
 
@@ -34,33 +36,56 @@ CEFR_SHORT = {
     7:'B2', 8:'B2–C1', 9:'C1', 10:'C1–C2', 11:'C2', 12:'C2',
 }
 
-_LESSON_RE = re.compile(r'\bLESSON\s+(\d+)\b')
+_LESSON_RE = re.compile(r'\bLESSON\s+(\d+)\b', re.I)
 
 
-# ── Pass 2: page location ─────────────────────────────────────────────────────
+# ── Pass 2: exact page + line location via PyMuPDF ───────────────────────────
 
-def lesson_page_map(raw_pages):
-    """Return {lesson_num: first_0indexed_page} from pdftotext pages."""
+def build_page_index(doc):
+    """
+    For each page, extract all text lines with their Y coordinates.
+    Returns: list of {page_idx → [(line_text_lower, y_int), ...]}
+    Uses PyMuPDF so page indices match the HTML book exactly.
+    """
+    pages = []
+    for i in range(len(doc)):
+        lines = []
+        for block in doc[i].get_text("dict")["blocks"]:
+            if block.get("type") != 0:
+                continue
+            for line in block["lines"]:
+                text = "".join(s["text"] for s in line["spans"]).strip().lower()
+                if text:
+                    lines.append((text, int(line["bbox"][1])))
+        pages.append(lines)
+    return pages
+
+
+def lesson_page_map(page_index):
+    """Return {lesson_num: first_0indexed_page} from PyMuPDF page index."""
     mapping = {}
-    for i, pt in enumerate(raw_pages):
-        for m in _LESSON_RE.finditer(pt):
-            ln = int(m.group(1))
-            if ln not in mapping:
-                mapping[ln] = i
+    for i, lines in enumerate(page_index):
+        for text, _ in lines:
+            for m in _LESSON_RE.finditer(text):
+                ln = int(m.group(1))
+                if ln not in mapping:
+                    mapping[ln] = i
     return mapping
 
 
-def find_page(needle, lesson_num, raw_pages, lp_map, window=40):
+def find_location(needle, lesson_num, page_index, lp_map, window=40):
     """
-    Return the 0-indexed page where `needle` first appears at or after
-    the lesson's start page.  Falls back to the lesson start page.
+    Return (page_idx, y_int) for the first line containing needle,
+    searching from the lesson's start page forward.
+    Falls back to (lesson_start_page, 0) if not found.
     """
     start  = lp_map.get(lesson_num, 0)
-    needle = needle[:50].lower().strip()
-    for i in range(start, min(start + window, len(raw_pages))):
-        if needle in raw_pages[i].lower():
-            return i
-    return start
+    needle = needle[:40].lower().strip()
+    for i in range(start, min(start + window, len(page_index))):
+        for text, y in page_index[i]:
+            if needle in text or (len(needle) > 8 and text in needle):
+                return i, y
+    return start, 0
 
 
 # ── Pass 1 + 2 combined ───────────────────────────────────────────────────────
@@ -73,22 +98,23 @@ def extract_book(book_num):
 
     print(f'  Book {book_num}... ', end='', flush=True)
 
+    # pdftotext for parsing (preserves two-column layout)
     result = subprocess.run(
         ['pdftotext', '-layout', str(pdf), '-'],
         capture_output=True, text=True, errors='replace',
     )
     raw = result.stdout
 
-    # Split into per-page strings for location scanning
-    raw_pages = raw.split('\x0c')
-
     # Pass 1: reliable parse
     sections = parse_book(raw, book_num)
 
-    # Lesson → first page map
-    lp_map = lesson_page_map(raw_pages)
-    cefr   = CEFR_SHORT.get(book_num, '')
-    entries = []
+    # Pass 2: PyMuPDF for exact page + line location (matches HTML indices)
+    doc        = fitz.open(str(pdf))
+    page_index = build_page_index(doc)
+    doc.close()
+    lp_map     = lesson_page_map(page_index)
+    cefr       = CEFR_SHORT.get(book_num, '')
+    entries    = []
 
     for sec in sections:
         ln = sec['num']
@@ -100,8 +126,8 @@ def extract_book(book_num):
             if not w or w in seen_vocab:
                 continue
             seen_vocab.add(w)
-            page = find_page(w, ln, raw_pages, lp_map)
-            entries.append({'b': book_num, 'l': ln, 'p': page, 'c': cefr,
+            page, y = find_location(w, ln, page_index, lp_map)
+            entries.append({'b': book_num, 'l': ln, 'p': page, 'y': y, 'c': cefr,
                              't': 'v', 'w': w})
 
         # Q&A pairs
@@ -109,8 +135,8 @@ def extract_book(book_num):
             q, a = q.strip(), a.strip()
             if not q:
                 continue
-            page = find_page(q, ln, raw_pages, lp_map)
-            entries.append({'b': book_num, 'l': ln, 'p': page, 'c': cefr,
+            page, y = find_location(q, ln, page_index, lp_map)
+            entries.append({'b': book_num, 'l': ln, 'p': page, 'y': y, 'c': cefr,
                              't': 'q', 'q': q, 'a': a})
 
     v = sum(1 for e in entries if e['t'] == 'v')
@@ -255,7 +281,8 @@ function hi(text, term) {
     '<mark>$1</mark>');
 }
 function card(e, term) {
-  const href = `book-${e.b}.html#page-${e.p}`;
+  const anchor = e.y ? `p${e.p}-y${e.y}` : `page-${e.p}`;
+  const href = `book-${e.b}.html#${anchor}`;
   const loc = `
     <div class="loc">
       <span class="loc-book">Book ${e.b}</span>

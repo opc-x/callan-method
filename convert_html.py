@@ -95,9 +95,14 @@ HTML_HEAD = """\
     max-width: 900px; margin: 0 auto 6px;
     background: #fff; border-radius: 2px;
     box-shadow: 0 2px 12px rgba(0,0,0,.5);
+    position: relative;
   }}
   .page-wrap img {{ width: 100%; display: block; }}
   .page-anchor {{ display: block; height: 0; }}
+  .line-anchor {{
+    position: absolute; left: 0; width: 100%; height: 1px;
+    pointer-events: none;
+  }}
 </style>
 </head>
 <body>
@@ -175,19 +180,36 @@ def convert_book(book_num, pdf_path, out_path):
     )]
 
     for page_idx in range(total_pages):
-        page   = doc[page_idx]
-        b64    = page_to_b64_png(page, DPI)
-        anchors = [f'<span id="page-{page_idx}" class="page-anchor"></span>']
+        page      = doc[page_idx]
+        b64       = page_to_b64_png(page, DPI)
+        page_h    = page.rect.height  # PDF points
 
+        # Collect all text-line Y positions for exact-line anchors
+        line_ys = set()
+        for block in page.get_text("dict")["blocks"]:
+            if block.get("type") == 0:
+                for line in block["lines"]:
+                    line_ys.add(int(line["bbox"][1]))
+
+        # Page-level and lesson-level anchors (position: top of image)
+        anchors = [f'<span id="page-{page_idx}" class="page-anchor"></span>']
         if page_idx in lesson_map:
             for ln in lesson_map[page_idx]:
                 if lesson_first_page.get(ln) == page_idx:
                     anchors.append(f'<span id="lesson-{ln}" class="page-anchor"></span>')
 
-        html_parts.append(f'<div class="page-wrap">')
+        # Per-line anchors overlaid on the image at exact Y%
+        line_spans = [
+            f'<span id="p{page_idx}-y{y}" class="line-anchor"'
+            f' style="top:{y/page_h*100:.2f}%"></span>'
+            for y in sorted(line_ys)
+        ]
+
+        html_parts.append('<div class="page-wrap">')
         html_parts += anchors
         html_parts.append(f'  <img src="data:image/png;base64,{b64}" alt="Page {page_idx+1}">')
-        html_parts.append(f'</div>')
+        html_parts += line_spans
+        html_parts.append('</div>')
 
         if (page_idx + 1) % 10 == 0:
             print(f'{page_idx+1}/{total_pages}..', end=' ', flush=True)
