@@ -152,6 +152,62 @@ True C2 requires what this method does not provide: sustained authentic exposure
 
 ---
 
+## Design Philosophy — Why It Works at the Engineering Level
+
+**Score: 92 / 100 for pedagogical design**
+
+The Callan Method is not a random collection of drills. It is a closed-loop learning machine built on four interlocking principles. Understanding the engineering behind it explains both its unusual effectiveness and its ceiling.
+
+### Principle 1 — Lexical family binding (词族绑定)
+
+Words are never introduced alone. Every vocabulary cluster groups a word with its morphological relatives or semantic partners:
+
+```
+treat  →  treatment  →  shock
+allow  →  allowance  →  make allowance for
+```
+
+This means you never store an isolated item. You store a **node in a network**. When one word in the cluster is triggered, the whole family is reactivated. This is how native speakers actually store vocabulary — not as lists, but as associative webs.
+
+### Principle 2 — Immediate forced output (即时操练)
+
+The teacher does not pause after asking a question. You have 3–5 seconds to produce a grammatically complete sentence. There is no thinking time to translate from Chinese.
+
+This is the hardest part to replicate solo and the single biggest reason classroom Callan outperforms self-study Callan. The forced-latency constraint trains the brain to **generate English directly**, bypassing the L1 mediation loop entirely. After enough repetitions, the English sentence appears before the Chinese equivalent does.
+
+### Principle 3 — Designed spaced repetition (间隔复现)
+
+Every vocabulary cluster is scheduled to reappear in the next 7–10 lessons. This is not incidental — it is baked into the manuscript. The curriculum **is** the spaced repetition algorithm.
+
+Unlike Anki or other flashcard systems, the repetition occurs in varied sentence contexts, not in isolated card reviews. The same word cluster is drilled in different syntactic slots across multiple lessons, which strengthens the retrieval cue network rather than a single recognition path.
+
+### Principle 4 — Example sentence distillation (例句蒸馏)
+
+Each Q&A pair is not a random sentence. It is a **minimal, maximally generative sentence** — short enough to be produced in one breath, varied enough to exercise a different syntactic pattern for the same vocabulary item.
+
+```
+Q: Do you treat people well?
+Q: How did the doctor treat the patient?
+Q: What was the treatment like?
+Q: Did the shock cause any lasting damage?
+```
+
+Four questions. Four sentence structures. One vocabulary cluster. This is sentence engineering, not sentence collection.
+
+### Why 92 and not higher
+
+The method loses 8 points on:
+
+| Weakness | Points lost |
+|---|---|
+| No phonics / pronunciation modeling | −4 |
+| No authentic varied listening input | −3 |
+| Q&A format is not real conversation | −1 |
+
+The 92 reflects the **design of the system**, not the ceiling of the outcome. A perfectly designed internal combustion engine still cannot go underwater. The method is close to optimal for what it was designed to do: produce automatic spoken output from structured input. The weaknesses are all outside its design scope.
+
+---
+
 ## The Blue Vocabulary Clusters — Design Analysis
 
 ### What they are

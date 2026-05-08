@@ -147,6 +147,21 @@ def extract_book(book_num):
 
 # ── HTML ──────────────────────────────────────────────────────────────────────
 
+STAGE_META = [
+    (1,  'A1',     'L 1–9',    'Beginner'),
+    (2,  'A1–A2',  'L 10–24',  'Elementary'),
+    (3,  'A2',     'L 25–40',  'Pre-Int'),
+    (4,  'A2–B1',  'L 41–60',  'KET'),
+    (5,  'B1',     'L 61–77',  'PET'),
+    (6,  'B1–B2',  'L 78–94',  'Upper-Int'),
+    (7,  'B2',     'L 95–111', 'FCE'),
+    (8,  'B2–C1',  'L 112–126','FCE+'),
+    (9,  'C1',     'L 127–145','Advanced'),
+    (10, 'C1–C2',  'L 146–163','Advanced+'),
+    (11, 'C2',     'L 164–177','CPE'),
+    (12, 'C2',     'L 178–191','CPE Master'),
+]
+
 HTML = r"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -176,13 +191,43 @@ HTML = r"""<!DOCTYPE html>
     content: '⌕'; position: absolute; left: 13px; top: 50%;
     transform: translateY(-50%); color: #555; font-size: 17px; pointer-events: none;
   }
-  .filters { display: flex; gap: 6px; }
+  .filters { display: flex; gap: 6px; flex-shrink: 0; }
   .filter-btn {
     padding: 5px 11px; border-radius: 6px; border: 1px solid #2a2d3a;
     background: #1e2130; color: #888; font-size: 12px; cursor: pointer;
     transition: all .15s;
   }
   .filter-btn.active { background: #4a9eff22; border-color: #4a9eff; color: #4a9eff; }
+
+  /* Stage directory strip */
+  #stage-nav {
+    background: #0d0f16; border-bottom: 1px solid #1e2130;
+    padding: 10px 28px; overflow-x: auto; white-space: nowrap;
+    display: flex; gap: 6px; align-items: stretch;
+  }
+  .stage-card {
+    display: inline-flex; flex-direction: column; align-items: center;
+    padding: 7px 10px; border-radius: 7px; border: 1px solid #1e2130;
+    background: #13151e; text-decoration: none; color: inherit;
+    min-width: 72px; cursor: pointer; transition: all .15s; flex-shrink: 0;
+  }
+  .stage-card:hover { border-color: #4a9eff; background: #161e30; }
+  .stage-card.active-book { border-color: #4a9eff; background: #1a2440; }
+  .stage-card .s-num  { font-size: 11px; font-weight: 700; color: #7a8aaa; }
+  .stage-card .s-cefr { font-size: 10px; color: #4a9eff; font-weight: 600; margin-top: 2px; }
+  .stage-card .s-lessons { font-size: 9px; color: #444; margin-top: 1px; }
+  .stage-card .s-label { font-size: 9px; color: #555; margin-top: 2px; }
+  .stage-sep { width: 1px; background: #1e2130; flex-shrink: 0; margin: 4px 0; }
+
+  /* Per-book stats shown on hover / in directory */
+  #book-stats {
+    background: #0d0f16; border-bottom: 1px solid #1a1c26;
+    padding: 6px 28px; font-size: 11px; color: #445; min-height: 24px;
+    transition: color .15s;
+  }
+  #book-stats span { color: #556; }
+  #book-stats b { color: #7a8aaa; }
+
   #stats-bar { padding: 8px 28px; font-size: 12px; color: #444; border-bottom: 1px solid #1a1c26; }
   #results { padding: 14px 28px 40px; max-width: 960px; }
   .empty-state { text-align: center; padding: 80px 0; color: #3a3d4a; }
@@ -243,7 +288,7 @@ HTML = r"""<!DOCTYPE html>
 <header>
   <h1>Callan Method</h1>
   <div class="search-wrap">
-    <input type="text" id="search" placeholder="Search any word…" autofocus autocomplete="off">
+    <input type="text" id="search" placeholder="Search any word, phrase, or Q&A…" autofocus autocomplete="off">
   </div>
   <div class="filters">
     <button class="filter-btn active" data-type="all">All</button>
@@ -251,24 +296,30 @@ HTML = r"""<!DOCTYPE html>
     <button class="filter-btn" data-type="q">Q&amp;A</button>
   </div>
 </header>
+
+<div id="stage-nav">__STAGE_CARDS__</div>
+<div id="book-stats"><span>__CORPUS_SUMMARY__</span></div>
+
 <div id="stats-bar">
-  <span id="stats-text">__TOTAL__ entries · __VOCAB__ vocab · __QA__ Q&amp;A · 12 books</span>
+  <span id="stats-text">__TOTAL__ entries · __VOCAB__ vocab · __QA__ complete Q&amp;A pairs · 12 stages</span>
 </div>
 <div id="results">
   <div class="empty-state">
-    <p>Search across all 12 Callan Method stages</p>
-    <small>Each result links to the exact page in the original book</small>
+    <p>Search across all 12 Callan Method stages (L1–L191)</p>
+    <small>Each result deep-links to the exact line in the original book</small>
   </div>
 </div>
 <button id="load-more">Show more</button>
 <script>
 const INDEX = __INDEX_JSON__;
+const BOOK_STATS = __BOOK_STATS_JSON__;
 const PER_PAGE = 60;
-let filtered = [], shown = 0, activeType = 'all';
-const searchEl = document.getElementById('search');
+let filtered = [], shown = 0, activeType = 'all', activeBook = 0;
+const searchEl  = document.getElementById('search');
 const resultsEl = document.getElementById('results');
 const loadMore  = document.getElementById('load-more');
 const statsEl   = document.getElementById('stats-text');
+const bookStats = document.getElementById('book-stats');
 
 function esc(s) {
   return String(s ?? '').replace(/[&<>"']/g,
@@ -299,16 +350,27 @@ function card(e, term) {
     : `<div class="qa-q">${hi(e.q, term)}</div>${e.a?`<div class="qa-a">${hi(e.a,term)}</div>`:''}`;
   return `<div class="result-card"><a href="${href}" target="_blank">${loc}<div class="content">${content}</div></a></div>`;
 }
+function showBookStats(b) {
+  if (!b) {
+    bookStats.innerHTML = '<span>__CORPUS_SUMMARY__</span>';
+    return;
+  }
+  const s = BOOK_STATS[b];
+  if (!s) return;
+  bookStats.innerHTML = `<b>Book ${b}</b> &nbsp;·&nbsp; ${s.cefr} &nbsp;·&nbsp; ${s.lessons} lessons (L${s.l1}–L${s.l2}) &nbsp;·&nbsp; <b>${s.vocab}</b> vocab &nbsp;·&nbsp; <b>${s.qa}</b> Q&amp;A pairs`;
+}
 function doSearch() {
   const raw = searchEl.value.trim(), term = raw.toLowerCase();
-  if (!term) {
-    resultsEl.innerHTML = `<div class="empty-state"><p>Search across all 12 Callan Method stages</p><small>Each result links to the exact page in the original book</small></div>`;
+  if (!term && !activeBook) {
+    resultsEl.innerHTML = `<div class="empty-state"><p>Search across all 12 Callan Method stages (L1–L191)</p><small>Each result deep-links to the exact line in the original book</small></div>`;
     loadMore.style.display = 'none';
-    statsEl.textContent = `__TOTAL__ entries · __VOCAB__ vocab · __QA__ Q&A · 12 books`;
+    statsEl.textContent = `__TOTAL__ entries · __VOCAB__ vocab · __QA__ complete Q&A pairs · 12 stages`;
     return;
   }
   filtered = INDEX.filter(e => {
+    if (activeBook && e.b !== activeBook) return false;
     if (activeType !== 'all' && e.t !== activeType) return false;
+    if (!term) return true;
     return e.t === 'v'
       ? e.w.toLowerCase().includes(term)
       : e.q.toLowerCase().includes(term) || (e.a && e.a.toLowerCase().includes(term));
@@ -322,15 +384,44 @@ function render(term, reset) {
   const total = filtered.length;
   if (reset)
     resultsEl.innerHTML = total === 0
-      ? `<div class="empty-state"><p>No results for "${esc(term)}"</p></div>`
+      ? `<div class="empty-state"><p>No results${term ? ` for "${esc(term)}"` : ''}</p></div>`
       : html;
   else
     resultsEl.insertAdjacentHTML('beforeend', html);
   shown += slice.length;
   loadMore.style.display = shown < total ? 'block' : 'none';
-  const v = filtered.filter(e=>e.t==='v').length, q = filtered.filter(e=>e.t==='q').length;
+  const v = filtered.filter(e=>e.t==='v').length;
+  const q = filtered.filter(e=>e.t==='q' && e.a).length;
   if (total > 0) statsEl.textContent = `${total.toLocaleString()} result${total!==1?'s':''} · ${v.toLocaleString()} vocab · ${q.toLocaleString()} Q&A`;
 }
+// Stage card clicks — filter by book
+document.querySelectorAll('.stage-card[data-book]').forEach(card => {
+  card.addEventListener('click', e => {
+    e.preventDefault();
+    const b = parseInt(card.dataset.book);
+    if (activeBook === b) {
+      activeBook = 0;
+      document.querySelectorAll('.stage-card').forEach(c => c.classList.remove('active-book'));
+      showBookStats(0);
+    } else {
+      activeBook = b;
+      document.querySelectorAll('.stage-card').forEach(c => c.classList.remove('active-book'));
+      card.classList.add('active-book');
+      showBookStats(b);
+    }
+    doSearch();
+  });
+  card.addEventListener('mouseenter', () => showBookStats(parseInt(card.dataset.book)));
+  card.addEventListener('mouseleave', () => showBookStats(activeBook));
+});
+// Open book HTML on Ctrl/Cmd+click
+document.querySelectorAll('.stage-card[data-book]').forEach(card => {
+  card.addEventListener('click', e => {
+    if (e.ctrlKey || e.metaKey) {
+      window.open(`book-${card.dataset.book}.html`, '_blank');
+    }
+  });
+});
 searchEl.addEventListener('input', doSearch);
 document.querySelectorAll('.filter-btn').forEach(btn =>
   btn.addEventListener('click', () => {
@@ -346,6 +437,61 @@ loadMore.addEventListener('click', () => render(searchEl.value.trim(), false));
 
 # ── Entry point ───────────────────────────────────────────────────────────────
 
+def build_html(all_entries, out_dir):
+    """Generate search.html from entries (can be called without re-extracting PDFs)."""
+    vocab    = sum(1 for e in all_entries if e['t'] == 'v')
+    qa_total = sum(1 for e in all_entries if e['t'] == 'q')
+    qa_full  = sum(1 for e in all_entries if e['t'] == 'q' and e.get('a', '').strip())
+    total    = len(all_entries)
+
+    # Per-book stats for the directory hover panel
+    book_stats = {}
+    for b in range(1, 13):
+        bv = [e for e in all_entries if e['b'] == b and e['t'] == 'v']
+        bq = [e for e in all_entries if e['b'] == b and e['t'] == 'q' and e.get('a','').strip()]
+        ls = sorted(set(e['l'] for e in all_entries if e['b'] == b))
+        cefr = CEFR_SHORT.get(b, '')
+        book_stats[b] = {
+            'cefr': cefr, 'vocab': len(bv), 'qa': len(bq),
+            'lessons': len(ls), 'l1': ls[0] if ls else 0, 'l2': ls[-1] if ls else 0,
+        }
+
+    # Stage directory cards HTML
+    cards_html = []
+    for b, cefr, lessons, label in STAGE_META:
+        cards_html.append(
+            f'<div class="stage-card" data-book="{b}" title="Cmd+click to open Book {b}">'
+            f'<span class="s-num">Book {b}</span>'
+            f'<span class="s-cefr">{cefr}</span>'
+            f'<span class="s-lessons">{lessons}</span>'
+            f'<span class="s-label">{label}</span>'
+            f'</div>'
+        )
+    stage_cards = '\n'.join(cards_html)
+
+    corpus_summary = (
+        f'12 stages · L1–L191 · {vocab:,} vocab items · '
+        f'{qa_full:,} Q&amp;A pairs · hover a stage to see details · click to filter'
+    )
+
+    idx_json       = json.dumps(all_entries,  ensure_ascii=False, separators=(',', ':'))
+    book_stats_json = json.dumps(book_stats,  ensure_ascii=False, separators=(',', ':'))
+
+    html = (HTML
+        .replace('__INDEX_JSON__',    idx_json)
+        .replace('__BOOK_STATS_JSON__', book_stats_json)
+        .replace('__STAGE_CARDS__',   stage_cards)
+        .replace('__CORPUS_SUMMARY__', corpus_summary)
+        .replace('__TOTAL__',  f'{total:,}')
+        .replace('__VOCAB__',  f'{vocab:,}')
+        .replace('__QA__',     f'{qa_full:,}')
+    )
+    html_path = out_dir / 'search.html'
+    html_path.write_text(html, encoding='utf-8')
+    print(f'Wrote {html_path}  ({html_path.stat().st_size/1_048_576:.1f} MB)')
+    print(f'Stats: {total:,} total · {vocab:,} vocab · {qa_full:,} complete Q&A ({qa_total - qa_full} fragments excluded)')
+
+
 def build():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     print('Building Callan Method search index\n')
@@ -356,25 +502,32 @@ def build():
 
     vocab = sum(1 for e in all_entries if e['t'] == 'v')
     qa    = sum(1 for e in all_entries if e['t'] == 'q')
-    total = len(all_entries)
-    print(f'\nTotal: {total:,} entries · {vocab:,} vocab · {qa:,} Q&A\n')
+    print(f'\nTotal: {len(all_entries):,} entries · {vocab:,} vocab · {qa:,} Q&A\n')
 
     json_path = OUT_DIR / 'index.json'
     json_path.write_text(json.dumps(all_entries, ensure_ascii=False), encoding='utf-8')
     print(f'Wrote {json_path}  ({json_path.stat().st_size/1_048_576:.1f} MB)')
 
-    idx_json = json.dumps(all_entries, ensure_ascii=False, separators=(',', ':'))
-    html = (HTML
-        .replace('__INDEX_JSON__', idx_json)
-        .replace('__TOTAL__', f'{total:,}')
-        .replace('__VOCAB__', f'{vocab:,}')
-        .replace('__QA__', f'{qa:,}')
-    )
-    html_path = OUT_DIR / 'search.html'
-    html_path.write_text(html, encoding='utf-8')
-    print(f'Wrote {html_path}  ({html_path.stat().st_size/1_048_576:.1f} MB)')
+    build_html(all_entries, OUT_DIR)
     print('\nDone. Open html/search.html in your browser.')
 
 
+def rebuild_html_only():
+    """Regenerate search.html from existing index.json without re-extracting PDFs."""
+    json_path = OUT_DIR / 'index.json'
+    if not json_path.exists():
+        print(f'index.json not found at {json_path}. Run build() first.')
+        return
+    print(f'Loading {json_path}...')
+    all_entries = json.loads(json_path.read_text(encoding='utf-8'))
+    print(f'Loaded {len(all_entries):,} entries')
+    build_html(all_entries, OUT_DIR)
+    print('\nDone.')
+
+
 if __name__ == '__main__':
-    build()
+    import sys
+    if '--html-only' in sys.argv:
+        rebuild_html_only()
+    else:
+        build()
