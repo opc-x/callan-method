@@ -205,6 +205,25 @@ HTML = r"""<!DOCTYPE html>
     padding: 10px 28px; overflow-x: auto; white-space: nowrap;
     display: flex; gap: 6px; align-items: stretch;
   }
+
+  /* Lesson navigation strip */
+  #lesson-nav {
+    background: #0b0d13; border-bottom: 1px solid #1a1c26;
+    padding: 7px 28px; overflow-x: auto; white-space: nowrap;
+    display: none; gap: 4px; align-items: center;
+  }
+  #lesson-nav.visible { display: flex; }
+  #lesson-nav .ln-label {
+    font-size: 10px; color: #444; text-transform: uppercase;
+    letter-spacing: .5px; margin-right: 6px; flex-shrink: 0;
+  }
+  .lesson-chip {
+    padding: 3px 9px; border-radius: 5px; border: 1px solid #1e2130;
+    background: #13151e; color: #666; font-size: 11px; cursor: pointer;
+    transition: all .12s; flex-shrink: 0;
+  }
+  .lesson-chip:hover { border-color: #4a9eff88; color: #aac; }
+  .lesson-chip.active-lesson { background: #1a2440; border-color: #4a9eff; color: #4a9eff; font-weight: 600; }
   .stage-card {
     display: inline-flex; flex-direction: column; align-items: center;
     padding: 7px 10px; border-radius: 7px; border: 1px solid #1e2130;
@@ -282,9 +301,53 @@ HTML = r"""<!DOCTYPE html>
     color: #888; font-size: 13px; cursor: pointer;
   }
   #load-more:hover { background: #2a2d3a; color: #fff; }
+
+  /* Split-pane viewer */
+  #app { display: flex; height: 100vh; overflow: hidden; }
+  #left-pane {
+    display: flex; flex-direction: column;
+    width: 100%; min-width: 340px; max-width: 100%;
+    transition: max-width .2s ease; overflow: hidden; flex-shrink: 0;
+  }
+  #app.viewer-open #left-pane { max-width: 440px; }
+  #left-pane header { flex-shrink: 0; }
+  #left-pane #stage-nav  { flex-shrink: 0; }
+  #left-pane #lesson-nav { flex-shrink: 0; }
+  #left-pane #book-stats { flex-shrink: 0; }
+  #left-pane #stats-bar  { flex-shrink: 0; }
+  #left-scroll { flex: 1; overflow-y: auto; }
+  #left-scroll #results { padding: 10px 16px 40px; }
+  #left-scroll #load-more { margin: 0 16px 16px; }
+
+  #right-pane {
+    flex: 1; display: none; flex-direction: column;
+    border-left: 1px solid #1e2130; background: #fff; min-width: 0;
+  }
+  #app.viewer-open #right-pane { display: flex; }
+  #viewer-bar {
+    display: flex; align-items: center; gap: 10px;
+    background: #16181f; border-bottom: 1px solid #2a2d3a;
+    padding: 7px 14px; flex-shrink: 0;
+  }
+  #viewer-title { flex: 1; font-size: 12px; color: #888; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  #viewer-open-tab {
+    padding: 4px 10px; border-radius: 5px; border: 1px solid #2a2d3a;
+    background: #1e2130; color: #888; font-size: 11px; cursor: pointer; text-decoration: none;
+    white-space: nowrap;
+  }
+  #viewer-open-tab:hover { color: #fff; border-color: #4a9eff; }
+  #viewer-close {
+    width: 26px; height: 26px; border-radius: 5px; border: 1px solid #2a2d3a;
+    background: #1e2130; color: #888; font-size: 14px; cursor: pointer;
+    display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+  }
+  #viewer-close:hover { color: #fff; border-color: #ff4a4a; }
+  #viewer-frame { flex: 1; border: none; width: 100%; }
 </style>
 </head>
 <body>
+<div id="app">
+<div id="left-pane">
 <header>
   <h1>Callan Method</h1>
   <div class="search-wrap">
@@ -298,28 +361,77 @@ HTML = r"""<!DOCTYPE html>
 </header>
 
 <div id="stage-nav">__STAGE_CARDS__</div>
+<div id="lesson-nav"><span class="ln-label">Lesson</span></div>
 <div id="book-stats"><span>__CORPUS_SUMMARY__</span></div>
-
 <div id="stats-bar">
   <span id="stats-text">__TOTAL__ entries · __VOCAB__ vocab · __QA__ complete Q&amp;A pairs · 12 stages</span>
 </div>
+<div id="left-scroll">
 <div id="results">
   <div class="empty-state">
     <p>Search across all 12 Callan Method stages (L1–L191)</p>
-    <small>Each result deep-links to the exact line in the original book</small>
+    <small>Click any result to view the original book page</small>
   </div>
 </div>
 <button id="load-more">Show more</button>
+</div><!-- /left-scroll -->
+</div><!-- /left-pane -->
+
+<div id="right-pane">
+  <div id="viewer-bar">
+    <span id="viewer-title">—</span>
+    <a id="viewer-open-tab" href="#" target="_blank">Open tab ↗</a>
+    <div id="viewer-close">✕</div>
+  </div>
+  <iframe id="viewer-frame" src="about:blank"></iframe>
+</div>
+</div><!-- /app -->
 <script>
 const INDEX = __INDEX_JSON__;
 const BOOK_STATS = __BOOK_STATS_JSON__;
 const PER_PAGE = 60;
-let filtered = [], shown = 0, activeType = 'all', activeBook = 0;
-const searchEl  = document.getElementById('search');
-const resultsEl = document.getElementById('results');
-const loadMore  = document.getElementById('load-more');
-const statsEl   = document.getElementById('stats-text');
-const bookStats = document.getElementById('book-stats');
+let filtered = [], shown = 0, activeType = 'all', activeBook = 0, activeLesson = 0;
+const searchEl   = document.getElementById('search');
+const resultsEl  = document.getElementById('results');
+const loadMore   = document.getElementById('load-more');
+const statsEl    = document.getElementById('stats-text');
+const bookStats  = document.getElementById('book-stats');
+const lessonNav  = document.getElementById('lesson-nav');
+
+// Build lesson index: book → sorted lesson numbers
+const BOOK_LESSONS = {};
+INDEX.forEach(e => {
+  if (!BOOK_LESSONS[e.b]) BOOK_LESSONS[e.b] = new Set();
+  BOOK_LESSONS[e.b].add(e.l);
+});
+Object.keys(BOOK_LESSONS).forEach(b => {
+  BOOK_LESSONS[b] = [...BOOK_LESSONS[b]].sort((a,b)=>a-b);
+});
+
+function renderLessonNav(book) {
+  // Remove old chips (keep the label)
+  lessonNav.querySelectorAll('.lesson-chip').forEach(c => c.remove());
+  if (!book) { lessonNav.classList.remove('visible'); return; }
+  lessonNav.classList.add('visible');
+  (BOOK_LESSONS[book] || []).forEach(ln => {
+    const chip = document.createElement('div');
+    chip.className = 'lesson-chip' + (ln === activeLesson ? ' active-lesson' : '');
+    chip.textContent = `L${ln}`;
+    chip.dataset.lesson = ln;
+    chip.addEventListener('click', () => {
+      if (activeLesson === ln) {
+        activeLesson = 0;
+        chip.classList.remove('active-lesson');
+      } else {
+        activeLesson = ln;
+        lessonNav.querySelectorAll('.lesson-chip').forEach(c => c.classList.remove('active-lesson'));
+        chip.classList.add('active-lesson');
+      }
+      doSearch();
+    });
+    lessonNav.appendChild(chip);
+  });
+}
 
 function esc(s) {
   return String(s ?? '').replace(/[&<>"']/g,
@@ -334,6 +446,7 @@ function hi(text, term) {
 function card(e, term) {
   const anchor = e.y ? `p${e.p}-y${e.y}` : `page-${e.p}`;
   const href = `book-${e.b}.html#${anchor}`;
+  const label = e.t === 'v' ? esc(e.w) : esc((e.q||'').slice(0,40));
   const loc = `
     <div class="loc">
       <span class="loc-book">Book ${e.b}</span>
@@ -348,8 +461,35 @@ function card(e, term) {
   const content = e.t === 'v'
     ? `<div class="vocab-word">${hi(e.w, term)}</div>`
     : `<div class="qa-q">${hi(e.q, term)}</div>${e.a?`<div class="qa-a">${hi(e.a,term)}</div>`:''}`;
-  return `<div class="result-card"><a href="${href}" target="_blank">${loc}<div class="content">${content}</div></a></div>`;
+  return `<div class="result-card"><a href="${href}" data-href="${href}" data-label="Book ${e.b} · L${e.l} · ${label}">${loc}<div class="content">${content}</div></a></div>`;
 }
+
+// Viewer
+const app        = document.getElementById('app');
+const frame      = document.getElementById('viewer-frame');
+const viewerTitle = document.getElementById('viewer-title');
+const openTabBtn  = document.getElementById('viewer-open-tab');
+const closeBtn    = document.getElementById('viewer-close');
+
+function openViewer(href, label) {
+  frame.src = href;
+  viewerTitle.textContent = label;
+  openTabBtn.href = href;
+  app.classList.add('viewer-open');
+}
+document.getElementById('results').addEventListener('click', e => {
+  const a = e.target.closest('a[data-href]');
+  if (!a) return;
+  e.preventDefault();
+  openViewer(a.dataset.href, a.dataset.label);
+  document.querySelectorAll('.result-card a').forEach(x => x.style.background='');
+  a.style.background = '#1a2440';
+});
+closeBtn.addEventListener('click', () => {
+  app.classList.remove('viewer-open');
+  frame.src = 'about:blank';
+  document.querySelectorAll('.result-card a').forEach(x => x.style.background='');
+});
 function showBookStats(b) {
   if (!b) {
     bookStats.innerHTML = '<span>__CORPUS_SUMMARY__</span>';
@@ -361,14 +501,15 @@ function showBookStats(b) {
 }
 function doSearch() {
   const raw = searchEl.value.trim(), term = raw.toLowerCase();
-  if (!term && !activeBook) {
+  if (!term && !activeBook && !activeLesson) {
     resultsEl.innerHTML = `<div class="empty-state"><p>Search across all 12 Callan Method stages (L1–L191)</p><small>Each result deep-links to the exact line in the original book</small></div>`;
     loadMore.style.display = 'none';
     statsEl.textContent = `__TOTAL__ entries · __VOCAB__ vocab · __QA__ complete Q&A pairs · 12 stages`;
     return;
   }
   filtered = INDEX.filter(e => {
-    if (activeBook && e.b !== activeBook) return false;
+    if (activeBook   && e.b !== activeBook)   return false;
+    if (activeLesson && e.l !== activeLesson) return false;
     if (activeType !== 'all' && e.t !== activeType) return false;
     if (!term) return true;
     return e.t === 'v'
@@ -394,33 +535,29 @@ function render(term, reset) {
   const q = filtered.filter(e=>e.t==='q' && e.a).length;
   if (total > 0) statsEl.textContent = `${total.toLocaleString()} result${total!==1?'s':''} · ${v.toLocaleString()} vocab · ${q.toLocaleString()} Q&A`;
 }
-// Stage card clicks — filter by book
+// Stage card clicks — filter by book, reveal lesson nav
 document.querySelectorAll('.stage-card[data-book]').forEach(card => {
   card.addEventListener('click', e => {
+    if (e.ctrlKey || e.metaKey) { window.open(`book-${card.dataset.book}.html`, '_blank'); return; }
     e.preventDefault();
     const b = parseInt(card.dataset.book);
+    activeLesson = 0;
     if (activeBook === b) {
       activeBook = 0;
       document.querySelectorAll('.stage-card').forEach(c => c.classList.remove('active-book'));
       showBookStats(0);
+      renderLessonNav(0);
     } else {
       activeBook = b;
       document.querySelectorAll('.stage-card').forEach(c => c.classList.remove('active-book'));
       card.classList.add('active-book');
       showBookStats(b);
+      renderLessonNav(b);
     }
     doSearch();
   });
   card.addEventListener('mouseenter', () => showBookStats(parseInt(card.dataset.book)));
   card.addEventListener('mouseleave', () => showBookStats(activeBook));
-});
-// Open book HTML on Ctrl/Cmd+click
-document.querySelectorAll('.stage-card[data-book]').forEach(card => {
-  card.addEventListener('click', e => {
-    if (e.ctrlKey || e.metaKey) {
-      window.open(`book-${card.dataset.book}.html`, '_blank');
-    }
-  });
 });
 searchEl.addEventListener('input', doSearch);
 document.querySelectorAll('.filter-btn').forEach(btn =>
