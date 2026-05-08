@@ -149,3 +149,101 @@ The book claims C2 (CPE) at Stage 12. In practice:
 | Stages 1–12 + 6 months authentic input | C2 — reachable |
 
 True C2 requires what this method does not provide: sustained authentic exposure — reading novels, watching unscripted native content, writing essays, debating. Callan gets you to C1 mechanically; the final step to C2 must come from the real world.
+
+---
+
+## The Blue Vocabulary Clusters — Design Analysis
+
+### What they are
+
+The blue highlighted boxes (e.g., `treat  |  treatment  |  shock`) are the **atomic teaching unit** of the Callan Method. The full hierarchy is:
+
+```
+Book (Stage)
+  └── Lesson
+        └── Vocabulary Cluster  ← blue box  (finest granularity)
+              ├── 1–5 related words/phrases
+              └── 3–8 Q&A pairs drilling exactly those words
+```
+
+Every Q&A pair that follows a blue box uses only the words just introduced. Once you move to the next cluster, the previous words are considered "learned" and will reappear via spaced repetition in later lessons.
+
+### Design intent
+
+**1. Lexical family grouping**
+Words are bundled by morphological or semantic relationship: `treat / treatment / shock` — the action, its noun form, and the trigger context. You internalize a word network, not isolated items.
+
+**2. Minimal context, maximum repetition**
+Each cluster introduces only 1–5 words, then immediately drills them 3–8 times in varied sentence structures. The brain processes the same item in multiple syntactic slots within 5 minutes.
+
+**3. The cluster IS the spaced repetition unit**
+The entire cluster reappears intact across the next 7–10 lessons. You never just see "treatment" again — you see the full `treat / treatment / shock` network again, preserving the associative link.
+
+**4. Word form coverage**
+Most clusters deliberately pair a verb with its noun, or a word with a common collocation: `allow / allowance / make allowance for`. This teaches morphology implicitly without grammar rules.
+
+### Cluster statistics across all 12 books
+
+| Book | Stage | CEFR | Clusters | Vocab items | Avg items/cluster |
+|------|-------|------|----------|-------------|-------------------|
+| 1 | 1 | A1 | 257 | 524 | 2.0 |
+| 2 | 2 | A1–A2 | 473 | 1,024 | 2.2 |
+| 3 | 3 | A2 | 423 | 906 | 2.1 |
+| 4 | 4 | A2–B1 | 530 | 1,024 | 1.9 |
+| 5 | 5 | B1 | 294 | 485 | 1.7 |
+| 6 | 6 | B1–B2 | 329 | 543 | 1.7 |
+| 7 | 7 | B2 | 288 | 431 | 1.5 |
+| 8 | 8 | B2–C1 | 374 | 565 | 1.5 |
+| 9 | 9 | C1 | 452 | 795 | 1.8 |
+| 10 | 10 | C1–C2 | 432 | 803 | 1.9 |
+| 11 | 11 | C2 | 791 | 1,282 | 1.6 |
+| 12 | 12 | C2 | 925 | 1,479 | 1.6 |
+| **Total** | | | **5,568** | **9,861** | **1.8** |
+
+**Key observation:** Books 1–4 have larger clusters (2.0 avg) — you learn words in tight families. Books 7–12 trend toward single-word clusters (1.5 avg) — at advanced levels, words need their own drill context because their nuance is harder to pair.
+
+---
+
+## Sufficiency for a Programmer Job Interview in English
+
+### What a programmer interview actually requires
+
+| Skill area | What you need | Callan covers? |
+|---|---|---|
+| General sentence fluency | Full sentences under time pressure | ✓ Directly trained |
+| Behavioral questions | "Tell me about a challenge you faced…" | ✓ Partial (general vocab) |
+| Asking clarifying questions | "Could you clarify the constraints?" | ✓ Grammar structures present |
+| Explaining your thinking | "My approach would be to first…" | ✓ Good sentence structure |
+| Technical CS vocabulary | algorithm, recursion, hash map, O(n), API | ✗ Almost zero |
+| System design vocabulary | microservice, cache, load balancer, latency | ✗ Zero |
+| Coding narration | "I'll iterate over the array and check if…" | ✗ Zero |
+| Tech-culture small talk | agile, sprint, PR, code review, refactor | ✗ Zero |
+
+### Coverage estimate
+
+```
+General English fluency (grammar + sentence construction)   ████████░░  80%
+Professional vocabulary (non-technical)                     ██████░░░░  60%
+Technical CS vocabulary                                     █░░░░░░░░░   5%
+Interview-specific phrases                                  ████░░░░░░  40%
+Overall interview readiness (Callan alone)                  ████░░░░░░  45%
+```
+
+### Verdict: 45 / 100 for programmer interview, alone
+
+Callan gives you the **hardest part** — speaking automatically without freezing, constructing grammatically correct sentences under pressure, answering in full sentences. This is genuinely what most Chinese programmers struggle with most.
+
+But it gives you almost none of the **domain vocabulary**. A technical interview in English requires roughly 600–900 additional terms that simply do not appear in the Callan corpus.
+
+### What you need on top of Callan
+
+| Gap | Supplement | Volume |
+|---|---|---|
+| CS/algorithm vocabulary | LeetCode discussions, "Cracking the Coding Interview" | ~400 terms |
+| System design vocabulary | "Designing Data-Intensive Applications" read in English | ~200 terms |
+| Interview narration phrases | Mock interviews, "Tell me about yourself" scripts | ~50 phrases |
+| Listening (varied accents) | YouTube tech talks, coding interview channels | 20h |
+
+**Combined score (Callan Stages 1–7 + above supplements): 82 / 100**
+
+The structural fluency Callan builds is the foundation that makes the supplements work quickly. Without it, memorizing tech vocabulary still leaves you unable to speak in real time.
