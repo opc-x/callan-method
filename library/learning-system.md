@@ -240,23 +240,30 @@ Most clusters deliberately pair a verb with its noun, or a word with a common co
 
 ### Cluster statistics across all 12 books
 
-| Book | Stage | CEFR | Clusters | Vocab items | Avg items/cluster |
-|------|-------|------|----------|-------------|-------------------|
-| 1 | 1 | A1 | 257 | 524 | 2.0 |
-| 2 | 2 | A1–A2 | 473 | 1,024 | 2.2 |
-| 3 | 3 | A2 | 423 | 906 | 2.1 |
-| 4 | 4 | A2–B1 | 530 | 1,024 | 1.9 |
-| 5 | 5 | B1 | 294 | 485 | 1.7 |
-| 6 | 6 | B1–B2 | 329 | 543 | 1.7 |
-| 7 | 7 | B2 | 288 | 431 | 1.5 |
-| 8 | 8 | B2–C1 | 374 | 565 | 1.5 |
-| 9 | 9 | C1 | 452 | 795 | 1.8 |
-| 10 | 10 | C1–C2 | 432 | 803 | 1.9 |
-| 11 | 11 | C2 | 791 | 1,282 | 1.6 |
-| 12 | 12 | C2 | 925 | 1,479 | 1.6 |
-| **Total** | | | **5,568** | **9,861** | **1.8** |
+Extracted directly from PDF blue-box rectangles via PyMuPDF (ground truth).
 
-**Key observation:** Books 1–4 have larger clusters (2.0 avg) — you learn words in tight families. Books 7–12 trend toward single-word clusters (1.5 avg) — at advanced levels, words need their own drill context because their nuance is harder to pair.
+| Book | Stage | CEFR | Vocab clusters | Avg clusters/lesson |
+|------|-------|------|----------------|---------------------|
+| 1 | 1 | A1 | 132 | 14.7 |
+| 2 | 2 | A1–A2 | 180 | 12.0 |
+| 3 | 3 | A2 | 205 | 12.8 |
+| 4 | 4 | A2–B1 | 220 | 11.0 |
+| 5 | 5 | B1 | 281 | 16.5 |
+| 6 | 6 | B1–B2 | 218 | 12.8 |
+| 7 | 7 | B2 | 256 | 15.1 |
+| 8 | 8 | B2–C1 | 246 | 16.4 |
+| 9 | 9 | C1 | 380 | 21.1 |
+| 10 | 10 | C1–C2 | 385 | 21.4 |
+| 11 | 11 | C2 | 374 | 26.7 |
+| 12 | 12 | C2 | 379 | 27.1 |
+| **Total** | | | **3,256** | **17.0 avg** |
+
+**Cluster granularity:**
+- One cluster = one blue highlighted box on the page
+- Single-row box (h ≈ 18pt): 1–3 words — morphological pair or tight collocation
+- Multi-row box (h ≈ 35–80pt): 4–6 words — semantic family
+- Average **3.6 clusters per page**, **8–41 clusters per lesson**
+- Lessons in advanced books (C1–C2) have 2× more clusters per lesson than beginner books — vocabulary density scales with level
 
 ---
 

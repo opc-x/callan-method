@@ -170,9 +170,10 @@ HTML = r"""<!DOCTYPE html>
 <title>Callan Method — Search</title>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { height: 100%; overflow: hidden; }
   body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    background: #0f1117; color: #e0e0e0; min-height: 100vh;
+    background: #0f1117; color: #e0e0e0;
   }
   header {
     background: #16181f; border-bottom: 1px solid #2a2d3a;
@@ -292,6 +293,12 @@ HTML = r"""<!DOCTYPE html>
   .type-q { background: #1a1a40; color: #818cf8; }
   .content { flex: 1; min-width: 0; }
   .vocab-word { font-size: 14px; font-weight: 600; color: #e2e8f0; }
+  .cluster-tag {
+    display: inline-block; margin-top: 3px;
+    font-size: 10px; color: #4a7a9b; background: #0e2030;
+    border: 1px solid #1a3a50; border-radius: 4px;
+    padding: 1px 6px; letter-spacing: .2px;
+  }
   .qa-q { font-size: 13px; color: #c8d0e0; line-height: 1.45; }
   .qa-a { font-size: 12px; color: #5a6480; margin-top: 3px; line-height: 1.4; }
   mark { background: #4a9eff30; color: #93c5fd; border-radius: 2px; }
@@ -458,9 +465,10 @@ function card(e, term) {
       <span class="pg-num">${e.p + 1}</span>
     </div>
     <span class="type-badge type-${e.t}">${e.t==='v'?'vocab':'Q&amp;A'}</span>`;
+  const clTag = e.cl ? `<div class="cluster-tag">${esc(e.cl)}</div>` : '';
   const content = e.t === 'v'
-    ? `<div class="vocab-word">${hi(e.w, term)}</div>`
-    : `<div class="qa-q">${hi(e.q, term)}</div>${e.a?`<div class="qa-a">${hi(e.a,term)}</div>`:''}`;
+    ? `<div class="vocab-word">${hi(e.w, term)}</div>${clTag}`
+    : `<div class="qa-q">${hi(e.q, term)}</div>${e.a?`<div class="qa-a">${hi(e.a,term)}</div>`:''}${clTag}`;
   return `<div class="result-card"><a href="${href}" data-href="${href}" data-label="Book ${e.b} · L${e.l} · ${label}">${loc}<div class="content">${content}</div></a></div>`;
 }
 
