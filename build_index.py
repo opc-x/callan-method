@@ -36,7 +36,7 @@ CEFR_SHORT = {
     7:'B2', 8:'B2–C1', 9:'C1', 10:'C1–C2', 11:'C2', 12:'C2',
 }
 
-_LESSON_RE = re.compile(r'\bLESSON\s+(\d+)\b', re.I)
+_LESSON_RE = re.compile(r'\bLESSON\s*(\d+)\b', re.I)
 
 
 # ── Pass 2: exact page + line location via PyMuPDF ───────────────────────────

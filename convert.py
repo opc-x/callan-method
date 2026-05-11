@@ -254,14 +254,14 @@ def parse_book(raw_text, book_num):
             # For books with no STAGE header before lessons (Books 1-3 etc.),
             # the first LESSON line after the CEFR table is real content.
             elif saw_cefr_end:
-                m_lesson = re.match(r'^\s*LESSON\s+(\d+)\s*$', s)
+                m_lesson = re.match(r'^\s*LESSON\s*(\d+)\s*$', s)
                 if m_lesson:
                     in_intro = False
                     new_lesson(int(m_lesson.group(1)))
                     continue
             continue
 
-        m = re.match(r'^\s*LESSON\s+(\d+)\s*$', s)
+        m = re.match(r'^\s*LESSON\s*(\d+)\s*$', s)
         if m:
             new_lesson(int(m.group(1))); continue
         if current is None:
@@ -274,7 +274,7 @@ def parse_book(raw_text, book_num):
         if in_dictation:
             if re.match(r'^\s*Do Revision Exercise', s):
                 flush_dict(); continue
-            m2 = re.match(r'LESSON\s+(\d+)', s)
+            m2 = re.match(r'LESSON\s*(\d+)', s)
             if m2:
                 flush_dict(); new_lesson(int(m2.group(1))); continue
             if lead < 20:
