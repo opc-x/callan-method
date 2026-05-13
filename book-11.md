@@ -1,6 +1,6 @@
 # Callan Method — Book 11 (Stage 11)
 
-> **CEFR level:** C2 (approx. CPE level)
+> **CEFR level:** C2
 > Each lesson introduces vocabulary through intensive Q&A drilling.
 
 ---
@@ -22,7 +22,6 @@
 - **pedal**
 - **adjust**
 - **ensure**
-- **an email at work? **
 - **make it**
 - **amateur**
 - **album**
@@ -45,12 +44,11 @@
 - **plug**
 - **drill**
 - **option**
-- **option these days?**
 - **target**
 - **locate**
-- **young adults, whereabouts would you locate it?**
 - **Phrasal verb**
-- **you need to**
+- **to start an organization.**
+- **meaning of the phrasal verb.**
 - **end up**
 - **authority**
 - **resent**
@@ -72,80 +70,67 @@
 - **since**
 - **Phrase exercise 1**
 
-### Grammar Notes
-What, in your opinion, are the most serious issues facing mankind at the
-The English language contains many phrasal verbs. A phrasal verb is a
-phrase consisting of a verb with one or two other words after it. The
-meaning of a phrasal verb is often not clear at all from simply looking at
-the verb. One example of this is “give up”, meaning to stop a habit. The
-learn it separately. Other examples of phrasal verbs are “get along with”,
-meaning to have a good relationship with someone, and “set up”, meaning
-to start an organization.
-In Stage 11 of the Callan Method, there are a lot of common phrasal
-verbs. You should learn them in exactly the same way that you would
-learn any other word or expression in the language. Do not waste time
-trying to find a connection between the meaning of the verb and the
-meaning of the phrasal verb.
-From the four options given with each sentence, choose the one word
-that fits correctly in the gap.
+### Notes
+> The English language contains many phrasal verbs. A phrasal verb is a
+> phrase consisting of a verb with one or two other words after it. The
+> meaning of a phrasal verb is often not clear at all from simply looking at
+> the verb. One example of this is “give up”, meaning to stop a habit. The
+> meaning has no obvious connection with the idea of giving – you need to
+> learn it separately. Other examples of phrasal verbs are “get along with”,
+> meaning to have a good relationship with someone, and “set up”, meaning
+> In Stage 11 of the Callan Method, there are a lot of common phrasal
+> verbs. You should learn them in exactly the same way that you would
+> learn any other word or expression in the language. Do not waste time
+> trying to find a connection between the meaning of the verb and the
+> From the four options given with each sentence, choose the one word
+> that fits correctly in the gap.
 
 ### Q&A Drill
-**Q:** Do very tall people have to be careful not to bump their heads when they?
-
-**Q:** go through doorways?
+**Q:** Do very tall people have to be careful not to bump their heads when they go through doorways?
 **A:** Yes, very tall …
 
 **Q:** Is the road outside this building bumpy?
 **A:** Yes, … ~ No, …
 
-**Q:** Do you often bump into (run into) friends of yours when you’re walking?
-
-**Q:** around town?
+**Q:** Do you often bump into (run into) friends of yours when you're walking around town?
 **A:** Yes, … ~ No, …
 
 **Q:** Name a recent scientific advance that you think is absolutely incredible?
-**A:**  I think …
 
-**Q:** Why do you think lottery tickets sell in such large numbers in spite of the fact that the odds of winning are so incredibly small??
+**Q:** Why do you think lottery tickets sell in such large numbers in spite of the fact that the odds of winning are so incredibly small?
 **A:** I suppose … in spite of the fact … because …
 
-**Q:** Name me a sporting event that’s watched around the globe.?
+**Q:** Name me a sporting event that's watched around the globe.?
 **A:** … is a sporting event …
 
 **Q:** Do you consider global warming a major or minor problem?
 **A:** I consider …
 
-**Q:** minority?
+**Q:** And do you think the majority of people agree with your view, or only a minority?
 **A:** I think …
 
-**Q:** What do we rest our feet on when we’re riding a bicycle? In a car, what do we have to adjust to ensure our feet can rest on the?
+**Q:** What do we rest our feet on when we're riding a bicycle?
 **A:** We rest … pedals …
 
-**Q:** pedals easily?
+**Q:** In a car, what do we have to adjust to ensure our feet can rest on the pedals easily?
 **A:** In a car, we have to adjust the seat to ensure …
 
-**Q:** Why should we always ensure that our spelling is correct before sending?
-**A:** spelling can make a bad impression on people
+**Q:** Why should we always ensure that our spelling is correct before sending an email at work?
+**A:** We should … because poor spelling can make a bad impression on people
 
-**Q:** If you had a train to catch from the nearest station in ten minutes’ time,?
-
-**Q:** do you reckon you could make it if you left right now?
+**Q:** If you had a train to catch from the nearest station in ten minutes' time, do you reckon you could make it if you left right now?
 **A:** Yes, if …, I think I could … ~ No, if …, I don’t think I could …
 
-**Q:** What percentage of amateur actors do you reckon manage to make it?
-
-**Q:** professionally?
+**Q:** What percentage of amateur actors do you reckon manage to make it professionally?
 **A:** I reckon … of amateur … professionally
 
-**Q:** What’s a photo album?
+**Q:** What's a photo album?
 **A:** A photo album is a folder or book containing photographs
 
-**Q:** Is there any band whose albums you buy as soon as they’re released?
+**Q:** Is there any band whose albums you buy as soon as they're released?
 **A:** Yes, … ~ No, …
 
-**Q:** What does one have to do if one wishes to be aware of what’s going on?
-
-**Q:** in the world?
+**Q:** What does one have to do if one wishes to be aware of what's going on in the world?
 **A:** If one wishes to be …, one has to …
 
 **Q:** Is oil a commodity that this country mostly imports or exports?
@@ -154,15 +139,13 @@ that fits correctly in the gap.
 **Q:** Why is a growth in exports good for a country?
 **A:** A growth … it strengthens the economy of the country
 
-**Q:** moment?
+**Q:** What, in your opinion, are the most serious issues facing mankind at the moment?
 **A:** In my opinion, the most …
 
 **Q:** Do most magazines produce new issues on a weekly or monthly basis?
 **A:** Most … on a monthly basis
 
-**Q:** Why does the government have to issue new banknotes on a regular?
-
-**Q:** basis?
+**Q:** Why does the government have to issue new banknotes on a regular basis?
 **A:** The government … the old ones get filthy and torn
 
 **Q:** What do we mean by a grand occasion?
@@ -171,7 +154,7 @@ that fits correctly in the gap.
 **Q:** Do the guests at such events dress up?
 **A:** Yes, …
 
-**Q:** character?
+**Q:** Have you ever gone to a party dressed up as a famous person or character?
 **A:** Yes, … ~ No, …
 
 **Q:** Who?
@@ -182,33 +165,31 @@ that fits correctly in the gap.
 **Q:** What are the two common types of plug?
 **A:** The two … a plug in a bath or sink, and an electrical plug
 
-**Q:** If you accidentally drilled through a water pipe in your house, how could?
-
-**Q:** you plug the hole until the plumber arrived?
+**Q:** If you accidentally drilled through a water pipe in your house, how could you plug the hole until the plumber arrived?
 **A:** If I …, … by using special tape, a piece of cloth etc.
 
 **Q:** Do you plug in your mobile every night to charge it?
 **A:** Yes, … ~ No, …
 
-**Q:** What’s the opposite of the verb “plug in”?
+**Q:** What's the opposite of the verb "plug in"?
 **A:** The opposite … “unplug”
 
-**Q:** Do you personally find online shopping a more and more attractive?
+**Q:** Do you personally find online shopping a more and more attractive option these days?
+**A:** Yes, … ~ No, …
 
-**Q:** Do people working in sales often have targets they have to meet each?
-
-**Q:** month?
+**Q:** Do people working in sales often have targets they have to meet each month?
 **A:** Yes, …
 
-**Q:** Give me an example of a phrasal verb, please.?
+**Q:** If you were opening a clothes shop in this town and wanted to target young adults, whereabouts would you locate it?
+**A:** If I were …, …
+
+**Q:** Give me an example of a phrasal verb, please.?
 **A:** … “give up” … “get along with” … “set up” etc.
 
 **Q:** What percentage of the food you buy do you reckon ends up in the bin?
 **A:** I reckon …
 
-**Q:** Why do you think some people resent those in authority, such as the?
-
-**Q:** government, the police and bosses?
+**Q:** Why do you think some people resent those in authority, such as the government, the police and bosses?
 **A:** I think … because …
 
 **Q:** Would you say you were an authority on any particular topic?
@@ -217,89 +198,115 @@ that fits correctly in the gap.
 **Q:** Are you positive you shut your door properly when you left home today?
 **A:** Yes, … ~ No, …
 
-**Q:** If you were planning to see a film with a friend who lived close to the cinema, would you arrange to call for them on the way to the cinema or?
+**Q:** If you were planning to see a film with a friend who lived close to the cinema, would you arrange to call for them on the way to the cinema or meet them there?
+**A:** If I were planning to …, I’d …
 
-**Q:** meet them there?
-**A:** If I were planning to …, I’d … In your view, are tougher laws called for in this country to deal with
-
-**Q:** violence in society?
+**Q:** In your view, are tougher laws called for in this country to deal with violence in society?
 **A:** Yes, in my view, … ~ No, in my view, …
 
 **Q:** Would a gift of £1,000 make a significant difference to your lifestyle?
-**A:**  Yes, a gift … ~ No, a gift …
 
 **Q:** At what time of the day do you feel most at peace with the world?
-**A:**  I feel most …
 
-**Q:** Did you encounter any problems on your way here today??
+**Q:** Did you encounter any problems on your way here today?
 **A:** Yes, I encountered … ~ No, I didn’t encounter …
 
-**Q:** Give me an example of “after all” used to express that something eventually happened even though we thought it was not going to happen.?
+**Q:** Give me an example of "after all" used to express that something eventually happened even though we thought it was not going to happen.?
 **A:** I was convinced she wouldn’t arrive in time for the wedding ceremony but she made it after all
 
-**Q:** When an event you’ve been looking forward to is called off, how do you?
-
-**Q:** feel?
+**Q:** When an event you've been looking forward to is called off, how do you feel?
 **A:** When an event … called off, I feel …
 
 **Q:** How many bedrooms does a medium-sized house in this town have?
-**A:**  A medium-sized house …
 
-**Q:** What should the outside lane on a motorway be used for??
+**Q:** What should the outside lane on a motorway be used for?
 **A:** The outside lane … for overtaking
 
-**Q:** What do people mean during a conversation when they say “Sorry, I must?
-
-**Q:** dash”?
+**Q:** What do people mean during a conversation when they say "Sorry, I must dash"?
 **A:** When people say …, they mean they have to leave in a hurry and so cut short the conversation
 
-**Q:** Give me a sentence with the word “since” used with the meaning of “because”.?
+**Q:** Give me a sentence with the word "since" used with the meaning of?
+
+**Q:** "because".?
 **A:** We’ll have to do the job ourselves, since it seems impossible to find anyone else to do it for us
 
-**Q:** P ?
-**A:** Just call me on my mobile if you find yourself … difficulty at all.  ( a / with / some / in )
+**Q:** 1?
 
-**Q:** Q from Latin. ?
-**A:** The Italian and Spanish languages are … related; they both come ( closely / greatly / nearly / similarly )
+**Q:** Just call me on my mobile if you find yourself … difficulty at all.?
 
-**Q:** R I just think it’s unusual. ?
-**A:** I don’t … anything against inviting our landlord to the party; ( say / hold / have / do )
+**Q:** 2?
 
-**Q:** r?
-**A:** I was left … when John told me his new plans for the business. ( speechless / voiceless / hopeless / useless )
+**Q:** The Italian and Spanish languages are … related; they both come from Latin.?
+**A:** ( closely / greatly / nearly / similarly )
 
-**Q:** T wrong. ( is appearing / has appeared / would appear / can appear )?
-**A:** I was so sure Sophie was perfect for this job, but it … I was
+**Q:** 3?
 
-**Q:** U to go to the same school. ?
-**A:** I’ve met your boyfriend before, actually; … it happens, we used ( so / as / like / if )
+**Q:** I don't … anything against inviting our landlord to the party;?
 
-**Q:** V anyway.?
-**A:** The flat was on the small … but he decided it was worth buying ( sort / side / sale / size )
+**Q:** I just think it's unusual.?
+**A:** ( say / hold / have / do )
 
-**Q:** W finished at the gym.?
-**A:** You can go to the pub now and I’ll catch up … you after I’ve ( to / for / at / with )
+**Q:** 4?
 
-**Q:** X played. ?
-**A:** As an actor, he was always famous for … himself into the roles he ( throwing / selling / forming / losing )
+**Q:** I was left … when John told me his new plans for the business.?
+**A:** ( speechless / voiceless / hopeless / useless )
 
-**Q:** on?
-**A:** I could never go climbing; I’ve got no … for heights. ( sense / head / eye / feel )
+**Q:** 5?
 
-**Q:** PP tomorrow. ?
-**A:** We’ll need to work … the clock to get this job done by the end of ( around / throughout / over / towards )
+**Q:** I was so sure Sophie was perfect for this job, but it … I was wrong.?
+**A:** ( is appearing / has appeared / would appear / can appear )
 
-**Q:** PQ health, unfortunately. ?
-**A:** He achieved great success in business, but … the expense of his ( at / with / for / against )
+**Q:** 6?
 
-**Q:** PR today.?
-**A:** I made so many mistakes in the test; I’m not really on the … ( ball / game / boot / goal )
+**Q:** I've met your boyfriend before, actually; … it happens, we used to go to the same school.?
+**A:** ( so / as / like / if )
 
-**Q:** or?
-**A:** We all formed a queue and the doctor dealt with us … turn. ( by / about / in / over )
+**Q:** 7?
 
-**Q:** PT Indian, in my view. ( second rate / runner up / close by / next best )?
-**A:** If the Chinese restaurant is closed, the … thing would be the
+**Q:** The flat was on the small … but he decided it was worth buying anyway.?
+**A:** ( sort / side / sale / size )
+
+**Q:** 8?
+
+**Q:** You can go to the pub now and I'll catch up … you after I've finished at the gym.?
+**A:** ( to / for / at / with )
+
+**Q:** 9?
+
+**Q:** As an actor, he was always famous for … himself into the roles he played.?
+**A:** ( throwing / selling / forming / losing )
+
+**Q:** 10?
+
+**Q:** I could never go climbing; I've got no … for heights.?
+**A:** ( sense / head / eye / feel )
+
+**Q:** 11?
+
+**Q:** We'll need to work … the clock to get this job done by the end of tomorrow.?
+**A:** ( around / throughout / over / towards )
+
+**Q:** 12?
+
+**Q:** He achieved great success in business, but … the expense of his health, unfortunately.?
+**A:** ( at / with / for / against )
+
+**Q:** 13?
+
+**Q:** I made so many mistakes in the test; I'm not really on the … today.?
+**A:** ( ball / game / boot / goal )
+
+**Q:** 14?
+
+**Q:** We all formed a queue and the doctor dealt with us … turn.?
+**A:** ( by / about / in / over )
+
+**Q:** 15?
+
+**Q:** If the Chinese restaurant is closed, the … thing would be the?
+
+**Q:** Indian, in my view.?
+**A:** ( second rate / runner up / close by / next best )
 
 ### Dictation
 > The flood was causing enormous damage,/ so it came as a huge relief/ when the rains stopped./ Why not just go ahead/ and lie down?/ You should take a painkiller too./ Avoiding fried food/ and unhealthy desserts/ should help you lose some weight./ It’s our belief/ that this tour will be a success;/ it could even make him/ one of the wealthiest musicians in the world./ My brother’s preference/ for not following recipes when he cooks/ is something he got from our father./ Don’t splash your sister;/ it’s naughty!/ As we lay down our towels on the beach,/ we noticed that/ the yacht race going on nearby/ had attracted loads of spectators./ Rejoice, shave, affair, cure, creep.
@@ -327,9 +334,8 @@ that fits correctly in the gap.
 - **diagram**
 - **may well**
 - **might well**
-- **modals “may”, “might” or “could”?**
+- **could well**
 - **quit**
-- **I finally quit my job**
 - **sympathize**
 - **bankrupt**
 - **suicide**
@@ -340,8 +346,7 @@ that fits correctly in the gap.
 - **handout**
 - **give out**
 - **leaflet**
-- **passer**
-- **by**
+- **passer-by**
 - **acquire**
 - **automatic**
 - **labour**
@@ -375,9 +380,8 @@ that fits correctly in the gap.
 - **apartment**
 - **inhabitant**
 - **considerate**
-- **considerate towards their neighbours?**
-- **It’s particularly …**
 - **draw**
+- **is drawing near.**
 - **marvellous**
 - **vacation**
 - **range**
@@ -389,16 +393,12 @@ that fits correctly in the gap.
 - **household**
 - **be comprised of**
 - **chore**
-- **What’s your least favourite household chore?**
-- **My least favourite …**
 - **panic**
 - **bark**
 - **footstep**
 - **burgle**
 - **burglar**
-- **shrink**
-- **shrank**
-- **shrunk**
+- **shrink – shrank – shrunk**
 - **market**
 - **puzzled**
 - **peak**
@@ -417,69 +417,72 @@ that fits correctly in the gap.
 - **section**
 - **conclusion**
 - **contact lenses**
-- **Word**
-- **building exercise 1**
-- **e.g**
+- **Word-building exercise 1**
 
-### Grammar Notes
-By learning the language of a country, do you think one automatically
-Supposing you missed two weeks of lessons, would it be tricky to catch up
-with the rest of the students in the class?          Yes, supposing …, it’d be …
-Make a sentence with the word “cute”, please.         The baby looked so cute
-The verb “to draw” is sometimes used with a basic meaning of “to move”.
-For example, we can say that a train draws out of a station, or that winter
-Under what circumstances do the police decide to restrain someone
-In a newspaper, where’s the sports section usually located?                    In …, …
-For each sentence below, change the word printed at the beginning so that it
-fits correctly into the gap. Put your answer on the right.
+### Notes
+> When we put the word “well” immediately after the modals “may”, “might”
+> or “could”, it changes their meaning from “perhaps” to “probably”.
+> The verb “to draw” is sometimes used with a basic meaning of “to move”.
+> For example, we can say that a train draws out of a station, or that winter
+> For each sentence below, change the word printed at the beginning so that it
+> fits correctly into the gap. Put your answer on the right.
+> Answers
+> lucky
+> visit
+> centre
+> fashion
+> account
+> culture
+> large
+> circle
+> forget
+> popular
+> stupid
+> decide
 
 ### Q&A Drill
-**Q:** When we put the word “well” immediately after the modals “may”, “might” or “could”, it changes their meaning from “perhaps” to “probably”.?
-
-**Q:** What happens when we put the word “well” immediately after the?
-**A:** meaning from “perhaps” to “probably”
+**Q:** What happens when we put the word "well" immediately after the modals "may", "might" or "could"?
+**A:** When we put …, it changes their meaning from “perhaps” to “probably”
 
 **Q:** Give me an example, please.?
 **A:** He loves Spain so much that I honestly think he may well end up settling there
 
-**Q:** What are the three forms of “quit”??
-**A:** The three forms of “quit” are “quit, quit, quit” yesterday. She’d love to be a non-smoker but she’s never quit successfully.
+**Q:** What are the three forms of "quit"?
+**A:** The three forms of “quit” are “quit, quit, quit”
 
-**Q:** Do you sympathize with people who start their own company but then?
+**Q:** Make a sentence with the verb "quit", please.?
+**A:** I finally quit my job yesterday. She’d love to be a non-smoker but she’s never quit successfully.
 
-**Q:** go bankrupt?
+**Q:** Do you sympathize with people who start their own company but then go bankrupt?
 **A:** Yes, … ~ No, …
 
 **Q:** Why or why not?
 
-**Q:** Is it illegal in your country to help someone to commit suicide? Yes, it’s …?
-**A:** ~ No, it isn’t …
+**Q:** Is it illegal in your country to help someone to commit suicide?
+**A:** Yes, it’s … ~ No, it isn’t …
 
-**Q:** Give me a sentence containing the words “by no means” or “not by any means”.?
+**Q:** Give me a sentence containing the words "by no means" or "not by any means".?
 **A:** She is by no means the worst in the class. She isn’t by any means the worst in the class.
 
-**Q:** Is it common to see people handing out (giving out) leaflets to passers-by?
-
-**Q:** in the street in this town?
+**Q:** Is it common to see people handing out (giving out) leaflets to passers-by in the street in this town?
 **A:** Yes, … ~ No, …
 
-**Q:** What do we mean by a handout in a business meeting??
+**Q:** What do we mean by a handout in a business meeting?
 **A:** By a handout …, we mean a document that is given to all the people attending the meeting
 
-**Q:** acquires some knowledge of that country’s culture?
+**Q:** By learning the language of a country, do you think one automatically acquires some knowledge of that country's culture?
 **A:** Yes, … ~ No, …
 
-**Q:** Do people in jobs that require hard physical labour often need to retire?
-
-**Q:** earlier than those in office jobs?
+**Q:** Do people in jobs that require hard physical labour often need to retire earlier than those in office jobs?
 **A:** Yes, …
 
-**Q:** If somebody is sentenced to a certain period of time in prison, do you?
+**Q:** If somebody is sentenced to a certain period of time in prison, do you agree they should be released early for good behaviour?
+**A:** Yes, … ~ No, …
 
-**Q:** agree they should be released early for good behaviour?
-**A:** Yes, … ~ No, … ~ No, supposing …, it wouldn’t be …
+**Q:** Supposing you missed two weeks of lessons, would it be tricky to catch up with the rest of the students in the class?
+**A:** Yes, supposing …, it’d be … ~ No, supposing …, it wouldn’t be …
 
-**Q:** What’s the opposite of “nice”?
+**Q:** What's the opposite of "nice"?
 **A:** The … “nasty”
 
 **Q:** Give me an example, please.?
@@ -497,180 +500,114 @@ fits correctly into the gap. Put your answer on the right.
 **Q:** Do you like spicy food?
 **A:** Yes, … ~ No, …
 
-**Q:** Would you agree that women generally show their affection for others?
-
-**Q:** more easily than men?
+**Q:** Would you agree that women generally show their affection for others more easily than men?
 **A:** Yes, … ~ No, …
 
 **Q:** If someone says they work as a chemist, what kind of work do they do?
-**A:**  If …, they either work as a scientist in the field of chemistry, or they work in a chemist’s selling medicine to the public
 
 **Q:** Which domestic appliance do you feel saves people the most time?
-**A:**  The domestic appliance I feel … is …
 
-**Q:** If there’s a lack of harmony in a marriage over a long period, what can it?
-
-**Q:** lead to?
+**Q:** If there's a lack of harmony in a marriage over a long period, what can it lead to?
 **A:** If …, … divorce
 
 **Q:** Why do more road accidents occur when it rains?
 **A:** More … roads are slippery, and motorists find it difficult to see
 
-**Q:** Does it ever occur to you that perhaps you should adopt a healthier?
+**Q:** Does it ever occur to you that perhaps you should adopt a healthier lifestyle?
+**A:** Yes, it sometimes … ~ No, it never …
 
-**Q:** lifestyle?
-**A:** Yes, it sometimes … ~ No, it never … with a ribbon in her hair. I thought the shop assistant was cute but I was too shy to introduce myself.
+**Q:** Make a sentence with the word "cute", please.?
+**A:** The baby looked so cute with a ribbon in her hair. I thought the shop assistant was cute but I was too shy to introduce myself.
 
-**Q:** What’s a beast?
+**Q:** What's a beast?
 **A:** A beast is a large and dangerous animal, such as a gorilla
 
 **Q:** What do we mean by a grain of sand, or a grain of rice?
 **A:** By …, we mean one small particle of …
 
-**Q:** Does your country produce the majority of its grain domestically or does?
-
-**Q:** it import most of it?
+**Q:** Does your country produce the majority of its grain domestically or does it import most of it?
 **A:** My country …
 
-**Q:** What part of the body’s this?
+**Q:** What part of the body's this?
 **A:** This part … the hip
 
-**Q:** Do the majority of the inhabitants of your town live in houses or?
-
-**Q:** apartments?
+**Q:** Do the majority of the inhabitants of your town live in houses or apartments?
 **A:** The majority …
 
-**Q:** Why is it particularly important for people who live in apartments to be?
+**Q:** Why is it particularly important for people who live in apartments to be considerate towards their neighbours?
+**A:** It’s particularly …
 
-**Q:** is drawing near.?
+**Q:** Give me an example of the verb "draw" used with the basic meaning of?
 
-**Q:** Give me an example of the verb “draw” used with the basic meaning of “move”, please.?
+**Q:** "move", please.?
 **A:** The car drew away from the traffic lights very slowly
 
-**Q:** Tell me briefly about a marvellous vacation you’ve had, or would like to have.?
+**Q:** Tell me briefly about a marvellous vacation you've had, or would like to have.?
 **A:** A marvellous …
 
-**Q:** Do countries near the equator have a very limited annual temperature?
-
-**Q:** range?
+**Q:** Do countries near the equator have a very limited annual temperature range?
 **A:** Yes, …
 
-**Q:** Which type of film usually produces a wider range of emotions: a drama?
-
-**Q:** or a comedy?
+**Q:** Which type of film usually produces a wider range of emotions: a drama or a comedy?
 **A:** A … usually …
 
-**Q:** Is there anyone in this room wearing a necklace or bracelet? Yes, … ~ No, …?
+**Q:** Is there anyone in this room wearing a necklace or bracelet?
+**A:** Yes, … ~ No, …
 
-**Q:** How many people is your household comprised of??
+**Q:** How many people is your household comprised of?
 **A:** My household …
 
-**Q:** Name some situations in which it’s common for people to panic.?
+**Q:** What's your least favourite household chore?
+**A:** My least favourite …
+
+**Q:** Name some situations in which it's common for people to panic.?
 **A:** Some situations in which … are during an exam, when performing on stage etc.
 
-**Q:** If guard dogs hear footsteps in the middle of the night, do they start?
-
-**Q:** barking loudly?
+**Q:** If guard dogs hear footsteps in the middle of the night, do they start barking loudly?
 **A:** Yes, if …
 
 **Q:** Do burglars tend to avoid burgling properties that have guard dogs?
-**A:**  Yes, burglars …
 
-**Q:** What causes certain clothes to shrink when they’re washed?
+**Q:** What causes certain clothes to shrink when they're washed?
 **A:** Washing at an excessively high temperature causes …
 
-**Q:** Do you think the market for new cars in your country has shrunk in recent?
-
-**Q:** years?
+**Q:** Do you think the market for new cars in your country has shrunk in recent years?
 **A:** Yes, … ~ No, …
 
-**Q:** What do I mean if I say “John had a puzzled expression on his face”?
-**A:**  If you …, you mean he looked confused
+**Q:** What do I mean if I say "John had a puzzled expression on his face"?
 
 **Q:** What do we call the top of a mountain?
-**A:** We call … the peak or summit In this part of town, is there a considerable increase in traffic during peak
+**A:** We call … the peak or summit
 
-**Q:** hours?
+**Q:** In this part of town, is there a considerable increase in traffic during peak hours?
 **A:** Yes, … ~ No, …
 
 **Q:** What do you feel like doing this evening?
 **A:** I feel like …
 
-**Q:** If you had a nasty cold one weekend and didn’t feel up to going out,?
-
-**Q:** what would you do instead?
+**Q:** If you had a nasty cold one weekend and didn't feel up to going out, what would you do instead?
 **A:** If …, I’d …
 
 **Q:** Do you feel frustrated when you make silly mistakes?
 **A:** Yes, …
 
-**Q:** How would you feel if a train you’d hoped to catch was pulling out from?
-
-**Q:** the platform just as you arrived?
+**Q:** How would you feel if a train you'd hoped to catch was pulling out from the platform just as you arrived?
 **A:** If …, I’d feel …
 
-**Q:** If you dyed your hair a completely different colour, would it transform?
-
-**Q:** your appearance?
+**Q:** If you dyed your hair a completely different colour, would it transform your appearance?
 **A:** Yes, …
 
-**Q:** physically?
-**A:** The police decide … at the back
+**Q:** Under what circumstances do the police decide to restrain someone physically?
+**A:** The police decide …
+
+**Q:** In a newspaper, where's the sports section usually located?
+**A:** In …, … at the back
 
 **Q:** What do we call the final section of an essay?
 **A:** We call … the conclusion
 
-**Q:** Why do some people have a preference for wearing glasses rather than?
-
-**Q:** contact lenses?
-**A:** Some people … Answers
-
-**Q:** o?
-**A:** visit There was something to eat for the majority of …, but not everyone.
-
-**Q:** p?
-**A:** deep The length of the swimming pool isn’t important; it’s the … we need to know.
-
-**Q:** q?
-**A:** centre The property is being built quite …, near the main railway station.
-
-**Q:** r?
-**A:** real The painting was so … that, at first, I thought it was a photo.
-
-**Q:** T and …, but they don’t.?
-**A:** fashion He thinks those trousers make him look young
-
-**Q:** U good with numbers.?
-**A:** account She’s thinking of becoming an … as she’s very
-
-**Q:** V it is of great … interest.?
-**A:** culture This film was not a great financial success, but
-
-**Q:** W putting it up on the wall of the living room.?
-**A:** large I’m thinking of … the photo you took and
-
-**Q:** X population have only been a … success.?
-**A:** part Our efforts to gain the support of the local
-
-**Q:** PO on it flying over his garden last night.?
-**A:** circle He claims he saw a large … object with lights
-
-**Q:** PP write the address down.?
-**A:** forget I’m rather … sometimes so I think I’d better
-
-**Q:** PQ long train journey.?
-**A:** bore A good book always helps to relieve the … of a
-
-**Q:** PR around the world.?
-**A:** popular The … of the show made all the actors famous
-
-**Q:** PS any desire to cause damage.?
-**A:** stupid Their behaviour was a result of … rather than
-
-**Q:** os?
-**A:** decide I’m normally fairly … but I really don’t know
-
-**Q:** what to do in this case!?
+**Q:** Why do some people have a preference for wearing glasses rather than contact lenses?
+**A:** Some people … She was … to win the game. There was something to eat for the majority of …, but not everyone. The length of the swimming pool isn’t important; it’s the … we need to know. The property is being built quite …, near the main railway station. The painting was so … that, at first, I thought it was a photo. He thinks those trousers make him look young and …, but they don’t. She’s thinking of becoming an … as she’s very good with numbers. This film was not a great financial success, but it is of great … interest. I’m thinking of … the photo you took and putting it up on the wall of the living room. Our efforts to gain the support of the local population have only been a … success. He claims he saw a large … object with lights on it flying over his garden last night. I’m rather … sometimes so I think I’d better write the address down. A good book always helps to relieve the … of a long train journey. The … of the show made all the actors famous around the world. Their behaviour was a result of … rather than any desire to cause damage. I’m normally fairly … but I really don’t know what to do in this case!
 
 ---
 
@@ -680,36 +617,15 @@ fits correctly into the gap. Put your answer on the right.
 - **General advice for writing**
 - **punctuation**
 - **linking words**
+- **When we create a piece of writing, we should:**
+- **•**
+- **make a simple plan on paper before we start to ensure that**
+- **we include all the information we need to, and that our**
 - **information is clearly organized;**
+- **check our punctuation, spelling and grammar when we’ve**
+- **finished.**
 - **garment**
 - **entitle**
-- **From:**
-- **Douglas Freeman**
-- **To:**
-- **Samuel Bradley**
-- **introduction paragraph that**
-- **Subject:**
-- **Refund request**
-- **writing and what they’re**
-- **Dear Mr Bradley**
-- **(3) Avoid using**
-- **contractions**
-- **to use a formal**
-- **style. To decide**
-- **whether a**
-- **piece of writing**
-- **written in a**
-- **formal style**
-- **or not, think**
-- **(4) Use linking words and**
-- **about who will**
-- **Yours sincerely**
-- **expressions to connect your**
-- **and that our information is clearly organized?**
-- **writing?**
-- **Why?**
-- **So that the reader knows why we’re**
-- **formal style or not?**
 - **landscape**
 - **gorgeous**
 - **off**
@@ -744,8 +660,6 @@ fits correctly into the gap. Put your answer on the right.
 - **on business**
 - **holidaymaker**
 - **tip**
-- **those who are there on business?**
-- **At a hotel, you can tell …**
 - **irritable**
 - **sack**
 - **get the sack**
@@ -759,8 +673,6 @@ fits correctly into the gap. Put your answer on the right.
 - **scar**
 - **get at**
 - **chemical**
-- **bottles or containers with chemicals in them?**
-- **Parents can … by storing**
 - **grandchild**
 - **grandson**
 - **granddaughter**
@@ -768,8 +680,6 @@ fits correctly into the gap. Put your answer on the right.
 - **depressed**
 - **depression**
 - **blank**
-- **answer a question in a job interview?**
-- **People’s minds …**
 - **put off**
 - **elementary**
 - **fee**
@@ -779,93 +689,64 @@ fits correctly into the gap. Put your answer on the right.
 - **assure**
 - **certificate**
 
-### Grammar Notes
-Please note: There are writing homework titles at the end of this book.
-•   check our punctuation, spelling and grammar when we’ve
-finished.
-I am writing to complain about a T-shirt that I bought from
-your Kingsley Street store on 22nd November, and to make
-a request for a refund.
-“Forever” range. After wearing the garment once, I washed
-it at 40˚C, the recommended temperature. However, during
-the wash, the T-shirt lost much of its colour and is now pink.
-Moreover, it shrank to almost half its original size and is
-therefore unwearable.
-I returned to your store on 25th November but I was
-informed by a member of staff that I was not entitled to a
-refund owing to the fact that the T-shirt had already been
-washed. I explained the situation but, although the lady           (2) Separate
-was very polite, she did not offer me my money back. I was         into different
-advised instead to contact you directly if I wished to take the    paragraphs
-matter further.                                                    so that the
-I have been a loyal customer of Bradley & Co. for several          changing
-frustration that I feel in this case, and that you will consider
-read it.                                              ideas together clearly.
-Douglas Freeman
-                                                                  I think …
-At a hotel, how can you tell the difference between holidaymakers and
-
 ### Q&A Drill
-**Q:** When we create a piece of writing, we should: • we include all the information we need to, and that our?
-**A:** make a simple plan on paper before we start to ensure that (1) Remember to have an tells the reader why you’re going to read about. your writing reader knows
+**Q:** I have?
+**A:** been a loyal customer of Bradley & Co. for several years and have never had any issue with the products I have
 
-**Q:** when you want?
-**A:** when you’re starting a new
+**Q:** However?
+**A:** bought. , I hope you are able to understand the frustration that I feel in this case, and that you will consider this request for a full refund. Yours sincerely (3) Avoid using contractions when you want to use a formal style. To decide whether a piece of writing should be written in a formal style or not, think about who will read it. (4) Use linking words and expressions to connect your ideas together clearly. Douglas Freeman
 
-**Q:** should be?
-
-**Q:** When we create a piece of writing, like a letter or an essay for example,?
-
-**Q:** how can we ensure that we’ve included all the information we need to,?
-**A:** simple plan on paper before we start
+**Q:** When we create a piece of writing, like a letter or an essay for example, how can we ensure that we've included all the information we need to, and that our information is clearly organized?
+**A:** When …, … by making a simple plan on paper before we start
 
 **Q:** Why is it important to separate our writing into different paragraphs?
-**A:**  It’s … so that the reader knows when we are changing subject, or starting a new point
 
-**Q:** What must we remember to put at the beginning of any piece of?
-**A:** writing and what they’re going to read about
+**Q:** What must we remember to put at the beginning of any piece of writing?
+**A:** We … an introduction paragraph …
+
+**Q:** Why?
+**A:** So that the reader knows why we’re writing and what they’re going to read about
 
 **Q:** When should we not use contractions in writing?
 **A:** We … when we want to use a formal style
 
+**Q:** How can we decide whether a piece of writing should be written in a formal style or not?
+**A:** We can … by thinking about who will read it
+
 **Q:** How can linking words and expressions help with writing?
 **A:** Linking … because they connect our ideas together clearly
 
-**Q:** Give me four examples of linking words or expressions, please. ?
-**A:** however; consequently; in order to; owing to
+**Q:** Give me four examples of linking words or expressions, please.?
 
-**Q:** When we’ve finished writing, what kinds of things should we check?
-**A:**  When …, … our punctuation, spelling and grammar
+**Q:** When we've finished writing, what kinds of things should we check?
 
 **Q:** Which region of your country is best known for its gorgeous landscape?
-**A:**  … is best known …
 
-**Q:** If I was off sick (or took a day off) one day, would someone else come to teach this class or would the lesson be cancelled??
+**Q:** If I was off sick (or took a day off) one day, would someone else come to teach this class or would the lesson be cancelled?
 **A:** If …, someone else would … ~ If …, the lesson would be cancelled
 
-**Q:** If I say “I’m off now; see you later”, what does the word “off” mean?
+**Q:** If I say "I'm off now; see you later", what does the word "off" mean?
 **A:** If …, … “leaving”
 
 **Q:** Do painkillers normally come in tablet form?
 **A:** Yes, painkillers …
 
-**Q:** And what’s the normal dose?
+**Q:** And what's the normal dose?
 **A:** It depends, but … two tablets
 
 **Q:** What am I doing?
 **A:** You’re winking
 
-**Q:** What’s the difference between the verbs “wink” and “blink”?
+**Q:** What's the difference between the verbs "wink" and "blink"?
 **A:** The difference … winking involves closing only one eye, whereas blinking involves closing both eyes
 
-**Q:** Do you think it’s a good idea to keep one’s private life distinct from one’s?
-
-**Q:** work life?
+**Q:** Do you think it's a good idea to keep one's private life distinct from one's work life?
 **A:** Yes, … ~ No, …
 
 **Q:** Why or why not?
 
-**Q:** Can a haircut make a distinct difference to a person’s appearance? Yes, …?
+**Q:** Can a haircut make a distinct difference to a person's appearance?
+**A:** Yes, …
 
 **Q:** How do you usually occupy your spare time?
 **A:** I usually occupy …
@@ -873,22 +754,16 @@ At a hotel, how can you tell the difference between holidaymakers and
 **Q:** Who are the occupants of the house (or flat) next to yours?
 **A:** The occupants …
 
-**Q:** When teenagers have a party, is there normally a good deal of mess to?
-
-**Q:** clear up afterwards?
+**Q:** When teenagers have a party, is there normally a good deal of mess to clear up afterwards?
 **A:** Yes, when …
 
-**Q:** If it were raining and I said “It looks as though it will clear up soon”, what?
-
-**Q:** would I mean?
+**Q:** If it were raining and I said "It looks as though it will clear up soon", what would I mean?
 **A:** If it were …, … stop raining soon
 
-**Q:** Which aspect of your job (or studies) do you like the most??
+**Q:** Which aspect of your job (or studies) do you like the most?
 **A:** The aspect …
 
-**Q:** Would you say you were good at carrying out instructions with great efficiency, or do you have a tendency to take too long getting things?
-
-**Q:** done?
+**Q:** Would you say you were good at carrying out instructions with great efficiency, or do you have a tendency to take too long getting things done?
 **A:** Yes, I’d say … ~ No, I wouldn’t say …
 
 **Q:** Do you prefer to travel by land, by sea, or by air?
@@ -896,15 +771,15 @@ At a hotel, how can you tell the difference between holidaymakers and
 
 **Q:** Why?
 
-**Q:** If you were a teacher and saw one of your students gazing out of the window during a lesson, would you assume they were not paying?
-
-**Q:** attention?
+**Q:** If you were a teacher and saw one of your students gazing out of the window during a lesson, would you assume they were not paying attention?
 **A:** Yes, if I were … ~ No, if I were …
 
-**Q:** When we’re describing films, what do we mean by a thriller?
+**Q:** When we're describing films, what do we mean by a thriller?
 **A:** When …, by a thriller we mean a film with an exciting story, full of mystery and suspense
 
-**Q:** Which famous person would you be most thrilled to meet??
+**Q:** Do you think the work of a spy would be mostly thrilling or often tedious?
+
+**Q:** Which famous person would you be most thrilled to meet?
 **A:** I’d be …
 
 **Q:** Have you ever had a nickname?
@@ -915,85 +790,74 @@ At a hotel, how can you tell the difference between holidaymakers and
 **Q:** How did you get that nickname?
 **A:** I got … because …
 
-**Q:** Do some buses in this town run more frequently on weekdays than at?
-
-**Q:** weekends?
+**Q:** Do some buses in this town run more frequently on weekdays than at weekends?
 **A:** Yes, … ~ No, …
 
-**Q:** Do you like to be surprised by friends dropping in (dropping by) for a chat, or do you prefer them to give you a ring to let you know they’re?
-
-**Q:** coming?
+**Q:** Do you like to be surprised by friends dropping in (dropping by) for a chat, or do you prefer them to give you a ring to let you know they're coming?
 **A:** Yes, I like … ~ No, I don’t like …; I prefer …
 
-**Q:** for the first time?
+**Q:** At a hotel, how can you tell the difference between holidaymakers and those who are there on business?
+**A:** At a hotel, you can tell …
+
+**Q:** What tip would you offer a holidaymaker who was visiting your country for the first time?
 **A:** The tip I’d offer … would be …
 
-**Q:** Do you get irritable if you go without food for a long time? Yes, … ~ No, …?
+**Q:** Do you get irritable if you go without food for a long time?
+**A:** Yes, … ~ No, …
 
 **Q:** What do we use sacks for?
 **A:** We use sacks for transporting and storing things like vegetables, especially potatoes
 
-**Q:** What does the expression “to get the sack” mean??
+**Q:** What does the expression "to get the sack" mean?
 **A:** The expression … to be dismissed from employment
 
-**Q:** How would you react if you were unfairly fired from a job you liked, especially if there were mass unemployment at the time? If I were unfairly?
-**A:** …, I’d react by …
+**Q:** How would you react if you were unfairly fired from a job you liked, especially if there were mass unemployment at the time?
+**A:** If I were unfairly …, I’d react by …
 
-**Q:** What’s a deadline?
+**Q:** What's a deadline?
 **A:** A deadline is a time or date before which something has to be finished
 
 **Q:** Give me an example, please.?
 **A:** Our boss has moved the deadline back so we’ve got an extra week to get everything done
 
-**Q:** What can we say instead of “suddenly”?
+**Q:** What can we say instead of "suddenly"?
 **A:** … all at once …
 
 **Q:** Give me an example, please.?
 **A:** We’d just got to the beach when, all at once, it began to pour down
 
-**Q:** Why is it important to ensure that the air in a classroom doesn’t become?
-
-**Q:** stale?
+**Q:** Why is it important to ensure that the air in a classroom doesn't become stale?
 **A:** It’s … because stale air lacks oxygen, which is essential for the brain to work properly
 
 **Q:** What do we call the mark left on our skin after a wound has healed?
-**A:**  We call … a scar
 
-**Q:** How can parents prevent their young children from getting at medicine?
-**A:** them on high shelves, or in locked cupboards
+**Q:** How can parents prevent their young children from getting at medicine bottles or containers with chemicals in them?
+**A:** Parents can … by storing them on high shelves, or in locked cupboards
 
 **Q:** Do your parents have any grandchildren?
 **A:** Yes, my parents have a grandson, granddaughter etc. ~ No, my parents don’t have any grandchildren
 
-**Q:** If someone feels constantly depressed, can their doctor prescribe?
-
-**Q:** medicine to help relieve the depression?
+**Q:** If someone feels constantly depressed, can their doctor prescribe medicine to help relieve the depression?
 **A:** Yes, if …, their doctor …
 
-**Q:** Why do people’s minds sometimes go blank when they’re trying to?
-**A:** because they feel stressed
+**Q:** Why do people's minds sometimes go blank when they're trying to answer a question in a job interview?
+**A:** People’s minds … because they feel stressed
 
-**Q:** Do you believe in the saying “Never put off until tomorrow that which?
-
-**Q:** you can do today”?
+**Q:** Do you believe in the saying "Never put off until tomorrow that which you can do today"?
 **A:** Yes, … ~ No, …
 
 **Q:** Why or why not?
 
-**Q:** Would you be put off going to a restaurant with a good reputation if a?
-
-**Q:** friend told you they’d recently had an awful meal there?
+**Q:** Would you be put off going to a restaurant with a good reputation if a friend told you they'd recently had an awful meal there?
 **A:** Yes, … ~ No, …
 
-**Q:** Name a sport for which the rules are fairly elementary.?
+**Q:** Name a sport for which the rules are fairly elementary.?
 **A:** ... is a sport for which ...
 
-**Q:** What kind of people (i.e. which professions) are well known for charging?
-
-**Q:** absurdly high fees for the work they do?
+**Q:** What kind of people (i.e. which professions) are well known for charging absurdly high fees for the work they do?
 **A:** … are well known for …
 
-**Q:** When buying an expensive painting or other work of art, how can you assure yourself that it is genuine and not a fake??
+**Q:** When buying an expensive painting or other work of art, how can you assure yourself that it is genuine and not a fake?
 **A:** When …, … by asking to see a certificate, getting a second opinion from an expert etc.
 
 ### Dictation
@@ -1005,19 +869,17 @@ At a hotel, how can you tell the difference between holidaymakers and
 
 ### Vocabulary
 - **Emphasis: Inversions after negative or limiting adverbials**
-- **Not only …**
-- **Not only can she speak**
-- **Under no circumstances …**
-- **Under no circumstances**
-- **No sooner …**
-- **No sooner had she graduated from**
-- **inversion, please:**
+- **“never”, “by no means”, and “under no circumstances”.**
+- **and “little”.**
+- **walked into my office.**
 - **margin**
 - **stand a chance**
 - **participate**
 - **sell out**
 - **call in**
 - **call by**
+- **place.**
+- **We can also call by (at) a place.**
 - **needless to say**
 - **phase**
 - **rebel**
@@ -1033,7 +895,7 @@ At a hotel, how can you tell the difference between holidaymakers and
 - **gang**
 - **gangster**
 - **decent**
-- **just try to ignore the racket?**
+- **the 1920s (1930s etc.)**
 - **mph**
 - **kph**
 - **vacuum**
@@ -1058,8 +920,7 @@ At a hotel, how can you tell the difference between holidaymakers and
 - **specialize**
 - **try out**
 - **try on**
-- **hi**
-- **fi**
+- **hi-fi**
 - **speaker**
 - **accessory**
 - **Word pool 1: revision exercise**
@@ -1079,94 +940,90 @@ At a hotel, how can you tell the difference between holidaymakers and
 - **moustache**
 - **diagram**
 
-### Grammar Notes
-Some examples of negative adverbials are: “not only”, “no sooner”,
-“never”, “by no means”, and “under no circumstances”.
-Some examples of limiting adverbials are: “rarely”, “hardly”, “barely”,
-and “little”.
-Sometimes we put adverbials like these at the start of a sentence in
-order to emphasize their meaning. When we do this, we need to use an
-inversion, or, in other words, we use the same form and word order as
-we would use for questions, even though we are not asking a question.
-For example, instead of saying “I have never met such a rude man”, we
-I had barely sat down when the cat jumped onto my lap     Barely had I sat
-He isn’t a friend of mine by any means         By no means is he a friend of mine
-She rarely calls her parents these days                     Rarely does she call
-Mary had no idea that we had arranged a party for her birthday
-                                             Little did Mary know that we
-In a major sporting competition such as the Olympics, do you think it’s
-important for everyone participating to believe they stand a chance of
-The phrasal verb “call in” means “visit briefly”, but notice the following
-difference in structure: we call in on someone, whereas we call in at a
-We can also call by (at) a place.
-Describe a traditional costume or a traditional dish from this (or your)
-country.                                                        A traditional …
-About how long after taking a dose of painkillers for a headache would
-you expect the pain to start wearing off?                     I’d expect …
-Describe your daily routine, please.                   I wake up at …, and then …
-What’s generally the difference between the words “district” and
-For each sentence below, choose one word from the word pool that fits
-correctly in the gap.
+### Notes
+> Some examples of negative adverbials are: “not only”, “no sooner”,
+> Some examples of limiting adverbials are: “rarely”, “hardly”, “barely”,
+> Sometimes we put adverbials like these at the start of a sentence in
+> order to emphasize their meaning. When we do this, we need to use an
+> inversion, or, in other words, we use the same form and word order as
+> we would use for questions, even though we are not asking a question.
+> For example, instead of saying “I have never met such a rude man”, we
+> can emphasize the idea of “never” by saying “Never have I met such
+> a rude man”. Notice that, even though this sentence is not a question,
+> we say “have I met” rather than “I have met”. Another example of an
+> inversion is “Hardly had I walked into my office when the phone started
+> ringing”. This means that the phone started ringing immediately after I
+> The phrasal verb “call in” means “visit briefly”, but notice the following
+> difference in structure: we call in on someone, whereas we call in at a
+> For each sentence below, choose one word from the word pool that fits
+> correctly in the gap.
 
 ### Q&A Drill
-**Q:** can emphasize the idea of “never” by saying “Never have I met such a rude man”. Notice that, even though this sentence is not a question, we say “have I met” rather than “I have met”. Another example of an inversion is “Hardly had I walked into my office when the phone started ringing”. This means that the phone started ringing immediately after I walked into my office. OK, I’m going to give you two or three words, and I want you to make a sentence starting with those words.?
-**A:** French but she can also speak German should you press this red button! university than she found a fantastic job down when the cat jumped onto my lap her parents these days had arranged a party for her birthday
+**Q:** OK, I'm going to give you two or three words, and I want you to make a sentence starting with those words.?
 
-**Q:** Do you make notes in the margin of your Student’s Book??
+**Q:** Not only …?
+**A:** Not only can she speak French but she can also speak German
+
+**Q:** Under no circumstances …?
+**A:** Under no circumstances should you press this red button!
+
+**Q:** No sooner …?
+**A:** No sooner had she graduated from university than she found a fantastic job
+
+**Q:** And now, make the following sentences more emphatic by using an inversion, please:?
+
+**Q:** I had barely sat down when the cat jumped onto my lap?
+**A:** Barely had I sat down when the cat jumped onto my lap
+
+**Q:** He isn't a friend of mine by any means?
+**A:** By no means is he a friend of mine
+
+**Q:** She rarely calls her parents these days?
+**A:** Rarely does she call her parents these days
+
+**Q:** Mary had no idea that we had arranged a party for her birthday?
+
+**Q:** Do you make notes in the margin of your Student's Book?
 **A:** Yes, … ~ No, …
 
-**Q:** winning?
+**Q:** In a major sporting competition such as the Olympics, do you think it's important for everyone participating to believe they stand a chance of winning?
 **A:** Yes, in a … ~ No, in a …
 
-**Q:** How do you feel when you go to buy something you’ve really been?
+**Q:** How do you feel when you go to buy something you've really been looking forward to getting and discover that the shop has sold out?
 
-**Q:** looking forward to getting and discover that the shop has sold out?
-**A:**  When I go …, I feel disappointed and frustrated
-
-**Q:** Give me an example of “call in on”, please.?
+**Q:** Give me an example of "call in on", please.?
 **A:** John was off sick, so I called in on him to check if he needed anything
 
-**Q:** Do you often call in at your local supermarket on your way home after?
-
-**Q:** school (or work)?
+**Q:** Do you often call in at your local supermarket on your way home after school (or work)?
 **A:** Yes, … ~ No, …
 
-**Q:** Why might someone need to call by (at) their office even though it’s their?
-
-**Q:** day off?
+**Q:** Why might someone need to call by (at) their office even though it's their day off?
 **A:** Someone might need …
 
-**Q:** Give me an example of the expression “needless to say”, please.?
+**Q:** Give me an example of the expression "needless to say", please.?
 **A:** Angela was offered a job yesterday; needless to say, she’s delighted
 
-**Q:** What do parents mean when they say their son or daughter is going?
-
-**Q:** through a difficult phase?
+**Q:** What do parents mean when they say their son or daughter is going through a difficult phase?
 **A:** When parents …, they mean their son or daughter is going through a temporary period of rebelling against them, and is difficult to cope with, perhaps because they’re being grumpy and stubborn
 
-**Q:** Do some university students find it hard to cope if they have to do a?
-
-**Q:** part-time job on top of studying for their degree?
+**Q:** Do some university students find it hard to cope if they have to do a part-time job on top of studying for their degree?
 **A:** Yes, …
 
-**Q:** If you won £20,000,000 in a lottery, how much would you donate to?
-
-**Q:** charity?
+**Q:** If you won £20,000,000 in a lottery, how much would you donate to charity?
 **A:** If …, I’d …
 
-**Q:** If a gang of young men were making a racket outside your house in the middle of the night, would you call the police, go out and talk to them, or?
+**Q:** Describe a traditional costume or a traditional dish from this (or your) country.?
+**A:** A traditional …
+
+**Q:** If a gang of young men were making a racket outside your house in the middle of the night, would you call the police, go out and talk to them, or just try to ignore the racket?
+**A:** If …, I’d …
 
 **Q:** How much do you reckon a decent tennis racket costs these days?
-**A:**  I reckon …
 
-**Q:** Were most of the rackets in America in the 1920s and 1930s controlled by?
-
-**Q:** gangsters?
+**Q:** Were most of the rackets in America in the 1920s and 1930s controlled by gangsters?
 **A:** Yes, …
 
-**Q:** If you were travelling at 80 kph, what would your speed be in miles per?
-
-**Q:** hour?
+**Q:** If you were travelling at 80 kph, what would your speed be in miles per hour?
 **A:** If …, my speed would be 50 mph
 
 **Q:** How does a vacuum cleaner work?
@@ -1175,100 +1032,54 @@ correctly in the gap.
 **Q:** What kind of food do we buy in jars?
 **A:** We buy jam, honey, coffee etc. in jars
 
-**Q:** Give me an example of “thanks to”, please.?
+**Q:** Give me an example of "thanks to", please.?
 **A:** Thanks to his fabulous work, we were all able to go home early
 
-**Q:** Why do grandparents often make a fuss of their grandchildren when they?
+**Q:** About how long after taking a dose of painkillers for a headache would you expect the pain to start wearing off?
+**A:** I’d expect …
 
-**Q:** see them?
+**Q:** Why do grandparents often make a fuss of their grandchildren when they see them?
 **A:** Grandparents …
 
-**Q:** If you checked into a hotel room and found it hadn’t been cleaned?
-
-**Q:** properly, would you make a fuss about it?
+**Q:** If you checked into a hotel room and found it hadn't been cleaned properly, would you make a fuss about it?
 **A:** Yes, if I … ~ No, if I …
 
 **Q:** What do we mean by a fussy eater?
 **A:** By …, we mean someone who is difficult to please as regards food because there are many things they don’t like eating
 
-**Q:** Would you prefer a job where you had a regular routine or one where?
+**Q:** Describe your daily routine, please.?
+**A:** I wake up at …, and then …
 
-**Q:** your tasks varied from day to day?
+**Q:** Would you prefer a job where you had a regular routine or one where your tasks varied from day to day?
 **A:** I’d prefer …
 
-**Q:** When a married couple break up, do you think their assets should always?
-
-**Q:** be divided equally in the divorce?
+**Q:** When a married couple break up, do you think their assets should always be divided equally in the divorce?
 **A:** Yes, … ~ No, …
 
-**Q:** Why do many people feel uneasy when they think about the future of the?
-
-**Q:** planet?
+**Q:** Why do many people feel uneasy when they think about the future of the planet?
 **A:** Many …
 
-**Q:** “region”?
+**Q:** What's generally the difference between the words "district" and?
+
+**Q:** "region"?
 **A:** The difference … is that “district” is generally used to describe a distinct part of a city for official reasons, whereas “region” is generally used to describe a distinct part of a larger area such as a country, continent, or even the world
 
-**Q:** Where were the first English settlements on the continent of North America: on the east coast or the west coast??
+**Q:** Where were the first English settlements on the continent of North?
+
+**Q:** America: on the east coast or the west coast?
 **A:** The first … on the east coast
 
-**Q:** What’s the difference between a grocer and a greengrocer?
+**Q:** What's the difference between a grocer and a greengrocer?
 **A:** The difference … a grocer sells all kinds of food and everyday household goods, whereas a greengrocer specializes in selling fruit and vegetables
 
-**Q:** Which of these sentences is correct: “He tried out the hi-fi speakers before buying them” or “He tried on the hi-fi speakers before buying?
-
-**Q:** them”?
+**Q:** Which of these sentences is correct: "He tried out the hi-fi speakers before buying them" or "He tried on the hi-fi speakers before buying them"?
 **A:** “He tried out …” is correct
 
 **Q:** Why?
-**A:** Because “try on” is only used when we’re talking about clothes, and accessories such as hats, items of jewellery etc. So give me an example of “try on”, please. I tried on the hat but it looked absurd!
+**A:** Because “try on” is only used when we’re talking about clothes, and accessories such as hats, items of jewellery etc.
 
-**Q:** P match.?
-**A:** Every on Donald’s right hand felt sore after the boxing
-
-**Q:** Q own garden.?
-**A:** Do you want to try a ? They’re very sweet, and from our
-
-**Q:** q?
-**A:** I can explain my plan by drawing a simple if you prefer.
-
-**Q:** r?
-**A:** His career as a came to a sudden and violent end.
-
-**Q:** T cart with the apples.?
-**A:** You drive the , but go slowly; I’ll be behind you on the
-
-**Q:** t?
-**A:** Mary’s is rather long; you can hardly see her eyes.
-
-**Q:** V fire.?
-**A:** The climate’s so dry that it only takes a single to start a
-
-**Q:** W park.?
-**A:** The children kept cool by splashing around in the in the
-
-**Q:** X disappear into the ceiling.?
-**A:** I have no idea where this goes. It just seems to
-
-**Q:** PO dress, just like mine!?
-**A:** This is my favourite because it’s got a blue and yellow
-
-**Q:** PP centre.?
-**A:** There’s a that runs quite regularly from here to the city
-
-**Q:** op?
-**A:** The main character isn’t introduced until the seventh ,
-
-**Q:** which is unusual.?
-
-**Q:** PR year.?
-**A:** According to my , your birthday’s on a Saturday this
-
-**Q:** or?
-**A:** I didn’t recognize him at all; he’s shaved his off!
-
-**Q:** PT freezing outside.?
-**A:** If you see a anywhere, tell me; I’ve lost one and it’s
+**Q:** So give me an example of "try on", please.?
+**A:** I tried on the hat but it looked absurd! 1 Every on Donald’s right hand felt sore after the boxing match. 2 Do you want to try a ? They’re very sweet, and from our own garden. 3 I can explain my plan by drawing a simple if you prefer. 4 His career as a came to a sudden and violent end. 5 You drive the , but go slowly; I’ll be behind you on the cart with the apples. 6 Mary’s is rather long; you can hardly see her eyes. 7 The climate’s so dry that it only takes a single to start a fire. 8 The children kept cool by splashing around in the in the park. 9 I have no idea where this goes. It just seems to disappear into the ceiling. 10 This is my favourite because it’s got a blue and yellow dress, just like mine! 11 There’s a that runs quite regularly from here to the city centre. 12 The main character isn’t introduced until the seventh , which is unusual. 13 According to my , your birthday’s on a Saturday this year. 14 I didn’t recognize him at all; he’s shaved his off! 15 If you see a anywhere, tell me; I’ve lost one and it’s freezing outside.
 
 ---
 
@@ -1277,7 +1088,12 @@ correctly in the gap.
 ### Vocabulary
 - **Common prefixes (1)**
 - **respectively**
+- **“eat too little”.**
+- **“inter-” (meaning “between”).**
 - **reserve**
+- **can**
+- **emergency**
+- **boot**
 - **terror**
 - **terrorist**
 - **citizen**
@@ -1287,7 +1103,6 @@ correctly in the gap.
 - **get away**
 - **finish up**
 - **heart attack**
-- **pressure business**
 - **relevant**
 - **stamp**
 - **cross**
@@ -1303,7 +1118,6 @@ correctly in the gap.
 - **go off**
 - **gunman**
 - **desperate**
-- **past you, would you go after him?**
 - **at a time**
 - **visible**
 - **lawful**
@@ -1334,67 +1148,53 @@ correctly in the gap.
 - **community**
 - **resident**
 - **folk**
-- **weep**
-- **wept**
+- **weep – wept – wept**
+- **as a result of joy, relief, frustration etc.**
 - **as for**
 - **Phrase exercise 2**
-- **it.**
-- **and …, it was good.**
-- **new one.**
-- **association with Northern TV. **
-- **car needs?**
-- **be honest.**
-- **access the internet.**
 
-### Grammar Notes
-A prefix is a group of letters we add at the beginning of a word, usually to
-change the meaning of the word. For example, the prefixes “over-” and
-“under-” add the meanings of “too much” and “too little” respectively.
-So, the verb “overeat” means “eat too much” and “undereat” means
-“eat too little”.
-Some other common prefixes are: “re-” (meaning “again”), “co-”
-(meaning “together”), “un-” (meaning “not” or “opposite of”), and
-“inter-” (meaning “between”).
-What’s the difference between a vegetarian and a vegan? The difference …
-The verb “to weep” means to cry as a result of emotion (rather than
-physical pain). We usually weep because of sadness, but can also weep
-as a result of joy, relief, frustration etc.
-The expression “as for …” means “as regards …” and we use it when we
-want to move on to a different aspect of a particular topic. For example,
-“The government has made major improvements in education. As for the
-health system, however, it still has a great deal of work to do”.
-From the four options given with each sentence, choose the one word that
-fits correctly in the gap.
-James knew/ opening one of the packages,/ which looked exactly alike,/ would
-kill him./ We made no allowance/ for the possibility/ that the lonely track/ might
-lead nowhere./ Kate’s now ashamed/ of how selfishly she behaved./ There are
-four designers altogether/ working on the wedding ceremony,/ and the tragedy
+### Notes
+> A prefix is a group of letters we add at the beginning of a word, usually to
+> change the meaning of the word. For example, the prefixes “over-” and
+> “under-” add the meanings of “too much” and “too little” respectively.
+> So, the verb “overeat” means “eat too much” and “undereat” means
+> Some other common prefixes are: “re-” (meaning “again”), “co-”
+> (meaning “together”), “un-” (meaning “not” or “opposite of”), and
+> The verb “to weep” means to cry as a result of emotion (rather than
+> physical pain). We usually weep because of sadness, but can also weep
+> The expression “as for …” means “as regards …” and we use it when we
+> want to move on to a different aspect of a particular topic. For example,
+> “The government has made major improvements in education. As for the
+> health system, however, it still has a great deal of work to do”.
+> From the four options given with each sentence, choose the one word that
+> fits correctly in the gap.
 
 ### Q&A Drill
-**Q:** What meaning can the prefix “re-” add to a word??
+**Q:** What meaning can the prefix "re-" add to a word?
 **A:** The prefix … “again” …
 
 **Q:** Give me an example, please.?
 **A:** At his first attempt, he failed to get into the university, but then he reapplied and succeeded
 
-**Q:** What meaning can the prefix “co-” add to a word?
+**Q:** What meaning can the prefix "co-" add to a word?
 **A:** The prefix … “together” …
 
 **Q:** Give me an example, please.?
 **A:** Although the two nations used to be enemies, they coexist very happily today
 
-**Q:** What meaning can the prefix “un-” add to a word?
+**Q:** What meaning can the prefix "un-" add to a word?
 **A:** The prefix … “not” or “opposite of” …
 
 **Q:** Give me an example, please.?
 **A:** It was unprofessional of him not to unplug the TV before trying to fix it
 
-**Q:** What meaning can the prefix “inter-” add to a word??
-**A:** The prefix … “between” … interconnecting rooms for family groups
+**Q:** What meaning can the prefix "inter-" add to a word?
+**A:** The prefix … “between” …
 
-**Q:** If you had called to reserve a table at a restaurant but then discovered on arriving that there was no record of the booking, what would you expect?
+**Q:** Give me an example, please.?
+**A:** The hotel offers interconnecting rooms for family groups
 
-**Q:** to happen?
+**Q:** If you had called to reserve a table at a restaurant but then discovered on arriving that there was no record of the booking, what would you expect to happen?
 **A:** If …, I’d expect …
 
 **Q:** Why do some drivers carry a can full of petrol in the boot of their car?
@@ -1403,173 +1203,183 @@ four designers altogether/ working on the wedding ceremony,/ and the tragedy
 **Q:** Why is a terrorist called a terrorist?
 **A:** A terrorist is … because he tries to create terror among the innocent citizens of a country
 
-**Q:** Give me an example of the adjective “outrageous”, please.?
+**Q:** Give me an example of the adjective "outrageous", please.?
 **A:** I’m never inviting him to a party at my place again; his behaviour was outrageous!
 
-**Q:** How soon do you think it’ll be before the world exhausts its supply of oil?
-**A:**  I think it’ll be … before …
+**Q:** How soon do you think it'll be before the world exhausts its supply of oil?
 
-**Q:** environment and never even get away for an annual holiday?
+**Q:** What often happens to people who work in a high-pressure business environment and never even get away for an annual holiday?
 **A:** People who … often suffer from high blood pressure, nervous exhaustion, and could even finish up having a heart attack
 
-**Q:** Which academic subjects do you feel are most relevant to young people’s?
-
-**Q:** needs in the real world?
+**Q:** Which academic subjects do you feel are most relevant to young people's needs in the real world?
 **A:** I feel …
 
-**Q:** Do small children sometimes stamp their feet when they’re cross?
-**A:**  Yes, small …
+**Q:** Do small children sometimes stamp their feet when they're cross?
 
 **Q:** How do people usually respond physically in very tense situations?
 **A:** In …, people usually respond physically by becoming tense themselves; their bodies stiffen, they grip any available object, like the arm of a chair, and might become nervously excited
 
-**Q:** Name a film you’ve seen that you found gripping from start to finish. ?
-**A:** A film I’ve seen that … is …
+**Q:** Name a film you've seen that you found gripping from start to finish.?
 
 **Q:** What do we call a baby cat?
 **A:** We call … a kitten
 
-**Q:** Are most police officers in your country armed or unarmed??
+**Q:** And a baby dog?
+**A:** We call … a puppy
+
+**Q:** Are most police officers in your country armed or unarmed?
 **A:** Most …
 
-**Q:** If you heard a gun go off in the street and then saw the gunman running?
+**Q:** If you heard a gun go off in the street and then saw the gunman running past you, would you go after him?
+**A:** Yes, if I … ~ No, if I …
 
 **Q:** Why or why not?
 **A:** Because I’d consider it my duty as a citizen ~ Because I’d stand no chance against an armed and perhaps desperate criminal
 
-**Q:** Do you find that troubles seldom come to you one at a time but in threes?
-
-**Q:** and fours?
+**Q:** Do you find that troubles seldom come to you one at a time but in threes and fours?
 **A:** Yes, … ~ No, …
 
 **Q:** Is the moon often visible during the day?
 **A:** Yes, … ~ No, …
 
-**Q:** Can you think of anything which is quite lawful, but which you think?
-
-**Q:** should be made unlawful?
+**Q:** Can you think of anything which is quite lawful, but which you think should be made unlawful?
 **A:** Yes, … ~ No, …
 
+**Q:** What?
+
 **Q:** How do you feel when you hand in your papers at the end of an exam?
-**A:**  When …, I feel worried, relieved it’s all over etc.
 
 **Q:** What do we mean when we say that someone hands in their notice?
-**A:**  When …, we mean that they inform their employer that they are going to leave their job
 
-**Q:** Where do youngsters often choose to hang out when they’re not at?
-
-**Q:** school?
+**Q:** Where do youngsters often choose to hang out when they're not at school?
 **A:** Youngsters …
 
-**Q:** Do students at this school sometimes hang around after class to speak to?
-
-**Q:** their teacher?
+**Q:** Do students at this school sometimes hang around after class to speak to their teacher?
 **A:** Yes, …
 
 **Q:** How does a doctor obtain a small sample of blood from a patient?
 **A:** A doctor … by pricking the end of the patient’s finger with a needle
 
-**Q:** Why are candidates in an exam usually asked to write in ink rather than in?
-
-**Q:** pencil?
+**Q:** Why are candidates in an exam usually asked to write in ink rather than in pencil?
 **A:** Candidates in an … to make it easier for examiners to read, so that what they write is permanent and can’t be changed later etc.
 
-**Q:** What does a notice saying “Keep off the grass” mean??
+**Q:** What does a notice saying "Keep off the grass" mean?
 **A:** A notice … don’t walk on the grass
 
 **Q:** When did military tanks first appear in battle?
 **A:** Military tanks … during the First World War
 
-**Q:** What would happen if the volume of water poured into a water tank was?
-
-**Q:** too great?
+**Q:** What would happen if the volume of water poured into a water tank was too great?
 **A:** If …, the tank would overflow
 
-**Q:** If an author you liked a lot wrote a story so long that it had to be published in two or even three volumes, would that put you off reading?
+**Q:** If an author you liked a lot wrote a story so long that it had to be published in two or even three volumes, would that put you off reading it?
+**A:** Yes, … ~ No, …
 
-**Q:** it?
-**A:** Yes, … ~ No, … What’s the danger of regularly listening to music at high volume on
+**Q:** What's the danger of regularly listening to music at high volume on earphones or headphones?
+**A:** The danger … is that one can damage one’s hearing
 
-**Q:** earphones or headphones?
-**A:** The danger … is that one can damage one’s hearing a vegetarian chooses not to eat meat or fish, whereas a vegan also chooses not to eat anything else that comes from an animal, such as eggs, dairy products etc.
+**Q:** What's the difference between a vegetarian and a vegan?
+**A:** The difference … a vegetarian chooses not to eat meat or fish, whereas a vegan also chooses not to eat anything else that comes from an animal, such as eggs, dairy products etc.
 
-**Q:** If you give someone your opinion on something and they say “I agree?
-
-**Q:** with you to an extent”, what do they mean?
+**Q:** If you give someone your opinion on something and they say "I agree with you to an extent", what do they mean?
 **A:** If I …, they mean they agree with me partly but not completely
 
-**Q:** Is your mood dictated by the weather to some extent??
+**Q:** Is your mood dictated by the weather to some extent?
 **A:** Yes, my mood’s … to some extent ~ No, my mood isn’t … at all
 
 **Q:** Name a common drink that contains bubbles.?
 **A:** … is a common …
 
 **Q:** What do you eat when you need a quick energy boost between meals?
-**A:**  When …, I eat …
 
-**Q:** Is there a strong sense of community among the residents of the area?
-
-**Q:** where you live?
+**Q:** Is there a strong sense of community among the residents of the area where you live?
 **A:** Yes, … ~ No, …
 
 **Q:** What do we mean by folk music?
 **A:** By …, we mean the traditional music of a particular community
 
-**Q:** What are the three forms of “weep”?
+**Q:** What are the three forms of "weep"?
 **A:** The three forms of “weep” are “weep, wept, wept”
 
 **Q:** Do people often weep at the funeral of someone they were very close to?
-**A:**  Yes, …
 
-**Q:** Give me an example of “as for”, please.?
+**Q:** Give me an example of "as for", please.?
 **A:** Sandra thought the film was a bit of a drag. As for me, I loved every second of it.
 
-**Q:** P computer; that kind of thing is all a bit … me. ?
-**A:** I didn’t understand everything she was saying about the ( over / against / beside / beyond )
+**Q:** 1?
 
-**Q:** Q you don’t mind.?
-**A:** I took the … of borrowing one of your pullovers yesterday; I hope ( liberty / choice / licence / advantage )
+**Q:** I didn't understand everything she was saying about the computer; that kind of thing is all a bit … me.?
 
-**Q:** q?
-**A:** I’m sure you can become a successful artist if you … your mind to
+**Q:** 2?
 
-**Q:** r?
-**A:** Oh come on; it’s not that bad. Try to look on the … side! ( up / good / bright / optimistic )
+**Q:** I took the … of borrowing one of your pullovers yesterday; I hope you don't mind.?
+**A:** ( liberty / choice / licence / advantage )
 
-**Q:** s?
-**A:** The teacher pointed out a few errors in my essay but said that, by
+**Q:** 3?
 
-**Q:** U in my case because I was ill. ?
-**A:** All the students were given a test, but the teacher … an exception ( took / gave / made / did )
+**Q:** I'm sure you can become a successful artist if you … your mind to it.?
+**A:** ( put / throw / settle / push )
 
-**Q:** V finish early tomorrow, and it’s my birthday! ?
-**A:** Working extra hours today actually works in my …; I’ll be able to ( favour / advantage / benefit / profit )
+**Q:** 4?
 
-**Q:** W ?
-**A:** They should all pass the exam with … colours. ( brilliant / racing / flying / massive )
+**Q:** Oh come on; it's not that bad. Try to look on the … side!?
+**A:** ( up / good / bright / optimistic )
 
-**Q:** w?
-**A:** This painting’s rubbish; I’m going to start again from … and do a
+**Q:** 5?
 
-**Q:** on?
-**A:** The programme was made by students at the university, …
+**Q:** The teacher pointed out a few errors in my essay but said that, by and …, it was good.?
+**A:** ( small / big / little / large )
 
-**Q:** PP ?
-**A:** The morning was cloudy but the sun came … in the afternoon. ( out / by / in / across )
+**Q:** 6?
 
-**Q:** op?
-**A:** Do you have enough money to … the cost of all the repairs your
+**Q:** All the students were given a test, but the teacher … an exception in my case because I was ill.?
+**A:** ( took / gave / made / did )
 
-**Q:** PR performances in the previous four weeks. ( with / on / by / for )?
-**A:** Players were chosen for the match … the basis of their
+**Q:** 7?
 
-**Q:** or?
-**A:** He’s asked me for a big favour, which puts me in a difficult …, to
+**Q:** Working extra hours today actually works in my …; I'll be able to finish early tomorrow, and it's my birthday!?
 
-**Q:** os?
-**A:** The hotel computer network is … at the moment, so guests can’t
+**Q:** 8?
 
-**Q:** is that/ I know it’s still going to be awful./ The spread of a disease/ through any environment/ depends on how contagious it is./ The main points/ of each stage in the legal process/ were read aloud/ for all to hear./ Both men begged in vain/ to be forgiven by the nation/ for the damage they’d caused./ Curl, pinch, pastry, aside, bold.?
+**Q:** They should all pass the exam with … colours.?
+**A:** ( brilliant / racing / flying / massive )
+
+**Q:** 9?
+
+**Q:** This painting's rubbish; I'm going to start again from … and do a new one.?
+**A:** ( rip / scratch / mark / tear )
+
+**Q:** 10?
+
+**Q:** The programme was made by students at the university, … association with Northern TV.?
+**A:** ( and / any / in / the )
+
+**Q:** 11?
+
+**Q:** The morning was cloudy but the sun came … in the afternoon.?
+
+**Q:** 12?
+
+**Q:** Do you have enough money to … the cost of all the repairs your car needs?
+**A:** ( cap / bridge / cover / mask )
+
+**Q:** 13?
+
+**Q:** Players were chosen for the match … the basis of their performances in the previous four weeks.?
+**A:** ( with / on / by / for )
+
+**Q:** 14?
+
+**Q:** He's asked me for a big favour, which puts me in a difficult …, to be honest.?
+**A:** ( condition / position / mind / state )
+
+**Q:** 15?
+
+**Q:** The hotel computer network is … at the moment, so guests can't access the internet.?
+**A:** ( out / down / off / under )
+
+### Dictation
+> James knew/ opening one of the packages,/ which looked exactly alike,/ would kill him./ We made no allowance/ for the possibility/ that the lonely track/ might lead nowhere./ Kate’s now ashamed/ of how selfishly she behaved./ There are four designers altogether/ working on the wedding ceremony,/ and the tragedy is that/ I know it’s still going to be awful./ The spread of a disease/ through any environment/ depends on how contagious it is./ The main points/ of each stage in the legal process/ were read aloud/ for all to hear./ Both men begged in vain/ to be forgiven by the nation/ for the damage they’d caused./ Curl, pinch, pastry, aside, bold.
 
 ---
 
@@ -1645,9 +1455,6 @@ four designers altogether/ working on the wedding ceremony,/ and the tragedy
 - **turning**
 - **get together**
 - **excursion**
-- **or a small get**
-- **together at someone’s house?**
-- **I’d enjoy … more than …**
 - **look out**
 - **watch out**
 - **alert**
@@ -1658,99 +1465,102 @@ four designers altogether/ working on the wedding ceremony,/ and the tragedy
 - **pursue**
 - **siren**
 - **disability**
-- **Word**
-- **building exercise 2**
-- **e.g**
+- **Word-building exercise 2**
 
-### Grammar Notes
-ambulances on hand to deal with medical emergencies?                     Yes, at …
-                                       If …, they go overdrawn at the bank
-For each sentence below, change the word printed at the beginning so that it
-fits correctly into the gap. Put your answer on the right.
+### Notes
+> For each sentence below, change the word printed at the beginning so that it
+> fits correctly into the gap. Put your answer on the right.
+> Answers
+> lucky
+> electric
+> maintain
+> cruel
+> educate
+> equal
+> ambition
+> brave
+> extend
+> product
+> satisfy
+> conserve
 
 ### Q&A Drill
 **Q:** Do you usually wake up in a cheerful mood?
 **A:** Yes, … ~ No, …
 
-**Q:** Do you think that decorating an office in a bright and cheerful manner?
+**Q:** Do you think that decorating an office in a bright and cheerful manner has any impact on the quality of work that people produce?
+**A:** Yes, … ~ No, …
 
-**Q:** has any impact on the quality of work that people produce? Yes, … ~ No, …?
-
-**Q:** Give me an example of “elsewhere”, please.?
+**Q:** Give me an example of "elsewhere", please.?
 **A:** The atmosphere in the bar was distinctly unpleasant, so we decided to go elsewhere
 
-**Q:** What might happen to a building if it doesn’t have decent foundations?
-**A:**  If a building …, it might start sinking into the land, and could eventually collapse
+**Q:** What might happen to a building if it doesn't have decent foundations?
 
-**Q:** What’s a lounge?
-**A:** A lounge is a large room in a private house, a hotel,  an airport terminal etc. where people can sit and relax
+**Q:** What's a lounge?
+**A:** A lounge is a large room in a private house, a hotel, an airport terminal etc. where people can sit and relax
 
-**Q:** What two other names are commonly used for a lounge in a private?
-
-**Q:** house?
+**Q:** What two other names are commonly used for a lounge in a private house?
 **A:** Two other names … “sitting room” and “living room”
 
-**Q:** What’s the difference between “to glimpse” and “to glance”?
+**Q:** What's the difference between "to glimpse" and "to glance"?
 **A:** The difference … “to glimpse” means to see something for a very short time, whereas “to glance” means to look at something for a very short time
 
 **Q:** What am I doing?
-**A:** You’re glancing at your  watch, the picture on the wall etc.
+**A:** You’re glancing at your watch, the picture on the wall etc.
 
-**Q:** What do I mean if I say “I glimpsed the stadium in the distance several?
-
-**Q:** times as I drove through the town”?
+**Q:** What do I mean if I say "I glimpsed the stadium in the distance several times as I drove through the town"?
 **A:** If …, you mean you briefly saw the stadium several times
 
-**Q:** If you visited India, would it be reasonable to assume that, before long,?
-
-**Q:** you’d catch a glimpse of a tiger?
+**Q:** If you visited India, would it be reasonable to assume that, before long, you'd catch a glimpse of a tiger?
 **A:** Yes, … ~ No, …
 
 **Q:** Do you always keep a pen handy in case you need one?
 **A:** Yes … ~ No, …
 
-**Q:** Do you believe it’s better to dispose of old junk rather than keep stuff in?
+**Q:** At major public events such as music festivals, are there always ambulances on hand to deal with medical emergencies?
+**A:** Yes, at …
 
-**Q:** case it comes in handy one day?
+**Q:** Do you believe it's better to dispose of old junk rather than keep stuff in case it comes in handy one day?
 **A:** Yes, I believe … ~ No, I don’t believe …
 
 **Q:** What do we mean by junk email, or spam?
 **A:** By …, we mean unwanted email that is sent to a huge number of people
 
-**Q:** Who’s your favourite contemporary author?
+**Q:** Who's your favourite contemporary author?
 **A:** My favourite …
 
 **Q:** How are satellites launched into space?
 **A:** Satellites … rockets
 
-**Q:** Why do some people buy products, especially technological products, as soon as they’re launched rather than wait a while for prices to come?
-
-**Q:** down?
+**Q:** Why do some people buy products, especially technological products, as soon as they're launched rather than wait a while for prices to come down?
 **A:** Some people … because they’re excited by the product and can’t wait to get one of their own
 
-**Q:** Name a place you’ve visited that exceeded all your expectations. ?
+**Q:** Name a place you've visited that exceeded all your expectations.?
 **A:** … is a place I’ve …
 
-**Q:** Is it fairly normal for university students in your country to end up with?
+**Q:** What happens if a person's spending constantly exceeds their earnings?
 
-**Q:** large overdrafts?
+**Q:** Is it fairly normal for university students in your country to end up with large overdrafts?
 **A:** Yes, … ~ No, …
 
-**Q:** What’s a sketch?
-**A:** A sketch is a quick drawing that shows the rough outline of something and just a few details Briefly outline your plans for the rest of the day, please. My plans … are …
+**Q:** What's a sketch?
+**A:** A sketch is a quick drawing that shows the rough outline of something and just a few details
+
+**Q:** Briefly outline your plans for the rest of the day, please.?
+**A:** My plans … are …
 
 **Q:** Who in your life would you say had inspired you more than anyone else?
-**A:**  I’d say … had inspired me …
 
 **Q:** Why?
 
 **Q:** What do we call the time of day when the sun is just beginning to rise?
-**A:**  We call … dawn
 
-**Q:** Is there anywhere in this country where tourism is vital for the welfare of the local community??
+**Q:** Is there anywhere in this country where tourism is vital for the welfare of the local community?
 **A:** Yes, … ~ No, …
 
-**Q:** Name some of the vital organs in the human body, please.?
+**Q:** Where?
+
+**Q:** Name some of the vital organs in the human body, please.?
 **A:** Some of … heart, lungs, stomach etc.
 
 **Q:** What do we mean when we refer to the welfare state?
@@ -1759,126 +1569,65 @@ fits correctly into the gap. Put your answer on the right.
 **Q:** What do we mean if we describe someone as insecure?
 **A:** If …, we mean that the person doesn’t have much self-confidence and worries too much
 
-**Q:** If you wanted maximum security for your money, would you rather set up a pension, invest in the stock market, or save the money in a bank?
-
-**Q:** account?
+**Q:** If you wanted maximum security for your money, would you rather set up a pension, invest in the stock market, or save the money in a bank account?
 **A:** If …, I’d rather …
 
 **Q:** Why?
 
-**Q:** When the police arrest a criminal, what do they use to secure the person’s?
-
-**Q:** wrists together?
+**Q:** When the police arrest a criminal, what do they use to secure the person's wrists together?
 **A:** When …, … handcuffs …
 
-**Q:** Is it still important to learn proper typing technique if you want to work?
-
-**Q:** as a secretary these days?
+**Q:** Is it still important to learn proper typing technique if you want to work as a secretary these days?
 **A:** Yes, … ~ No, …
 
-**Q:** Do we use the same unit of measurement when considering small volumes of liquid as we do when measuring large volumes? Yes, … ~ No, …?
+**Q:** Do we use the same unit of measurement when considering small volumes of liquid as we do when measuring large volumes?
+**A:** Yes, … ~ No, …
 
-**Q:** What are two other common names we can use instead of “pullover”?
-**A:**  Two … “sweater” and “jumper”
+**Q:** What are two other common names we can use instead of "pullover"?
 
-**Q:** Is there any difference between a professor and a lecturer??
+**Q:** Is there any difference between a professor and a lecturer?
 **A:** Yes, there’s …
 
 **Q:** What?
 
-**Q:** Would you say you were good at giving people directions??
+**Q:** Would you say you were good at giving people directions?
 **A:** Yes, … ~ No, …
 
-**Q:** If I drove from here to the nearest station, how many turnings would I?
-
-**Q:** have to make?
+**Q:** If I drove from here to the nearest station, how many turnings would I have to make?
 **A:** If …, you’d have to make …
 
-**Q:** When on holiday, do you enjoy getting together with other tourists to go?
-
-**Q:** on organized excursions?
+**Q:** When on holiday, do you enjoy getting together with other tourists to go on organized excursions?
 **A:** Yes, … ~ No, …
 
 **Q:** Why or why not?
 
-**Q:** Which would you enjoy more this evening: a large party at a public venue,?
+**Q:** Which would you enjoy more this evening: a large party at a public venue, or a small get-together at someone's house?
+**A:** I’d enjoy … more than …
 
 **Q:** Why?
 
-**Q:** What is meant when someone shouts “Look out!” or “Watch out!”?
-**A:**  When …, they mean “Be careful”, usually because something dangerous is about to happen
+**Q:** What is meant when someone shouts "Look out!" or "Watch out!"?
 
-**Q:** What does a soldier do when he’s told to keep a look out?
+**Q:** What does a soldier do when he's told to keep a look out?
 **A:** When …, he stays alert and carefully observes everything happening in the surrounding area to check for unusual activity
 
-**Q:** What happens when there’s a security alert at a railway station or an?
-
-**Q:** airport?
+**Q:** What happens when there's a security alert at a railway station or an airport?
 **A:** When …, all services are disrupted or have to be suspended until the alert is over
 
 **Q:** Do you enjoy listening to and reading gossip?
 **A:** Yes, … ~ No, …
 
-**Q:** When you eventually retire from work, what kind of hobbies do you think you might pursue to help fill your extra leisure time??
+**Q:** When you eventually retire from work, what kind of hobbies do you think you might pursue to help fill your extra leisure time?
 **A:** When …, I think I might pursue hobbies such as … to help fill …
 
-**Q:** When police officers are pursuing a suspect, why do they turn on the?
-
-**Q:** siren in their car?
+**Q:** When police officers are pursuing a suspect, why do they turn on the siren in their car?
 **A:** When …, they turn … to warn other drivers to be careful etc.
 
-**Q:** Which disability do you imagine has the biggest impact on a person’s life:?
-
-**Q:** being deaf or being blind?
+**Q:** Which disability do you imagine has the biggest impact on a person's life: being deaf or being blind?
 **A:** The disability that I imagine has …
 
 **Q:** Why?
-**A:** Answers
-
-**Q:** o?
-**A:** electric Do you have the phone number of a good … you could recommend?
-
-**Q:** p?
-**A:** maintain Getting a new car would mean the cost of … would be lower.
-
-**Q:** q?
-**A:** cruel The animals were treated with … from the first moment they arrived on the farm.
-
-**Q:** r?
-**A:** educate Some computer games can be very … as well as great fun.
-
-**Q:** s?
-**A:** equal Do you think there’s true … between men and women in this country?
-
-**Q:** t?
-**A:** just There’s no way you can … terrible behaviour like that!
-
-**Q:** u?
-**A:** save I’m thinking about taking out all my … and buying a boat.
-
-**Q:** v?
-**A:** type My grandmother’s first job was as a … in a large publishing company.
-
-**Q:** w?
-**A:** ambition They’re both very … students who I’m certain will be successful in the future.
-
-**Q:** on?
-**A:** brave The … of the firemen saved the lives of many people.
-
-**Q:** oo?
-**A:** race There’s a strong … similarity between the two island populations but they have different cultures.
-
-**Q:** op?
-**A:** extend If they give us an … to the deadline, we can all relax a little bit.
-
-**Q:** oq?
-**A:** product Fortunately, the factory has become much more … since the new manager started.
-
-**Q:** or?
-**A:** satisfy Only students with … results in the entrance exam will be accepted by the university.
-
-**Q:** os?
-**A:** conserve I’m not sure people realize how important the … of the countryside really is.
+**A:** She was … to win the game. Do you have the phone number of a good … you could recommend? Getting a new car would mean the cost of … would be lower. The animals were treated with … from the first moment they arrived on the farm. Some computer games can be very … as well as great fun. Do you think there’s true … between men and women in this country? There’s no way you can … terrible behaviour like that! I’m thinking about taking out all my … and buying a boat. My grandmother’s first job was as a … in a large publishing company. They’re both very … students who I’m certain will be successful in the future. The … of the firemen saved the lives of many people. There’s a strong … similarity between the two island populations but they have different cultures. If they give us an … to the deadline, we can all relax a little bit. Fortunately, the factory has become much more … since the new manager started. Only students with … results in the entrance exam will be accepted by the university. I’m not sure people realize how important the … of the countryside really is.
 
 ---
 
@@ -1887,15 +1636,11 @@ fits correctly into the gap. Put your answer on the right.
 ### Vocabulary
 - **Writing an informal letter or email**
 - **delicious**
-- **(2) We**
-- **contractions**
-- **in an informal**
-- **letter or**
-- **or email.**
-- **Some expressions … “I’d better get going**
 - **newsagent’s**
 - **on sale**
 - **transfer**
+- **make for**
+- **exit**
 - **technical**
 - **ballet**
 - **entry**
@@ -1903,6 +1648,10 @@ fits correctly into the gap. Put your answer on the right.
 - **at war**
 - **give somebody a lift**
 - **dreadful**
+- **appropriate**
+- **interval**
+- **distract**
+- **cast**
 - **accelerate**
 - **halt**
 - **outlet**
@@ -1910,6 +1659,8 @@ fits correctly into the gap. Put your answer on the right.
 - **restless**
 - **impress**
 - **impressive**
+- **estimate**
+- **quote**
 - **leak**
 - **in danger**
 - **out of danger**
@@ -1918,8 +1669,6 @@ fits correctly into the gap. Put your answer on the right.
 - **childhood**
 - **recollect**
 - **from now**
-- **actual conversations you had with people?**
-- **My memories …**
 - **drain**
 - **establish**
 - **cabin**
@@ -1928,11 +1677,18 @@ fits correctly into the gap. Put your answer on the right.
 - **crew**
 - **procedure**
 - **by post**
+- **feedback**
+- **frank**
 - **go (or come) down with**
 - **flu**
 - **liable**
 - **display**
 - **show off**
+- **have on**
+- **prior**
+- **prior to**
+- **priority**
+- **output**
 - **artistic**
 - **scientific**
 - **talent**
@@ -1942,69 +1698,42 @@ fits correctly into the gap. Put your answer on the right.
 - **territory**
 - **invade**
 
-### Grammar Notes
-Please note: There are writing homework titles at the end of this book.
-Hi Sophie
-This is just a quick email to let you know about my plans for
-Mike’s 30th birthday on 17th August.
-I’ve decided to arrange a surprise party for him! Remember he
-right in the centre of town. From outside, it looks nothing
-case it rains.
-I’ll tell Mike we’ve got theatre tickets or something (to make
-sure he dresses up a bit) but I’ll suggest a quick drink at the
-Gatepost first. When we’ve got our drinks, I’ll bring him out
-to the garden. Then, as soon as we appear, you can all start
-singing ‘Happy Birthday’ – he won’t know what’s going on!
-over. I know you and Derek are free on the day because we
-chatted about that last week, but let me know what you think
-of my plans.
-Bye for now                                                 expressions like “I’d better get going”,
-Isabel       (4) We can finish an informal letter
-And how can we finish such a letter or email?                 We can finish …
-Before leaving on a holiday or long flight, do you look around the airport
-
 ### Q&A Drill
-**Q:** was away on business last August and ended up spending the evening all alone in his hotel room! So, my plan is that people meet up at 7pm at the Gatepost. It’s a fantastic place some colleagues took me to the other week?
+**Q:** Hi Sophie there's?
+**A:** This is just a quick email to let you know about my plans for Mike’s 30th birthday on 17th August. I’ve decided to arrange a surprise party for him! Remember he was away on business last August and ended up spending the evening all alone in his hotel room! So, my plan is that people meet up at 7pm at the Gatepost. It’s a fantastic place some colleagues took me to the other week right in the centre of town. From outside, it looks nothing special at all, but a lovely garden round the back that we can book for the evening. There’s even a covered area in case it rains. (2) We should use contractions in an informal letter or email. I’ll tell Mike we’ve got theatre tickets or something (to make sure he dresses up a bit) but I’ll suggest a quick drink at the Gatepost first. When we’ve got our drinks, I’ll bring him out to the garden. Then, as soon as we appear, you can all start singing ‘Happy Birthday’ – he won’t know what’s going on! If everything goes according to plan, there should be about twenty of us, and my idea would be to have dinner there too (although it’s not a proper restaurant, the food when I went was delicious). What do you reckon?
 
-**Q:** should use?
-**A:** special at all, but there’s a lovely garden round the back that
+**Q:** I'd better get going now?
+**A:** because my lunch break’s almost over. I know you and Derek are free on the day because we chatted about that last week, but let me know what you think of my plans.
 
-**Q:** If everything goes according to plan, there should be about twenty of us, and my idea would be to have dinner there too (although it’s not a proper restaurant, the food when I went?
+**Q:** Bye for now?
+**A:** Isabel (3) We can signal to the reader that we’re about to finish by using expressions like “I’d better get going”, “Looking forward to hearing from you soon”, “Can’t wait to see you”, and “Send my love to your family”. (4) We can finish an informal letter or email with expressions like “Best wishes”, “Love”, or “Bye for now”.
 
-**Q:** was delicious). What do you reckon?
-**A:** (3) We can signal to the reader that we’re about to finish by using “Looking forward to hearing from you soon”, “Can’t wait to see you”, and “Send my love to your family”. or email with expressions like “Best wishes”, “Love”, or “Bye for now”.
-
-**Q:** How do we usually start an informal letter or email??
+**Q:** How do we usually start an informal letter or email?
 **A:** We usually start … “Dear (Name)” or “Hi (Name)”
 
-**Q:** Should we use contractions in this kind of writing??
+**Q:** Should we use contractions in this kind of writing?'?
 **A:** Yes, …
 
-**Q:** Tell me some expressions we often use near the end of an informal letter?
-**A:** now”, “Looking forward to hearing from you soon”, “Can’t wait to see you”, “Send my love to your family” etc. “Best wishes”, “Love”, “Bye for now” etc.
+**Q:** Tell me some expressions we often use near the end of an informal letter or email.'?
+**A:** Some expressions … “I’d better get going now”, “Looking forward to hearing from you soon”, “Can’t wait to see you”, “Send my love to your family” etc.
 
-**Q:** bookshop or newsagent’s to see what novels and magazines are on sale?
-**A:**  Yes, … ~ No, …
+**Q:** And how can we finish such a letter or email?'?
+**A:** We can finish …
+
+**Q:** Before leaving on a holiday or long flight, do you look around the airport bookshop or newsagent's to see what novels and magazines are on sale?
 
 **Q:** Why or why not?
 
-**Q:** Why do some people prefer not to transfer money from one country to another via the internet? Some … because they feel it isn’t adequately secure?
-
-**Q:** onnn?
-**A:** make for exit
+**Q:** Why do some people prefer not to transfer money from one country to another via the internet?
+**A:** Some … because they feel it isn’t adequately secure 1000
 
 **Q:** If there were a fire alert in this building, which exit would you make for?
-**A:**  If …, I’d …
 
 **Q:** Do professional ballet dancers need very high levels of technical skill?
-**A:**  Yes, …
 
 **Q:** Do the technical aspects of computers (or car engines) confuse you?
-**A:**  Yes, … ~ No, …
 
-**Q:** Are there many countries whose citizens can gain entry to this country?
-
-**Q:** without the need for a visa?
+**Q:** Are there many countries whose citizens can gain entry to this country without the need for a visa?
 **A:** Yes, … ~ No, …
 
 **Q:** Were many countries around the world at war with one another between?
@@ -2012,168 +1741,128 @@ Before leaving on a holiday or long flight, do you look around the airport
 **Q:** 1939 and 1945?
 **A:** Yes, many …
 
-**Q:** If a friend of yours, who you knew was a dreadful driver, offered to give?
-
-**Q:** you a lift, what would you do?
+**Q:** If a friend of yours, who you knew was a dreadful driver, offered to give you a lift, what would you do?
 **A:** If …, I’d …
 
 **Q:** Why?
+**A:** 1001
 
-**Q:** POOP In your opinion, are the clothes I’m wearing appropriate for the weather?
-**A:** appropriate interval distract cast
-
-**Q:** we’re having today?
+**Q:** In your opinion, are the clothes I'm wearing appropriate for the weather we're having today?
 **A:** Yes, … ~ No, …
 
-**Q:** If you weren’t enjoying a play at the theatre, why would it be more appropriate to leave during an interval than during the performance?
-
-**Q:** itself?
+**Q:** If you weren't enjoying a play at the theatre, why would it be more appropriate to leave during an interval than during the performance itself?
 **A:** If …, it’d be more … because leaving during the performance might well distract members of the audience, and even the cast
 
-**Q:** Does a train accelerate when it pulls into a station??
+**Q:** Does a train accelerate when it pulls into a station?
 **A:** No, a train doesn’t …; it slows down and comes to a halt
 
-**Q:** Name some fast-food outlets in this neighbourhood.?
+**Q:** Name some fast-food outlets in this neighbourhood.?
 **A:** The names of …
 
-**Q:** Do you agree that sport provides an invaluable outlet for bored and?
-
-**Q:** restless teenagers who might otherwise get into trouble?
+**Q:** Do you agree that sport provides an invaluable outlet for bored and restless teenagers who might otherwise get into trouble?
 **A:** Yes, … ~ No, …
 
 **Q:** Why or why not?
 
-**Q:** Which person in the world today impresses you the most, and what do?
+**Q:** Which person in the world today impresses you the most, and what do you find so impressive about them?
+**A:** The person who … 1002
 
-**Q:** you find so impressive about them?
-**A:** The person who …
-
-**Q:** onnp?
-**A:** estimate quote
-
-**Q:** Are you good at estimating the cost of things, such as houses, paintings,?
-
-**Q:** clothes etc.?
+**Q:** Are you good at estimating the cost of things, such as houses, paintings, clothes etc.?
 **A:** Yes, … ~ No, …
 
-**Q:** When considering the cost of repairs to a car, why should you always ask?
-
-**Q:** the mechanic to give you a quote rather than an estimate?
-**A:** When …, …  because a quote tells you the actual cost of the repairs, whereas an estimate is only approximate and the actual cost may be higher
+**Q:** When considering the cost of repairs to a car, why should you always ask the mechanic to give you a quote rather than an estimate?
+**A:** When …, … because a quote tells you the actual cost of the repairs, whereas an estimate is only approximate and the actual cost may be higher
 
 **Q:** Can you tell me a well-known quote from a famous historical figure?
 **A:** Yes, … ~ No, …
 
 **Q:** What is it?
 
-**Q:** What’s a rowing boat in danger of doing if it starts to leak badly?
-**A:**  A rowing boat’s in danger of sinking if …
+**Q:** What's a rowing boat in danger of doing if it starts to leak badly?
 
-**Q:** How do people feel when, after having been in danger for a time, they finally find themselves out of danger?  People feel relieved when, after …?
+**Q:** How do people feel when, after having been in danger for a time, they finally find themselves out of danger?
+**A:** People feel relieved when, after …
 
-**Q:** Are your memories of early childhood mainly visual, or can you recollect?
+**Q:** Are your memories of early childhood mainly visual, or can you recollect actual conversations you had with people?
+**A:** My memories … 1003
 
-**Q:** 1003 Do you visualize the world fifty years from now as being very different?
-**A:**  Yes, … ~ No, …
+**Q:** Do you visualize the world fifty years from now as being very different?
 
-**Q:** If a drain outside your house was blocked, what would you do??
+**Q:** If a drain outside your house was blocked, what would you do?
 **A:** If …, I’d …
 
-**Q:** Has anyone in your family established their own company??
+**Q:** Has anyone in your family established their own company?
 **A:** Yes, … ~ No, …
 
-**Q:** Tell me two meanings of the word “cabin”, please. And what do we call the part of a plane where the pilot sits??
-**A:** Two … a small, simple house made of wood, and the part of an aircraft where the passengers sit We call … the cockpit
+**Q:** Tell me two meanings of the word "cabin", please.?
+**A:** Two … a small, simple house made of wood, and the part of an aircraft where the passengers sit
 
-**Q:** When on board a plane, do you pay attention when members of the cabin crew explain emergency procedures before take-off? Yes, … ~ No, …?
+**Q:** And what do we call the part of a plane where the pilot sits?
+**A:** We call … the cockpit
+
+**Q:** When on board a plane, do you pay attention when members of the cabin crew explain emergency procedures before take-off?
+**A:** Yes, … ~ No, …
 
 **Q:** What kind of things are usually delivered by post?
-**A:** The kind … birthday cards, bills, small packages etc.
+**A:** The kind … birthday cards, bills, small packages etc. 1004
 
-**Q:** onnr?
-**A:** feedback frank
-
-**Q:** When a manager gives an employee feedback on their performance at work, do you think they should always speak frankly or should they take?
-
-**Q:** into account the worker’s character?
+**Q:** When a manager gives an employee feedback on their performance at work, do you think they should always speak frankly or should they take into account the worker's character?
 **A:** When …, I think …
 
-**Q:** If one family member goes down with flu, are other members of the?
-
-**Q:** household liable to catch it as well?
+**Q:** If one family member goes down with flu, are other members of the household liable to catch it as well?
 **A:** Yes, if …, other members …
 
-**Q:** When you’re at work, who’s liable for your safety??
+**Q:** When you're at work, who's liable for your safety?
 **A:** When …, my employer is …
 
-**Q:** Do you believe there’s any difference in the way men and women display?
-
-**Q:** their emotions?
+**Q:** Do you believe there's any difference in the way men and women display their emotions?
 **A:** Yes, … ~ No, …
 
 **Q:** What do you think the difference is, then?
 **A:** I think …
 
-**Q:** Did your primary school used to show off its pupils’ work to visitors by?
-
-**Q:** creating displays around the building?
+**Q:** Did your primary school used to show off its pupils' work to visitors by creating displays around the building?
 **A:** Yes, … ~ No, …
 
-**Q:** Why do you suppose people, especially children, show off??
+**Q:** Why do you suppose people, especially children, show off?
 **A:** I suppose …
 
-**Q:** have on What’s the most expensive article of clothing you have on at the?
+**Q:** What's the most expensive article of clothing you have on at the moment?
+**A:** The most expensive … 1005
 
-**Q:** moment?
-**A:** The most expensive …
+**Q:** When you first started at this school, did you have any prior knowledge of the Callan Method?
+**A:** Yes, … ~ No, …
 
-**Q:** onns?
-**A:** prior prior to priority output
-
-**Q:** When you first started at this school, did you have any prior knowledge?
-
-**Q:** of the Callan Method?
-**A:** Yes, … ~ No, … Prior to the use of computers in industry, was factory output generally
-
-**Q:** lower?
+**Q:** Prior to the use of computers in industry, was factory output generally lower?
 **A:** Yes, prior to …
 
-**Q:** Which is a higher priority for you: having plenty of spare time or having?
-
-**Q:** plenty of money?
+**Q:** Which is a higher priority for you: having plenty of spare time or having plenty of money?
 **A:** Having … is a higher priority for me than …
 
-**Q:** Is it common for a person to have a scientific mind but also possess great?
-
-**Q:** artistic talent?
+**Q:** Is it common for a person to have a scientific mind but also possess great artistic talent?
 **A:** No, …
 
-**Q:** Would you say one needed scientific skills to be an inventor? Yes, I’d say …?
-**A:** ~ No, I wouldn’t say …
+**Q:** Would you say one needed scientific skills to be an inventor?
+**A:** Yes, I’d say … ~ No, I wouldn’t say …
 
-**Q:** If a series of similar crimes occurred in one area within a short period,?
-
-**Q:** what might the police assume?
+**Q:** If a series of similar crimes occurred in one area within a short period, what might the police assume?
 **A:** If …, the police might assume that just one person was responsible for the crimes
 
-**Q:** What do we call each individual programme that a TV series is composed?
-
-**Q:** of?
+**Q:** What do we call each individual programme that a TV series is composed of?
 **A:** We call … an episode
 
-**Q:** If a cat’s territory was invaded by a fox, do you think the cat would be?
-
-**Q:** more liable to fight the fox or run away?
+**Q:** If a cat's territory was invaded by a fox, do you think the cat would be more liable to fight the fox or run away?
 **A:** If …, I think …
 
-**Q:** POOU Running short of space while painting,/ we had to stand our mattress vertically/ against the bedroom wall./ The crush on the morning train/ can put me in an awful mood./ The corkscrew slipped from my hand/ and fell straight into the bowl of sauce,/ which earned me a round of applause/ from my guests./ My cat had a good long stretch/ before trying the sour cream/ I’d placed in front of her./ If he goes on acting like this,/ the respect that his staff/ currently feel for him/ will quickly fade./ Only a fool would believe/ that a tame lion/ isn’t still a dangerous animal./ Ditch, cough, reward, swear, goat.?
-**A:** Dictation 118
+### Dictation
+> 1006 Running short of space while painting,/ we had to stand our mattress vertically/ against the bedroom wall./ The crush on the morning train/ can put me in an awful mood./ The corkscrew slipped from my hand/ and fell straight into the bowl of sauce,/ which earned me a round of applause/ from my guests./ My cat had a good long stretch/ before trying the sour cream/ I’d placed in front of her./ If he goes on acting like this,/ the respect that his staff/ currently feel for him/ will quickly fade./ Only a fool would believe/ that a tame lion/ isn’t still a dangerous animal./ Ditch, cough, reward, swear, goat.
 
 ---
 
 ## Lesson 171
 
 ### Vocabulary
+- **Writing a cover letter**
 - **along with**
 - **availability**
 - **CV (curriculum vitae)**
@@ -2181,31 +1870,30 @@ Before leaving on a holiday or long flight, do you look around the airport
 - **summarize**
 - **enthusiasm**
 - **A cover letter:**
-- **applying for**
-- **(3) Highlight**
-- **and**
-- **any**
-- **particularly**
-- **relevant**
-- **experience**
-- **and skills from**
-- **(4) Show**
-- **your**
-- **for the**
-- **company**
-- **(5) Mention**
-- **(6) Thank**
-- **the**
-- **company for**
-- **(7) Mention your**
-- **considering**
-- **David Jones” or “Dear Mr Jones”?**
+- **•**
+- **for a job;**
+- **let them know our availability for interview;**
+- **should start (if we know the name of the person dealing**
+- **with applications) with “Dear Mr Jones”, not “Dear David” or**
+- **“Dear David Jones”; and at the end, we should write “Yours**
+- **sincerely”. If we don’t know the name of the person dealing**
+- **the end, we should write “Yours faithfully”.**
+- **retail**
+- **put into practice**
+- **vacancy**
+- **restrict**
+- **coach**
+- **regulation**
+- **comply**
 - **frown**
 - **out of the question**
 - **put out**
 - **go out**
 - **glow**
 - **barbecue**
+- **knock down**
+- **knock out**
+- **knockout**
 - **opponent**
 - **round**
 - **vehicle**
@@ -2224,6 +1912,8 @@ Before leaving on a holiday or long flight, do you look around the airport
 - **flute**
 - **on behalf of**
 - **site**
+- **hilarious**
+- **burst out laughing**
 - **survey**
 - **research**
 - **crucial**
@@ -2245,62 +1935,53 @@ Before leaving on a holiday or long flight, do you look around the airport
 - **perceive**
 - **demolish**
 
-### Grammar Notes
-•      is a formal letter that we send along with our CV when we apply
-for a job;
-•      is written for three main reasons: to say which job we’re applying
-for, to persuade the reader that our CV is worth reading, and to
-let them know our availability for interview;
-•      should start (if we know the name of the person dealing
-with applications) with “Dear Mr Jones”, not “Dear David” or
-“Dear David Jones”; and at the end, we should write “Yours
-sincerely”. If we don’t know the name of the person dealing
-with applications, we should start with “Dear Sir or Madam”; at
-the end, we should write “Yours faithfully”.
-saw advertised in the Daily Standard on 14th July.                   say where
-Although I am currently employed, I feel that working for
-your company would offer me a new and exciting challenge.
-I have always admired the quality of the suits and other
-formal clothing you produce, and, as such, would be able to
-and job.                                                                           any relevant
-Yours sincerely                                      availability for
-application.   Michael White
-Make a sentence with “on behalf of”, please.     Steve thanked the manager
-For each sentence below, choose one word from the word pool that fits
-correctly in the gap.
+### Notes
+> is a formal letter that we send along with our CV when we apply
+> is written for three main reasons: to say which job we’re applying
+> for, to persuade the reader that our CV is worth reading, and to
+> with applications, we should start with “Dear Sir or Madam”; at
+> For each sentence below, choose one word from the word pool that fits
+> correctly in the gap.
 
 ### Q&A Drill
-**Q:** POOV Please note: There are writing homework titles at the end of this book.?
-**A:** Writing a cover letter
+**Q:** I am writing to apply in the Daily Standard on 14th July?
+**A:** for the position of Sales Assistant that I saw advertised . (2) If appropriate, say where and when you saw the advert for the position.
 
-**Q:** POOW (1) First,?
-**A:** retail put into practice vacancy Dear Mr Jones
+**Q:** As you can see from my CV?
+**A:** , I already have over three years of retail experience, and have spent the last nine months working in a busy high-fashion sales environment. (3) Highlight and summarize any particularly relevant experience and skills from your CV. Although I am currently employed, I feel that working for your company would offer me a new and exciting challenge.
 
-**Q:** say you’re?
-**A:** (2) If and when advert for
+**Q:** I have always admired friendly and professional manner attention to detail?
+**A:** the quality of the suits and other formal clothing you produce, and, as such, would be able to bring genuine enthusiasm to any sale. Working in your outlet would also present me with an opportunity to put into practice the tailoring skills that I acquired whilst studying fashion at university. (4) Show your enthusiasm for the company and job. (5) Mention any relevant abilities and personal qualities you have. When dealing with people in the workplace, I pride myself on my , and customers can rely on my high level of to ensure they leave with the product best suited to their individual needs. I feel strongly that this is the main reason I have managed to build loyalty among my customers, some of whom return on a regular basis.
 
-**Q:** When dealing with people in the workplace, I pride myself on my friendly and professional manner, and customers can rely on my high level of attention to detail to ensure they leave with the product best suited to their individual needs. I feel strongly that this is the main reason I have managed to build loyalty among my customers, some of whom return on a regular basis. Thank you for taking the time to consider my application. I am available to attend an interview at any time, and look?
-**A:** abilities and personal qualities you have.
+**Q:** Thank you available to attend an interview at any time?
+**A:** for taking the time to consider my application. I am , and look forward to hearing from you in the near future. Yours sincerely (7) Mention your availability for interview. Michael White (6) Thank the company for considering your application.
 
 **Q:** What do we mean by a cover letter?
 **A:** By …, we mean a formal letter that we send along with our CV when we apply for a job
 
 **Q:** What are the three main reasons for writing a cover letter?
-**A:** The … to say which job we’re applying for, to persuade the reader that our CV is worth reading, and to let them know our availability for interview 1009 When writing an application letter or email to someone called “David Jones”, for example, how should we start the letter: “Dear David”, “Dear
+**A:** The … to say which job we’re applying for, to persuade the reader that our CV is worth reading, and to let them know our availability for interview 1009
 
-**Q:** How can we start the letter if we don’t know the person’s name?
+**Q:** When writing an application letter or email to someone called "David?
+
+**Q:** Jones", for example, how should we start the letter: "Dear David", "Dear?
+
+**Q:** David Jones" or "Dear Mr Jones"?
+**A:** When …, … “Dear Mr Jones”
+
+**Q:** How can we start the letter if we don't know the person's name?
 **A:** If …, … with “Dear Sir or Madam”
 
-**Q:** What’s the first piece of information we should put in a cover letter?
+**Q:** What's the first piece of information we should put in a cover letter?
 **A:** The first … why we’re writing
 
 **Q:** Give me some examples, please.?
 **A:** I am writing to apply for the position of …; I am writing to enquire whether you have any vacancies …
 
-**Q:** What else should we say in the introduction paragraph? In the introduction In the main paragraphs of the letter, how can we persuade the reader to?
-**A:** paragraph, we should also say where and when we saw the advert for the position, if appropriate
+**Q:** What else should we say in the introduction paragraph?
+**A:** In the introduction paragraph, we should also say where and when we saw the advert for the position, if appropriate
 
-**Q:** consider our application?
+**Q:** In the main paragraphs of the letter, how can we persuade the reader to consider our application?
 **A:** In …, … by highlighting and summarizing any particularly relevant experience and skills from our CV, and by showing enthusiasm for the company and job
 
 **Q:** What else can we do?
@@ -2309,145 +1990,96 @@ correctly in the gap.
 **Q:** How should we conclude the letter?
 **A:** We … by thanking the company for considering our application, and mentioning our availability for interview
 
-**Q:** If we’ve used a name at the start of the letter, how should we finish it?
-**A:**  If …, … “Yours sincerely”
+**Q:** If we've used a name at the start of the letter, how should we finish it?
 
-**Q:** And how should we finish if we haven’t used a name at the start?
-**A:**  If …, … “Yours faithfully”
+**Q:** And how should we finish if we haven't used a name at the start?
 
-**Q:** onon?
-**A:** restrict coach regulation comply
+**Q:** Do you agree that mobile phone use on trains should be restricted to a limited number of coaches?
+**A:** Yes, … ~ No, …
 
-**Q:** Do you agree that mobile phone use on trains should be restricted to a?
-
-**Q:** limited number of coaches?
-**A:** Yes, … ~ No, … And if such a regulation were established, do you think most people
-
-**Q:** would comply with it?
+**Q:** And if such a regulation were established, do you think most people would comply with it?
 **A:** Yes, … ~ No, …
 
 **Q:** When do people usually frown?
 **A:** People … when they feel annoyed, when they’re confused, or when they’re concentrating hard
 
-**Q:** Give me an example of the expression “out of the question”, please. ?
-**A:** I’m sorry; you can’t borrow my car. It’s totally out of the question. You’ve had too many accidents.
+**Q:** Give me an example of the expression "out of the question", please.?
 
-**Q:** If you’d finished using a barbecue but the fire was still glowing, would?
+**Q:** If you'd finished using a barbecue but the fire was still glowing, would you put it out with water, for example, or wait for it to go out on its own?
 
-**Q:** you put it out with water, for example, or wait for it to go out on its own?
-**A:**  If …, I’d …
-
-**Q:** onoo?
-**A:** knock down knock out knockout
-
-**Q:** If a boxer manages to knock his opponent down easily in both the first and second round, can he reasonably expect to be able to knock him out?
-
-**Q:** fairly soon after?
+**Q:** If a boxer manages to knock his opponent down easily in both the first and second round, can he reasonably expect to be able to knock him out fairly soon after?
 **A:** Yes, if …, he can …
 
-**Q:** What do we mean by a knockout competition? By a knockout competition,?
-**A:** we mean one that consists of different rounds, and where only the winner of each match goes through to the next round
+**Q:** What do we mean by a knockout competition?
+**A:** By a knockout competition, we mean one that consists of different rounds, and where only the winner of each match goes through to the next round
 
 **Q:** Name me some types of vehicles.?
 **A:** Some types … are cars, vans, lorries (or trucks), motorbikes, horse-drawn carts etc.
 
-**Q:** Why do some lorries have “long vehicle” written on their rear ends?
-**A:**  Some lorries … to indicate to the vehicles coming behind that it will be difficult to overtake
+**Q:** Why do some lorries have "long vehicle" written on their rear ends?
 
 **Q:** Would you say learning to cook was merely a matter of following recipes?
-**A:**  Yes, … ~ No, …
 
-**Q:** How do we spell the word “principal” in the following sentence: “The principal melody in this piece of music is known all around the?
+**Q:** How do we spell the word "principal" in the following sentence:?
 
-**Q:** world”?
-**A:** p–r–i–n–c–i–p–a–l
+**Q:** "The principal melody in this piece of music is known all around the world"?
+**A:** p–r–i–n–c–i–p–a–l 1012
 
-**Q:** onop?
-**A:** How do we spell the word “principle” in the following sentence:
+**Q:** How do we spell the word "principle" in the following sentence:?
 
-**Q:** “My basic principle in life is to treat everybody with respect”?
-**A:**  p–r–i–n–c–i–p–l–e
+**Q:** "My basic principle in life is to treat everybody with respect"?
 
-**Q:** What do we call a woman and man on their wedding day??
+**Q:** What do we call a woman and man on their wedding day?
 **A:** We call … the bride and groom (bridegroom)
 
-**Q:** Name some instruments that we commonly hear in an orchestra. ?
-**A:** Some instruments that we … violin, trumpet, flute etc. on behalf of all the players in the team
+**Q:** Name some instruments that we commonly hear in an orchestra.?
+
+**Q:** Make a sentence with "on behalf of", please.?
+**A:** Steve thanked the manager on behalf of all the players in the team
 
 **Q:** What do we mean by a site?
 **A:** By a site, we mean the place where something was, is, or will be
 
-**Q:** Do some large office buildings have restaurants on site? ?
+**Q:** Do some large office buildings have restaurants on site?
 **A:** Yes, …
 
-**Q:** What else is the word “site” used to refer to??
-**A:** The word “site” … a website
+**Q:** What else is the word "site" used to refer to?
+**A:** The word “site” … a website 1013
 
-**Q:** onoq?
-**A:** hilarious burst out laughing
-
-**Q:** When people find something hilarious, what do they do??
+**Q:** When people find something hilarious, what do they do?
 **A:** When …, they burst out laughing
 
-**Q:** What’s a survey?
-**A:** A survey is a form of research that involves asking  many people questions in order to discover facts or opinions
+**Q:** What's a survey?
+**A:** A survey is a form of research that involves asking many people questions in order to discover facts or opinions
 
-**Q:** Why is it crucial for companies to carry out customer surveys? It’s crucial …?
-**A:** as it provides them with important information for new or existing projects, such as the development of products and services
-
-**Q:** P As we were all fit, we easily managed to half of the football match.?
-**A:** The boxer was so exhausted that he could hardly lift his hands to properly. the second
-
-**Q:** q?
-**A:** Your ideas for any solution will depend on how you personally the problem itself.
-
-**Q:** r?
-**A:** If you know how to , it’s really easy to make a scarf.
-
-**Q:** T eating and drinking in the building.?
-**A:** If people keep making such a mess, we’ll have to
-
-**Q:** onor?
-**A:** 6 She finished writing the book last month and now she’s going to it with drawings.
-
-**Q:** u?
-**A:** Don’t at me about what’s going on; it’s got nothing to
-
-**Q:** do with me!?
-
-**Q:** v?
-**A:** They may the bridge if tests show it’s not safe anymore.
-
-**Q:** X so rude!?
-**A:** I absolutely the way she talks to her colleagues; she’s
-
-**Q:** PO machine.?
-**A:** I can’t see where I’m supposed to the batteries in this
-
-**Q:** oo?
-**A:** How did the killer manage to the man in the stomach if
-
-**Q:** there was no knife in the room?
-
-**Q:** PQ water once a day.?
-**A:** To keep the plant healthy, you should the leaves with
-
-**Q:** PR of the page.?
-**A:** If you need help, just the number shown at the bottom
-
-**Q:** PS haircut; he’s really sensitive about it.?
-**A:** It’s probably not a good idea to him about his new
-
-**Q:** PT months.?
-**A:** He continued to over his grandfather’s death for many
+**Q:** Why is it crucial for companies to carry out customer surveys?
+**A:** It’s crucial … as it provides them with important information for new or existing projects, such as the development of products and services 1 The boxer was so exhausted that he could hardly lift his hands to properly. As we were all fit, we easily managed to the second half of the football match. 3 Your ideas for any solution will depend on how you personally the problem itself. 4 If you know how to , it’s really easy to make a scarf. 5 If people keep making such a mess, we’ll have to eating and drinking in the building. 1014 6 She finished writing the book last month and now she’s going to it with drawings. 7 Don’t at me about what’s going on; it’s got nothing to do with me! 8 They may the bridge if tests show it’s not safe anymore. 9 I absolutely the way she talks to her colleagues; she’s so rude! 10 I can’t see where I’m supposed to the batteries in this machine. 11 How did the killer manage to the man in the stomach if there was no knife in the room? 12 To keep the plant healthy, you should the leaves with water once a day. 13 If you need help, just the number shown at the bottom of the page. 14 It’s probably not a good idea to him about his new haircut; he’s really sensitive about it. 15 He continued to over his grandfather’s death for many months.
 
 ---
 
 ## Lesson 172
 
 ### Vocabulary
-- **and stress affect your performance?**
+- **Common verb suffixes**
+- **(sometimes spelt “-ise”) and “-ate”.**
+- **“active”, we can make the verb “activate”.**
+- **“minimize”**
+- **(or**
+- **“minimise”),**
+- **“computerize”**
+- **“computerise”),**
+- **“alternate” and “regulate”.**
+- **initial**
+- **initially**
+- **amaze**
+- **amazing**
+- **when it comes to**
+- **sit an exam**
+- **limitation**
 - **dimension**
+- **select**
+- **selection**
+- **recruit**
 - **personnel**
 - **applicant**
 - **accurate**
@@ -2455,16 +2087,22 @@ correctly in the gap.
 - **drive somebody crazy**
 - **look up to**
 - **look down on**
+- **laundry**
+- **launderette**
 - **convert**
 - **even**
 - **uneven**
 - **plough**
 - **odd**
+- **get back**
 - **digital**
 - **introduction**
 - **carbohydrate**
 - **protein**
 - **substitute**
+- **scare**
+- **expose**
+- **reveal**
 - **vague**
 - **spot**
 - **tiny**
@@ -2480,239 +2118,219 @@ correctly in the gap.
 - **gear**
 - **stationary**
 - **clutch**
+- **setting**
+- **be set**
+- **surroundings**
 - **as opposed to**
 - **Phrase exercise 3**
-- **didn’t come with us.**
-- **thought it would. **
-- **my question.**
-- **stupid.**
 
-### Grammar Notes
-And when it comes to communicating in English, what would you say was
-In what ways has the introduction of digital cameras made photography
-From the four options given with each sentence, choose the one word that
-fits correctly in the gap.
-        ( piece by piece / over and over / bit by bit / time to time )
+### Notes
+> Some common suffixes we use to form verbs are: “-en”, “-ify”, “-ize”
+> For example, from the word “hard”, we can make the verb “harden”;
+> from the word “simple”, we can make the verb “simplify”; from the word
+> “standard”, we can make the verb “standardize”, and from the word
+> Some other examples are: “soften”, “ripen”, “identify”, “notify”,
+> From the four options given with each sentence, choose the one word that
+> fits correctly in the gap.
 
 ### Q&A Drill
-**Q:** POPT Some common suffixes we use to form verbs are: “-en”, “-ify”, “-ize” (sometimes spelt “-ise”) and “-ate”. For example, from the word “hard”, we can make the verb “harden”; from the word “simple”, we can make the verb “simplify”; from the word “standard”, we can make the verb “standardize”, and from the word “active”, we can make the verb “activate”. Some other examples are: “soften”, “ripen”, “identify”, “notify”, “minimize” (or “minimise”), “computerize” (or “computerise”), “alternate” and “regulate”. Make a sentence containing a verb with the suffix “-en”, please.  Make a sentence containing a verb with the suffix “-ify”, please.   Make a sentence containing a verb with the suffix “-ize” (or “-ise”), please.   Make a sentence containing a verb with the suffix “-ate”, please. ?
-**A:** Common verb suffixes She uses a special cream to soften her skin. When a banana ripens, it turns yellow. It was easy for the police to identify him as the man they were searching for. I have to notify my bank that my address has changed. By making this a no-smoking area, we can minimize (or minimise) the risk of fire. When the office was computerized (or computerised), several members of staff lost their jobs. He owns two cars and alternates between them. The government should regulate this industry more carefully.
+**Q:** Make a sentence containing a verb with the suffix "-en", please.?
 
-**Q:** onot?
-**A:** initial initially amaze amazing
+**Q:** Make a sentence containing a verb with the suffix "-ify", please.?
+**A:** It was easy for the police to identify him as the man they were searching for. I have to notify my bank that my address has changed.
+
+**Q:** Make a sentence containing a verb with the suffix "-ize" (or "-ise"), please.?
+**A:** By making this a no-smoking area, we can minimize (or minimise) the risk of fire. When the office was computerized (or computerised), several members of staff lost their jobs.
+
+**Q:** Make a sentence containing a verb with the suffix "-ate", please.?
 
 **Q:** What are your initials?
 **A:** My initials are M.F.R. (Mario Franco Rossi)
 
-**Q:** What’s the average student’s initial reaction to the Callan Method?
-**A:**  The average … is to be amazed by the speed of the lessons
+**Q:** What's the average student's initial reaction to the Callan Method?
 
-**Q:** Give me an example of the word “initially”, please. ?
+**Q:** Give me an example of the word "initially", please.?
 **A:** Initially, I didn’t like my new flatmate, but now I get on well with her
 
-**Q:** Which do you think’s the most amazing animal in the world??
+**Q:** Which do you think's the most amazing animal in the world?
 **A:** I think …
 
-**Q:** when it comes to?
-**A:** sit an exam limitation
+**Q:** When it comes to sitting exams, do you tend to cope well or do nerves and stress affect your performance?
+**A:** When it comes to …, …
 
-**Q:** When it comes to sitting exams, do you tend to cope well or do nerves?
-
-**Q:** your biggest limitation?
+**Q:** And when it comes to communicating in English, what would you say was your biggest limitation?
 **A:** When it …, I’d say …
 
 **Q:** What are the approximate dimensions of your Callan Method book?
-**A:**  The dimensions …
 
-**Q:** onou?
-**A:** select selection recruit
+**Q:** When recruiting new personnel, why is it often difficult for companies to accurately judge job applicants and select the best people?
+**A:** When recruiting …, it’s … because …
 
-**Q:** When recruiting new personnel, why is it often difficult for companies to?
-
-**Q:** accurately judge job applicants and select the best people?
-**A:** When  recruiting …, it’s … because … In your opinion, is it better for a restaurant to have a vast selection of dishes on its menu rather than just a few? Yes, in my opinion, … ~ No, in my opinion, …
+**Q:** In your opinion, is it better for a restaurant to have a vast selection of dishes on its menu rather than just a few?
+**A:** Yes, in my opinion, … ~ No, in my opinion, …
 
 **Q:** Why?
 
 **Q:** What kind of music drives you crazy?
 **A:** … drives me crazy
 
-**Q:** Name someone alive today that you think many people look up to. ?
-**A:** The name of …
+**Q:** Name someone alive today that you think many people look up to.?
 
-**Q:** What’s the opposite of “look up to”?
+**Q:** What's the opposite of "look up to"?
 **A:** The opposite … “look down on”
 
 **Q:** Give me an example, please.?
-**A:** For many years, he looked down on his brother for having wasted his university education
+**A:** For many years, he looked down on his brother for having wasted his university education 1018
 
-**Q:** onov?
-**A:** laundry launderette
-
-**Q:** If you don’t own a washing machine, where do you have to go to do your?
-
-**Q:** laundry?
+**Q:** If you don't own a washing machine, where do you have to go to do your laundry?
 **A:** If you don’t ..., ... a launderette ...
 
-**Q:** Where’s the best place to convert foreign currency in this area?
+**Q:** Where's the best place to convert foreign currency in this area?
 **A:** The best …
 
-**Q:** Why is a field very uneven to walk on just after it’s been ploughed by a?
-
-**Q:** farmer?
+**Q:** Why is a field very uneven to walk on just after it's been ploughed by a farmer?
 **A:** A field … because the earth has been turned over and over by the plough
 
 **Q:** What are odd numbers and even numbers?
 **A:** Odd numbers are 1, 3, 5, 7 etc., whereas even numbers are 2, 4, 6, 8 etc.
 
 **Q:** Is it healthy to drink the odd glass of red wine every now and again?
-**A:**  Yes, …
 
 **Q:** What do we mean if we describe someone as odd?
-**A:** If …, we mean they are strange
+**A:** If …, we mean they are strange 1019
 
-**Q:** onow?
-**A:** get back
-
-**Q:** If you were watching a procession in the street and a policeman told you?
-
-**Q:** to get back, what would he want you to do and why?
+**Q:** If you were watching a procession in the street and a policeman told you to get back, what would he want you to do and why?
 **A:** If I were …, he’d want me to move away from the procession, probably because I was standing dangerously close
 
-**Q:** If you left home at 4 o’clock and were away for an hour, at what time?
-
-**Q:** would you get back?
+**Q:** If you left home at 4 o'clock and were away for an hour, at what time would you get back?
 **A:** If …, … 5 o’clock
 
 **Q:** Do you always get back what you lend other people?
 **A:** Yes, … ~ No, …
 
-**Q:** easier?
+**Q:** In what ways has the introduction of digital cameras made photography easier?
 **A:** The introduction … photography is cheaper, photos are easier to edit etc.
 
-**Q:** Name something most people eat that’s high in carbohydrates?
-**A:**  The name … bread (or rice, potatoes, pasta etc.)
+**Q:** Name something most people eat that's high in carbohydrates?
 
 **Q:** Why do vegetarians often use beans as a substitute for meat?
-**A:** Vegetarians … because, like meat, beans contain high levels of protein
+**A:** Vegetarians … because, like meat, beans contain high levels of protein 1020
 
-**Q:** onpn?
-**A:** scare expose reveal
-
-**Q:** Why does the idea of being a passenger on a motorbike tend to scare people more than the idea of travelling in a car??
+**Q:** Why does the idea of being a passenger on a motorbike tend to scare people more than the idea of travelling in a car?
 **A:** The idea of … because motorbike passengers are exposed and more liable to get injured in an accident than passengers in a car
 
-**Q:** What do I mean if I say “The Prime Minister’s secret was exposed in the?
-
-**Q:** press”?
+**Q:** What do I mean if I say "The Prime Minister's secret was exposed in the press"?
 **A:** If …, you mean that the newspapers published a story revealing information that the Prime Minister had wanted to keep secret
 
-**Q:** When you’re on your way to meet someone but only have a vague idea of?
-
-**Q:** where you’re going, what do you do??
+**Q:** When you're on your way to meet someone but only have a vague idea of where you're going, what do you do?
 **A:** When …, I ask someone for directions, use the internet etc.
 
-**Q:** What does the verb “to spot” mean?
+**Q:** What does the verb "to spot" mean?
 **A:** The verb … “to see” or “to notice”
 
-**Q:** If you spotted a tiny stain on the front of a friend’s wedding dress a few hours before the ceremony itself, would you bring the matter up or just?
-
-**Q:** keep quiet?
+**Q:** If you spotted a tiny stain on the front of a friend's wedding dress a few hours before the ceremony itself, would you bring the matter up or just keep quiet?
 **A:** If I spotted …, I’d …
 
-**Q:** What do we call the inside and outside of a building or vehicle, for?
+**Q:** What do we call the inside and outside of a building or vehicle, for example?
+**A:** We … the interior and the exterior 1021
 
-**Q:** example?
-**A:** We … the interior and the exterior
-
-**Q:** onpo?
-**A:** Do you think your parents spent a lot of money on decorating the interior
-
-**Q:** of the home you grew up in?
+**Q:** Do you think your parents spent a lot of money on decorating the interior of the home you grew up in?
 **A:** Yes, … ~ No, …
 
-**Q:** What sort of sporting events have worldwide appeal??
+**Q:** What sort of sporting events have worldwide appeal?
 **A:** The sort of … the Olympic Games, the World Cup etc.
 
 **Q:** Who do you usually appeal to when you need help desperately?
-**A:**  When I …, I usually appeal to my parents, a close friend of mine etc.
 
-**Q:** Why do international broadcasting corporations such as the BBC avoid?
+**Q:** Why do international broadcasting corporations such as the BBC avoid using people with very strong regional accents to announce the news?
 
-**Q:** using people with very strong regional accents to announce the news?
-**A:**  International corporations such  as … because people around the world might have trouble understanding them
-
-**Q:** If two of your friends start arguing, do you think it’s always best to?
-
-**Q:** remain neutral?
+**Q:** If two of your friends start arguing, do you think it's always best to remain neutral?
 **A:** Yes, if …, I think … ~ No, if …, I don’t think …
 
 **Q:** Which gear should a driver be in when stationary at traffic lights?
-**A:**  A driver should be in neutral when …
 
-**Q:** Which pedal do we have to put our foot on when we change gear in a?
-
-**Q:** car?
+**Q:** Which pedal do we have to put our foot on when we change gear in a car?
 **A:** We … the clutch …
 
-**Q:** Do mountaineers have to carry a lot of gear with them??
-**A:** Yes, mountaineers …
+**Q:** Do mountaineers have to carry a lot of gear with them?
+**A:** Yes, mountaineers … 1022
 
-**Q:** POQQ Describe the general setting of the last film you saw, please.?
-**A:** setting be set surroundings The last film I saw was set in …
+**Q:** Describe the general setting of the last film you saw, please.?
+**A:** The last film I saw was set in …
 
-**Q:** Was the house you grew up in set in pleasant surroundings? Yes, … ~ No, …?
+**Q:** Was the house you grew up in set in pleasant surroundings?
+**A:** Yes, … ~ No, …
 
 **Q:** Do you prefer doing physical exercise outside as opposed to in a gym?
-**A:**  Yes, … ~ No, …
 
-**Q:** P with developments at work yet.?
-**A:** I only got back from holiday yesterday, so I’m not really up to … ( rate / level / speed / reach )
+**Q:** 1?
 
-**Q:** p?
-**A:** Your tooth will continue to hurt until the painkillers … effect,
+**Q:** I only got back from holiday yesterday, so I'm not really up to … with developments at work yet.?
+**A:** ( rate / level / speed / reach )
 
-**Q:** which should be in about 15 minutes. ?
-**A:** ( have / cause / make / take )
+**Q:** 2?
 
-**Q:** R ?
-**A:** Oliver was a great friend; I used to … all my problems with him. ( share / divide / split / break )
+**Q:** Your tooth will continue to hurt until the painkillers … effect, which should be in about 15 minutes.?
 
-**Q:** S ?
-**A:** Over the … of the spring, the landscape changed enormously. ( course / term / run / stretch )
+**Q:** 3?
 
-**Q:** T ?
-**A:** What an awful singer; he’s completely out of …! ( melody / sound / note / tune )
+**Q:** Oliver was a great friend; I used to … all my problems with him.?
 
-**Q:** U health.	?
-**A:** Eating fresh fruit regularly had a very positive impact … her ( with / for / over / on )
+**Q:** 4?
 
-**Q:** V ?
-**A:** I eventually … to the conclusion that he’d been lying to me. ( went / came / reached / arrived )
+**Q:** Over the … of the spring, the landscape changed enormously.?
+**A:** ( course / term / run / stretch )
 
-**Q:** W to use the old one.?
-**A:** I’ll order a new printer next week but, for the time …, we’ll have ( waiting / being / keeping / doing )
+**Q:** 5?
 
-**Q:** onpq ?
-**A:** 9 Of course he might refuse to help you but there’s no … in asking. ( harm / damage / cost / threat )
+**Q:** What an awful singer; he's completely out of …!?
 
-**Q:** PO for the last five years or so.  ( jump / increase / grow / fly )?
-**A:** The number of young people studying abroad has been on the …
+**Q:** 6?
 
-**Q:** oo?
-**A:** It was the most boring party we’ve ever been to; it’s just as … you
+**Q:** Eating fresh fruit regularly had a very positive impact … her health.?
+**A:** ( with / for / over / on )
 
-**Q:** op?
-**A:** He’s making progress at school … but it’s taking longer than he
+**Q:** 7?
 
-**Q:** oq?
-**A:** I’m writing this email in the … that you might be able to answer
+**Q:** I eventually … to the conclusion that he'd been lying to me.?
 
-**Q:** or?
-**A:** Some people say there’s a … line between being brave and being
+**Q:** 8?
 
-**Q:** PT ?
-**A:** I like spicy food, but it doesn’t really … with me. ( sit / agree / go / suit )
+**Q:** I'll order a new printer next week but, for the time …, we'll have to use the old one.?
+**A:** ( waiting / being / keeping / doing ) 1023
+
+**Q:** 9?
+
+**Q:** Of course he might refuse to help you but there's no … in asking.?
+
+**Q:** 10?
+
+**Q:** The number of young people studying abroad has been on the … for the last five years or so.?
+**A:** ( jump / increase / grow / fly )
+
+**Q:** 11?
+
+**Q:** It was the most boring party we've ever been to; it's just as … you didn't come with us.?
+**A:** ( fine / well / good / lucky )
+
+**Q:** 12?
+
+**Q:** He's making progress at school … but it's taking longer than he thought it would.?
+
+**Q:** 13?
+
+**Q:** I'm writing this email in the … that you might be able to answer my question.?
+**A:** ( event / hope / reason / case )
+
+**Q:** 14?
+
+**Q:** Some people say there's a … line between being brave and being stupid.?
+**A:** ( thin / fine / narrow / slight )
+
+**Q:** 15?
+
+**Q:** I like spicy food, but it doesn't really … with me.?
+**A:** ( sit / agree / go / suit )
 
 ### Dictation
 > There’ll be little sorrow/ at the king’s departure./ Am I going deaf/ or is our teacher quiet?/ It’s almost like he’s whispering sometimes!/ A war journalist needs to be/ both curious and courageous./ Whatever you do,/ don’t spill that ink;/ it’d leave a terrible stain/ on the carpet./ I’m keen to sell this fruit/ as quickly as possible./ It’s already looking/ a bit overripe,/ and we’ve got tons of it left./ The actual concert venue/ doesn’t open till eight,/ so, meanwhile,/ why don’t we enjoy/ the warmth of that bar?/ The film was ruined for her/ owing to the constant sound of sneezing/ from the row behind her./ Swallow, patience, cushion, decay, coward.
@@ -2722,6 +2340,7 @@ fits correctly in the gap.
 ## Lesson 173
 
 ### Vocabulary
+- **Word pool 3 (nouns)**
 - **kettle**
 - **alarm**
 - **wrinkle**
@@ -2743,6 +2362,9 @@ fits correctly in the gap.
 - **architecture**
 - **architect**
 - **combination**
+- **funds**
+- **abandon**
+- **contribute**
 - **playground**
 - **publicity**
 - **grant**
@@ -2763,13 +2385,13 @@ fits correctly in the gap.
 - **put on**
 - **turn out**
 - **put on weight**
+- **a light – not for other things.**
 - **by all means**
 - **peer**
 - **conduct**
 - **conductor**
 - **laboratory**
 - **interpret**
-- **business meetings to be interesting?**
 - **somehow**
 - **contract**
 - **draw up**
@@ -2777,6 +2399,7 @@ fits correctly in the gap.
 - **expand**
 - **turn into**
 - **brand**
+- **source**
 - **in pieces**
 - **vase**
 - **capacity**
@@ -2784,6 +2407,10 @@ fits correctly in the gap.
 - **analysis**
 - **slam**
 - **bang**
+- **jail**
+- **appalling**
+- **riot**
+- **break out**
 - **penetrate**
 - **bullet**
 - **bulletproof**
@@ -2791,245 +2418,160 @@ fits correctly in the gap.
 - **remains**
 - **litter**
 - **scheme**
-- **e.g**
+- **Word-building exercise 3**
 
-### Grammar Notes
-“Put on” can be used instead of “switch on” or “turn on” when referring
-to a light, a TV, a cooker etc. For example, “She put on the radio to hear
-the news”. We can also use “turn out” instead of “turn off”, but only for
-a light – not for other things.
-Make a sentence with the word “somehow”, please.          He did no training
+### Notes
+> “Put on” can be used instead of “switch on” or “turn on” when referring
+> to a light, a TV, a cooker etc. For example, “She put on the radio to hear
+> the news”. We can also use “turn out” instead of “turn off”, but only for
+> For each sentence below, change the word printed at the beginning so that it
+> fits correctly into the gap. Put your answer on the right.
+> Answers
+> lucky
+> luxury
+> reduce
+> curious
+> general
+> locate
+> prescribe
+> moral
+> promise
+> simple
+> multiply
+> propose
+> remove
+> suspect
+> option
 
 ### Q&A Drill
-**Q:** onpr?
-**A:** Word pool 3 (nouns)
-
 **Q:** In reference to architecture, what do we mean by a column or pillar?
-**A:**  In reference …, … a vertical post, usually made of stone, that supports part of a building
 
-**Q:** Does the work of an architect involve a combination of artistic and?
-
-**Q:** scientific skills?
+**Q:** Does the work of an architect involve a combination of artistic and scientific skills?
 **A:** Yes, the work …
 
-**Q:** Have you ever been asked to write a column for a college magazine or a?
-
-**Q:** local newspaper?
+**Q:** Have you ever been asked to write a column for a college magazine or a local newspaper?
 **A:** Yes, … ~ No, …
 
-**Q:** Is it easier to add up a series of numbers if they’re arranged in a row or a?
+**Q:** Is it easier to add up a series of numbers if they're arranged in a row or a column?
+**A:** It’s easier … column 1025
 
-**Q:** column?
-**A:** It’s easier … column
-
-**Q:** onps?
-**A:** funds abandon contribute
-
-**Q:** Do local councils sometimes have to abandon projects owing to?
-
-**Q:** insufficient funds?
+**Q:** Do local councils sometimes have to abandon projects owing to insufficient funds?
 **A:** Yes, …
 
-**Q:** Why might a business contribute funds towards a local community?
-
-**Q:** project such as the building of playground facilities for children?
-**A:**  A business might … because the owner wants to help …, it’s good publicity etc.
+**Q:** Why might a business contribute funds towards a local community project such as the building of playground facilities for children?
 
 **Q:** If you could have any wish granted, what would it be?
 **A:** If …, it’d be …
 
 **Q:** Does the government of your country give grants to university students?
-**A:**  Yes, … ~ No, …
 
 **Q:** Why is it often quite easy to see through a lie told by a small child?
-**A:**  It’s … obvious from the child’s face …
 
-**Q:** If you bought a jigsaw puzzle but then discovered a piece was missing,?
-
-**Q:** what would you do?
+**Q:** If you bought a jigsaw puzzle but then discovered a piece was missing, what would you do?
 **A:** If …, I’d …
 
 **Q:** Did you often witness instances of bullying at your secondary school?
-**A:**  Yes, … ~ No, …
 
-**Q:** POQU school, would you advise him to stand up for himself or tell him to report?
-**A:** If a ten-year-old boy revealed to you that a bully was picking on him at
-
-**Q:** the bully to a teacher?
+**Q:** If a ten-year-old boy revealed to you that a bully was picking on him at school, would you advise him to stand up for himself or tell him to report the bully to a teacher?
 **A:** If …, I’d …
 
 **Q:** What was the last gig you went to?
-**A:** The last … Where’s a good place to find out about upcoming (forthcoming) gigs in
+**A:** The last …
 
-**Q:** this town?
+**Q:** Where's a good place to find out about upcoming (forthcoming) gigs in this town?
 **A:** A good place …
 
 **Q:** Why do we keep garden tools in a shed rather than in the house?
-**A:**  We … they’re easier to access, they’re too dirty to keep in the house etc. During a criminal investigation, can the police demand access to a
 
-**Q:** suspect’s personal records such as bank statements and email history?
-**A:**  Yes, … ~ No, …
+**Q:** During a criminal investigation, can the police demand access to a suspect's personal records such as bank statements and email history?
 
-**Q:** When giving someone feedback concerning their performance at work,?
+**Q:** When giving someone feedback concerning their performance at work, why is it a good idea for a manager to conclude with a positive remark?
 
-**Q:** why is it a good idea for a manager to conclude with a positive remark?
-**A:**  When …, it’s a good idea … because it leaves the person feeling motivated to perform even better
+**Q:** Do you tend to put the TV on as soon as you get home?
+**A:** Yes, … ~ No, … 1027
 
-**Q:** Do you tend to put the TV on as soon as you get home??
-**A:** Yes, … ~ No, …
-
-**Q:** onpu?
-**A:** Do you turn out your bedroom light before you get into bed or only once
-
-**Q:** you’re in bed?
+**Q:** Do you turn out your bedroom light before you get into bed or only once you're in bed?
 **A:** I turn out …
 
 **Q:** When people eat too much and do too little exercise, what happens?
-**A:**  When …, they put on weight
 
-**Q:** If you asked me for permission to leave the room and I replied “By all?
-
-**Q:** means”, what would you understand?
+**Q:** If you asked me for permission to leave the room and I replied "By all means", what would you understand?
 **A:** If I … and you …, I’d understand that it was absolutely fine for me to leave the room
 
 **Q:** What am I doing?
 **A:** You’re peering over your book at me
 
-**Q:** Is a child’s conduct different when they’re with their peers as opposed to?
-
-**Q:** one of their teachers at school?
+**Q:** Is a child's conduct different when they're with their peers as opposed to one of their teachers at school?
 **A:** Yes, …
 
 **Q:** In what way?
 
-**Q:** What’s the name of the room a scientist uses to conduct experiments?
-**A:**  The name … conduct experiments … laboratory
+**Q:** What's the name of the room a scientist uses to conduct experiments?
 
-**Q:** Do you imagine the job of interpreting during important international?
+**Q:** Do you imagine the job of interpreting during important international business meetings to be interesting?
+**A:** Yes, … ~ No, …
 
 **Q:** Why or why not?
+**A:** 1028
 
-**Q:** onpv?
-**A:** Why does a large orchestra need to have a conductor? A large orchestra … because the conductor helps them all to play in time and interpret the music in the same way for the athletics competition at all but somehow managed to win his race
+**Q:** Why does a large orchestra need to have a conductor?
+**A:** A large orchestra … because the conductor helps them all to play in time and interpret the music in the same way
 
-**Q:** When a contract is drawn up, do both parties have to sign it??
+**Q:** Make a sentence with the word "somehow", please.?
+**A:** He did no training for the athletics competition at all but somehow managed to win his race
+
+**Q:** When a contract is drawn up, do both parties have to sign it?
 **A:** Yes, …
 
 **Q:** When water freezes and turns into ice, does it expand or contract?
-**A:**  When …, it expands
 
-**Q:** What would I mean if I said “The car drew up outside the hotel”?
+**Q:** What would I mean if I said "The car drew up outside the hotel"?
 **A:** If …, you’d mean that the car stopped outside the hotel
 
-**Q:** What’s your favourite brand of coffee (shampoo, toothpaste etc.)?
-**A:**  My favourite …
+**Q:** What's your favourite brand of coffee (shampoo, toothpaste etc.)?
 
 **Q:** What do we mean when we describe something as being brand new?
-**A:**  When …, we mean it’s completely new
 
-**Q:** POQX In which country is the source of the Amazon River??
-**A:** source The source … in Peru
+**Q:** In which country is the source of the Amazon River?
+**A:** The source … in Peru
 
-**Q:** Do you think the internet is the principal source of information for most?
-
-**Q:** people?
+**Q:** Do you think the internet is the principal source of information for most people?
 **A:** Yes, … ~ No, …
 
-**Q:** Do you reckon an ancient Egyptian vase would still be of value to a?
-
-**Q:** museum even if it was in pieces?
+**Q:** Do you reckon an ancient Egyptian vase would still be of value to a museum even if it was in pieces?
 **A:** Yes, … ~ No, …
 
-**Q:** Which sports stadium has the largest capacity in this country??
+**Q:** Which sports stadium has the largest capacity in this country?
 **A:** … has …
 
 **Q:** Do you have any friends who tend to analyse social situations too much?
-**A:**  Yes, … ~ No, …
 
 **Q:** Why might a doctor decide to request a blood analysis for a patient?
-**A:**  A doctor … because a blood analysis can provide valuable clues about what is wrong with the patient
 
-**Q:** When someone slams a door, is there a loud bang??
-**A:** Yes, when …, …
+**Q:** When someone slams a door, is there a loud bang?
+**A:** Yes, when …, … 1030
 
-**Q:** onqn?
-**A:** jail appalling riot break out
-
-**Q:** If the living conditions in a jail were appalling, what might the prisoners?
-
-**Q:** do?
+**Q:** If the living conditions in a jail were appalling, what might the prisoners do?
 **A:** If …, prisoners might start a riot or try to break out
 
-**Q:** What do we mean when we say a room is soundproof or a window is?
-
-**Q:** bulletproof?
+**Q:** What do we mean when we say a room is soundproof or a window is bulletproof?
 **A:** When …, we mean that sound can’t penetrate through the walls of the room, or that a bullet could not penetrate the glass of the window
 
-**Q:** If you were on an excursion to see the remains of an ancient castle and you spotted another tourist dropping litter on the site, what would you?
-
-**Q:** do?
+**Q:** If you were on an excursion to see the remains of an ancient castle and you spotted another tourist dropping litter on the site, what would you do?
 **A:** If …, I’d …
 
-**Q:** How would you react if the government announced a scheme to build a?
-
-**Q:** new prison in your local area?
-**A:** If …, I’d …
-
-**Q:** PORP For each sentence below, change the word printed at the beginning so that it fits correctly into the gap. Put your answer on the right.?
-**A:** Word-building exercise 3 Answers
-
-**Q:** o?
-**A:** luxury One website I was looking at yesterday said this hotel is the most … in the world!
-
-**Q:** p?
-**A:** reduce If I paid in cash, would you be able to offer me a slight … on the price?
-
-**Q:** q?
-**A:** curious Don’t ask too many questions; your … could get you into big trouble!
-
-**Q:** r?
-**A:** general I know I’m … but the people in this city really don’t seem very friendly!
-
-**Q:** s?
-**A:** fool I felt … standing in the rain getting wet when everyone else had brought their umbrellas.
-
-**Q:** t?
-**A:** locate The film is being made in various different … in South America.
-
-**Q:** u?
-**A:** prescribe This is a powerful medicine and you need a … from your doctor to be able to get it.
-
-**Q:** v?
-**A:** moral What you’re planning to do is illegal but it’s also …, which, in my opinion, is worse.
-
-**Q:** w?
-**A:** promise I’ve just checked the weather online and it looks … for the whole week we’re away on holiday.
-
-**Q:** on?
-**A:** simple Don’t think the … of his art means it’s easy to create; quite the opposite is true!
-
-**Q:** oo?
-**A:** multiply The children in this school learn to do … when they’re six years old.
-
-**Q:** op?
-**A:** propose My first … was rejected but they accepted my second one immediately.
-
-**Q:** oq?
-**A:** remove The … of the furniture will make the room look a lot larger than it does now.
-
-**Q:** or?
-**A:** suspect As the weeks passed, we became more and more … of our new neighbour.
-
-**Q:** os?
-**A:** option I paid more than I’d originally planned to for the car; the leather seats were an … extra.
-
-**Q:** onqp?
+**Q:** How would you react if the government announced a scheme to build a new prison in your local area?
+**A:** If …, I’d … 1031 She was … to win the game. One website I was looking at yesterday said this hotel is the most … in the world! If I paid in cash, would you be able to offer me a slight … on the price? Don’t ask too many questions; your … could get you into big trouble! I know I’m … but the people in this city really don’t seem very friendly! I felt … standing in the rain getting wet when everyone else had brought their umbrellas. The film is being made in various different … in South America. This is a powerful medicine and you need a … from your doctor to be able to get it. What you’re planning to do is illegal but it’s also …, which, in my opinion, is worse. I’ve just checked the weather online and it looks … for the whole week we’re away on holiday. Don’t think the … of his art means it’s easy to create; quite the opposite is true! The children in this school learn to do … when they’re six years old. My first … was rejected but they accepted my second one immediately. The … of the furniture will make the room look a lot larger than it does now. As the weeks passed, we became more and more … of our new neighbour. I paid more than I’d originally planned to for the car; the leather seats were an … extra. 1032
 
 ---
 
 ## Lesson 174
 
 ### Vocabulary
+- **trigger**
+- **rifle**
+- **earthquake**
+- **shift**
 - **potential**
 - **collaborate**
 - **downside**
@@ -3039,8 +2581,7 @@ Make a sentence with the word “somehow”, please.          He did no trainin
 - **at first sight**
 - **hug**
 - **hint**
-- **wind**
-- **wound**
+- **wind – wound – wound**
 - **unwind**
 - **yawn**
 - **purchase**
@@ -3048,6 +2589,8 @@ Make a sentence with the word “somehow”, please.          He did no trainin
 - **in order**
 - **come forward**
 - **get on**
+- **dense**
+- **populate**
 - **mist**
 - **fog**
 - **smog**
@@ -3064,9 +2607,11 @@ Make a sentence with the word “somehow”, please.          He did no trainin
 - **construct**
 - **at all costs**
 - **engage**
-- **part**
-- **time**
-- **full**
+- **part-time**
+- **full-time**
+- **numerous**
+- **a handful**
+- **invitation**
 - **appreciate**
 - **function**
 - **comprehend**
@@ -3075,26 +2620,22 @@ Make a sentence with the word “somehow”, please.          He did no trainin
 - **detect**
 - **presence**
 - **lap**
+- **mainland**
+- **tunnel**
 - **remote**
 - **device**
 - **electronic**
 - **objection**
 - **drop off**
 - **undertake**
+- **Phrase exercise 4**
 
-### Grammar Notes
-What’s the main advantage of working in a large office surrounded by
-Count from one to five in reverse order, please.                     5, 4, 3, 2, 1
-After using a vacuum cleaner, do you normally have to wind up the cable
-Make a sentence with the word “overall”, please.      There were one or two
+### Notes
+> From the three options given below each sentence, choose the one that has a
+> similar meaning to the sentence itself.
 
 ### Q&A Drill
-**Q:** onqq?
-**A:** trigger rifle earthquake shift
-
-**Q:** When carrying a rifle, why should a soldier only put his finger on the?
-
-**Q:** trigger just before firing?
+**Q:** When carrying a rifle, why should a soldier only put his finger on the trigger just before firing?
 **A:** When …, … in case the rifle goes off accidentally
 
 **Q:** What triggers earthquakes?
@@ -3103,218 +2644,200 @@ Make a sentence with the word “overall”, please.      There were one or two
 **Q:** Why do some jobs require people to do shift work?
 **A:** Some … because the work needs to be done both day and night
 
-**Q:** If you had a child who showed great potential as an artist, would you encourage them to pursue art as a career??
+**Q:** If you had a child who showed great potential as an artist, would you encourage them to pursue art as a career?
 **A:** Yes, if I … ~ No, if I …
 
 **Q:** Why or why not?
 
 **Q:** What do we mean if we say that something is a potential problem?
-**A:**  If …, we mean it is not a problem now but it could become one in the future
 
-**Q:** other people?
-**A:** The main … is that it’s easier to collaborate with colleagues when one needs to
+**Q:** What's the main advantage of working in a large office surrounded by other people?
+**A:** The main … is that it’s easier to collaborate with colleagues when one needs to 1034
 
-**Q:** 1034 And what’s the main downside?
+**Q:** And what's the main downside?
 **A:** The main downside is that one can get too easily distracted by noise and conversation
+
+**Q:** Count from one to five in reverse order, please.?
+**A:** 5, 4, 3, 2, 1
 
 **Q:** How can we tell when people are in love?
 **A:** We can tell … they hold hands, walk arm in arm, hug each other etc.
 
-**Q:** Do you really believe it’s possible to fall in love with someone at first?
-
-**Q:** sight?
+**Q:** Do you really believe it's possible to fall in love with someone at first sight?
 **A:** Yes, … ~ No, …
 
-**Q:** When your birthday is approaching, do you give your parents (friends etc.) hints about what you’d like as a gift? ?
+**Q:** When your birthday is approaching, do you give your parents (friends etc.) hints about what you'd like as a gift?
 **A:** Yes, when my … ~ No, when my …
 
-**Q:** yourself or is there usually a button you can press to do it automatically?
-**A:**  After using …
+**Q:** After using a vacuum cleaner, do you normally have to wind up the cable yourself or is there usually a button you can press to do it automatically?
 
-**Q:** What are the three forms of “wind”?
+**Q:** What are the three forms of "wind"?
 **A:** The three forms of “wind” are “wind, wound, wound”
 
-**Q:** Could we describe a motorway as a winding road??
-**A:** No, we couldn’t … because motorways are usually quite straight
+**Q:** Could we describe a motorway as a winding road?
+**A:** No, we couldn’t … because motorways are usually quite straight 1035
 
-**Q:** onqs?
-**A:** How do you like to unwind in your free time? I like to unwind in my free time by …
+**Q:** How do you like to unwind in your free time?
+**A:** I like to unwind in my free time by …
 
 **Q:** Do you yawn when you see or hear someone else yawning?
 **A:** Yes , … ~ No, …
 
 **Q:** Why should one carefully look over a house or a car before purchasing it?
-**A:**  One should carefully … to  make sure that everything is in order
 
-**Q:** When a winning lottery ticket is purchased but nobody comes forward to claim the money, do you know what happens??
+**Q:** When a winning lottery ticket is purchased but nobody comes forward to claim the money, do you know what happens?
 **A:** Yes, when a …, I know … ~ No, when a …, I don’t know …
 
 **Q:** What happens?
 
-**Q:** What does somebody mean when they ask you how you’re getting on?
+**Q:** What does somebody mean when they ask you how you're getting on?
 **A:** When somebody …, they’re asking how I’m progressing with a certain project, or perhaps just asking how I am generally
 
 **Q:** What does one have to do in order to get on in life?
-**A:** In order …, one has to study hard, work hard etc.
-
-**Q:** onqt?
-**A:** dense populate
+**A:** In order …, one has to study hard, work hard etc. 1036
 
 **Q:** Which is one of the most densely populated countries in the world?
-**A:**  One of …
 
-**Q:** What’s the difference between mist and fog?
+**Q:** What's the difference between mist and fog?
 **A:** The difference … fog is thicker, or denser, than mist
 
-**Q:** Are there any towns or cities in your country where smog is a serious?
+**Q:** Are there any towns or cities in your country where smog is a serious issue?
+**A:** Yes, … ~ No, …
 
-**Q:** issue?
-**A:** Yes, … ~ No, … good scenes in the film but, overall, it was rubbish
+**Q:** Make a sentence with the word "overall", please.?
+**A:** There were one or two good scenes in the film but, overall, it was rubbish
 
-**Q:** Do most mammals stand erect on their back legs when they need to?
-
-**Q:** reach something high up?
+**Q:** Do most mammals stand erect on their back legs when they need to reach something high up?
 **A:** Yes, most …
 
-**Q:** When we’re erecting a tent, how do we attach it to the ground?
-**A:**  When …, we … by using ropes connected to pegs that we knock into the ground
+**Q:** When we're erecting a tent, how do we attach it to the ground?
 
-**Q:** What do we mean by the features on a person’s face?
-**A:** By …, we mean the distinct parts of their face such as the nose, eyes, mouth etc.
+**Q:** What do we mean by the features on a person's face?
+**A:** By …, we mean the distinct parts of their face such as the nose, eyes, mouth etc. 1037
 
-**Q:** onqu?
-**A:** If you were in charge of promoting tourism in this region, which features
-
-**Q:** of the area would you focus on in advertisements?
+**Q:** If you were in charge of promoting tourism in this region, which features of the area would you focus on in advertisements?
 **A:** If …, I’d focus on …
 
-**Q:** When might a person say “Damn!” or “Damn it!”?
+**Q:** When might a person say "Damn!" or "Damn it!"?
 **A:** A person … when they’re angry or when things go wrong
 
 **Q:** What happens when a dam is constructed across a river?
 **A:** When …, the flow of water in the river is blocked
 
-**Q:** If your boss says “This document has to be sent today at all costs”, what?
-
-**Q:** do they mean?
+**Q:** If your boss says "This document has to be sent today at all costs", what do they mean?
 **A:** If …, they mean that nothing must be allowed to prevent the document from being sent today
 
-**Q:** Is it the custom in your country for couples to throw a party when they?
-
-**Q:** get engaged?
+**Q:** Is it the custom in your country for couples to throw a party when they get engaged?
 **A:** Yes, … ~ No, …
 
-**Q:** If you were engaged part-time by a company and found that you really enjoyed the role, how long would you wait before asking about the possibility of a full-time position, or would you never ask? ?
-**A:** If …, I’d wait … ~ If …, I’d never …
+**Q:** If you were engaged part-time by a company and found that you really enjoyed the role, how long would you wait before asking about the possibility of a full-time position, or would you never ask?
+**A:** If …, I’d wait … ~ If …, I’d never … 1038
 
-**Q:** onqv?
-**A:** numerous a handful invitation
-
-**Q:** If invitations to a social event were sent to numerous guests but only a?
-
-**Q:** handful of them turned up, how would the host feel?
+**Q:** If invitations to a social event were sent to numerous guests but only a handful of them turned up, how would the host feel?
 **A:** If … and …, the host would feel disappointed, upset etc.
 
-**Q:** Why is it that children rarely appreciate the sacrifices their parents make?
-
-**Q:** for them?
+**Q:** Why is it that children rarely appreciate the sacrifices their parents make for them?
 **A:** Children rarely appreciate … because children are too young to comprehend how the world functions, especially as regards money
 
-**Q:** On a computer keyboard, what’s the main function of the “shift” key?
-**A:**  On …, the main function of the “shift” key is to allow the user to type capital letters
+**Q:** On a computer keyboard, what's the main function of the "shift" key?
 
-**Q:** Why is it so rare for countries to attempt to expand their frontiers these?
-
-**Q:** days?
+**Q:** Why is it so rare for countries to attempt to expand their frontiers these days?
 **A:** It’s so rare … because almost all countries are committed to international agreements not to do so
 
-**Q:** Would a police dog be able to detect the presence of a human in a?
-
-**Q:** building using just its sense of smell?
+**Q:** Would a police dog be able to detect the presence of a human in a building using just its sense of smell?
 **A:** Yes, …
 
 **Q:** Why is a laptop called a laptop?
-**A:** A laptop … because it’s possible to rest it on your lap while you’re using it
-
-**Q:** onqw?
-**A:** mainland tunnel
+**A:** A laptop … because it’s possible to rest it on your lap while you’re using it 1039
 
 **Q:** Is Britain connected to the mainland of Europe by a tunnel or a bridge?
-**A:**  Britain … a tunnel
 
-**Q:** Have you ever spent a holiday in a very remote location??
+**Q:** Have you ever spent a holiday in a very remote location?
 **A:** Yes, … ~ No, …
 
 **Q:** Where?
 
-**Q:** What’s a remote control?
+**Q:** What's a remote control?
 **A:** A remote control is a device that sends out an electronic signal to operate a piece of equipment, such as a TV
 
-**Q:** Do you have any objection to people smoking in their own homes? ?
+**Q:** Do you have any objection to people smoking in their own homes?
+
+**Q:** When you were at primary school, did your parents normally drop you off in the morning?
 **A:** Yes, … ~ No, …
 
-**Q:** When you were at primary school, did your parents normally drop you off?
-
-**Q:** in the morning?
-**A:** Yes, … ~ No, …
-
-**Q:** Why do people sometimes drop off while they’re watching TV in the?
-
-**Q:** evening?
+**Q:** Why do people sometimes drop off while they're watching TV in the evening?
 **A:** People sometimes drop off … because they’re tired after a long day at work
 
-**Q:** Give me an example of the verb “undertake”, please.?
-**A:** William has agreed to undertake responsibility for the development of all our new products from now on
+**Q:** Give me an example of the verb "undertake", please.?
+**A:** William has agreed to undertake responsibility for the development of all our new products from now on 1040
 
-**Q:** POSO From the three options given below each sentence, choose the one that has a similar meaning to the sentence itself.?
-**A:** Phrase exercise 4
+**Q:** 1?
 
-**Q:** P a) My grandmother has a lot of money. b) My grandmother’s health is good. c) My grandmother is a happy person.?
-**A:** My grandmother is very well off.
+**Q:** My grandmother is very well off.?
+**A:** a) My grandmother has a lot of money. b) My grandmother’s health is good. c) My grandmother is a happy person.
 
-**Q:** Q a) She fell in love with someone at the party. b) She behaved in an overexcited way at the party. c) She met lots of new people at the party.?
-**A:** She got carried away at the party.
+**Q:** 2?
 
-**Q:** R a) I’m obliged to go to school. b) I’m eager to go to school. c) I’m prepared to go to school.?
-**A:** I’m all set to go to school.
+**Q:** She got carried away at the party.?
+**A:** a) She fell in love with someone at the party. b) She behaved in an overexcited way at the party. c) She met lots of new people at the party.
 
-**Q:** S a) She has a regular schedule for tidying her garden. b) She ensures that her garden is always tidy. c) She likes telling people how tidy her garden is.?
-**A:** She makes a point of keeping her garden tidy.
+**Q:** 3?
 
-**Q:** T a) I need to make sure I understand you. b) I need to ask you personally. c) I need you to be very honest now.?
-**A:** OK, I need to get this straight: are you staying or leaving?
+**Q:** I'm all set to go to school.?
+**A:** a) I’m obliged to go to school. b) I’m eager to go to school. c) I’m prepared to go to school.
 
-**Q:** U a) Peter manages to live on very little money. b) Peter is keen on the natural world. c) Peter has a practical attitude to life.?
-**A:** Peter’s a very down-to-earth person.
+**Q:** 4?
 
-**Q:** V a) I was insulted by what he said. b) I knew his information was useless. c) I believed he was telling the truth.?
-**A:** I took what he said at face value.
+**Q:** She makes a point of keeping her garden tidy.?
+**A:** a) She has a regular schedule for tidying her garden. b) She ensures that her garden is always tidy. c) She likes telling people how tidy her garden is.
 
-**Q:** W a) Hopefully, he’ll eventually find time to fix the car. b) Hopefully, he’ll discover an easy way to fix the car. c) Hopefully, he’ll avoid having to fix the car.?
-**A:** Hopefully, he’ll get round to fixing the car.
+**Q:** 5?
 
-**Q:** X a) The doctors think Alex will die soon. b) The doctors think Alex will leave hospital soon. c) The doctors think Alex will start recovering soon.?
-**A:** The doctors think Alex will pass away soon.
+**Q:** OK, I need to get this straight: are you staying or leaving?
+**A:** a) I need to make sure I understand you. b) I need to ask you personally. c) I need you to be very honest now.
 
-**Q:** PO a) She promised she’d come with me to the meeting but she didn’t. b) She supported me during the meeting when I got into an argument. c) She went to the meeting in my place because I couldn’t go.?
-**A:** She stood in for me at the meeting.
+**Q:** 6?
 
-**Q:** POSP Despite knowing/ it was out of bounds,/ the three children/ chose to disobey their uncle/ and open the cupboard./ They then quickly removed/ all the toys/ from the cardboard box inside./ Some men build up their muscles so much/ that simply walking/ can be awkward./ Woven into the cloth/ was a variety of absurd designs,/?
-**A:** Dictation 120
+**Q:** Peter's a very down-to-earth person.?
+**A:** a) Peter manages to live on very little money. b) Peter is keen on the natural world. c) Peter has a practical attitude to life.
 
-**Q:** which suggested the artist/ had never attended art school./ The area where those bees stung you/ is getting quite swollen now./ The entire health and safety committee/ threatened to resign/ unless those in authority/ agreed to introduce/ a programme of urgent changes/ at the factory./ Suspicion, precious, solemn, collar, adjust.?
+**Q:** 7?
+
+**Q:** I took what he said at face value.?
+**A:** a) I was insulted by what he said. b) I knew his information was useless. c) I believed he was telling the truth.
+
+**Q:** 8?
+
+**Q:** Hopefully, he'll get round to fixing the car.?
+**A:** a) Hopefully, he’ll eventually find time to fix the car. b) Hopefully, he’ll discover an easy way to fix the car. c) Hopefully, he’ll avoid having to fix the car.
+
+**Q:** 9?
+
+**Q:** The doctors think Alex will pass away soon.?
+**A:** a) The doctors think Alex will die soon. b) The doctors think Alex will leave hospital soon. c) The doctors think Alex will start recovering soon.
+
+**Q:** 10?
+
+**Q:** She stood in for me at the meeting.?
+**A:** a) She promised she’d come with me to the meeting but she didn’t. b) She supported me during the meeting when I got into an argument. c) She went to the meeting in my place because I couldn’t go. 1041
+
+### Dictation
+> Despite knowing/ it was out of bounds,/ the three children/ chose to disobey their uncle/ and open the cupboard./ They then quickly removed/ all the toys/ from the cardboard box inside./ Some men build up their muscles so much/ that simply walking/ can be awkward./ Woven into the cloth/ was a variety of absurd designs,/ which suggested the artist/ had never attended art school./ The area where those bees stung you/ is getting quite swollen now./ The entire health and safety committee/ threatened to resign/ unless those in authority/ agreed to introduce/ a programme of urgent changes/ at the factory./ Suspicion, precious, solemn, collar, adjust.
 
 ---
 
 ## Lesson 175
 
 ### Vocabulary
+- **rag**
+- **ragged**
+- **kid**
 - **ban**
 - **take part**
 - **bring in**
 - **tan**
 - **sunburnt**
-- **punishment for bad behaviour?**
+- **in all**
 - **vacant**
 - **lavatory**
 - **wasteful**
@@ -3328,6 +2851,9 @@ Make a sentence with the word “overall”, please.      There were one or two
 - **pull up**
 - **pull over**
 - **humorous**
+- **key**
+- **fingerprint**
+- **look into**
 - **out of reach**
 - **in reach (within reach)**
 - **fragile**
@@ -3335,11 +2861,15 @@ Make a sentence with the word “overall”, please.      There were one or two
 - **smash**
 - **recover**
 - **strain**
+- **score**
+- **play at home**
+- **play away**
 - **point**
 - **table tennis**
 - **set off**
 - **set out**
 - **stall**
+- **wipe out**
 - **awfully**
 - **deliberate**
 - **turn a blind eye**
@@ -3347,6 +2877,8 @@ Make a sentence with the word “overall”, please.      There were one or two
 - **interest**
 - **pay off**
 - **get across**
+- **revise (review)**
+- **brush up on**
 - **apparent**
 - **apparently**
 - **childish**
@@ -3360,185 +2892,135 @@ Make a sentence with the word “overall”, please.      There were one or two
 - **weird**
 - **gasp**
 
-### Grammar Notes
-In your view, was society more wasteful with natural resources 50 years
-In reference to driving, what’s the difference between “pull up” and “pull
-After setting off (or setting out) on a journey, what sort of things do
-people often realize they’ve forgotten to take with them? After …, people
-Make a sentence with the word “awfully” with the meaning of “very”.
-                                        I was awfully glad when I was told
-
 ### Q&A Drill
-**Q:** onrp?
-**A:** rag ragged kid
-
-**Q:** What’s a rag?
+**Q:** What's a rag?
 **A:** A rag is an old piece of cloth that we can use for cleaning
 
-**Q:** What do we mean when we say that someone has gone from rags to?
-
-**Q:** riches?
+**Q:** What do we mean when we say that someone has gone from rags to riches?
 **A:** When …, we mean that they were very poor in the past but are now rich
 
-**Q:** Why are kids’ clothes often in a pretty ragged state??
+**Q:** Why are kids' clothes often in a pretty ragged state?
 **A:** Kids’ clothes … because they’re always climbing on things, falling over, fighting etc.
 
-**Q:** What does it mean if a football player receives a three-match ban as?
-**A:** to take part in the next three matches
+**Q:** What does it mean if a football player receives a three-match ban as punishment for bad behaviour?
+**A:** If …, it means he isn’t allowed to take part in the next three matches
 
-**Q:** Do you think the government should bring in new laws to restrict the sale of very unhealthy food in shops, or even ban it altogether? Yes, … ~ No, …?
+**Q:** Do you think the government should bring in new laws to restrict the sale of very unhealthy food in shops, or even ban it altogether?
+**A:** Yes, … ~ No, …
 
-**Q:** How can someone with fair skin develop a tan on holiday without getting?
+**Q:** How can someone with fair skin develop a tan on holiday without getting sunburnt?
+**A:** Someone with … by restricting the amount of time they spend sunbathing, and by regularly applying sun cream to the areas of their body that are exposed to the sun 1043
 
-**Q:** sunburnt?
-**A:** Someone with … by restricting the amount of time they spend sunbathing, and by regularly applying sun cream to the areas of their body that are exposed to the sun
+**Q:** If you and a friend went to an average restaurant and each had a starter, main course and dessert, how much would you expect it to come to in all?
 
-**Q:** onrq?
-**A:** in all
-
-**Q:** If you and a friend went to an average restaurant and each had a starter,?
-
-**Q:** main course and dessert, how much would you expect it to come to in all?
-**A:**  If a friend and I … and each had …, I’d expect …
-
-**Q:** Which words are usually displayed on the door of a public lavatory to indicate whether or not it’s available for use??
+**Q:** Which words are usually displayed on the door of a public lavatory to indicate whether or not it's available for use?
 **A:** The words “vacant” or “engaged” are usually …
 
 **Q:** What do we mean by a vacant building?
 **A:** By …, … empty building
 
-**Q:** ago than it is today?
+**Q:** In your view, was society more wasteful with natural resources 50 years ago than it is today?
 **A:** Yes, in my view, … ~ No, in my view, …
 
-**Q:** When a famous celebrity goes out in public but wants to avoid being spotted, what can they do to disguise themselves??
+**Q:** When a famous celebrity goes out in public but wants to avoid being spotted, what can they do to disguise themselves?
 **A:** When …, they can wear a hat, a scarf, dark sunglasses etc.
 
 **Q:** What is the opposite of formal clothing?
-**A:** The opposite … casual clothing 1044 What do we mean if we say that someone has a casual attitude towards
+**A:** The opposite … casual clothing 1044
 
-**Q:** their work?
+**Q:** What do we mean if we say that someone has a casual attitude towards their work?
 **A:** If …, we mean that they aren’t very careful, and perhaps show little interest in their work
 
-**Q:** Give me an example of “no … whatsoever”, please.?
+**Q:** Give me an example of "no … whatsoever", please.?
 **A:** I’ve got no doubt whatsoever that she’ll arrive on time
 
 **Q:** What do you reckon your mother (father etc.) is up to at the moment?
-**A:**  I reckon …
 
-**Q:** When children are left on their own, what kind of naughty things do they?
-
-**Q:** get up to?
+**Q:** When children are left on their own, what kind of naughty things do they get up to?
 **A:** When …, they get up to all kinds of naughty things, such as …
 
-**Q:** over”?
+**Q:** In reference to driving, what's the difference between "pull up" and "pull over"?
 **A:** In reference …, the difference ... “pull up” simply means “stop”, whereas “pull over” means “move to the side of the road and then stop”
 
-**Q:** Who’s the most humorous person you know?
-**A:** The most humorous …
+**Q:** Who's the most humorous person you know?
+**A:** The most humorous … 1045
 
-**Q:** onrs?
-**A:** key fingerprint look into
-
-**Q:** What do you think is the key to a successful friendship??
+**Q:** What do you think is the key to a successful friendship?
 **A:** I think the key …
 
-**Q:** When the police are looking into a murder, why are fingerprints found at?
+**Q:** When the police are looking into a murder, why are fingerprints found at the scene of the crime often key to the success of the investigation?
 
-**Q:** the scene of the crime often key to the success of the investigation?
-**A:**  When …, fingerprints … because no two people have the same fingerprints, which means they can be used as evidence that someone was present at the scene of a crime
-
-**Q:** Why is it advisable in the home to keep fragile objects like china vases out?
-
-**Q:** of reach of small children?
+**Q:** Why is it advisable in the home to keep fragile objects like china vases out of reach of small children?
 **A:** It is advisable … they might knock them over and smash them
 
-**Q:** What’s the opposite of “out of reach”?
+**Q:** What's the opposite of "out of reach"?
 **A:** The opposite of … in reach, or within reach
 
-**Q:** What’s the best way to recover from an illness?
-**A:** The best … is to relax, not strain oneself in any way, take some mild exercise etc.
+**Q:** What's the best way to recover from an illness?
+**A:** The best … is to relax, not strain oneself in any way, take some mild exercise etc. 1046
 
-**Q:** onrt?
-**A:** score play at home play away
-
-**Q:** Why is it that a football team playing at home usually scores more goals?
-
-**Q:** than when playing away?
-**A:** The reason a football team … is  that the players are surrounded by their home fans, who encourage them by cheering
+**Q:** Why is it that a football team playing at home usually scores more goals than when playing away?
+**A:** The reason a football team … is that the players are surrounded by their home fans, who encourage them by cheering
 
 **Q:** How many points does one need to score to win a game of table tennis?
-**A:**  One needs to score 11 (or 21) points to win a game of table tennis often realize they’ve forgotten to take their money, passport, keys etc.
 
-**Q:** Why should a market trader take care to set out his goods attractively on?
+**Q:** After setting off (or setting out) on a journey, what sort of things do people often realize they've forgotten to take with them?
+**A:** After …, people often realize they’ve forgotten to take their money, passport, keys etc.
 
-**Q:** his stall?
+**Q:** Why should a market trader take care to set out his goods attractively on his stall?
 **A:** A market trader should take care … to make them look better and therefore attract more customers
 
-**Q:** What’s another meaning of the word “stall”?
+**Q:** What's another meaning of the word "stall"?
 **A:** Another meaning … is when an engine fails to keep going
 
 **Q:** Give me an example, please.?
-**A:** The car stalled and wouldn’t start again, so we got out and pushed
+**A:** The car stalled and wouldn’t start again, so we got out and pushed 1047
 
-**Q:** onru?
-**A:** wipe out
+**Q:** Does a major earthquake have the power to wipe out an entire town?
 
-**Q:** Does a major earthquake have the power to wipe out an entire town? ?
-**A:** Yes, … the party was going to go ahead after all
+**Q:** Make a sentence with the word "awfully" with the meaning of "very".?
 
-**Q:** If you knew that a family member was deliberately not paying their income tax, would you turn a blind eye to it or say something to them?
-
-**Q:** about it?
+**Q:** If you knew that a family member was deliberately not paying their income tax, would you turn a blind eye to it or say something to them about it?
 **A:** If …, I’d …
 
-**Q:** When someone’s in debt to a bank but they don’t face up to the fact and therefore make no attempt to pay off the debt, what happens? When …,?
-**A:** the debt grows bigger and bigger as a result of interest charges
+**Q:** When someone's in debt to a bank but they don't face up to the fact and therefore make no attempt to pay off the debt, what happens?
+**A:** When …, the debt grows bigger and bigger as a result of interest charges
 
-**Q:** When you’re speaking in English and you can’t find the words you need to get across a particular idea, how do you feel??
-**A:** When I’m … and I can’t find …, I feel frustrated, disappointed etc.
+**Q:** When you're speaking in English and you can't find the words you need to get across a particular idea, how do you feel?
+**A:** When I’m … and I can’t find …, I feel frustrated, disappointed etc. 1048
 
-**Q:** onrv?
-**A:** revise (review) brush up on
-
-**Q:** Why is it so essential to revise (or review) all past work before an?
-
-**Q:** examination?
+**Q:** Why is it so essential to revise (or review) all past work before an examination?
 **A:** It is so essential … to fill in the gaps in our memory
 
-**Q:** What does the expression “to brush up on” something mean?
+**Q:** What does the expression "to brush up on" something mean?
 **A:** The expression “to brush up on” something means to review something that you have a good knowledge of but have forgotten slightly
 
 **Q:** Give me an example, please.?
 **A:** I brushed up on my French a bit before setting off for Paris on holiday
 
-**Q:** If a colleague of yours seemed annoyed with you for no apparent reason,?
+**Q:** If a colleague of yours seemed annoyed with you for no apparent reason, would you ignore their behaviour or ask them what the matter was?
 
-**Q:** would you ignore their behaviour or ask them what the matter was?
-**A:**  If …, I’d …
-
-**Q:** Give me a sentence with the word “apparently”, please.?
+**Q:** Give me a sentence with the word "apparently", please.?
 **A:** I just spoke to my sister and, apparently, our cousin Bill has decided to move to Australia!
 
-**Q:** What’s the difference between the adjectives “childish” and “childlike”?
+**Q:** What's the difference between the adjectives "childish" and "childlike"?
 **A:** The difference … “childish” is used as a criticism, whereas “childlike” is not usually used as a criticism
 
-**Q:** Give me a sentence with the word “childish”, please. 1049 Give me a sentence with the word “childlike”, please.?
-**A:** Michael gets so grumpy when he loses at table tennis; it’s a bit childish, really. The expression on Tom’s face when he spotted the lions in the distance was one of childlike wonder
+**Q:** Give me a sentence with the word "childish", please.?
+**A:** Michael gets so grumpy when he loses at table tennis; it’s a bit childish, really. 1049
 
-**Q:** What kind of fabric is denim, and what’s it most commonly used for?
+**Q:** Give me a sentence with the word "childlike", please.?
+**A:** The expression on Tom’s face when he spotted the lions in the distance was one of childlike wonder
+
+**Q:** What kind of fabric is denim, and what's it most commonly used for?
 **A:** Denim is a tough cotton fabric with a rough texture, and is most commonly used for making jeans
 
-**Q:** What’s a bandage?
+**Q:** What's a bandage?
 **A:** A bandage is a long piece of fabric that we wrap around an injury to keep it clean and stop any bleeding
 
-**Q:** If you had to wait ages for your order to be taken in a restaurant but then?
+**Q:** If you had to wait ages for your order to be taken in a restaurant but then the food itself turned out to be delicious, would you leave a tip?
 
-**Q:** the food itself turned out to be delicious, would you leave a tip?
-**A:**  Yes, … ~ No, …
-
-**Q:** Have you ever had any weird experiences in your life that you’re unable?
-
-**Q:** to explain?
+**Q:** Have you ever had any weird experiences in your life that you're unable to explain?
 **A:** Yes, … ~ No, …
 
 **Q:** When do people gasp?
@@ -3549,35 +3031,49 @@ Make a sentence with the word “awfully” with the meaning of “very”.
 ## Lesson 176
 
 ### Vocabulary
+- **Writing a report**
 - **impersonal**
 - **recommendation**
 - **subheading**
 - **A report:**
+- **•**
 - **organization, a committee etc.);**
-- **Attracting young customers**
+- **uses a formal and impersonal style. We use the passive voice**
+- **the pronoun “I” in the main paragraphs;**
+- **contains main paragraphs that deal with different aspects of**
+- **the report topic.**
+- **outdated**
+- **in light of**
+- **measure**
+- **implement**
 - **Introduction**
-- **(2) Say**
-- **why**
-- **you’re**
-- **writing**
-- **the**
 - **Shop interior**
 - **Stock**
 - **Seating area**
-- **your own**
 - **Conclusion**
 - **trip**
 - **shoelace**
+- **infect**
+- **infection**
+- **mosquito**
+- **fatal**
 - **influential**
 - **layer**
 - **at a loss**
 - **at a profit**
 - **break even**
 - **perfume**
+- **vision (eyesight)**
+- **short-sighted**
+- **long-sighted**
 - **medium**
 - **media**
+- **the media**
 - **social media**
 - **sociable**
+- **objective**
+- **subjective**
+- **how come**
 - **assess**
 - **hang on to (hold on to)**
 - **rattle**
@@ -3592,6 +3088,7 @@ Make a sentence with the word “awfully” with the meaning of “very”.
 - **count in**
 - **count out**
 - **crisis**
+- **Word pool 3: revision exercise**
 - **kettle**
 - **alarm**
 - **wrinkle**
@@ -3608,284 +3105,188 @@ Make a sentence with the word “awfully” with the meaning of “very”.
 - **circus**
 - **lamb**
 
-### Grammar Notes
-•   is a highly organized document, written for a specific person
-or group of people (often a boss at work, a member of another
-•   provides information on a particular situation or event. People
-then usually use the report and its conclusions to make decisions;
-•   uses a formal and impersonal style. We use the passive voice
-The aim of this report is to look at ways of making our bookshop more
-popular with young adult customers. In preparation for this, 250 local
-At present, the walls of the shop are dark blue, and the shelves are black.
-Over 75% of those questioned stated that they found these colours dull and
-not very welcoming.
-(4) Give each paragraph a subheading
-Another important matter is that over half the young people surveyed felt                            should
-that our stock was somewhat outdated. It seems that a significant number                             report
-of people are choosing to go elsewhere to buy books by more contemporary                             information
-authors.                                                                                             facts rather
-Lastly, 64% of people stated that they would visit the shop if there was an
-area where they could sit down, relax and have a cup of coffee. Many people
-said it would make them feel they could take their time, without being under
-any pressure to make a purchase.
-In light of the above, it appears that one priority should be to redecorate
-the shop using brighter and more attractive colours. It also seems clear that
-further research is called for into the type of books we should stock. Lastly,
-an area of the shop should be selected to become a seating area with sofas,
-chairs, and a hot-drinks machine. I am confident that, if the above measures
-Who’s the most influential leader your country’s had in the last hundred
+### Notes
+> is a highly organized document, written for a specific person
+> or group of people (often a boss at work, a member of another
+> provides information on a particular situation or event. People
+> then usually use the report and its conclusions to make decisions;
+> where possible, avoid the use of contractions, and avoid using
+> Attracting young customers
+> For each sentence below, choose one word from the word pool that fits
+> correctly in the gap.
 
 ### Q&A Drill
-**Q:** POTO Please note: There are writing homework titles at the end of this book.?
-**A:** Writing a report
+**Q:** The aim of this report?
+**A:** is to look at ways of making our bookshop more
 
-**Q:** where possible, avoid the use of contractions, and avoid using the pronoun “I” in the main paragraphs; • the report topic.?
-**A:** contains main paragraphs that deal with different aspects of
+**Q:** 250 local residents over half the young people surveyed felt it appears that one priority should be?
+**A:** popular with young adult customers. In preparation for this, between the ages of 16 and 30 were interviewed, revealing three main issues. (4) Give each paragraph a subheading so the reader knows what it’s about. (3) Say where your information comes from. (2) Say why you’re writing the report. At present, the walls of the shop are dark blue, and the shelves are black. Over 75% of those questioned stated that they found these colours dull and not very welcoming. (4) Give each paragraph a subheading so the reader knows what it’s about. Another important matter is that that our stock was somewhat outdated. It seems that a significant number of people are choosing to go elsewhere to buy books by more contemporary authors. (5) Main paragraphs should report information or state facts rather than give your own personal opinions. Lastly, 64% of people stated that they would visit the shop if there was an area where they could sit down, relax and have a cup of coffee. Many people said it would make them feel they could take their time, without being under any pressure to make a purchase. (6) You should put your own opinions, conclusions and recommendations in the conclusion paragraph. In light of the above, to redecorate the shop using brighter and more attractive colours. It also seems clear that further research is called for into the type of books we should stock. Lastly, an area of the shop should be selected to become a seating area with sofas, chairs, and a hot-drinks machine. I am confident that, if the above measures are implemented, we will see a rapid improvement in sales as well as in the store’s reputation among young people.
 
-**Q:** onso?
-**A:** outdated in light of measure implement from/subject’ lines, as in an email, is fine too. (5) Main paragraphs or state than give personal opinions. (6) You should put your own opinions, conclusions
+**Q:** In reference to writing, what do we mean by a report?
+**A:** In …, … a highly organized document, written for a specific person or group of people, that provides information on a particular situation or event 1052
 
-**Q:** are implemented, we will see a rapid improvement in sales as well as in the store’s reputation among young people. In reference to writing, what do we mean by a report??
-**A:** In …, … a highly organized document, written for a specific person or group of people, that provides information on a particular situation or event
-
-**Q:** onsp ?
-**A:** When we write a report, who’s most likely to be our target audience? When …, our target audience … our boss at work, or a member of another organization or committee
+**Q:** When we write a report, who's most likely to be our target audience?
 
 **Q:** Therefore, what writing style should we use?
 **A:** We should use a formal and impersonal style
 
-**Q:** Tell me three easy ways to help create a formal and impersonal style. ?
-**A:** Three … to avoid the use of contractions, use the passive voice where possible, and avoid using the pronoun “I” in the main paragraphs
+**Q:** Tell me three easy ways to help create a formal and impersonal style.?
 
-**Q:** What are two common ways of starting a report??
+**Q:** What are two common ways of starting a report?
 **A:** Two … by using a title, or by using “to”, “from” and “subject” lines, as in an email
 
-**Q:** Which two pieces of information do we normally put in the introduction?
-
-**Q:** paragraph?
+**Q:** Which two pieces of information do we normally put in the introduction paragraph?
 **A:** Two … the aim of the report, and where we got our information from
 
-**Q:** Why do we normally give each paragraph a subheading when writing a?
-
-**Q:** report?
+**Q:** Why do we normally give each paragraph a subheading when writing a report?
 **A:** … to make it clear to the reader what each paragraph is about
 
-**Q:** Should the main paragraphs of a report mainly state facts, or give our?
+**Q:** Should the main paragraphs of a report mainly state facts, or give our own personal opinions?
+**A:** … state facts
 
-**Q:** own personal opinions?
-**A:** … state facts So where do we normally write our own opinions? … in the conclusion paragraph
+**Q:** So where do we normally write our own opinions?
+**A:** … in the conclusion paragraph
 
-**Q:** What else do we often put in the conclusion??
+**Q:** What else do we often put in the conclusion?
 **A:** … recommendations …
 
 **Q:** Have you ever tripped over your shoelaces?
-**A:** Yes, … ~ No, …
+**A:** Yes, … ~ No, … 1053
 
-**Q:** onsq?
-**A:** infect infection mosquito fatal
-
-**Q:** Can insects such as mosquitoes and flies infect people with disease? Yes, …?
+**Q:** Can insects such as mosquitoes and flies infect people with disease?
+**A:** Yes, …
 
 **Q:** And are some of these infections potentially fatal?
 **A:** Yes, some …
 
-**Q:** years or so?
+**Q:** Who's the most influential leader your country's had in the last hundred years or so?
 **A:** The most … is/was …
 
-**Q:** How many layers of brick do you reckon a wall two metres high consists?
-
-**Q:** of?
+**Q:** How many layers of brick do you reckon a wall two metres high consists of?
 **A:** I reckon …
 
-**Q:** Do most businesses run at a loss for a while when they’re first established?
-
-**Q:** before they manage to break even?
+**Q:** Do most businesses run at a loss for a while when they're first established before they manage to break even?
 **A:** Yes, …
 
-**Q:** What’s the opposite of “at a loss”?
+**Q:** What's the opposite of "at a loss"?
 **A:** The opposite … “at a profit”
 
-**Q:** Does your mother (or wife, girlfriend etc.) have a specific perfume that?
-
-**Q:** she always wears?
+**Q:** Does your mother (or wife, girlfriend etc.) have a specific perfume that she always wears?
 **A:** Yes, … ~ No, …
 
 **Q:** Which?
-
-**Q:** onsr?
-**A:** vision (eyesight) short-sighted long-sighted
+**A:** 1054
 
 **Q:** Do you have good vision (eyesight)?
 **A:** Yes, … ~ No, …
 
-**Q:** If someone can only see objects clearly when they’re quite far away, are?
-
-**Q:** they short-sighted or long-sighted?
+**Q:** If someone can only see objects clearly when they're quite far away, are they short-sighted or long-sighted?
 **A:** When …, they’re long-sighted
 
-**Q:** When did the medium of television become available to the average?
-
-**Q:** household?
+**Q:** When did the medium of television become available to the average household?
 **A:** The medium … during the second half of the 20th century
 
-**Q:** Do you think printed media such as books and newspapers will eventually?
-
-**Q:** disappear?
+**Q:** Do you think printed media such as books and newspapers will eventually disappear?
 **A:** Yes, … ~ No, …
 
 **Q:** Are the media in your country entitled to report whatever they like?
-**A:**  Yes, … ~ No, …
 
-**Q:** Do you agree that social media sites such as … can, in fact, end up making?
+**Q:** Do you agree that social media sites such as … can, in fact, end up making people less sociable?
+**A:** Yes, … ~ No, … 1055
 
-**Q:** people less sociable?
-**A:** Yes, … ~ No, …
-
-**Q:** onss?
-**A:** objective subjective how come
-
-**Q:** What’s the principal objective of any commercial business?
+**Q:** What's the principal objective of any commercial business?
 **A:** The principal … is to make a profit
 
-**Q:** How come it’s so difficult for parents to assess their children’s progress at?
+**Q:** How come it's so difficult for parents to assess their children's progress at school objectively?
+**A:** It’s so … because their feelings for their children can prevent them from judging things reasonably
 
-**Q:** school objectively?
-**A:** It’s so … because their feelings for their children  can prevent them from judging things reasonably
-
-**Q:** What’s the opposite of “objective”?
+**Q:** What's the opposite of "objective"?
 **A:** The opposite … “subjective”
 
-**Q:** If you didn’t hang on (or hold on) to something when standing up on a?
-
-**Q:** moving bus, what might happen?
+**Q:** If you didn't hang on (or hold on) to something when standing up on a moving bus, what might happen?
 **A:** If …, I might fall over
 
 **Q:** How can you stop a window rattling in the wind?
 **A:** You can … by pushing a small wedge of wood, card or cloth into the gap between the window and the frame
 
-**Q:** Which type of food is often sold in wedge-shaped blocks??
+**Q:** Which type of food is often sold in wedge-shaped blocks?
 **A:** Cheese …
 
-**Q:** What would I mean if I said I saw a terrific film last night? If …, you’d mean 1056 Was there a terrific amount of technological progress during the last?
-**A:** you saw a very good film
+**Q:** What would I mean if I said I saw a terrific film last night?
+**A:** If …, you’d mean you saw a very good film 1056
 
-**Q:** century?
+**Q:** Was there a terrific amount of technological progress during the last century?
 **A:** Yes, …
 
-**Q:** If you fold a piece of paper in half twice, unfold it, and then tear along the creases, how many pieces of paper do you end up with? If …, you end ?
-**A:** up with four pieces of paper
+**Q:** If you fold a piece of paper in half twice, unfold it, and then tear along the creases, how many pieces of paper do you end up with?
+**A:** If …, you end up with four pieces of paper
 
-**Q:** Tell me something that’s unique about human beings in comparison with all other animal species.?
+**Q:** Tell me something that's unique about human beings in comparison with all other animal species.?
 **A:** One thing that’s …
 
-**Q:** Which counts more, in your view: the salary you earn or the type of work?
+**Q:** Which counts more, in your view: the salary you earn or the type of work you do?
+**A:** In my view, the … counts more than …
 
-**Q:** you do?
-**A:** In my view, the … counts more than … Of all the people you know, who do you feel you could really count on for
-
-**Q:** support in a crisis?
+**Q:** Of all the people you know, who do you feel you could really count on for support in a crisis?
 **A:** Of all …, I feel …
 
-**Q:** If this school were organizing a free mountain-climbing trip this?
+**Q:** If this school were organizing a free mountain-climbing trip this weekend, could we count you in or would you tell us to count you out?
 
-**Q:** weekend, could we count you in or would you tell us to count you out?
-**A:**  If this …, you could count me in ~ If this …, I’d tell you to count me out
-
-**Q:** POTV For each sentence below, choose one word from the word pool that fits correctly in the gap.?
-**A:** Word pool 3: revision exercise
-
-**Q:** o?
-**A:** It was raining hard but luckily my jacket had a plastic ,
-
-**Q:** which kept my hair dry.?
-
-**Q:** Q somewhere else.?
-**A:** The in the college was too crowded so we decided to eat
-
-**Q:** q?
-**A:** I had a painful on my hand after playing tennis all day.
-
-**Q:** S fifty.?
-**A:** There’s not a single on his face even though he’s over
-
-**Q:** s?
-**A:** I can’t start painting my model aeroplane yet because the hasn’t dried.
-
-**Q:** U already killed several of my cows.?
-**A:** I don’t know what kind of we’re searching for but it’s
-
-**Q:** u?
-**A:** I’ll make us both a nice cup of tea as soon as the boils.
-
-**Q:** W the boat.?
-**A:** The on her left shoe broke off as she was climbing onto
-
-**Q:** X they were pretty disappointed.?
-**A:** We took the kids to the but there were no animals so
-
-**Q:** PO underneath.?
-**A:** I picked up the stone and a small came out from
-
-**Q:** PP actual emergency.?
-**A:** We all heard the fire but not one of us believed it was an
-
-**Q:** op?
-**A:** Sometimes I buy a particular wine simply because I like the on the bottle.
-
-**Q:** PR very soon after being born.?
-**A:** Farmers know that a healthy will attempt to stand up
-
-**Q:** PS going to be a cold night.?
-**A:** There might be a bit of on the ground tomorrow; it’s
-
-**Q:** PT poured it into cups for his guests.?
-**A:** Mark mixed the fruit juice together in a glass and then
-
-**Q:** POTW The garden lies on a steep slope/ and the soil’s thin,/ but let’s sow a few seeds anyway/ and hope for the best./ The policemen were puzzled/ when the old woman/ who owned the cottage/ just carried on combing her hair/ and ignored them./ I’m delighted my mechanic thinks/ the tyres don’t need changing./ A shiver ran down Adam’s spine/ on realizing the burglar had stolen/ his girlfriend’s jewellery/ from the hidden drawer./ Take my gloves,/ the circular saw,/ and this bundle of tools,/ and put them all/ with the other stuff in the garage./ You’ll lose a lot of the flavour/ if you cook that dish on the hob/ instead of in the oven./ Amateur, option, encounter, bracelet, knuckle.?
-**A:** Dictation 121
+### Dictation
+> The garden lies on a steep slope/ and the soil’s thin,/ but let’s sow a few seeds anyway/ and hope for the best./ The policemen were puzzled/ when the old woman/ who owned the cottage/ just carried on combing her hair/ and ignored them./ I’m delighted my mechanic thinks/ the tyres don’t need changing./ A shiver ran down Adam’s spine/ on realizing the burglar had stolen/ his girlfriend’s jewellery/ from the hidden drawer./ Take my gloves,/ the circular saw,/ and this bundle of tools,/ and put them all/ with the other stuff in the garage./ You’ll lose a lot of the flavour/ if you cook that dish on the hob/ instead of in the oven./ Amateur, option, encounter, bracelet, knuckle.
 
 ---
 
 ## Lesson 177
 
 ### Vocabulary
+- **Common prefixes (2)**
+- **dismal**
+- **or “bad”), and “ex-” (meaning “previous” or “out”).**
+- **soul**
 - **bother**
 - **out loud**
 - **manual**
-- **high**
-- **tech (hi**
-- **tech)**
-- **instruction manual that comes with it?**
+- **high-tech (hi-tech)**
 - **exhibition**
 - **exhibit**
+- **grasp**
 - **politician**
-- **north**
-- **east**
-- **west**
-- **south**
+- **north-east**
+- **north-west**
+- **south-east**
+- **south-west**
 - **work out**
+- **fashion**
+- **pop**
 - **valid**
 - **keep back (stand back)**
 - **drift**
 - **anchor**
 - **ashore**
+- **workforce**
+- **make redundant**
+- **keep on**
 - **passion**
 - **run down**
-- **run**
-- **down**
+- **run-down**
 - **run out of**
 - **classify**
-- **middle**
-- **aged**
+- **middle-aged**
 - **elderly**
 - **contest**
 - **evident**
 - **dependant (dependent)**
 - **headquarters**
 - **see off**
+- **stocky**
+- **chubby**
+- **skinny**
 - **plump**
 - **imply**
 - **come round**
+- **have over**
+- **payday (pay day)**
 - **scan**
 - **inspect**
 - **customs**
@@ -3894,774 +3295,73 @@ Who’s the most influential leader your country’s had in the last hundred
 - **subsequently**
 - **offence**
 - **rumour**
-- **my breath!**
-- **doing!**
-- **ahead for us!**
-- **Phrase exercise answers**
-- **Phrase exercise 1**
-- **1 in**
-- **6 as**
-- **11 around**
-- **2 closely**
-- **7 side**
-- **12 at**
-- **3 have**
-- **8 with**
-- **13 ball**
-- **4 speechless**
-- **9 throwing**
-- **14 in**
-- **5 would appear**
-- **10 head**
-- **15 next best**
-- **Phrase exercise 2**
-- **1 beyond**
-- **6 made**
-- **11 out**
-- **2 liberty**
-- **7 favour**
-- **12 cover**
-- **3 put**
-- **8 flying**
-- **13 on**
-- **4 bright**
-- **9 scratch**
-- **14 position**
-- **5 large**
-- **10 in**
-- **15 down**
-- **Phrase exercise 3**
-- **1 speed**
-- **6 on**
-- **11 well**
-- **2 take**
-- **7 came**
-- **12 bit by bit**
-- **3 share**
-- **8 being**
-- **13 hope**
-- **4 course**
-- **9 harm**
-- **14 fine**
-- **5 tune**
-- **10 increase**
-- **15 agree**
-- **Phrase exercise 4**
-- **1 a**
-- **6 c**
-- **2 b**
-- **7 c**
-- **3 c**
-- **8 a**
-- **4 b**
-- **9 a**
-- **5 a**
-- **10 c**
 - **Phrase exercise 5**
-- **1 horizons**
-- **6 easy**
-- **11 an eye**
-- **2 turn**
-- **7 in**
-- **12 catch**
-- **3 in**
-- **8 behind**
-- **13 event**
-- **4 points**
-- **9 in**
-- **14 keep**
-- **5 by**
-- **10 just**
-- **15 lies**
-- **Word**
-- **building exercise answers**
-- **building exercise 1**
-- **1 visitors**
-- **6 accountant**
-- **11 forgetful**
-- **2 depth**
-- **7 cultural**
-- **12 boredom**
-- **3 centrally**
-- **8 enlarging**
-- **13 popularity**
-- **4 realistic**
-- **9 partial**
-- **14 stupidity**
-- **5 fashionable**
-- **10 circular**
-- **15 decisive**
-- **building exercise 2**
-- **1 electrician**
-- **6 justify**
-- **11 racial**
-- **2 maintenance**
-- **7 savings**
-- **12 extension**
-- **3 cruelty**
-- **8 typist**
-- **13 productive**
-- **4 educational**
-- **9 ambitious**
-- **14 satisfactory**
-- **5 equality**
-- **10 bravery**
-- **15 conservation**
-- **building exercise 3**
-- **1 luxurious**
-- **6 locations**
-- **11 multiplication**
-- **2 reduction**
-- **7 prescription**
-- **12 proposal/**
-- **3 curiosity**
-- **8 immoral**
-- **13 removal**
-- **4 generalizing/**
-- **9 promising**
-- **14 suspicious**
-- **generalising**
-- **5 foolish**
-- **10 simplicity**
-- **15 optional**
-- **Word pool revision exercise answers**
-- **Word pool 1**
-- **1 knuckle**
-- **6 fringe**
-- **11 tram**
-- **2 peach**
-- **7 spark**
-- **12 chapter**
-- **3 diagram**
-- **8 fountain**
-- **13 calendar**
-- **4 pirate**
-- **9 cable**
-- **14 moustache**
-- **5 tractor**
-- **10 doll**
-- **15 glove**
-- **Word pool 2**
-- **1 punch**
-- **6 illustrate**
-- **11 stab**
-- **2 dominate**
-- **7 yell**
-- **12 spray**
-- **3 perceive**
-- **8 demolish**
-- **13 dial**
-- **4 knit**
-- **9 loathe**
-- **14 tease**
-- **5 prohibit**
-- **10 insert**
-- **15 grieve**
-- **Word pool 3**
-- **1 hood**
-- **6 monster**
-- **11 alarm**
-- **2 canteen**
-- **7 kettle**
-- **12 label**
-- **3 blister**
-- **8 heel**
-- **13 lamb**
-- **4 wrinkle**
-- **9 circus**
-- **14 frost**
-- **5 glue**
-- **10 ant**
-- **15 jug**
-- **Writing homework titles**
-- **Lesson 166 (General advice for writing)**
-- **Lesson 170 (Writing an informal letter)**
-- **Lesson 171 (Writing a cover letter)**
-- **Lesson 176 (Writing a report)**
-- **obtain their opinions on the following:**
-- **Index**
-- **a good deal of. ......964**
-- **atmosphere. ..........989**
-- **cabin. ...................1003**
-- **considerable. .........957**
-- **a handful. ............1038**
-- **attach...................1036**
-- **cable. .....................950**
-- **considerate............955**
-- **abandon. .............1025**
-- **attitude................1043**
-- **calendar.................950**
-- **construct..............1037**
-- **absurd....................969**
-- **author....................984**
-- **call by.....................973**
-- **contact lenses........958**
-- **accelerate.............1001**
-- **authority................945**
-- **call for. ...................946**
-- **contemporary........991**
-- **access...................1026**
-- **automatic. .............952**
-- **call in......................973**
-- **contest.................1064**
-- **accessory................977**
-- **availability............1007**
-- **call off . ..................947**
-- **continent. ..............976**
-- **accurate. ..............1017**
-- **aware.....................943**
-- **can. ........................980**
-- **contract................1028**
-- **acquire...................952**
-- **awfully.................1047**
-- **candidate...............983**
-- **contribute............1025**
-- **adjust.....................942**
-- **ballet....................1000**
-- **canteen................1024**
-- **convert.................1018**
-- **affection. ...............953**
-- **after all. .................947**
-- **bandage. .............1049**
-- **carbohydrate. ......1019**
-- **corporation..........1021**
-- **ages. ....................1049**
-- **bang.....................1029**
-- **carry out.................965**
-- **costume. ................974**
-- **alarm....................1024**
-- **bankrupt................951**
-- **cast.......................1001**
-- **album.....................942**
-- **alert........................995**
-- **bark........................956**
-- **catch up. ................952**
-- **count in................1056**
-- **all at once. .............968**
-- **be comprised of.....956**
-- **certificate...............970**
-- **count on. .............1056**
-- **along with. ..........1007**
-- **be set. ..................1022**
-- **chapter. .................950**
-- **count out.............1056**
-- **amateur. ................942**
-- **amaze. .................1016**
-- **amazing...............1016**
-- **analyse.................1029**
-- **analysis. ...............1029**
-- **anchor..................1062**
-- **blink.......................964**
-- **childish.................1048**
-- **customs................1065**
-- **announce.............1021**
-- **annual....................956**
-- **ant........................1024**
-- **apartment..............955**
-- **appalling..............1030**
-- **apparent..............1048**
-- **apparently. ..........1048**
-- **break even...........1053**
-- **citizen. ...................980**
-- **damn....................1037**
-- **appeal..................1021**
-- **appliance. ..............954**
-- **applicant..............1017**
-- **bride. ...................1012**
-- **clutch (n)..............1021**
-- **deadline.................967**
-- **appreciate............1038**
-- **appropriate..........1001**
-- **bring up...............1020**
-- **cockpit. ................1003**
-- **decorate.................989**
-- **architect...............1024**
-- **broadcast.............1021**
-- **collaborate...........1033**
-- **deliberate. ...........1047**
-- **architecture. ........1024**
-- **armed. ...................982**
-- **bubble. ..................985**
-- **column.................1024**
-- **demolish................989**
-- **artistic. .................1005**
-- **bullet....................1030**
-- **combination. .......1024**
-- **denim...................1049**
-- **as for......................986**
-- **as opposed to......1022**
-- **bully. ....................1025**
-- **come down with..1004**
-- **dependant**
-- **ashore..................1062**
-- **bump. ....................941**
-- **come forward. .....1035**
-- **(dependent). .......1064**
-- **aspect.....................965**
-- **assess. ..................1055**
-- **...............................941**
-- **commit suicide.......951**
-- **depression. ............969**
-- **asset.......................976**
-- **bumpy....................941**
-- **commit to. ...........1038**
-- **desperate...............982**
-- **assume...................965**
-- **assure.....................970**
-- **at a loss. ...............1053**
-- **comply. ................1010**
-- **diagram. ................950**
-- **at a profit.............1053**
-- **at a time.................982**
-- **at all costs. ...........1037**
-- **at first sight..........1034**
-- **by land...................965**
-- **conclusion..............958**
-- **dimension............1016**
-- **at peace. ................946**
-- **at war...................1000**
-- **by post. ................1003**
-- **conductor. ...........1027**
-- **disguise................1043**
-- **display..................1004**
-- **exceed....................991**
-- **gaze. ......................965**
-- **dispose of. .............990**
-- **excite. ....................981**
-- **gear......................1021**
-- **headphones...........984**
-- **disrupt. ..................995**
-- **excursion................995**
-- **genuine..................970**
-- **headquarters.......1064**
-- **distinct. ..................964**
-- **exhaust. .................980**
-- **get across.............1047**
-- **heart attack. ..........980**
-- **distract.................1001**
-- **district....................976**
-- **divorce. ..................954**
-- **doll.........................950**
-- **domestic. ...............954**
-- **export. ...................943**
-- **get the sack. ..........967**
-- **highlight..............1007**
-- **dominate. ..............989**
-- **expose. ................1020**
-- **get together. .........995**
-- **hilarious...............1013**
-- **donate. ..................974**
-- **dose. ......................963**
-- **downside.............1033**
-- **drain.....................1003**
-- **eyesight. ..............1054**
-- **give out..................951**
-- **holidaymaker.........966**
-- **drama.....................956**
-- **draw.......................955**
-- **draw in...................958**
-- **face up to.............1047**
-- **glance. ...................990**
-- **household..............956**
-- **draw out................958**
-- **fake........................970**
-- **glimpse. .................990**
-- **draw up. ..............1028**
-- **dreadful...............1000**
-- **fashion.................1062**
-- **globe......................941**
-- **humorous. ...........1044**
-- **dress up. ................943**
-- **drift......................1062**
-- **drill.........................944**
-- **fee..........................969**
-- **glue......................1024**
-- **impersonal...........1050**
-- **.............................1017**
-- **drop by. .................966**
-- **drop in . .................966**
-- **field........................953**
-- **go out. .................1010**
-- **impress.................1001**
-- **drop off................1039**
-- **filthy.......................943**
-- **gorgeous. ..............963**
-- **impressive............1001**
-- **dye. ........................958**
-- **earnings.................991**
-- **finish up.................980**
-- **gossip.....................995**
-- **in danger. ............1002**
-- **earphones..............984**
-- **earthquake..........1033**
-- **economy................943**
-- **edit.........................953**
-- **editor.....................953**
-- **efficiency. ..............965**
-- **elderly..................1063**
-- **electronic.............1039**
-- **elementary. ...........969**
-- **forthcoming.........1026**
-- **grieve.....................989**
-- **in reference to. ....1024**
-- **elsewhere. .............989**
-- **foundation.............989**
-- **grip. .......................981**
-- **incredible...............941**
-- **emergency.............980**
-- **employment. .........967**
-- **fragile...................1045**
-- **grocer. ...................977**
-- **infection...............1053**
-- **encounter. .............946**
-- **frank. ...................1004**
-- **influential. ...........1053**
-- **end up....................945**
-- **fringe. ....................950**
-- **.............................1012**
-- **inhabitant..............955**
-- **endure. ..................953**
-- **engage.................1037**
-- **ensure....................942**
-- **enthusiasm. .........1007**
-- **entitle. ...................961**
-- **entry.....................1000**
-- **full**
-- **time...............1037**
-- **hand out................951**
-- **instance................1025**
-- **episode. ...............1005**
-- **equator..................956**
-- **erect.....................1036**
-- **fuss.........................975**
-- **handy.....................990**
-- **interpret. .............1027**
-- **establish...............1003**
-- **estimate...............1002**
-- **gang.......................974**
-- **hang on to . .........1055**
-- **introduction.........1019**
-- **even. ....................1018**
-- **evident.................1064**
-- **garment.................961**
-- **harmony. ...............954**
-- **invaluable. ...........1001**
-- **examiner................983**
-- **gasp. ....................1049**
-- **inventor. ..............1005**
-- **inversions...............971**
-- **invest. ....................993**
-- **major. ....................941**
-- **on hand. ................990**
-- **potential..............1033**
-- **investigation........1026**
-- **invitation..............1038**
-- **irritable. .................967**
-- **issue.......................943**
-- **make redundant..1063**
-- **option....................944**
-- **presence. .............1038**
-- **jail. .......................1030**
-- **jar...........................975**
-- **jug........................1024**
-- **jumper. ..................994**
-- **junk........................990**
-- **keep back (stand**
-- **back). ...................1062**
-- **measure...............1051**
-- **outdated..............1051**
-- **procedure. ...........1003**
-- **keep off. ................984**
-- **keep on................1063**
-- **kettle....................1024**
-- **key. ......................1045**
-- **melody.................1011**
-- **outrageous............980**
-- **promote...............1036**
-- **kid........................1042**
-- **kit.........................1066**
-- **kitten. ....................981**
-- **knit.........................989**
-- **knock down.........1011**
-- **knock out.............1011**
-- **knockout..............1011**
-- **knuckle. .................950**
-- **kph.........................974**
-- **mist. .....................1036**
-- **participate. ............972**
-- **punctuation...........961**
-- **label.....................1024**
-- **laboratory............1027**
-- **mosquito. ............1053**
-- **party. ...................1028**
-- **purchase. .............1035**
-- **labour . ..................952**
-- **lamb.....................1024**
-- **motorist. ................954**
-- **passion.................1063**
-- **put into practice. .1008**
-- **landscape...............963**
-- **lane........................947**
-- **lap........................1038**
-- **mph........................974**
-- **peach. ....................950**
-- **put on weight......1026**
-- **launch....................991**
-- **launderette..........1018**
-- **laundry.................1018**
-- **lavatory................1043**
-- **lawful.....................982**
-- **layer. ....................1053**
-- **leaflet.....................951**
-- **leak. .....................1002**
-- **lecture....................994**
-- **lecturer. .................994**
-- **leisure. ...................996**
-- **liable. ...................1004**
-- **limitation. ............1016**
-- **linking words.........961**
-- **numerous. ...........1038**
-- **pilot......................1003**
-- **recommendation.1050**
-- **litter. ....................1030**
-- **loathe.....................989**
-- **locate. ....................944**
-- **occupant................964**
-- **play away.............1046**
-- **redundant............1063**
-- **long**
-- **sighted........1054**
-- **occupy....................964**
-- **playground..........1025**
-- **regulation............1010**
-- **look down on. .....1017**
-- **look into. .............1045**
-- **look out. ................995**
-- **odds.......................941**
-- **plump. .................1065**
-- **remains................1030**
-- **look over..............1035**
-- **off. .........................963**
-- **point. ...................1046**
-- **remote.................1039**
-- **look up to. ...........1017**
-- **lounge. ..................990**
-- **magnificent. ..........943**
-- **resident..................985**
-- **resource...............1043**
-- **respectively............979**
-- **respond..................981**
-- **slippery. .................954**
-- **technique...............994**
-- **vegetarian. ............984**
-- **restless . ...............1001**
-- **restrain...................958**
-- **restrict..................1010**
-- **retail.....................1008**
-- **reveal. ..................1020**
-- **reverse. ................1034**
-- **revise (review)......1048**
-- **rifle.......................1033**
-- **riot. ......................1030**
-- **rocket.....................991**
-- **west...........1061**
-- **terrorist..................980**
-- **volume...................984**
-- **round...................1011**
-- **spam. .....................990**
-- **texture. ................1049**
-- **wasteful...............1043**
-- **routine...................976**
-- **spark. .....................950**
-- **thanks to................975**
-- **watch out...............995**
-- **rumour.................1066**
-- **run. ........................966**
-- **specialize. ..............977**
-- **...............................974**
-- **wedge..................1055**
-- **run down.............1063**
-- **species..................1056**
-- **weekday. ...............966**
-- **run out of.............1063**
-- **down. ...........1063**
-- **sack........................967**
-- **satellite. .................991**
-- **scan......................1065**
-- **spy..........................965**
-- **topic.......................945**
-- **whatsoever...........1044**
-- **scar.........................968**
-- **scare.....................1020**
-- **stale. ......................968**
-- **tradition.................974**
-- **wind**
-- **wound**
-- **scheme.................1030**
-- **stall.......................1046**
-- **traditional..............974**
-- **wound. ................1034**
-- **scientific...............1005**
-- **score.....................1046**
-- **secretary. ...............994**
-- **stand up for. ........1025**
-- **transform...............958**
-- **work out..............1061**
-- **section. ..................958**
-- **stationary.............1021**
-- **tricky. .....................952**
-- **workforce. ...........1063**
-- **secure.....................993**
-- **stiffen.....................981**
-- **trigger..................1033**
-- **worldwide. ..........1021**
-- **security...................993**
-- **stock market..........993**
-- **trip. ......................1052**
-- **wrinkle.................1024**
-- **see off..................1064**
-- **see through. ........1025**
-- **select....................1017**
-- **stubborn................973**
-- **try on. ....................977**
-- **writing (general**
-- **selection...............1017**
-- **sell out. ..................972**
-- **subjective.............1055**
-- **tunnel. .................1039**
-- **writing (informal**
-- **sentence. ...............952**
-- **series....................1005**
-- **substitute.............1019**
-- **turn into...............1028**
-- **writing (report)....1050**
-- **set off...................1046**
-- **set out..................1046**
-- **setting..................1022**
-- **summarize...........1007**
-- **undertake............1039**
-- **youngster. .............983**
-- **settlement. ............976**
-- **summit...................957**
-- **uneasy....................976**
-- **shed. ....................1026**
-- **sunburnt..............1042**
-- **uneven.................1018**
-- **shift......................1033**
-- **surroundings. ......1022**
-- **unique..................1056**
-- **shoelace...............1052**
-- **survey...................1013**
-- **unit.........................994**
-- **short**
-- **sighted.......1054**
-- **suspend. ................995**
-- **unlawful. ...............982**
-- **show off...............1004**
-- **suspense. ...............965**
-- **unwind.................1034**
-- **shrink**
-- **shrank**
-- **sweater..................994**
-- **upcoming.............1026**
-- **shrunk....................957**
-- **sympathize. ...........951**
-- **vacancy. ...............1008**
-- **significant..............946**
-- **table tennis..........1046**
-- **vacant. .................1043**
-- **silly. ........................957**
-- **tablet. ....................963**
-- **vacation. ................955**
-- **since.......................948**
-- **take part. .............1042**
-- **vacuum. .................974**
-- **siren. ......................996**
-- **talent. ..................1005**
-- **vague...................1020**
-- **sit an exam...........1016**
-- **tan........................1042**
-- **valid. ....................1062**
-- **site. ......................1012**
-- **tank........................984**
-- **van. ......................1011**
-- **sitting room...........990**
-- **target.....................944**
-- **vary. .......................976**
 
-### Grammar Notes
-What’s the function of the anchor on a ship? The function … to prevent the
-                           ship from drifting as a result of the current or wind
-The length of each piece of writing should be between 200 and 250
-•   building and facilities;
-•   teaching staff;
-•   courses.
-He then wants you to present him with a report, including
-recommendations for possible action. Write your report.
-drive somebody crazy..              feedback..............1004          go down with......1004              implement. ..........1051
+### Notes
+> Some more common prefixes that we use in English are: “pre-” (meaning
+> “before”), “en-” (meaning “make” or “give”), “mis-” (meaning “wrong”
+> From the four options given with each sentence, choose the one word that
+> fits correctly in the gap.
+> Phrase exercise answers
+> Phrase exercise 1
+> Phrase exercise 2
+> Phrase exercise 3
+> Phrase exercise 4
+> Phrase exercise 5
+> Word pool revision exercise answers
+> Word pool 1
+> Word pool 2
+> Word pool 3
+> Writing homework titles
+> Index
 
 ### Q&A Drill
-**Q:** POTX Some more common prefixes that we use in English are: “pre-” (meaning “before”), “en-” (meaning “make” or “give”), “mis-” (meaning “wrong” or “bad”), and “ex-” (meaning “previous” or “out”).?
-**A:** Common prefixes (2) dismal
-
-**Q:** What meaning can the prefix “pre-” add to a word? The prefix … “before” …?
+**Q:** What meaning can the prefix "pre-" add to a word?
+**A:** The prefix … “before” …
 
 **Q:** Give me an example, please.?
 **A:** It’s not fair to prejudge people
 
-**Q:** What meaning can the prefix “en-” add to a word??
+**Q:** What meaning can the prefix "en-" add to a word?
 **A:** The prefix … “make” or “give” …
 
 **Q:** Give me an example, please.?
 **A:** She endears herself to everyone she meets with her great sense of humour. Could I entrust you with making all the necessary arrangements?
 
-**Q:** What meaning can the prefix “mis-” add to a word??
+**Q:** What meaning can the prefix "mis-" add to a word?
 **A:** The prefix … “wrong” or “bad” …
 
-**Q:** Give me an example, please.  ?
+**Q:** Give me an example, please.?
 **A:** The hotel customers had clearly been mistreated and were granted a full refund. It was his misfortune to be chosen to speak to the boss.
 
-**Q:** What meaning can the prefix “ex-” add to a word??
+**Q:** What meaning can the prefix "ex-" add to a word?
 **A:** The prefix … “previous” or “out” …
 
 **Q:** Give me an example, please.?
-**A:** He still communicates with his ex-wife. He was excluded from the team owing to his recent dismal performances.
-
-**Q:** ontn?
-**A:** soul
+**A:** He still communicates with his ex-wife. He was excluded from the team owing to his recent dismal performances. 1060
 
 **Q:** Do you believe that humans have a soul that carries on living after death?
-**A:**  Yes, … ~ No, …
 
-**Q:** Does it bother you when another passenger plays music out loud on?
-
-**Q:** public transport?
+**Q:** Does it bother you when another passenger plays music out loud on public transport?
 **A:** Yes, … ~ No, …
 
-**Q:** What do we mean when we say we can’t be bothered to do something?
-**A:**  When …, we mean that we are not willing to make the effort to do something
+**Q:** What do we mean when we say we can't be bothered to do something?
 
 **Q:** Give me an example, please.?
 **A:** I just can’t be bothered to do my homework now; I’ll do it tomorrow
 
-**Q:** When you buy a new high-tech (hi-tech) product, do you read the?
+**Q:** When you buy a new high-tech (hi-tech) product, do you read the instruction manual that comes with it?
+**A:** Yes, when I … ~ No, when I …
 
 **Q:** What do we mean by a manual job?
 **A:** By …, we mean a job that involves physical work
 
 **Q:** At an art exhibition, what do we call each individual piece of art on show?
-**A:**  At …, … an exhibit
 
-**Q:** onto?
-**A:** grasp
-
-**Q:** What can happen if we don’t grasp glass objects firmly enough when?
-
-**Q:** carrying them?
+**Q:** What can happen if we don't grasp glass objects firmly enough when carrying them?
 **A:** If we don’t …, they can fall onto the floor and smash into little pieces
 
-**Q:** Why is it politicians don’t always say in public what they say in private?
-**A:**  The reason politicians … is that they’re perhaps afraid that people would not vote for them
+**Q:** Why is it politicians don't always say in public what they say in private?
 
 **Q:** Whereabouts in England is London?
 **A:** London’s in the south-east of England
@@ -4669,115 +3369,83 @@ drive somebody crazy..              feedback..............1004          go down 
 **Q:** Is France north-east or north-west of Spain?
 **A:** France is north-east of Spain
 
-**Q:** If you have a problem in your personal life and you can’t work out what?
+**Q:** If you have a problem in your personal life and you can't work out what to do, who do you turn to?
+**A:** If … and I can’t …, I turn to a friend, my family etc. 1062
 
-**Q:** to do, who do you turn to?
-**A:** If … and I can’t …, I turn to a friend, my family etc.
-
-**Q:** ontp?
-**A:** fashion pop
-
-**Q:** Why is it essential for people to behave in an orderly fashion in very crowded areas such as shopping centres and sports stadiums, or at pop?
-
-**Q:** concerts?
+**Q:** Why is it essential for people to behave in an orderly fashion in very crowded areas such as shopping centres and sports stadiums, or at pop concerts?
 **A:** The reason it’s essential … people can easily get hurt by being crushed against one another
 
 **Q:** Is the money used in your country valid in any other country?
 **A:** Yes, … ~ No, …
 
-**Q:** Why is it advisable to keep back from the edge of a race track when the?
-
-**Q:** cars shoot by?
+**Q:** Why is it advisable to keep back from the edge of a race track when the cars shoot by?
 **A:** It’s advisable to … because a driver could lose control and crash into the crowd
 
+**Q:** What's the function of the anchor on a ship?
+**A:** The function … to prevent the ship from drifting as a result of the current or wind
+
 **Q:** And in what circumstances might the crew need to drop anchor?
-**A:**  The crew might … when they want to go ashore, but the water is too shallow to take the ship close to the shore
 
-**Q:** Why do good friends sometimes drift apart over time??
-**A:** Good friends …
+**Q:** Why do good friends sometimes drift apart over time?
+**A:** Good friends … 1063
 
-**Q:** ontq?
-**A:** workforce make redundant keep on
-
-**Q:** When a company needs to reduce its workforce in order to stay in business, is it very hard to decide who to make redundant and who to?
-
-**Q:** keep on?
+**Q:** When a company needs to reduce its workforce in order to stay in business, is it very hard to decide who to make redundant and who to keep on?
 **A:** Yes, when …, it’s …
 
-**Q:** What’s your biggest passion in life?
+**Q:** What's your biggest passion in life?
 **A:** My biggest …
 
-**Q:** Does your mobile battery run down more quickly now than it did when?
-
-**Q:** you first got the phone?
+**Q:** Does your mobile battery run down more quickly now than it did when you first got the phone?
 **A:** Yes, … ~ No, …
 
-**Q:** Do you find you catch colds more easily when you’re feeling run-down?
-**A:**  Yes, … ~ No, …
+**Q:** Do you find you catch colds more easily when you're feeling run-down?
 
-**Q:** What do you suppose will happen when the world runs out of its natural?
-
-**Q:** resources?
+**Q:** What do you suppose will happen when the world runs out of its natural resources?
 **A:** When the world …, I suppose …
 
 **Q:** Would you classify people who are 40 years old as middle-aged?
-**A:**  Yes, … ~ No, …
 
-**Q:** 1064 And when would you start classifying a person as elderly?
+**Q:** And when would you start classifying a person as elderly?
 **A:** I’d start … at the age of about …
 
-**Q:** Why do some people insist on entering TV talent contests despite the fact?
-
-**Q:** that they evidently have no ability whatsoever?
+**Q:** Why do some people insist on entering TV talent contests despite the fact that they evidently have no ability whatsoever?
 **A:** Some … because they’re desperate to become famous …
 
-**Q:** If you’re asked to list your dependants when filling in an official form,?
-
-**Q:** what information should you supply??
+**Q:** If you're asked to list your dependants when filling in an official form, what information should you supply?
 **A:** If I’m asked …, I should supply the names of any people who depend on me for financial support
 
-**Q:** If you were the boss of a fashion company, which city would you consider the ideal location for your headquarters??
+**Q:** If you were the boss of a fashion company, which city would you consider the ideal location for your headquarters?
 **A:** If …, I’d consider …
 
 **Q:** Why?
 
-**Q:** If you were setting off on a trip round the world, who would you expect?
+**Q:** If you were setting off on a trip round the world, who would you expect to come and see you off at the airport?
+**A:** If …, I’d expect … 1065
 
-**Q:** to come and see you off at the airport?
-**A:** If …, I’d expect …
-
-**Q:** onts?
-**A:** stocky chubby skinny
-
-**Q:** Name a famous person who’s stocky?
+**Q:** Name a famous person who's stocky?
 **A:** … is a famous person who’s stocky
 
-**Q:** Name a famous person who’s chubby?
+**Q:** Name a famous person who's chubby?
 **A:** … is a famous person who’s chubby
 
-**Q:** What’s another word similar to “chubby”?
+**Q:** What's another word similar to "chubby"?
 **A:** Another … “plump”
 
-**Q:** If we refer to someone as skinny rather than slim, what might this imply??
+**Q:** If we refer to someone as skinny rather than slim, what might this imply?
 **A:** If …, it might imply that we think they should put on a bit of weight
 
-**Q:** When you have friends over, do you normally tidy up a little before they?
-
-**Q:** come round?
+**Q:** When you have friends over, do you normally tidy up a little before they come round?
 **A:** Yes, … ~ No, …
 
 **Q:** How often does payday come round for most people?
 **A:** Payday … once a month …
 
 **Q:** How do patients usually feel when they come round after an operation?
-**A:**  Patients … confused, tired etc. when they …
 
-**Q:** How come customs officers at most airports don’t often need to inspect?
+**Q:** How come customs officers at most airports don't often need to inspect luggage manually these days?
+**A:** Customs officers … because most airports have special machines that scan luggage instead 1066
 
-**Q:** luggage manually these days?
-**A:** Customs officers … because most airports have special machines that scan luggage instead 1066 What’s the difference between scanning a document and photocopying
-
-**Q:** a document?
+**Q:** What's the difference between scanning a document and photocopying a document?
 **A:** The difference … is that scanning produces a digital copy of the document, whereas photocopying produces a paper copy
 
 **Q:** Name a sport that one needs very little kit for.?
@@ -4786,111 +3454,100 @@ drive somebody crazy..              feedback..............1004          go down 
 **Q:** What kit does one need to play tennis?
 **A:** To play tennis, one needs a pair of trainers, a racket and a tennis ball
 
-**Q:** If you bought something in a shop but subsequently realized you’d been?
+**Q:** If you bought something in a shop but subsequently realized you'd been misled by the sales person about the product, what would you do?
 
-**Q:** misled by the sales person about the product, what would you do?
-**A:**  If …, I’d …
-
-**Q:** Is it an offence in your country to spread false rumours about other?
-
-**Q:** people?
+**Q:** Is it an offence in your country to spread false rumours about other people?
 **A:** Yes, … ~ No, …
 
-**Q:** Do you take offence if someone criticizes your country??
-**A:** Yes, … ~ No, …
+**Q:** Do you take offence if someone criticizes your country?
+**A:** Yes, … ~ No, … 1067
 
-**Q:** POUV From the four options given with each sentence, choose the one word that fits correctly in the gap.?
-**A:** Phrase exercise 5
+**Q:** 1?
 
-**Q:** o?
-**A:** Let’s go travelling for a year; it’ll broaden our … enormously. ( settings / landscape / horizons / scenery )
+**Q:** Let's go travelling for a year; it'll broaden our … enormously.?
+**A:** ( settings / landscape / horizons / scenery )
 
-**Q:** Q economy of the region.?
-**A:** The heavy rain caused a terrible flood, which in … damaged the ( progress / depth / turn / future )
+**Q:** 2?
 
-**Q:** q?
-**A:** Why is it … your interest to report the problem to the police? ( against / in / out of / for )
+**Q:** The heavy rain caused a terrible flood, which in … damaged the economy of the region.?
+**A:** ( progress / depth / turn / future )
 
-**Q:** S surprised if he gets lost in London! ( marks / spots / points / bits )?
-**A:** Finding his way around isn’t one of Frank’s strong …, so don’t be
+**Q:** 3?
 
-**Q:** T England and, … all accounts, she’s doing very well. ?
-**A:** Several of my friends have spoken to Aisha since she moved to ( with / by / from / for )
+**Q:** Why is it … your interest to report the problem to the police?
+**A:** ( against / in / out of / for )
 
-**Q:** U out. Speak to your teacher about your problems. ?
-**A:** Don’t just leave your computer course; that’d be taking the … way ( weak / quick / easy / silly )
+**Q:** 4?
 
-**Q:** u?
-**A:** David thinks the plan is risky, and, … a sense, he’s right. ( with / by / in / after )
+**Q:** Finding his way around isn't one of Frank's strong …, so don't be surprised if he gets lost in London!?
+**A:** ( marks / spots / points / bits )
 
-**Q:** W music is actually a very quiet individual. ?
-**A:** All the songs in this new collection are loud, but the man … the ( under / behind / over / in front of )
+**Q:** 5?
 
-**Q:** X hoped; … short, I need to borrow money from someone. ?
-**A:** My request for a loan from the bank was not as successful as I’d ( for / as / on / in )
+**Q:** Several of my friends have spoken to Aisha since she moved to?
 
-**Q:** PO the fridge.?
-**A:** There are no shops open this late, so we’ll … have to eat what’s in ( always / even / just / still )
+**Q:** England and, … all accounts, she's doing very well.?
 
-**Q:** oo?
-**A:** Could you possibly keep … on my bag while I go to the toilet? ( an eye / a look / a lock / an arm )
+**Q:** 6?
 
-**Q:** op?
-**A:** Can we stop running for a moment? I need a minute or two to …
+**Q:** Don't just leave your computer course; that'd be taking the … way out. Speak to your teacher about your problems.?
 
-**Q:** PR experience in any …, I’m sure. ( affair / event / result / occasion )?
-**A:** I don’t mind whether we go to Moscow or Beijing; it’ll be a great
+**Q:** 7?
 
-**Q:** or?
-**A:** Mark’s life is changing all the time. I can never … track of what he’s
+**Q:** David thinks the plan is risky, and, … a sense, he's right.?
+**A:** ( with / by / in / after )
 
-**Q:** os?
-**A:** This will be an exciting year for the company. Who knows what …
+**Q:** 8?
 
-**Q:** POUW The cyclist stopped/ to pump more air into his tyres,/ in the hope that this would ensure/ that he didn’t get a puncture/ on the narrow, bumpy countryside lanes./ Leading the procession,/ looking far from graceful/ squeezed into his military uniform,/ was the monarch himself,/ accompanied by a dozen armed guards./?
-**A:** Dictation 122
+**Q:** All the songs in this new collection are loud, but the man … the music is actually a very quiet individual.?
 
-**Q:** Have you no conscience?/ This is a clear case of prejudice!/ You certainly weren’t exaggerating/ about the scenery;/ the bay looks simply magnificent/ from up here!/ Mike was aware/ that few journalists/ had ever been permitted/ a personal interview/ with the team’s coach,/ who had acquired a reputation/ for being grumpy and even nasty/ with members of the press./ Accessory, suicide, bankrupt, relevant, author.?
-**A:** proposition
+**Q:** 9?
 
-**Q:** P friends with at school. You were both in a hurry at the time and couldn’t talk properly, but your friend gave you their email address. Write an email telling your friend about your life since leaving school, and suggest an idea for meeting up in the near future.?
-**A:** A few days ago, you happened to meet someone you used to be good
+**Q:** My request for a loan from the bank was not as successful as I'd hoped; … short, I need to borrow money from someone.?
 
-**Q:** Q seemed fine, but now you realize there are some problems with it. Write an email to your landlord, who lives in another city, asking for something to be done.?
-**A:** You recently moved into a rented flat with some friends. At first, the flat
+**Q:** 10?
 
-**Q:** R rather than go to university. Your uncle and aunt have contacted you, asking you to persuade him that this is not a good idea. Write a letter to your cousin.?
-**A:** One of your cousins has recently decided that he wants to join the army
+**Q:** There are no shops open this late, so we'll … have to eat what's in the fridge.?
+**A:** ( always / even / just / still )
 
-**Q:** P weekend. Unfortunately, you have had an accident and now the car needs expensive work done to repair it. Write an email to your friend explaining?
-**A:** A close friend kindly lent you their car a few days ago to go away for a
+**Q:** 11?
 
-**Q:** what has happened and suggesting what should happen next.?
+**Q:** Could you possibly keep … on my bag while I go to the toilet?
+**A:** ( an eye / a look / a lock / an arm )
 
-**Q:** Q come back from.?
-**A:** Write a letter to a family member telling them about a holiday you’ve just
+**Q:** 12?
 
-**Q:** q?
-**A:** A friend of yours is coming to live in your house and look after it while you
+**Q:** Can we stop running for a moment? I need a minute or two to … my breath!?
+**A:** ( find / draw / hold / catch )
 
-**Q:** are away for a month. Write an email, giving your friend information about the house and the surrounding area that they will need or might find useful while they are there.?
+**Q:** 13?
 
-**Q:** P for six weeks or so. Think of a job you might like to do during this period and then write a cover letter/email for your application.?
-**A:** You are attending university but hope to work during the summer holidays
+**Q:** I don't mind whether we go to Moscow or Beijing; it'll be a great experience in any …, I'm sure.?
+**A:** ( affair / event / result / occasion )
 
-**Q:** Q career. Write the cover letter/email that you might send as part of your application for that job.?
-**A:** Imagine a job that you hope to apply for at some point in your future
+**Q:** 14?
 
-**Q:** R Only a limited number of people will be able to attend the course, and the college has stated that all applications must be supported by a cover letter. Write your cover letter.?
-**A:** There is an interesting evening course starting soon at your local college.
+**Q:** Mark's life is changing all the time. I can never … track of what he's doing!?
+**A:** ( follow / make / hold / keep )
 
-**Q:** P the business, and he has asked you to interview current students and?
-**A:** You work in an English language school. The principal wants to improve
+**Q:** 15?
 
-**Q:** Q ‘helper’, providing members of the public with information, and dealing with any problems or complaints they had. The festival has attracted fewer people in recent years, and the organizers have asked you, and all the other helpers, to provide individual reports on the festival, based on your personal experience, and to suggest any improvements to the festival that you feel should be made. Write your report.?
-**A:** You recently worked at a large annual 3-day music festival as an official
+**Q:** This will be an exciting year for the company. Who knows what … ahead for us!?
+**A:** ( comes / sits / lies / goes )
 
-**Q:** R customers who are visiting for a week in the near future. Write a report for your boss on the top two hotels in your area, and recommend one.?
-**A:** The company you work for needs to find a hotel for some very important
+**Q:** Lesson 166 (General advice for writing)?
+**A:** 1 A few days ago, you happened to meet someone you used to be good friends with at school. You were both in a hurry at the time and couldn’t talk properly, but your friend gave you their email address. Write an email telling your friend about your life since leaving school, and suggest an idea for meeting up in the near future. 2 You recently moved into a rented flat with some friends. At first, the flat seemed fine, but now you realize there are some problems with it. Write an email to your landlord, who lives in another city, asking for something to be done. 3 One of your cousins has recently decided that he wants to join the army rather than go to university. Your uncle and aunt have contacted you, asking you to persuade him that this is not a good idea. Write a letter to your cousin.
+
+**Q:** Lesson 170 (Writing an informal letter)?
+**A:** 1 A close friend kindly lent you their car a few days ago to go away for a weekend. Unfortunately, you have had an accident and now the car needs expensive work done to repair it. Write an email to your friend explaining what has happened and suggesting what should happen next. 2 Write a letter to a family member telling them about a holiday you’ve just come back from. 3 A friend of yours is coming to live in your house and look after it while you are away for a month. Write an email, giving your friend information about the house and the surrounding area that they will need or might find useful while they are there.
+
+**Q:** Lesson 171 (Writing a cover letter)?
+**A:** 1 You are attending university but hope to work during the summer holidays for six weeks or so. Think of a job you might like to do during this period and then write a cover letter/email for your application. 2 Imagine a job that you hope to apply for at some point in your future career. Write the cover letter/email that you might send as part of your application for that job. 3 There is an interesting evening course starting soon at your local college. Only a limited number of people will be able to attend the course, and the college has stated that all applications must be supported by a cover letter. Write your cover letter.
+
+**Q:** Lesson 176 (Writing a report)?
+**A:** 1 You work in an English language school. The principal wants to improve the business, and he has asked you to interview current students and obtain their opinions on the following: • building and facilities; • teaching staff; • courses. He then wants you to present him with a report, including recommendations for possible action. Write your report. 2 You recently worked at a large annual 3-day music festival as an official ‘helper’, providing members of the public with information, and dealing with any problems or complaints they had. The festival has attracted fewer people in recent years, and the organizers have asked you, and all the other helpers, to provide individual reports on the festival, based on your personal experience, and to suggest any improvements to the festival that you feel should be made. Write your report. 3 The company you work for needs to find a hotel for some very important customers who are visiting for a week in the near future. Write a report for your boss on the top two hotels in your area, and recommend one.
+
+### Dictation
+> 1068 The cyclist stopped/ to pump more air into his tyres,/ in the hope that this would ensure/ that he didn’t get a puncture/ on the narrow, bumpy countryside lanes./ Leading the procession,/ looking far from graceful/ squeezed into his military uniform,/ was the monarch himself,/ accompanied by a dozen armed guards./ Have you no conscience?/ This is a clear case of prejudice!/ You certainly weren’t exaggerating/ about the scenery;/ the bay looks simply magnificent/ from up here!/ Mike was aware/ that few journalists/ had ever been permitted/ a personal interview/ with the team’s coach,/ who had acquired a reputation/ for being grumpy and even nasty/ with members of the press./ Accessory, suicide, bankrupt, relevant, author. 1 in 6 as 11 around 2 closely 7 side 12 at 3 have 8 with 13 ball 4 speechless 9 throwing 14 in 5 would appear 10 head 15 next best 1 beyond 6 made 11 out 2 liberty 7 favour 12 cover 3 put 8 flying 13 on 4 bright 9 scratch 14 position 5 large 10 in 15 down 1 speed 6 on 11 well 2 take 7 came 12 bit by bit 3 share 8 being 13 hope 4 course 9 harm 14 fine 5 tune 10 increase 15 agree 1 a 6 c 2 b 7 c 3 c 8 a 4 b 9 a 5 a 10 c 1 horizons 6 easy 11 an eye 2 turn 7 in 12 catch 3 in 8 behind 13 event 4 points 9 in 14 keep 5 by 10 just 15 lies 1 visitors 6 accountant 11 forgetful 2 depth 7 cultural 12 boredom 3 centrally 8 enlarging 13 popularity 4 realistic 9 partial 14 stupidity 5 fashionable 10 circular 15 decisive 1 electrician 6 justify 11 racial 2 maintenance 7 savings 12 extension 3 cruelty 8 typist 13 productive 4 educational 9 ambitious 14 satisfactory 5 equality 10 bravery 15 conservation 1 luxurious 6 locations 11 multiplication 2 reduction 7 prescription 12 proposal/ proposition 3 curiosity 8 immoral 13 removal 9 promising 14 suspicious 4 generalizing/ generalising 5 foolish 10 simplicity 15 optional 1 knuckle 6 fringe 11 tram 2 peach 7 spark 12 chapter 3 diagram 8 fountain 13 calendar 4 pirate 9 cable 14 moustache 5 tractor 10 doll 15 glove 1 punch 6 illustrate 11 stab 2 dominate 7 yell 12 spray 3 perceive 8 demolish 13 dial 4 knit 9 loathe 14 tease 5 prohibit 10 insert 15 grieve 1 hood 6 monster 11 alarm 2 canteen 7 kettle 12 label 3 blister 8 heel 13 lamb 4 wrinkle 9 circus 14 frost 5 glue 10 ant 15 jug The length of each piece of writing should be between 200 and 250 words.
 
 ---

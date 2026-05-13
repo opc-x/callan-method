@@ -2,3 +2,10 @@ html/
 __pycache__/
 *.pyc
 charts/
+
+# Generated structured data (271MB, rebuilt by scripts)
+structured/*.json
+structured/*.jsonl
+
+# Audit outputs
+audit/

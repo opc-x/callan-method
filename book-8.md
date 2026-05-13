@@ -1,6 +1,6 @@
 # Callan Method — Book 8 (Stage 8)
 
-> **CEFR level:** B2–C1 (FCE and above)
+> **CEFR level:** B2–C1
 > Each lesson introduces vocabulary through intensive Q&A drilling.
 
 ---
@@ -16,10 +16,10 @@
 - **postcode**
 - **naturally**
 - **recent**
-- **so**
+- **so-so**
 - **mate**
 - **housemate**
-- **flatmate**
+- **ﬂatmate**
 - **classmate**
 - **workmate**
 - **to look forward to**
@@ -27,7 +27,7 @@
 - **chance**
 - **dismiss**
 - **jungle**
-- **fifty**
+- **ﬁfty-ﬁfty**
 - **take a chance**
 - **whistle**
 - **hunt**
@@ -40,17 +40,17 @@
 - **due to**
 - **grandmother**
 - **grandfather**
-- **great**
+- **great-grandmother**
+- **great-grandfather**
 - **mostly**
 - **totally**
 - **Idiom 13**
 - **sentence**
 
-### Grammar Notes
-The expression “Let me see“ means “Give me time to think for a minute“.
-intelligent than most other people, or do you think it’s mainly due to
-let yourself go = relax and enjoy yourself
-e.g. The party was a great success; everyone really let themselves go.
+### Notes
+> If you are looking forward to something, it means that you are waiting for
+> it with pleasure. For example, “I always look forward to going on holiday“.
+> The expression “Let me see“ means “Give me time to think for a minute“.
 
 ### Q&A Drill
 **Q:** Do you like people who are always laughing and joking?
@@ -60,9 +60,9 @@ e.g. The party was a great success; everyone really let themselves go.
 **A:** Yes, I can tell you a joke ~ No, I can’t tell you a joke
 
 **Q:** What am I pretending to do?
-**A:**   You’re pretending to play the piano, kick a football etc.
+**A:** You’re pretending to play the piano, kick a football etc.
 
-**Q:** When children play together do they often pretend to be adults?
+**Q:** When children play together, do they often pretend to be adults?
 **A:** Yes, when children play …
 
 **Q:** If you see someone you know in the street but you're in too much of a hurry to stop and say hello, do you sometimes pretend not to notice them?
@@ -71,22 +71,22 @@ e.g. The party was a great success; everyone really let themselves go.
 **Q:** What do we have to put on an envelope before posting a letter?
 **A:** We have to put an address and a stamp on …
 
-**Q:** If you write the address on the envelope but leave out the postcode will the letter still arrive?
+**Q:** If you write the address on the envelope but leave out the postcode, will the letter still arrive?
 **A:** Yes, if you write …, the letter will still arrive, but it may take longer
 
 **Q:** What am I pretending to do?
 **A:** You’re pretending to stamp a piece of paper with a stamp
 
 **Q:** Would you find it difficult to behave naturally if you met someone really famous?
-**A:** Yes, I’d find it … ~ No, I wouldn’t find it …
+**A:** Yes, I’d ﬁnd it … ~ No, I wouldn’t ﬁnd it …
 
-**Q:** What do I mean if I say 'Naturally she was pleased about passing the test'?
+**Q:** What do I mean if I say 'Naturally, she was pleased about passing the test'?
 **A:** If you say “Naturally, she …“, you mean “Of course, she …“
 
 **Q:** What is the most recent film you have seen?
 **A:** The most recent …
 
-**Q:** What was it like Ǹ that is was it good bad or just soso?
+**Q:** What was it like Ǹ that is, was it good, bad, or just so-so?
 **A:** It was …
 
 **Q:** Have you been to any concerts recently?
@@ -96,15 +96,13 @@ e.g. The party was a great success; everyone really let themselves go.
 **A:** We can say “mate“ instead of …
 
 **Q:** What's a housemate or ʞatmate?
-**A:** A housemate or flatmate is someone who we live with
+**A:** A housemate or ﬂatmate is someone who we live with
 
 **Q:** Do you know the names of all your classmates?
-**A:**  Yes, I know … ~ No, I don’t know …
+**A:** Yes, I know … ~ No, I don’t know …
 
-**Q:** If you thought one of your workmates was stealing money from the company you worked for what would you do?
+**Q:** If you thought one of your workmates was stealing money from the company you worked for, what would you do?
 **A:** If I thought one of …, I’d …
-
-**Q:** If you are looking forward to something, it means that you are waiting for it with pleasure. For example, “I always look forward to going on holiday“.?
 
 **Q:** Is there anything you're really looking forward to doing at the moment?
 **A:** Yes, there’s something … ~ No, there isn’t anything …
@@ -120,22 +118,20 @@ e.g. The party was a great success; everyone really let themselves go.
 **Q:** On what kind of occasions do we use it?
 **A:** We use it on occasions when we are thinking about something and we are not completely sure of the answer
 
-**Q:** If you were the owner of a business and one of your workers stole something from the business would you give them a second chance or would you dismiss them at once?
+**Q:** If you were the owner of a business and one of your workers stole something from the business, would you give them a second chance, or would you dismiss them at once?
 **A:** If I were ... from the business, I’d ...
 
 **Q:** Why?
 
-**Q:** Supposing there was a place shall we say somewhere in the middle of a jungle in South America where you knew for sure that there was about?
-
-**Q:** fifty million pounds' worth of gold but the chances of returning alive were only fiftyfifty would you go and take a chance and try your luck or would you just stay at home and dream about it?
-**A:** Supposing there was ... where I knew ... only fifty-fifty, I’d ...
+**Q:** Supposing there was a place, shall we say, somewhere in the middle of a jungle in South America, where you knew for sure that there was about fifty million pounds' worth of gold, but the chances of returning alive were only fifty-fifty, would you go and take a chance and try your luck, or would you just stay at home and dream about it?
+**A:** Supposing there was ... where I knew ... only ﬁfty-ﬁfty, I’d ...
 
 **Q:** Why?
 
 **Q:** What am I doing?
 **A:** You’re whistling
 
-**Q:** Many years ago did humans have to hunt animals for food?
+**Q:** Many years ago, did humans have to hunt animals for food?
 **A:** Yes, many years ago, humans …
 
 **Q:** Why should we judge a person by his deeds more than by his words?
@@ -147,7 +143,7 @@ e.g. The party was a great success; everyone really let themselves go.
 **Q:** What do we use a pair of scissors for?
 **A:** We use a pair of scissors for cutting paper etc.
 
-**Q:** If you were in a bus going downhill and the driver suddenly lost control of the bus what'd you do?
+**Q:** If you were in a bus going downhill and the driver suddenly lost control of the bus, what'd you do?
 **A:** If I were ..., I’d try to take control of the bus etc.
 
 **Q:** What might happen if you didn't pay your electricity bill when it was due?
@@ -159,7 +155,7 @@ e.g. The party was a great success; everyone really let themselves go.
 **Q:** Why don't trains always arrive when they are due?
 **A:** Trains don’t ... because of bad weather, breakdowns etc.
 
-**Q:** luck?
+**Q:** When a person is rich, do you think it's due to the fact that they're more intelligent than most other people, or do you think it's mainly due to luck?
 **A:** When a person ..., I think it’s ...
 
 **Q:** Were your grandmothers both born in the same country as you?
@@ -177,13 +173,13 @@ e.g. The party was a great success; everyone really let themselves go.
 **Q:** Do you think your language is totally different from English?
 **A:** Yes, I think … ~ No, I don’t think …
 
-**Q:** If a friend of yours is wearing clothes that look totally wrong on them do you tell them?
-**A:** Yes, if a friend …, I tell them ~ No, if a friend …, I don’t tell them
+**Q:** If a friend of yours is wearing clothes that look totally wrong on them, do you tell them let yourself go =?
+**A:** Yes, if a friend …, I tell them ~ No, if a friend …, I don’t tell them relax and enjoy yourself e.g. The party was a great success; everyone really let themselves go .
 
 **Q:** What does the idiom 'let yourself goȀ mean?
 **A:** The idiom ... “relax ...”
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** If you relax a little and let yourself go, you’ll feel happier
 
 ### Dictation
@@ -201,7 +197,13 @@ e.g. The party was a great success; everyone really let themselves go.
 - **quarrel**
 - **anger**
 - **reason**
+- **opinions in a discussion but it is rarely unpleasant.**
+- **disagree strongly on a subject and become angry.**
+- **each other.**
+- **argument could ﬁnish in a quarrel.**
+- **sufﬁcient time“.**
 - **regular**
+- **do something about**
 - **blow up**
 - **dust**
 - **powder**
@@ -210,44 +212,45 @@ e.g. The party was a great success; everyone really let themselves go.
 - **meeting**
 - **football match**
 - **Red Cross**
+- **face.**
 - **furniture**
 - **furnish**
 - **available**
 - **human being**
-- **artificial**
+- **artiﬁcial**
+- **Plural of nouns and third person singular of verbs**
 - **kiss**
 - **rush**
 - **hero**
-- **two ladies”**
+- **and “I cry – you cry – he cries”.**
 - **Idiom 14**
-- **that is not true**
 
-### Grammar Notes
-argues that he could not finish the job because he didn’t have sufficient
-time“, or “His argument for not finishing the job was that he didn’t have
-sufficient time“.
-The difference between “dust“ and “powder“ is that dust is natural and
-collects on objects. For example, if a table is not cleaned for a long time,
-you will find dust on it. Powder, on the other hand, is something that is
-made. For example, washing powder is powder we put into a washing
-machine to clean our clothes, and face powder is powder made for the
-Generally speaking, when a word ends in the letters “o”, “s”, “x”, “z”,
-“ch” or “sh”, we form its plural, if it is a noun, and its third person singular
-of the present simple tense, if it is a verb, by adding the letters “es” to it.
-For example, “one potato – two potatoes” and “I go – you go – he goes”.
-The word “piano” is an exception; we say “one piano – two pianos”.
-and “I cry – you cry – he cries”.
-pull someone’s leg = joke with someone, by making them believe something
-e.g. All right, don’t get angry. He was only pulling your leg.
+### Notes
+> If people discuss something with each other, it means that they talk about
+> something in a serious or formal manner. People often express different
+> If people argue about something with each other, it means that they
+> If people quarrel about something with each other, it means that they lose
+> control of their anger, and start shouting and saying unpleasant things to
+> Therefore, we could say that two people could begin by quietly discussing
+> a subject, the discussion could then develop into an argument, and the
+> Another meaning of the verb “to argue“ is “to reason“. For example, “He
+> argues that he could not ﬁnish the job because he didn’t have sufﬁcient
+> time“, or “His argument for not ﬁnishing the job was that he didn’t have
+> The difference between “dust“ and “powder“ is that dust is natural and
+> collects on objects. For example, if a table is not cleaned for a long time,
+> you will ﬁnd dust on it. Powder, on the other hand, is something that is
+> made. For example, washing powder is powder we put into a washing
+> machine to clean our clothes, and face powder is powder made for the
+> Generally speaking, when a word ends in the letters “o”, “s”, “x”, “z”,
+> “ch” or “sh”, we form its plural, if it is a noun, and its third person singular
+> of the present simple tense, if it is a verb, by adding the letters “es” to it.
+> For example, “one potato – two potatoes” and “I go – you go – he goes”.
+> The word “piano” is an exception; we say “one piano – two pianos”.
+> If the noun or verb ends in a consonant plus “y”, the “y” is changed to “i”
+> and then the letters “es” are added. For example, “one lady – two ladies”
 
 ### Q&A Drill
-**Q:** If people discuss something with each other, it means that they talk about something in a serious or formal manner. People often express different opinions in a discussion but it is rarely unpleasant.?
-
-**Q:** If people argue about something with each other, it means that they disagree strongly on a subject and become angry.?
-
-**Q:** If people quarrel about something with each other, it means that they lose control of their anger, and start shouting and saying unpleasant things to each other. Therefore, we could say that two people could begin by quietly discussing a subject, the discussion could then develop into an argument, and the argument could finish in a quarrel.?
-
-**Q:** What's the difference between 'to discussȀ 'to argue' and 'to quarrel'?
+**Q:** What's the difference between 'to discussȀ, 'to argue' and 'to quarrel'?
 **A:** The difference … is that “to discuss“ means to talk about ..., “to argue“ means to disagree badly …, and “to quarrel“ means to lose control …
 
 **Q:** Do you enjoy discussing politics?
@@ -259,7 +262,7 @@ e.g. All right, don’t get angry. He was only pulling your leg.
 **Q:** Did you quarrel a lot with your brother or sister when you were a child?
 **A:** Yes, I quarrelled a lot with … ~ No, I didn’t quarrel a lot with …
 
-**Q:** Give me an example of the word 'argue' used with the meaning of 'to reason'?
+**Q:** Give me an example of the word 'argue' used with the meaning of 'to reason'.?
 **A:** She argues that if we don’t go now it’ll be too late
 
 **Q:** What does it mean 'to live a regular life'?
@@ -273,11 +276,11 @@ e.g. All right, don’t get angry. He was only pulling your leg.
 **Q:** Can a dentist do anything about irregular teeth?
 **A:** Yes, a dentist can ...
 
-**Q:** Do you work or study irregular hours?
+**Q:** Do you work (or study) irregular hours?
 **A:** Yes, I ... ~ No, I don’t ...
 
 **Q:** Why is it important to blow up bridges during a war?
-**A:** It’s important to blow up ... in order to make it difficult for the enemy to get across the river; to do so, they would either have to swim, cross by boat or build new bridges
+**A:** It’s important to blow up ... in order to make it difﬁcult for the enemy to get across the river; to do so, they would either have to swim, cross by boat or build new bridges
 
 **Q:** What's the difference between 'dust' and 'powder'?
 **A:** The difference between dust and powder is that “dust“ is natural and collects on objects, whereas “powder“ is something that is made
@@ -288,7 +291,7 @@ e.g. All right, don’t get angry. He was only pulling your leg.
 **Q:** On what kind of occasions do people collect together in large numbers?
 **A:** The kind of occasions on which people collect together in large numbers are parties, political meetings, football matches etc.
 
-**Q:** Do they collect money in the streets in your country for different causes, such as for the Red Cross the poor etc?
+**Q:** Do they collect money in the streets in your country for different causes, such as for the Red Cross, the poor etc.?
 **A:** Yes, they collect … ~ No, they don’t collect …
 
 **Q:** What do you consider to be a good cause worth collecting money for?
@@ -300,30 +303,28 @@ e.g. All right, don’t get angry. He was only pulling your leg.
 **Q:** How long does it usually take for a new film to become available to buy?
 **A:** It usually takes …
 
-**Q:** If you rang somebody up when they were at work but they weren't available immediately would you wait leave a message or call back later?
+**Q:** If you rang somebody up when they were at work but they weren't available immediately, would you wait, leave a message or call back later?
 **A:** If I rang …, I’d …
 
 **Q:** Do you think that human beings sometimes behave worse than animals?
 **A:** Yes, I think … ~ No, I don’t think …
 
 **Q:** What artificial parts of the body can science provide us with?
-**A:** Science can provide us with artificial arms, legs, teeth, hair etc.
+**A:** Science can provide us with artiﬁcial arms, legs, teeth, hair etc.
 
 **Q:** When do we add the letters 'esȀ to form the plural of a noun and the third person singular of a verb?
 **A:** We add the letters ... when a word ends in the letters “o”, “s”, “x”, “z”, “ch” or “sh”
 
-**Q:** Give me some examples please - both noun and verb?
+**Q:** Give me some examples, pleaseboth noun and verb.?
 **A:** “one potato – two potatoes”; “I go – you go – he goes”
-
-**Q:** If the noun or verb ends in a consonant plus “y”, the “y” is changed to “i”?
 
 **Q:** What happens when a noun or verb ends in a consonant plus 'y'?
 **A:** When a noun or verb …, the “y” is changed to “i” and then the letters “es” are added
 
-**Q:** Give me an example please - both noun and verb?
+**Q:** Give me an example, pleaseboth noun and verb.?
 **A:** “one lady – two ladies”; “I cry – you cry – he cries”
 
-**Q:** If you kiss your mother hello how many kisses do you give her ǹ one two or three?
+**Q:** If you kiss your mother hello, how many kisses do you give her ǹ one, two or three?
 **A:** If I kiss …, I give her … kisses
 
 **Q:** What do we mean by the rush hour in a large city?
@@ -332,12 +333,13 @@ e.g. All right, don’t get angry. He was only pulling your leg.
 **Q:** Who were your heroes when you were a child?
 **A:** My heroes when I ... were …
 
-**Q:** Why?
+**Q:** Why pull someone's leg =?
+**A:** joke with someone, by making them believe something that is not true e.g. All right, don’t get angry. He was only pulling your leg.
 
 **Q:** What does the idiom 'pull someone's legȀ mean?
 **A:** The idiom ... “joke with someone ...”
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** After all these years of knowing him, I still don’t know when he’s being serious and when he’s just pulling my leg
 
 ### Dictation
@@ -350,6 +352,7 @@ e.g. All right, don’t get angry. He was only pulling your leg.
 ### Vocabulary
 - **dish**
 - **serve**
+- **way, such as ﬁsh and chips or chilli con carne.**
 - **to be for (or against) something**
 - **arms**
 - **fox**
@@ -361,18 +364,20 @@ e.g. All right, don’t get angry. He was only pulling your leg.
 - **salary**
 - **payment**
 - **profession**
-- **non**
-- **professional**
+- **non-professional**
+- **earns a ﬁxed amount of money each year.**
 - **steady**
 - **seasonal**
 - **seaside**
 - **painter**
 - **pianist**
 - **surgeon**
+- **Plural of nouns ending in “f” or “fe”**
 - **leaf**
 - **loaf**
 - **shelf**
 - **cliff**
+- **“roofs“.**
 - **deer**
 - **wood**
 - **mention**
@@ -380,29 +385,40 @@ e.g. All right, don’t get angry. He was only pulling your leg.
 - **partner**
 - **insist**
 - **board**
-- **floorboard**
+- **ﬂoorboard**
 - **noticeboard**
 - **blackboard**
 - **deck**
 - **port**
 - **director**
+- **get “ﬂoorboard“, “noticeboard“, “blackboard“ etc.**
+- **meet round a table, we call their meeting a “board meeting“.**
 - **Idiom 15**
 
-### Grammar Notes
-The difference between a plate and a dish is that a plate is flat, whereas
-a dish is deeper. We usually eat food from a plate, whereas we serve food
-from a dish. The word “dish” can also mean food made in a particular
-way, such as fish and chips or chilli con carne.
-We use the words “wage“ and “salary“ for the payment received for work
-done. The difference between “wage“ and “salary“ is that we generally
-use the word “wage“ for a non-professional job, or a job in which a
-person earns a fixed amount of money for each hour they work, whereas
-we generally use “salary“ for a professional job, or a job in which a person
-earns a fixed amount of money each year.
-The basic meaning of the word “board“ is a flat piece of wood. From it, we
-get “floorboard“, “noticeboard“, “blackboard“ etc.
-see eye to eye = agree with someone
-e.g. Richard and his wife see eye to eye on most things.
+### Notes
+> The difference between a plate and a dish is that a plate is ﬂat, whereas
+> a dish is deeper. We usually eat food from a plate, whereas we serve food
+> from a dish. The word “dish” can also mean food made in a particular
+> We use the words “wage“ and “salary“ for the payment received for work
+> done. The difference between “wage“ and “salary“ is that we generally
+> use the word “wage“ for a non-professional job, or a job in which a
+> person earns a ﬁxed amount of money for each hour they work, whereas
+> we generally use “salary“ for a professional job, or a job in which a person
+> When a noun ends in “f“ or “fe“, we generally make its plural by changing
+> the “f“ or “fe“ to “ves“. For example, “leaf – leaves“, “loaf – loaves“,
+> “shelf – shelves“, “knife – knives“, “life – lives“, “wife – wives“ etc.
+> However, three common exceptions to this rule are “chefs“, “cliffs“, and
+> The basic meaning of the word “board“ is a ﬂat piece of wood. From it, we
+> From the idea that the deck of a boat is made from wooden boards, we get
+> the verb “to board“ and the expression “on board“. We use these when
+> we are talking about getting on or being on boats, ships and planes.
+> We can also use the word “board“ with the idea of a table, and from this
+> we get, for example, “a board of directors“, which is a group of directors
+> who control a company or other organization. As these people usually
+> Also from the idea of a table, we use “board“ with the idea of the food
+> we are given when we stay at a hotel. If we pay for “full board“, we get
+> breakfast, lunch and dinner. If we pay for “half board“, we get breakfast
+> and dinner only. Alternatively, we can simply pay for “bed and breakfast“.
 
 ### Q&A Drill
 **Q:** What's the difference between a dish and a plate?
@@ -428,7 +444,7 @@ e.g. Richard and his wife see eye to eye on most things.
 **A:** When members of the general public see ..., some run after the criminal or shout for help, but most people just stand and look too surprised to do anything
 
 **Q:** What would you do if another world war broke out?
-**A:**  If another world war broke out, I’d …
+**A:** If another world war broke out, I’d …
 
 **Q:** What's the difference between 'wage' and 'salary'?
 **A:** The difference between … is that ...
@@ -436,21 +452,19 @@ e.g. Richard and his wife see eye to eye on most things.
 **Q:** What kind of people don't earn a steady wage or salary?
 **A:** The kind of people who … are actors, artists, writers etc.
 
-**Q:** Do seasonal workers such as waiters who work at seaside hotels in the summer receive a wage or a salary?
+**Q:** Do seasonal workers, such as waiters who work at seaside hotels in the summer, receive a wage or a salary?
 **A:** Seasonal workers … a wage
 
 **Q:** What kind of jobs do we need a steady hand for?
 **A:** The kind of jobs we need a steady hand for are painter, surgeon, pianist etc.
 
-**Q:** About how long do you think it'll take you to finish this book if you keep working steadily Plural of nouns ending in “f” or “fe”?
-**A:** I think it’ll take me about ... to finish ...
-
-**Q:** When a noun ends in “f“ or “fe“, we generally make its plural by changing the “f“ or “fe“ to “ves“. For example, “leaf – leaves“, “loaf – loaves“, “shelf – shelves“, “knife – knives“, “life – lives“, “wife – wives“ etc. However, three common exceptions to this rule are “chefs“, “cliffs“, and “roofs“.?
+**Q:** About how long do you think it'll take you to finish this book if you keep working steadily?
+**A:** I think it’ll take me about ... to ﬁnish ...
 
 **Q:** How do we generally form the plural of a noun ending in 'f' or 'fe'?
 **A:** We generally ... by changing the “f” or “fe” to “ves“
 
-**Q:** Give me some examples please?
+**Q:** Give me some examples, please.?
 **A:** leaf – leaves …
 
 **Q:** What are three common exceptions to this rule?
@@ -459,8 +473,8 @@ e.g. Richard and his wife see eye to eye on most things.
 **Q:** What's the plural of 'deer'?
 **A:** The plural of “deer“ is “deer“
 
-**Q:** Where do deer prefer to live in woods or open fields?
-**A:**  Deer prefer to live in woods
+**Q:** Where do deer prefer to live: in woods or open fields?
+**A:** Deer prefer to live in woods
 
 **Q:** Why?
 **A:** Because they are usually afraid of human beings and other animals
@@ -468,50 +482,48 @@ e.g. Richard and his wife see eye to eye on most things.
 **Q:** What kind of things do people often mention when they're telling you about a holiday they've just been on?
 **A:** People often mention the weather, the food etc. when …
 
-**Q:** Give me another sentence with the word 'mention' in it please?
+**Q:** Give me another sentence with the word 'mention' in it, please.?
 **A:** In his speech to his employees, he mentioned that there was a possibility of wages being increased
 
 **Q:** When does a mother tell off her child?
 **A:** A mother … when the child has done something wrong and made her angry
 
-**Q:** If you went into business would you prefer to have a partner or to be alone?
+**Q:** If you went into business, would you prefer to have a partner or to be alone?
 **A:** If I went into ..., I’d prefer ...
 
 **Q:** Why?
 
-**Q:** If a friend buys you a drink in a bar do you normally insist on giving them the money or do you just buy them a drink the next time?
+**Q:** If a friend buys you a drink in a bar, do you normally insist on giving them the money or do you just buy them a drink the next time?
 **A:** If a friend buys …, I …
 
 **Q:** What's the basic meaning of the word 'board'?
-**A:**  The basic … a flat piece of wood
+**A:** The basic … a ﬂat piece of wood
 
-**Q:** Give me some examples of what we get from the word 'board'?
-**A:** Some examples of what … are “floorboard“, “noticeboard” etc.
+**Q:** Give me some examples of what we get from the word 'board'.?
+**A:** Some examples of what … are “ﬂoorboard“, “noticeboard” etc.
 
-**Q:** What do we use a noticeboard for From the idea that the deck of a boat is made from wooden boards, we get the verb “to board“ and the expression “on board“. We use these when we are talking about getting on or being on boats, ships and planes.?
+**Q:** What do we use a noticeboard for?
 **A:** We use a noticeboard for putting notices on. It is a quick and easy way of giving news and information to everybody
 
 **Q:** Do you have to show your passport before you can board a plane?
 **A:** Yes, I have to …
 
-**Q:** What would happen if you went on board ship to say goodbye to a friend and you remained on board after the ship had left port We can also use the word “board“ with the idea of a table, and from this we get, for example, “a board of directors“, which is a group of directors?
+**Q:** What would happen if you went on board ship to say goodbye to a friend and you remained on board after the ship had left port?
 **A:** If I went …, I’d have to leave the ship at the next available port
-
-**Q:** who control a company or other organization. As these people usually meet round a table, we call their meeting a “board meeting“.?
 
 **Q:** What do we mean by a 'board of directors'?
 **A:** By a ... we mean a group ...
 
-**Q:** What do we mean by a 'board meeting' Also from the idea of a table, we use “board“ with the idea of the food we are given when we stay at a hotel. If we pay for “full board“, we get breakfast, lunch and dinner. If we pay for “half board“, we get breakfast and dinner only. Alternatively, we can simply pay for “bed and breakfast“.?
+**Q:** What do we mean by a 'board meeting'?
 **A:** By a ... we mean a meeting of company directors round a table
 
-**Q:** If you stayed at a hotel on holiday would you choose 'full board' 'half board' or 'bed and breakfast'?
-**A:** If I stayed …, I’d choose …
+**Q:** If you stayed at a hotel on holiday, would you choose 'full board', 'half board' or 'bed and breakfast' see eye to eye =?
+**A:** If I stayed …, I’d choose … agree with someone e.g. Richard and his wife see eye to eye on most things.
 
 **Q:** What does the idiom 'see eye to eyeȀ mean?
 **A:** The idiom ... “agree with someone”
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** She doesn’t see eye to eye with her parents about the plans for the wedding
 
 ---
@@ -522,66 +534,74 @@ e.g. Richard and his wife see eye to eye on most things.
 - **Present simple for the future**
 - **timetable**
 - **schedule**
+- **football against Germany next Saturday“.**
 - **account**
 - **greedy**
-- **satisfied**
+- **satisﬁed**
 - **crop**
 - **differ**
 - **private**
 - **Relative clauses 3**
+- **more things that we should know.**
 - **what**
+- **can say “She showed me what she had bought”.**
 - **whom**
+- **“whom“.**
+- **the word “whom“ is never used.**
 - **document to hasn’t replied”.)**
 - **whose**
+- **work with”.**
 - **search**
 - **support**
 - **Idiom 16**
-- **XBUDIZPVSTUFQbe careful**
 - **religious**
 
-### Grammar Notes
-We use the present simple to speak about a future action when we are
-talking about timetables or schedules. For example, we can say “The film
-starts at 10 p.m.“, “My train leaves in fifteen minutes“, or “England play
-football against Germany next Saturday“.
-We have already learned a lot about relative clauses, but here are a few
-more things that we should know.
-We use the relative pronoun “what” instead of “which” or “that” when
-we don’t mention the thing that the relative clause describes. For example,
-instead of saying “She showed me the dress which she had bought”, we
-With formal English, some people prefer to use the relative pronoun
-“whom” instead of “who”. However, this is only possible when the
-relative pronoun is not the subject of the verb that follows.
-In the sentence “I recognized the criminal who stole the bag”, the word
-“who” is the subject of the verb “stole“; in this sentence, we cannot use
-arrested”, the word “who” is not the subject of the verb “arrested“; “the
-policeman” is the subject and “who” is the object. In this case, some people
-prefer to use the word “whom“ instead of “who“ and say “I recognized
-the criminal whom the policeman arrested“. In informal English, however,
-the word “whom“ is never used.
-We use the word “whose” at the beginning of a relative clause instead
-of using a possessive adjective like “my”, “your”, “his” etc. For example,
-instead of saying “I have a dog. Its tail is long”, we can say “I have a dog
-whose tail is long”. Instead of saying “Yesterday I visited Mr Jones. I work
-with his sister”, we can say “Yesterday I visited Mr Jones, whose sister I
-work with”.
-e.g. You’ll have to watch your step or you’ll find yourself in great difficulty.
+### Notes
+> We use the present simple to speak about a future action when we are
+> talking about timetables or schedules. For example, we can say “The ﬁlm
+> starts at 10 p.m.“, “My train leaves in ﬁfteen minutes“, or “England play
+> We have already learned a lot about relative clauses, but here are a few
+> We use the relative pronoun “what” instead of “which” or “that” when
+> we don’t mention the thing that the relative clause describes. For example,
+> instead of saying “She showed me the dress which she had bought”, we
+> With formal English, some people prefer to use the relative pronoun
+> “whom” instead of “who”. However, this is only possible when the
+> relative pronoun is not the subject of the verb that follows.
+> In the sentence “I recognized the criminal who stole the bag”, the word
+> “who” is the subject of the verb “stole“; in this sentence, we cannot use
+> However, in the sentence “I recognized the criminal who the policeman
+> arrested”, the word “who” is not the subject of the verb “arrested“; “the
+> policeman” is the subject and “who” is the object. In this case, some people
+> prefer to use the word “whom“ instead of “who“ and say “I recognized
+> the criminal whom the policeman arrested“. In informal English, however,
+> In very formal English, we sometimes have a preposition at the beginning
+> of a relative clause, and in this case we cannot follow the preposition
+> with the word “who“; we must use “whom” instead. For example, “She
+> is the lady with whom I had a conversation”, or “The manager to whom I
+> sent the document has not replied”. (Remember, however, that in normal
+> spoken English we put the preposition at the end, and say “She’s the
+> lady who I had a conversation with”, or “The manager who I sent the
+> We use the word “whose” at the beginning of a relative clause instead
+> of using a possessive adjective like “my”, “your”, “his” etc. For example,
+> instead of saying “I have a dog. Its tail is long”, we can say “I have a dog
+> whose tail is long”. Instead of saying “Yesterday I visited Mr Jones. I work
+> with his sister”, we can say “Yesterday I visited Mr Jones, whose sister I
 
 ### Q&A Drill
-**Q:** Give me an example of the present simple for the future please?
+**Q:** Give me an example of the present simple for the future, please.?
 **A:** The meeting starts at 3 p.m. tomorrow
 
 **Q:** When does this lesson finish?
-**A:** This lesson finishes at …
+**A:** This lesson ﬁnishes at …
 
 **Q:** Do you know when your local football team play their next game?
 **A:** Yes, I know when my … ~ No, I don’t know when my …
 
-**Q:** Give us a short account of what you did yesterday?
+**Q:** Give us a short account of what you did yesterday.?
 **A:** Yesterday, I ...
 
-**Q:** Give us a short account of the last film you saw?
-**A:** The last film I saw was ...; it was about …
+**Q:** Give us a short account of the last film you saw.?
+**A:** The last ﬁlm I saw was ...; it was about …
 
 **Q:** Do you have a bank account?
 **A:** Yes, I have ... ~ No, I don’t have ...
@@ -598,7 +618,7 @@ e.g. You’ll have to watch your step or you’ll find yourself in great difficu
 **A:** No, greedy people …; they always want more
 
 **Q:** Why is a farmer never satisfied with the weather?
-**A:** A farmer is never satisfied … because, whatever the weather is like, it’s never perfect for every type of crop that he’s growing
+**A:** A farmer is never satisﬁed … because, whatever the weather is like, it’s never perfect for every type of crop that he’s growing
 
 **Q:** Do your eyes differ in colour from mine?
 **A:** Yes, my eyes differ … ~ No, my eyes don’t differ …
@@ -612,15 +632,13 @@ e.g. You’ll have to watch your step or you’ll find yourself in great difficu
 **Q:** Is it impolite to ask questions about someone's private life unless you know them very well?
 **A:** Yes, it’s impolite to …
 
-**Q:** can say “She showed me what she had bought”.?
-
 **Q:** When do we use the relative pronoun 'whatȀ?
 **A:** We use … when we don’t mention the thing that the relative clause describes
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** She told the waiter what she wanted
 
-**Q:** When you were a child did you always like what you were given for your birthday?
+**Q:** When you were a child, did you always like what you were given for your birthday?
 **A:** Yes, when I was …, I always … ~ No, when I was …, I didn’t always …
 
 **Q:** Have you already chosen what you're going to eat this evening?
@@ -629,30 +647,28 @@ e.g. You’ll have to watch your step or you’ll find yourself in great difficu
 **Q:** When do some people prefer to use the relative pronoun 'whomȀ instead of 'who'?
 **A:** Some people … with formal English, when the relative pronoun is not the subject of the verb that follows
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** The gentleman whom he informed was the manager
 
-**Q:** If you were employed by someone whom you disliked what would you do In very formal English, we sometimes have a preposition at the beginning of a relative clause, and in this case we cannot follow the preposition with the word “who“; we must use “whom” instead. For example, “She?
+**Q:** If you were employed by someone whom you disliked, what would you do?
 **A:** If I … whom I disliked, I’d …
 
-**Q:** is the lady with whom I had a conversation”, or “The manager to whom I sent the document has not replied”. (Remember, however, that in normal spoken English we put the preposition at the end, and say “She’s the lady who I had a conversation with”, or “The manager who I sent the?
-
-**Q:** When we have a preposition at the beginning of a relative clause can we follow the preposition with the word 'whoȀ?
+**Q:** When we have a preposition at the beginning of a relative clause, can we follow the preposition with the word 'whoȀ?
 **A:** No, when we have …, we cannot follow the preposition with “who”; we must use “whom”
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** We need to contact the customer from whom she took the payment
 
 **Q:** Do you know the nationality of all the students with whom you are studying at the moment?
 **A:** Yes, I know … ~ No, I don’t know …
 
-**Q:** In normal spoken English what do we say instead of 'We need to contact the customer from whom she took the paymentȀ?
+**Q:** In normal spoken English, what do we say instead of 'We need to contact the customer from whom she took the paymentȀ?
 **A:** In normal spoken English, instead of …, we say “We need to contact the customer who she took the payment from”
 
 **Q:** When do we use the word 'whoseȀ at the beginning of a relative clause?
 **A:** We use the word “whose” … instead of using a possessive adjective like “my”, “your”, “his” etc.
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** The woman whose handbag was stolen is on her way to the police station
 
 **Q:** Do you know the people whose house is next to yours?
@@ -667,17 +683,17 @@ e.g. You’ll have to watch your step or you’ll find yourself in great difficu
 **Q:** What supports this ceiling?
 **A:** The walls support …
 
-**Q:** Do you support any particular football team?
-**A:** Yes, I support … ~ No, I don’t support …
+**Q:** Do you support any particular football team watch your step =?
+**A:** Yes, I support … ~ No, I don’t support … be careful e.g. You’ll have to watch your step or you’ll ﬁnd yourself in great difﬁculty.
 
 **Q:** What does the idiom 'watch your stepȀ mean?
 **A:** The idiom ... “be careful”
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** You have to watch your step when you do business with people you know nothing about
 
 ### Dictation
-> Forgetting that/ the doorway was low,/ I received a severe blow/ on my head/ as I went through it./ Children are taught/ that they should respect their elders./ He lived in a period/ when people were burned alive/ for their political and religious opinions./ They had no children of their own,/ so they adopted one./ A person who is not a born leader/ can, nevertheless,/ sometimes be taught leadership./ That particular king is considered/ one of the cruellest figures/ in English history.
+> Forgetting that/ the doorway was low,/ I received a severe blow/ on my head/ as I went through it./ Children are taught/ that they should respect their elders./ He lived in a period/ when people were burned alive/ for their political and religious opinions./ They had no children of their own,/ so they adopted one./ A person who is not a born leader/ can, nevertheless,/ sometimes be taught leadership./ That particular king is considered/ one of the cruellest ﬁgures/ in English history.
 
 ---
 
@@ -685,8 +701,7 @@ e.g. You’ll have to watch your step or you’ll find yourself in great difficu
 
 ### Vocabulary
 - **declare**
-- **red**
-- **handed**
+- **red-handed**
 - **innocent**
 - **upper**
 - **middle**
@@ -697,6 +712,8 @@ e.g. You’ll have to watch your step or you’ll find yourself in great difficu
 - **industrialist**
 - **case**
 - **lower**
+- **basic divisions.**
+- **letters we mean “capital“ letters and “small“ letters.**
 - **raise**
 - **to be excused**
 - **monument**
@@ -704,6 +721,9 @@ e.g. You’ll have to watch your step or you’ll find yourself in great difficu
 - **statue**
 - **Transitive and intransitive verbs**
 - **transitive**
+- **an object.**
+- **(subject) am raising (verb) the book (object)“.**
+- **food that he ate, although this is not stated.**
 - **respect**
 - **scorn**
 - **worthy**
@@ -712,36 +732,41 @@ e.g. You’ll have to watch your step or you’ll find yourself in great difficu
 - **cattle**
 - **cowboy**
 - **harvest**
-- **mother**
-- **in**
-- **law**
-- **father**
+- **mother-in-law**
+- **father-in-law**
 - **rail**
 - **railing**
 - **run**
 - **protection**
 - **balcony**
 - **Idiom 17**
-- **to be on about = to mean**
 
-### Grammar Notes
-We sometimes refer to people in society as being “upper class“, “middle
-class“ or “working class“. If we say that someone is upper class, we mean
-that they are very rich or have a lot of power in society. The upper class
-The difference between a transitive verb and an intransitive verb is that a
-transitive verb has an object, whereas an intransitive verb does not have
-an object.
-The verb “to raise“ is transitive; that is, it has an object. For example, “I
-(subject) am raising (verb) the book (object)“.
-The verb “to rise“, however, is intransitive, which means that it does not
-A rail is a piece of metal or wood which is long and thin. For example, a
-train runs on rails, which is why we call it a railway train.
-for protection. We find railings on a balcony to stop people falling, or
-sometimes around a piece of private land to stop people entering.
-e.g. What’s he on about? I can’t understand what he’s trying to say.
+### Notes
+> We sometimes refer to people in society as being “upper class“, “middle
+> class“ or “working class“. If we say that someone is upper class, we mean
+> that they are very rich or have a lot of power in society. The upper class
+> are often members of the aristocracy, or are powerful industrialists. By
+> “middle class“, we mean people who are not particularly rich or poor. They
+> are usually professional people such as lawyers, doctors, teachers etc. By
+> “working class“, we mean people who have the least power and money in
+> society. They often do physical work. The idea of “class“ in society differs
+> from country to country, but “upper“, “middle“ and “working“ are the
+> When describing written English, by “upper case“ letters and “lower case“
+> The difference between a transitive verb and an intransitive verb is that a
+> transitive verb has an object, whereas an intransitive verb does not have
+> The verb “to raise“ is transitive; that is, it has an object. For example, “I
+> The verb “to rise“, however, is intransitive, which means that it does not
+> have an object. For example, “The book (subject) is rising (verb)“.
+> Note that the object of a transitive verb is not always stated. For example,
+> in the sentence “He ate quickly”, the object of the verb is obviously the
+> A rail is a piece of metal or wood which is long and thin. For example, a
+> train runs on rails, which is why we call it a railway train.
+> Railings are several pieces of metal or wood which we put around things
+> for protection. We ﬁnd railings on a balcony to stop people falling, or
+> sometimes around a piece of private land to stop people entering.
 
 ### Q&A Drill
-**Q:** If you were caught redhanded stealing something would you declare yourself innocent before the judge when you appeared in court for your trial?
+**Q:** If you were caught red-handed stealing something, would you declare yourself innocent before the judge when you appeared in court for your trial?
 **A:** Yes, if I were …, I’d … ~ No, if I were …, I wouldn’t …
 
 **Q:** Why or why not?
@@ -754,19 +779,13 @@ e.g. What’s he on about? I can’t understand what he’s trying to say.
 
 **Q:** Why or why not?
 
-**Q:** are often members of the aristocracy, or are powerful industrialists. By “middle class“, we mean people who are not particularly rich or poor. They?
-
-**Q:** are usually professional people such as lawyers, doctors, teachers etc. By “working class“, we mean people who have the least power and money in society. They often do physical work. The idea of “class“ in society differs from country to country, but “upper“, “middle“ and “working“ are the basic divisions.?
-
 **Q:** What do we call the three classes into which many societies in the world are divided?
 **A:** We call the three … the upper class, middle class and working class
 
 **Q:** What do we mean when we say that someone is upper class?
 **A:** When we say …, we mean that they are very rich or have a lot of power in society
 
-**Q:** When describing written English, by “upper case“ letters and “lower case“ letters we mean “capital“ letters and “small“ letters.?
-
-**Q:** In writing what do we mean by upper case and lower case letters?
+**Q:** In writing, what do we mean by upper case and lower case letters?
 **A:** In writing, by … we mean capital letters and small letters
 
 **Q:** Is this the upper part of my head?
@@ -781,15 +800,13 @@ e.g. What’s he on about? I can’t understand what he’s trying to say.
 **Q:** What does it generally mean when a pupil raises their hand in the air during a lesson?
 **A:** When a pupil …, it generally means they want to ask a question, or to be excused; that is, to be given permission to leave the room
 
-**Q:** Which do you think are more expensive to raise children or racehorses?
+**Q:** Which do you think are more expensive to raise: children or racehorses?
 **A:** I think … are more …
 
 **Q:** Why?
 
-**Q:** If you were a great person what kind of monument would you like the public to raise in your honour after you were dead?
+**Q:** If you were a great person, what kind of monument would you like the public to raise in your honour after you were dead?
 **A:** If I were a ..., the kind of monument I’d like ... would be a statue etc.
-
-**Q:** have an object. For example, “The book (subject) is rising (verb)“.?
 
 **Q:** What's the difference between a transitive verb and an intransitive verb?
 **A:** The difference … is that a transitive verb has an object, whereas an intransitive verb does not have an object
@@ -797,16 +814,16 @@ e.g. What’s he on about? I can’t understand what he’s trying to say.
 **Q:** What's the difference between the verbs 'to raise' and 'to rise'?
 **A:** The difference … is that “to raise“ is transitive, whereas “to rise“ is intransitive
 
-**Q:** Give me some sentences containing transitive verbs please?
+**Q:** Give me some sentences containing transitive verbs, please.?
 **A:** The car hit the wall. The boy cut his thumb. They pushed the table. He opened the door.
 
-**Q:** Right now give me some sentences containing intransitive verbs please Note that the object of a transitive verb is not always stated. For example, in the sentence “He ate quickly”, the object of the verb is obviously the food that he ate, although this is not stated.?
+**Q:** Right, now give me some sentences containing intransitive verbs, please.?
 **A:** The sun rises at 6 o’clock. He gets up very early in the morning. People walk very quickly in winter. The door opened.
 
 **Q:** Is the object of a transitive verb always stated?
 **A:** No, the object of …
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** He ate quickly
 
 **Q:** Do you think it's more important for managers to have the respect of employees or to be liked by employees?
@@ -827,13 +844,13 @@ e.g. What’s he on about? I can’t understand what he’s trying to say.
 **Q:** What happens at harvest time?
 **A:** Farmers gather their crops …
 
-**Q:** When a man is married what does he call his wife's mother and father?
+**Q:** When a man is married, what does he call his wife's mother and father?
 **A:** When a man is married, he calls … his mother-in-law and father-in-law
 
-**Q:** What's a brotherinlaw?
+**Q:** What's a brother-in-law?
 **A:** A brother-in-law is the brother of our wife or husband, or the husband of our brother or sister
 
-**Q:** What's the plural of 'brotherinlaw'?
+**Q:** What's the plural of 'brother-in-law'?
 **A:** The plural … is “brothers-in-law“
 
 **Q:** What's a rail?
@@ -845,17 +862,17 @@ e.g. What’s he on about? I can’t understand what he’s trying to say.
 **Q:** What are railings?
 **A:** Railings are several pieces …
 
-**Q:** Where do we find railings?
-**A:** We find railings … balcony … piece of private land …
+**Q:** Where do we find railings to be on about =?
+**A:** We ﬁnd railings … balcony … piece of private land … to mean e.g. What’s he on about? I can’t understand what he’s trying to say.
 
 **Q:** What's the meaning of the idiom 'to be on aboutȀ?
 **A:** The meaning … “to mean”
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** I tried to explain what the problem was but I don’t think he understood what I was on about
 
 ### Dictation
-> It was a very serious matter,/ which grew out of nothing,/ and was totally unexpected./ The poor dog/ caught its tail in the door/ and hurt itself./ The president had been elected/ twice previously./ A trade union is an organization/ which protects the workers./ Most butchers, bakers/ and workers in other trades/ belong to unions./ It was extremely difficult,/ but they finally managed/ to rescue the sailor from the island.
+> It was a very serious matter,/ which grew out of nothing,/ and was totally unexpected./ The poor dog/ caught its tail in the door/ and hurt itself./ The president had been elected/ twice previously./ A trade union is an organization/ which protects the workers./ Most butchers, bakers/ and workers in other trades/ belong to unions./ It was extremely difﬁcult,/ but they ﬁnally managed/ to rescue the sailor from the island.
 
 ---
 
@@ -867,7 +884,7 @@ e.g. What’s he on about? I can’t understand what he’s trying to say.
 - **progress**
 - **item**
 - **encyclopedia**
-- **“advice“, “furniture“, “information“, “knowledge“, “progress“ and**
+- **items of furniture“.**
 - **mass**
 - **advantage**
 - **disadvantage**
@@ -883,11 +900,14 @@ e.g. What’s he on about? I can’t understand what he’s trying to say.
 - **drum**
 - **harbour**
 - **port**
+- **a port. For example, Liverpool is a port.**
 - **nosey**
 - **Nouns with different forms**
 - **masculine**
 - **feminine**
+- **adding the letters “ess“.**
 - **actor**
+- **–**
 - **actress**
 - **waiter**
 - **waitress**
@@ -915,34 +935,35 @@ e.g. What’s he on about? I can’t understand what he’s trying to say.
 - **essential**
 - **Idiom 18**
 
-### Grammar Notes
-Some English nouns are never used in the plural. For example, the words
-“news“ do not have plural forms. We don’t say “All those informations
-Although the words “harbour“ and “port“ are similar in meaning, a
-harbour is anywhere a boat or ship is protected from the weather, whereas
-a port is a place where goods are put onto or taken off a ship, or where
-passengers board a ship. We also use “port“ to mean a town or city with
-a port. For example, Liverpool is a port.
-In English, there are a few nouns that are different depending on whether
-we are talking about a man or a woman. We call these nouns “masculine“
-a piece of cake = extremely easy to do
-e.g. This town is full of hotels, so finding somewhere to stay will be a piece of
+### Notes
+> Some English nouns are never used in the plural. For example, the words
+> “advice“, “furniture“, “information“, “knowledge“, “progress“ and
+> “news“ do not have plural forms. We don’t say “All those informations
+> were useful“; we say “All that information was useful“. However, we
+> can sometimes communicate a plural idea with nouns like this by using
+> expressions such as “pieces of“ or “items of“. For example, we can say
+> “All those pieces of information were useful“ or “I need to buy ﬁve new
+> Although the words “harbour“ and “port“ are similar in meaning, a
+> harbour is anywhere a boat or ship is protected from the weather, whereas
+> a port is a place where goods are put onto or taken off a ship, or where
+> passengers board a ship. We also use “port“ to mean a town or city with
+> In English, there are a few nouns that are different depending on whether
+> we are talking about a man or a woman. We call these nouns “masculine“
+> if they refer to a man and “feminine“ if they refer to a woman.
+> We can sometimes form a feminine noun from a masculine noun by
+> Other examples of masculine and feminine nouns are as follows:
 
 ### Q&A Drill
-**Q:** were useful“; we say “All that information was useful“. However, we?
-
-**Q:** can sometimes communicate a plural idea with nouns like this by using expressions such as “pieces of“ or “items of“. For example, we can say “All those pieces of information were useful“ or “I need to buy five new items of furniture“.?
-
-**Q:** Name some English nouns that are never used in the plural please?
+**Q:** Name some English nouns that are never used in the plural, please.?
 **A:** Some English nouns … are “advice“, “furniture“, “information“, “knowledge“, “progress“ and “news“
 
-**Q:** Which of these sentences is correct 'He hasn't made many progresses' or 'He hasn't made much progress'?
+**Q:** Which of these sentences is correct: 'He hasn't made many progresses' or 'He hasn't made much progress'?
 **A:** “He hasn’t made much progress“ is correct
 
 **Q:** How can we sometimes communicate a plural idea with nouns like this?
 **A:** We can sometimes … by using expressions such as “pieces of“ or “items of“
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** She gave him two pieces of valuable advice
 
 **Q:** Do you agree that a little knowledge can sometimes be a dangerous thing?
@@ -964,16 +985,16 @@ e.g. This town is full of hotels, so finding somewhere to stay will be a piece o
 
 **Q:** Why or why not?
 
-**Q:** What would you say were the advantages of massproduction?
+**Q:** What would you say were the advantages of mass-production?
 **A:** I’d say the advantages of mass-production were that products can be made quickly and more cheaply
 
 **Q:** And what would you say were the disadvantages?
 **A:** I’d say … the products are often identical, and the quality might sometimes be poor
 
 **Q:** What am I doing?
-**A:** You’re picking your pen up from the floor
+**A:** You’re picking your pen up from the ﬂoor
 
-**Q:** When a boy and a girl have a date is it more common for the boy to pick the girl up at her house or to meet her somewhere in town?
+**Q:** When a boy and a girl have a date, is it more common for the boy to pick the girl up at her house or to meet her somewhere in town?
 **A:** When a boy and a ..., it’s more common for ...
 
 **Q:** Do you sometimes pick up new English vocabulary from songs?
@@ -983,12 +1004,12 @@ e.g. This town is full of hotels, so finding somewhere to stay will be a piece o
 **A:** I think the best way …
 
 **Q:** What am I doing?
-**A:** You’re drumming your fingers on the table
+**A:** You’re drumming your ﬁngers on the table
 
 **Q:** What's the difference between a drum and a barrel?
 **A:** The difference between … is that a drum is usually made of metal and has straight sides, whereas a barrel is usually made of wood and has round sides
 
-**Q:** What would you do if your nextdoor neighbour played the drums loudly every evening?
+**Q:** What would you do if your next-door neighbour played the drums loudly every evening?
 **A:** If my …, I’d …
 
 **Q:** What's the difference between the words 'harbour' and 'port'?
@@ -1000,15 +1021,13 @@ e.g. This town is full of hotels, so finding somewhere to stay will be a piece o
 **Q:** Have you got nosey neighbours?
 **A:** Yes, I’ve got … ~ No, I haven’t got …
 
-**Q:** if they refer to a man and “feminine“ if they refer to a woman. We can sometimes form a feminine noun from a masculine noun by adding the letters “ess“.?
-
 **Q:** How can we sometimes form a feminine noun from a masculine noun?
 **A:** We can sometimes form … by adding the letters “ess“
 
-**Q:** What are the feminine forms of 'actor' 'host' etc Other examples of masculine and feminine nouns are as follows:?
+**Q:** What are the feminine forms of 'actor', 'host' etc.?
 **A:** The feminine forms of … are “actress“, “hostess“, “princess“, “waitress“ and “goddess“
 
-**Q:** What are the feminine forms of 'nephew' 'landlord' and 'widower'?
+**Q:** What are the feminine forms of 'nephew', 'landlord' and 'widower'?
 **A:** The feminine forms of … are “niece“, “landlady“ and “widow“
 
 **Q:** What has been the most important event of your life so far?
@@ -1017,15 +1036,14 @@ e.g. This town is full of hotels, so finding somewhere to stay will be a piece o
 **Q:** Why?
 
 **Q:** What type of sports event do you like to watch most?
-**A:**  I like to watch … most
 
-**Q:** Would you say you had led an eventful or uneventful life?
+**Q:** Would you say you had led an eventful or uneventful life? ?
 **A:** I’d say I’d led …
 
 **Q:** Are you the kind of person who likes to put his nose into things that don't concern him?
 **A:** Yes, I’m the kind of … ~ No, I’m not the kind of …
 
-**Q:** If you won the lottery how would you celebrate?
+**Q:** If you won the lottery, how would you celebrate?
 **A:** If I …, I’d celebrate by …
 
 **Q:** Do most countries have a big celebration on New Year's Eve?
@@ -1034,17 +1052,17 @@ e.g. This town is full of hotels, so finding somewhere to stay will be a piece o
 **Q:** Do you always buy clothes that are up to date?
 **A:** Yes, I always ... ~ No, I don’t always ...
 
-**Q:** If you're planning to travel around the world is it essential to have an up todate passport?
+**Q:** If you're planning to travel around the world, is it essential to have an up- to-date passport?
 **A:** Yes, if you’re planning …, it’s essential …
 
-**Q:** If you bought some food in a supermarket and then discovered it was out of date would you take it back?
-**A:** Yes, if I …, I’d … ~ No, if I …, I wouldn’t …
+**Q:** If you bought some food in a supermarket and then discovered it was out of date, would you take it back a piece of cake =?
+**A:** Yes, if I …, I’d … ~ No, if I …, I wouldn’t … extremely easy to do e.g. This town is full of hotels, so ﬁnding somewhere to stay will be a piece of cake.
 
 **Q:** What does the idiom 'a piece of cakeȀ mean?
-**A:** The idiom ... “extremely easy to do”
+**A:** The idiom ... “extremely easy to do”
 
-**Q:** Give me an example please?
-**A:** Most of the questions in the exam were really difficult, but the first three were a piece of cake
+**Q:** Give me an example, please.?
+**A:** Most of the questions in the exam were really difﬁcult, but the ﬁrst three were a piece of cake
 
 ---
 
@@ -1053,10 +1071,15 @@ e.g. This town is full of hotels, so finding somewhere to stay will be a piece o
 ### Vocabulary
 - **Using nouns in the general sense**
 - **article**
-- **Definite article**
-- **Indefinite article**
+- **or cats. We mean dogs generally and cats generally.**
+- **red“.**
+- **Deﬁnite article**
+- **Indeﬁnite article**
+- **we use “an“ before a word that starts with a vowel sound.**
+- **Use of the indeﬁnite articles: “a” and “an”**
 - **countable**
 - **uncountable**
+- **“water“ etc.**
 - **worm**
 - **silkworm**
 - **silk**
@@ -1065,53 +1088,52 @@ e.g. This town is full of hotels, so finding somewhere to stay will be a piece o
 - **cave**
 - **bat**
 - **deserve**
-- **frequent (verb)**
-- **frequent (adjective)**
-- **frequently (adverb)**
+- **frequent**
+- **frequently**
+- **adjective.**
 - **attract**
 - **attraction**
 - **attractive**
 - **attention**
-- **good**
-- **looking**
+- **good-looking**
+- **the rest**
 - **miserable**
 - **emotion**
 - **emotional**
 - **Idiom 19**
 
-### Grammar Notes
-In the sentence “Dogs hate cats“, we are not speaking about specific dogs
-or cats. We mean dogs generally and cats generally.
-The articles in English are “the“, “a“ and “an“. We call the word “the“ the
-definite article, and we call the words “a“ and “an“ the indefinite articles.
-We use “a“ before a word that starts with a consonant sound, whereas
-we use “an“ before a word that starts with a vowel sound.
-The indefinite articles “a” and “an” mean the same as “one“, and we use
-them with singular countable nouns. For example, we say “a chair“, “an
-apple“ etc. We do not use them with uncountable nouns like “bread“,
-“water“ etc.
-The word “frequent“ is a verb, whereas the word “frequent“ is an
-adjective.
-look before you leap = think carefully before you make a big decision
-e.g. You should always look before you leap when buying a house.
+### Notes
+> In the sentence “Dogs hate cats“, we are not speaking about speciﬁc dogs
+> When we use nouns in the general sense, we put them in the plural and
+> we do not put an article (“a“, “an“ or “the“) in front of them. For example,
+> “Schools educate children“ or “Machines help people do jobs“. If a noun
+> does not have a plural form, we simply use it on its own, also without an
+> article. For example, “Bread is commonly eaten with butter“ or “Blood is
+> The articles in English are “the“, “a“ and “an“. We call the word “the“ the
+> deﬁnite article, and we call the words “a“ and “an“ the indeﬁnite articles.
+> We use “a“ before a word that starts with a consonant sound, whereas
+> The indeﬁnite articles “a” and “an” mean the same as “one“, and we use
+> them with singular countable nouns. For example, we say “a chair“, “an
+> apple“ etc. We do not use them with uncountable nouns like “bread“,
+> Sometimes, we use the word “one“ instead of the indeﬁnite article, but
+> only when we need to emphasize the number. For example, “I have two
+> sisters but only one brother“, or “There’s just one problem with your
+> idea of going to the cinema; we have no money“.  If we do not need to
+> emphasize the number, we use the indeﬁnite article. For example, “I went
+> to a really good restaurant last night“, or “He is an artist“.
+> The word “frequent“ is a verb, whereas the word “frequent“ is an
 
 ### Q&A Drill
-**Q:** When we use nouns in the general sense, we put them in the plural and we do not put an article (“a“, “an“ or “the“) in front of them. For example, “Schools educate children“ or “Machines help people do jobs“. If a noun?
+**Q:** When we use nouns in the general sense, what do we do with them?
+**A:** When we …, we put them in the plural and we do not put an article in front of them
 
-**Q:** does not have a plural form, we simply use it on its own, also without an article. For example, “Bread is commonly eaten with butter“ or “Blood is red“.?
-
-**Q:** When we use nouns in the general sense what do we do with them?
-
-**Q:** When we …, we put them in the plural?
-**A:** and we do not put an article in front of them
-
-**Q:** Give me an example please?
-**A:** People go to cinemas to watch films
+**Q:** Give me an example, please.?
+**A:** People go to cinemas to watch ﬁlms
 
 **Q:** What do we do if a noun doesn't have a plural form?
 **A:** If a noun …, we simply use it on its own, also without an article
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** Paper comes from wood
 
 **Q:** Is it correct to say 'The water is necessary for the life'?
@@ -1124,27 +1146,27 @@ e.g. You should always look before you leap when buying a house.
 **A:** The articles in English are “the“, “a“ and “an“
 
 **Q:** What do we call the word 'the'?
-**A:** We call the word “the“ the definite article
+**A:** We call the word “the“ the deﬁnite article
 
 **Q:** What do we call the words 'a' and 'an'?
-**A:** We call the words “a“ and “an“ the indefinite articles
+**A:** We call the words “a“ and “an“ the indeﬁnite articles
 
 **Q:** What's the difference between 'a' and 'an'?
 **A:** The difference … we use “a“ … consonant sound, whereas we use “an“ … vowel sound
 
-**Q:** Give me some examples please Use of the indefinite articles: “a” and “an”?
+**Q:** Give me some examples, please.?
 **A:** a book, a university, an apple, an hour etc.
 
 **Q:** When do we use the indefinite articles 'a' and 'an'?
-**A:** We use the indefinite articles “a” and “an” with singular countable nouns
+**A:** We use the indeﬁnite articles “a” and “an” with singular countable nouns
 
-**Q:** Give me some examples please Sometimes, we use the word “one“ instead of the indefinite article, but only when we need to emphasize the number. For example, “I have two sisters but only one brother“, or “There’s just one problem with your idea of going to the cinema; we have no money“. If we do not need to emphasize the number, we use the indefinite article. For example, “I went to a really good restaurant last night“, or “He is an artist“.?
+**Q:** Give me some examples, please.?
 **A:** a table, an address etc.
 
 **Q:** When do we use the word 'one' instead of the indefinite article?
 **A:** We use … when we want to emphasize the number
 
-**Q:** Give me a sentence with the word 'one' please?
+**Q:** Give me a sentence with the word 'one', please.?
 **A:** I like one song on that CD but all the others are really boring
 
 **Q:** What kind of worms are there?
@@ -1156,7 +1178,7 @@ e.g. You should always look before you leap when buying a house.
 **Q:** How many limbs do humans have?
 **A:** Humans have four limbs
 
-**Q:** If you discovered rats in your house would you consider using poison to kill them?
+**Q:** If you discovered rats in your house, would you consider using poison to kill them?
 **A:** Yes, if I …, I’d consider … ~ No, if I …, I wouldn’t consider …
 
 **Q:** Would you be willing to spend a night alone in a cave full of bats?
@@ -1170,7 +1192,7 @@ e.g. You should always look before you leap when buying a house.
 **Q:** Is there anything you think you deserve but have never received?
 **A:** Yes, there is something I think I ... ~ No, there isn’t anything I think I ...
 
-**Q:** What Why?
+**Q:** What? Why?
 
 **Q:** What's the difference between the words 'frequent' and 'frequent'?
 **A:** The difference … is that ...
@@ -1179,7 +1201,7 @@ e.g. You should always look before you leap when buying a house.
 **A:** Yes, I frequent … ~ No, I don’t frequent …
 
 **Q:** Do you pay frequent visits to your doctor?
-**A:**  Yes, I pay frequent … ~ No, I don’t pay frequent …
+**A:** Yes, I pay frequent … ~ No, I don’t pay frequent …
 
 **Q:** How frequently do you visit your dentist?
 **A:** I visit my dentist about …
@@ -1190,7 +1212,7 @@ e.g. You should always look before you leap when buying a house.
 **Q:** What are the main attractions of the place where you live?
 **A:** The main attractions …
 
-**Q:** Tell me the name of a famous person who you think is attractive even though they are not particularly beautiful or goodlooking the rest?
+**Q:** Tell me the name of a famous person who you think is attractive even though they are not particularly beautiful or good-looking.?
 **A:** A famous person … is …
 
 **Q:** Do you think most people these days are too busy with their own lives to care about the rest of the people in the world?
@@ -1210,13 +1232,13 @@ e.g. You should always look before you leap when buying a house.
 **Q:** Name some different emotions, please.?
 **A:** Some different emotions are happiness, sadness, surprise, anger etc.
 
-**Q:** Do you ever get very emotional when you watch a sad film?
-**A:** Yes, I sometimes … ~ No, I never …
+**Q:** Do you ever get very emotional when you watch a sad film look before you leap =?
+**A:** Yes, I sometimes … ~ No, I never … think carefully before you make a big decision e.g. You should always look before you leap when buying a house .
 
 **Q:** What does the idiom 'look before you leapȀ mean?
 **A:** The idiom ... “think carefully ...”
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** Look before you leap; it will be too late after it’s done
 
 ### Dictation
@@ -1227,13 +1249,14 @@ e.g. You should always look before you leap when buying a house.
 ## Lesson 119
 
 ### Vocabulary
-- **“To be” + infinitive with “to”**
-- **firstly**
+- **“To be” + inﬁnitive with “to”**
+- **ﬁrstly**
 - **secondly**
 - **head teacher**
 - **study**
-- **ǿUPǿ **
-- **Two common uses … are to**
+- **inﬁnitive with “to“.**
+- **(instead of the structure “going to“).**
+- **obligation.**
 - **vote**
 - **nurse**
 - **nursery**
@@ -1247,12 +1270,14 @@ e.g. You should always look before you leap when buying a house.
 - **take into account**
 - **set up**
 - **“Could” as the past of “can”**
+- **managed to get out safely“.**
+- **time but he couldn’t ﬁnd them“.**
 - **nature**
 - **human nature**
 - **compete**
 - **competition**
 - **energy**
-- **efficient**
+- **efﬁcient**
 - **suit**
 - **suitable**
 - **effect**
@@ -1261,37 +1286,37 @@ e.g. You should always look before you leap when buying a house.
 - **Idiom 20**
 - **sunshine**
 
-### Grammar Notes
-In formal English, there are two common uses of the structure “to be“ +
-infinitive with “to“.
-Firstly, we use it in order to communicate an arrangement. For example,
-the sentence “The President is to meet the Queen“ means that this
-meeting has been arranged. This structure is often used in newspapers
-(instead of the structure “going to“).
-Secondly, we can use this structure to communicate an obligation. For
-example, the sentence “You are to go to the head teacher’s study at
-once“ means you have to go to the head teacher’s study at once. It is an
-obligation.
-We use “could“ as the past of “can“ to speak about general abilities. For
-example, we say “I could swim when I was five years old“ or “When he
-lived in London, he could practise his English every day“. On the other
-hand, if we talk about a particular occasion when somebody managed
-to do something, we don’t use “could“; we use “was able“, “managed“
-or “succeeded“ instead. For example, we say “John studied a lot, and
-drop a line = write a short letter
-e.g. Don’t forget to drop us a line while you’re away.
+### Notes
+> In formal English, there are two common uses of the structure “to be“ +
+> Firstly, we use it in order to communicate an arrangement. For example,
+> the sentence “The President is to meet the Queen“ means that this
+> meeting has been arranged. This structure is often used in newspapers
+> Secondly, we can use this structure to communicate an obligation. For
+> example, the sentence “You are to go to the head teacher’s study at
+> once“ means you have to go to the head teacher’s study at once. It is an
+> We use “could“ as the past of “can“ to speak about general abilities. For
+> example, we say “I could swim when I was ﬁve years old“ or “When he
+> lived in London, he could practise his English every day“. On the other
+> hand, if we talk about a particular occasion when somebody managed
+> to do something, we don’t use “could“; we use “was able“, “managed“
+> or “succeeded“ instead. For example, we say “John studied a lot, and
+> was able to pass the exam“ or “The child fell into the swimming pool but
+> When a sentence is negative, however, we can use either “couldn’t“ or
+> “wasn’t able“. We can say, for example, “He looked for his keys for a long
 
 ### Q&A Drill
-**Q:** What are two common uses of the structure 'to be' infinitive with?
-**A:** communicate an arrangement or an obligation
+**Q:** What are two common uses of the structure 'to be' + infinitive with?
 
-**Q:** Give me some examples please?
+**Q:** 'to'?
+**A:** Two common uses … are to communicate an arrangement or an obligation
+
+**Q:** Give me some examples, please.?
 **A:** The two countries are to begin new discussions on trade. You are to wait until I get back.
 
-**Q:** What does this sentence mean 'The Prime Minister is to speak to the press at noon'?
+**Q:** What does this sentence mean: 'The Prime Minister is to speak to the press at noon'?
 **A:** That sentence means that there is an arrangement for the Prime Minister to speak to the press at noon
 
-**Q:** And what does this sentence mean 'The nurse said I was to wait for the doctor to come'?
+**Q:** And what does this sentence mean: 'The nurse said I was to wait for the doctor to come'?
 **A:** That sentence means that the nurse told me that I had to wait for the doctor to come
 
 **Q:** How old must you be before you can vote in elections in this country?
@@ -1303,7 +1328,7 @@ e.g. Don’t forget to drop us a line while you’re away.
 **Q:** Have you ever had to nurse a sick person?
 **A:** Yes, I’ve had to … ~ No, I’ve never had to ...
 
-**Q:** What's a nursery or nursery school?
+**Q:** What's a nursery, or nursery school?
 **A:** A nursery, or nursery school, is a place for very small children to play while their parents go to work
 
 **Q:** What is unemployment?
@@ -1321,23 +1346,21 @@ e.g. Don’t forget to drop us a line while you’re away.
 **Q:** Is it always possible to put theory into practice?
 **A:** No, it isn’t …
 
-**Q:** Why not practice, because of something that has not been taken into account?
-**A:** Because what works in theory might not work in
+**Q:** Why not?
+**A:** Because what works in theory might not work in practice, because of something that has not been taken into account
 
 **Q:** What do we mean by a practical person?
 **A:** By a practical person we mean someone who is good at doing things with their hands, or is good at organizing their ideas and making things happen in real life
 
-**Q:** If you decided to set up a business in the place where you lived what kind of business would you choose?
+**Q:** If you decided to set up a business in the place where you lived, what kind of business would you choose?
 **A:** If I decided to set up …, the kind of business I’d choose would be ...
 
 **Q:** Why?
 
-**Q:** was able to pass the exam“ or “The child fell into the swimming pool but managed to get out safely“.?
-
 **Q:** When do we use 'could' as the past of 'can'?
 **A:** We use “could“ as the past of “can“ to speak about general abilities
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** My grandfather could run very fast when he was a young man
 
 **Q:** When don't we use 'could' as the past of 'can'?
@@ -1346,24 +1369,22 @@ e.g. Don’t forget to drop us a line while you’re away.
 **Q:** What do we use instead?
 **A:** We use “was able“, “managed“ or “succeeded“ instead
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** The woman gave the children some money, and so they were able to buy some sweets
-
-**Q:** When a sentence is negative, however, we can use either “couldn’t“ or “wasn’t able“. We can say, for example, “He looked for his keys for a long time but he couldn’t find them“.?
 
 **Q:** What happens when a sentence is negative?
 **A:** When a sentence is negative, we can use either “couldn’t“ or “wasn’t able“
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** The woman did not give the children any money, and so they could not buy any sweets
 
-**Q:** Is it in your nature to worry about things too much?
+**Q:** Is it in your nature to worry about things too much? ?
 **A:** Yes, it’s in … ~ No, it isn’t in …
 
 **Q:** Do you think human nature can be changed?
 **A:** Yes, I think ... ~ No, I don’t think ...
 
-**Q:** Do you think it’s a good thing to make children compete against each other at school?
+**Q:** Do you think it's a good thing to make children compete against each other at school?
 **A:** Yes, I think it’s … ~ No, I don’t think it’s ...
 
 **Q:** Have you ever won a competition?
@@ -1389,30 +1410,32 @@ e.g. Don’t forget to drop us a line while you’re away.
 **Q:** Where would you say was the most suitable place to go for a holiday if you wanted a complete rest?
 **A:** I’d say … was the most suitable …
 
-**Q:** What are the effects of too little sleep or overeating etc?
+**Q:** What are the effects of too little sleep (or overeating etc.)?
 **A:** The effects of … are …
 
 **Q:** Do you think regular physical exercise can have any effect on how happy someone feels?
 **A:** Yes, I think … ~ No, I don’t think …
 
-**Q:** What effect do you suppose it'd have on a perfect stranger if you went up to him in the street and hit him with a rolledup newspaper?
-**A:** If I went up to ..., I suppose the effect it would have on him would be one of surprise
+**Q:** What effect do you suppose it'd have on a perfect stranger if you went up to him in the street and hit him with a rolled-up newspaper drop a line =?
+**A:** If I went up to ..., I suppose the effect it would have on him would be one of surprise write a short letter e.g. Don’t forget to drop us a line while you’re away.
 
 **Q:** What does the idiom 'drop a lineȀ mean?
 **A:** The idiom ... “write a short letter”
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** Why didn’t you drop us a line to tell us you were coming?
 
 ### Dictation
-> I’d like to live on an island/ right in the middle/ of the Pacific Ocean,/ but I realize/ that such an idea is only a dream./ It’d be very unwise/ to tell him the whole story/ during the interview;/ he might get the wrong idea./ We’ll drive down to the coast/ early in the morning,/ so that we can get there by noon/ and spend a longer time/ enjoying the sunshine on the beach.
+> I’d like to live on an island/ right in the middle/ of the Paciﬁc Ocean,/ but I realize/ that such an idea is only a dream./ It’d be very unwise/ to tell him the whole story/ during the interview;/ he might get the wrong idea./ We’ll drive down to the coast/ early in the morning,/ so that we can get there by noon/ and spend a longer time/ enjoying the sunshine on the beach.
 
 ---
 
 ## Lesson 120
 
 ### Vocabulary
-- **ǿPVHIUUPǿ **
+- **“Should” and “ought to” for the past and future**
+- **phoned me“ means that you did not, in fact, phone me.**
+- **him tomorrow“.**
 - **polish**
 - **ability**
 - **expense**
@@ -1420,63 +1443,71 @@ e.g. Don’t forget to drop us a line while you’re away.
 - **stress**
 - **stressful**
 - **afterwards**
-- **first of all**
+- **like“.**
+- **ﬁrst of all**
 - **attend**
 - **shopkeeper**
 - **move**
 - **tear**
 - **Making requests**
 - **pass**
-- **spoil**
-- **spoilt**
+- **spoil – spoilt – spoilt**
 - **discipline**
 - **hunger**
 - **share**
 - **Idiom 21**
-- ***EPOǽULOPXJG*ǽNDPNJOHPSHPJOHI am confused (usually because**
 
-### Grammar Notes
-We express the idea of past time with the modals “should“ and “ought
-to“ by following them with the word “have“ and a past participle. For
-example, we say “I should have told her, but I forgot“ or “He ought to
-The word “afterwards“ expresses the idea of “after that“. For example,
-“Shall we have dinner now? Afterwards, we can watch a film on TV if you
-There are many ways of requesting that somebody does something, but
-one common way is to say “Can you …?“ or “Could you …?“ In a request,
-“could“ is more polite than “can“, and so we often use “could“ when we
-different things are happening at the same time)
-e.g. I’ve got so many problems and so much work to do that I just don’t know if
-I’m coming or going.
+### Notes
+> We express the idea of past time with the modals “should“ and “ought
+> to“ by following them with the word “have“ and a past participle. For
+> example, we say “I should have told her, but I forgot“ or “He ought to
+> have gone to the doctor yesterday, but he didn’t“. Notice that, if we say
+> someone “should have done“ or “ought to have done“ something, it
+> means that they did not, in fact, do it. The sentence “You should have
+> To express a future idea with “should“ or “ought to“, we just use a word
+> or phrase that expresses future time. For example, “I ought to go and see
+> The word “afterwards“ expresses the idea of “after that“. For example,
+> “Shall we have dinner now? Afterwards, we can watch a ﬁlm on TV if you
+> There are many ways of requesting that somebody does something, but
+> one common way is to say “Can you …?“ or “Could you …?“ In a request,
+> “could“ is more polite than “can“, and so we often use “could“ when we
+> are speaking to people we don’t know very well. For example, we say
+> “Excuse me, could you tell me the way to the station, please?“
+> Another common way of making a request is to say “Do you mind …?“ or
+> “Would you mind …?“ For example, “Do you mind opening the window,
+> please?“ or “Would you mind moving your chair a little, please?“ The
+> difference is that “Would you mind …?“ is perhaps more polite. Notice
+> that we put a gerund after the verb “mind“ in this type of request.
 
 ### Q&A Drill
-**Q:** have gone to the doctor yesterday, but he didn’t“. Notice that, if we say someone “should have done“ or “ought to have done“ something, it means that they did not, in fact, do it. The sentence “You should have phoned me“ means that you did not, in fact, phone me.?
-
 **Q:** How do we express the idea of past time with the modals 'should' and?
-**A:** the word “have“ and a past participle
 
-**Q:** Give me an example please?
+**Q:** 'ought to'?
+**A:** We express … by following them with the word “have“ and a past participle
+
+**Q:** Give me an example, please.?
 **A:** They ought to have gone to the police after the accident, but they didn’t
 
 **Q:** Is there anything you should have done yesterday but didn't do?
 **A:** Yes, there’s ... ~ No, there isn’t …
 
-**Q:** If so what?
+**Q:** If so, what?
 
-**Q:** What do I mean if I say that I ought to have called my mother yesterday To express a future idea with “should“ or “ought to“, we just use a word or phrase that expresses future time. For example, “I ought to go and see him tomorrow“.?
+**Q:** What do I mean if I say that I ought to have called my mother yesterday?
 **A:** If you say that …, it means that you did not, in fact, call her
 
 **Q:** How do we express a future idea with 'should' or 'ought to'?
 **A:** We express a future … by using a word or phrase that expresses future time
 
-**Q:** Give me some examples please?
+**Q:** Give me some examples, please.?
 **A:** She should do it as soon as possible. They ought to arrive next week.
 
 **Q:** Is there anything you know you should do tomorrow but perhaps won't do?
 **A:** Yes, there’s something … ~ No, there isn’t anything …
 
-**Q:** If so what?
+**Q:** If so, what?
 
-**Q:** When your shoes are dirty do you just clean them or do you polish them as well?
+**Q:** When your shoes are dirty, do you just clean them or do you polish them as well?
 **A:** When my shoes are dirty, I …
 
 **Q:** Do you have any special ability that most people don't have?
@@ -1486,7 +1517,7 @@ I’m coming or going.
 **A:** The biggest ... is ...
 
 **Q:** What does the verb 'to postponeȀ mean?
-**A:**  The verb ... to delay something until a better time
+**A:** The verb ... to delay something until a better time
 
 **Q:** Why are football matches sometimes postponed?
 **A:** Football matches ... due to bad weather
@@ -1500,11 +1531,11 @@ I’m coming or going.
 **Q:** What does the word 'afterwards' express?
 **A:** The word “afterwards“ expresses the idea of “after that“
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** They got married, but separated soon afterwards
 
-**Q:** When we're painting a room what is it important to do first of all?
-**A:** When we’re …, first of all it’s important to cover the furniture so that it doesn’t get paint on it
+**Q:** When we're painting a room, what is it important to do first of all?
+**A:** When we’re …, ﬁrst of all it’s important to cover the furniture so that it doesn’t get paint on it
 
 **Q:** Until what age must a child attend school?
 **A:** A child must attend school until the age of ...
@@ -1519,26 +1550,24 @@ I’m coming or going.
 **A:** I’d say the most … was …
 
 **Q:** What kind of things move people to tears?
-**A:** The kind of things that … are music, sad films, weddings etc.
+**A:** The kind of things that … are music, sad ﬁlms, weddings etc.
 
-**Q:** are speaking to people we don’t know very well. For example, we say “Excuse me, could you tell me the way to the station, please?“?
-
-**Q:** Tell me one common way of making a request please?
+**Q:** Tell me one common way of making a request, please.?
 **A:** One common way … is to say “Can you …?“ or “Could you …?“
 
-**Q:** Which is more polite 'can' or 'could'?
+**Q:** Which is more polite: 'can' or 'could'?
 **A:** “Could“ is more polite than “can“
 
-**Q:** Give me an example please Another common way of making a request is to say “Do you mind …?“ or “Would you mind …?“ For example, “Do you mind opening the window, please?“ or “Would you mind moving your chair a little, please?“ The difference is that “Would you mind …?“ is perhaps more polite. Notice that we put a gerund after the verb “mind“ in this type of request.?
+**Q:** Give me an example, please.?
 **A:** Could you possibly lend me your pen for a second, please?
 
-**Q:** Tell me another common way of making a request please?
+**Q:** Tell me another common way of making a request, please.?
 **A:** Another common way … is to say “Do you mind …?“ or “Would you mind …?“
 
-**Q:** Would you say 'Do you mind ȅ ' or 'Would you mind ȅ ' if you wanted to be especially polite?
+**Q:** Would you say: 'Do you mind ȅ?' or 'Would you mind ȅ?' if you wanted to be especially polite?
 **A:** I would say “Would you mind …?“ if I ...
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** Would you mind passing me that book, please?
 
 **Q:** What'd you do if you wanted to spoil someone's pleasure in eating their lunch?
@@ -1547,19 +1576,22 @@ I’m coming or going.
 **Q:** Do spoilt children usually lack discipline?
 **A:** Yes, spoilt children …
 
-**Q:** If you were dying of hunger would you share your last piece of food with another dying person?
+**Q:** If you were dying of hunger, would you share your last piece of food with another dying person?
 **A:** Yes, if I were …, I’d … ~ No, if I were …, I wouldn’t …
 
 **Q:** Why do brothers and sisters often share bedrooms when they're young?
 **A:** Brothers and sisters … because there aren’t enough bedrooms, they’re afraid of sleeping on their own in the dark etc.
 
 **Q:** Have you got any shares in any companies?
-**A:**  Yes, I’ve got some … ~ No, I haven’t got any …
+**A:** Yes, I’ve got some … ~ No, I haven’t got any …
+
+**Q:** I don't know if I'm coming or going =?
+**A:** I am confused (usually because different things are happening at the same time) e.g. I’ve got so many problems and so much work to do that I just don’t know if I’m coming or going.
 
 **Q:** What does the idiom 'I don't know if I'm coming or goingȀ mean?
 **A:** The idiom … “I am confused”
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** Don’t ask her to help; she’s so busy that she doesn’t know if she’s coming or going at the moment
 
 ---
@@ -1568,6 +1600,8 @@ I’m coming or going.
 
 ### Vocabulary
 - **“Need” as a modal verb**
+- **we can say “You needn’t pay the bill yet”.**
+- **not clear whether they did it or not.**
 - **association**
 - **automobile**
 - **disturb**
@@ -1580,73 +1614,79 @@ I’m coming or going.
 - **spirit**
 - **spiritual**
 - **evil**
-- **flow**
+- **ﬂow**
 - **festival**
 - **feast**
 - **dare**
 - **challenge**
+- **night”.**
+- **questions and negative sentences, not in positive sentences.**
+- **cannot be used as a modal verb.**
 - **bring up**
 - **solve**
 - **calculator**
-- **fix**
+- **ﬁx**
 - **hammer**
 - **nail**
-- **fingernail**
+- **ﬁngernail**
 - **criticize**
 - **Idiom 22**
 
-### Grammar Notes
-The verb “need” can sometimes be used as a modal verb in questions and
-negative sentences (but not normally in positive sentences). For example,
-instead of asking “Does she need to fill in a form?”, we can ask “Need she
-fill in a form?”, and instead of saying “You don’t need to pay the bill yet”,
-we can say “You needn’t pay the bill yet”.
-A festival is a large public party, often to celebrate something. For example,
-a music festival, summer festival etc. A feast is a special meal, usually to
-celebrate something. For example, there is usually a feast at a wedding.
-example, “Nobody dared to argue with him”. It is often used in the
-negative. For example, “They didn’t dare to walk through the woods at
-fall to pieces = lose control of yourself and your emotions after something bad
-Sometimes a university student/ can take quite a long time/ to gain a degree./
-She checked out of the hotel/ but left her luggage in the reception./ My mark in
-mathematics/ was six out of ten,/ which is not too bad/ considering I had not
-studied too hard./ Some companies have very good trademarks,/ whilst others
+### Notes
+> The verb “need” can sometimes be used as a modal verb in questions and
+> negative sentences (but not normally in positive sentences). For example,
+> instead of asking “Does she need to ﬁll in a form?”, we can ask “Need she
+> ﬁll in a form?”, and instead of saying “You don’t need to pay the bill yet”,
+> When talking about the past, if somebody says that they needn’t
+> have done something, it means that they did it, but it was, in fact, not
+> necessary. For example, if a person says “I needn’t have studied so hard,
+> because the exam was really easy”, it means that they did study hard, but
+> it wasn’t necessary. However, if somebody says that they didn’t need to
+> do something, it simply means that the action was not necessary, but it is
+> A festival is a large public party, often to celebrate something. For example,
+> a music festival, summer festival etc. A feast is a special meal, usually to
+> celebrate something. For example, there is usually a feast at a wedding.
+> The verb “dare” means “to be brave enough to do something”. For
+> example, “Nobody dared to argue with him”. It is often used in the
+> negative. For example, “They didn’t dare to walk through the woods at
+> The verb “dare”, like the verb “need”, can be used as both an ordinary
+> verb and a modal verb. For example, instead of asking “Do you dare to
+> try it?”, we can ask “Dare you try it?”, and instead of saying “She doesn’t
+> dare to tell her father what happened”, we can say “She daren’t tell her
+> father what happened”. As a modal verb, “dare” is generally only used in
+> If we dare somebody to do something, it means that we challenge them
+> to do it, to see if they are brave enough. For example, “I dare you to climb
+> that tree”. Note that when the verb “dare” is used with this meaning, it
 
 ### Q&A Drill
-**Q:** Give me an example of need as a modal verb in a question?
+**Q:** Give me an example of need as a modal verb in a question.?
 **A:** Need he come to work next Saturday?
 
-**Q:** Give me an example of need as a modal verb in a negative sentence?
+**Q:** Give me an example of need as a modal verb in a negative sentence.?
 **A:** She needn’t worry about the exam
 
 **Q:** Need you look at your book to answer this question?
 **A:** No, I needn’t look …
 
-**Q:** Need heshe help you to answer this question?
+**Q:** Need he/she help you to answer this question?
 **A:** No, he/she needn’t help me ...
-
-**Q:** When talking about the past, if somebody says that they needn’t?
-
-**Q:** have done something, it means that they did it, but it was, in fact, not necessary. For example, if a person says “I needn’t have studied so hard, because the exam was really easy”, it means that they did study hard, but it wasn’t necessary. However, if somebody says that they didn’t need to?
-
-**Q:** do something, it simply means that the action was not necessary, but it is not clear whether they did it or not.?
 
 **Q:** What does somebody mean if they say that they needn't have done something?
 **A:** If somebody says that …, it means that they did it, but it was, in fact, not necessary
 
-**Q:** Tell me something you did yesterday that you needn't have done?
+**Q:** Tell me something you did yesterday that you needn't have done.?
 **A:** I needn’t have carried an umbrella yesterday
 
 **Q:** So why did you?
 **A:** Because …
 
 **Q:** What kind of associations are there?
-**A:**  There are automobile associations, football associations etc.
+**A:** There are automobile associations, football associations etc.
 
 **Q:** Do you belong to any associations?
-**A:**    Yes, I belong to … ~ No, I don’t belong to …
+**A:** Yes, I belong to … ~ No, I don’t belong to …
 
-**Q:** If so which?
+**Q:** If so, which?
 
 **Q:** Does every little noise disturb you when you're reading?
 **A:** Yes, every little noise disturbs … ~ No, not every little noise disturbs ...
@@ -1654,7 +1694,7 @@ studied too hard./ Some companies have very good trademarks,/ whilst others
 **Q:** Why or why not?
 **A:** Because I can’t concentrate … ~ Because I can concentrate in spite of the noise
 
-**Q:** Do you think it takes a lot of courage to act on the stage?
+**Q:** Do you think it takes a lot of courage to act on the stage? ? ?
 **A:** Yes, I think … ~ No, I don’t think …
 
 **Q:** Why is courage considered by some people the greatest of all the virtues?
@@ -1688,10 +1728,10 @@ studied too hard./ Some companies have very good trademarks,/ whilst others
 **A:** Yes, I’d say … ~ No, I wouldn’t say …
 
 **Q:** Which river ʞows through London?
-**A:** The River Thames flows ...
+**A:** The River Thames ﬂows ...
 
 **Q:** Does traffic ʞow smoothly during the rush hour?
-**A:** No, traffic doesn’t …
+**A:** No, trafﬁc doesn’t …
 
 **Q:** What's a festival?
 **A:** A festival is …
@@ -1702,7 +1742,7 @@ studied too hard./ Some companies have very good trademarks,/ whilst others
 **Q:** What's a feast?
 **A:** A feast is …
 
-**Q:** Would you dare to swim in the sea in the middle of winter The verb “dare”, like the verb “need”, can be used as both an ordinary verb and a modal verb. For example, instead of asking “Do you dare to try it?”, we can ask “Dare you try it?”, and instead of saying “She doesn’t dare to tell her father what happened”, we can say “She daren’t tell her father what happened”. As a modal verb, “dare” is generally only used in questions and negative sentences, not in positive sentences.?
+**Q:** Would you dare to swim in the sea in the middle of winter?
 **A:** Yes, I would dare to swim … ~ No, I wouldn’t dare to swim …
 
 **Q:** Can the verb 'dareȀ be used as both an ordinary verb and a modal verb?
@@ -1711,9 +1751,7 @@ studied too hard./ Some companies have very good trademarks,/ whilst others
 **Q:** What can we say instead of 'He doesn't dare to argue with his bossȀ?
 **A:** Instead of saying “He doesn’t dare to argue with his boss”, we can say “He daren’t argue with his boss”
 
-**Q:** If we dare somebody to do something, it means that we challenge them to do it, to see if they are brave enough. For example, “I dare you to climb that tree”. Note that when the verb “dare” is used with this meaning, it cannot be used as a modal verb.?
-
-**Q:** If I dared you to jump out of a firstʞoor window would you do it?
+**Q:** If I dared you to jump out of a first-ʞoor window, would you do it?
 **A:** Yes, if you dared me to jump …, I’d do it ~ No, if you dared me to jump …, I wouldn’t do it
 
 **Q:** Where were you brought up?
@@ -1723,36 +1761,31 @@ studied too hard./ Some companies have very good trademarks,/ whilst others
 **A:** Yes, I believe … ~ No, I don’t believe …
 
 **Q:** Is it difficult for most people to solve mathematical problems without using a calculator?
-**A:** Yes, it’s difficult …
+**A:** Yes, it’s difﬁcult …
 
 **Q:** What'd one need in order to fix two pieces of wood together?
-**A:** One would need a hammer and some nails to fix ...
+**A:** One would need a hammer and some nails to ﬁx ...
 
-**Q:** When you pay a visit to the doctor's or dentist's do you generally have to?
-
-**Q:** fix an appointment before going or can you just go whenever you like?
-**A:** When I pay a …, I generally have to fix …
+**Q:** When you pay a visit to the doctor's or dentist's, do you generally have to fix an appointment before going or can you just go whenever you like?
+**A:** When I pay a …, I generally have to ﬁx …
 
 **Q:** What'd you have to do in order to fix a picture up on that wall?
 **A:** In order to …, I’d need to hammer a nail into the wall and hang the picture on the nail
 
 **Q:** What's this?
-**A:** It’s a fingernail
+**A:** It’s a ﬁngernail
 
-**Q:** If you went to a dinner party at somebody's house and criticized their cooking would you expect to be invited back again?
-**A:** No, if I went ..., I wouldn’t ...
-
-**Q:** has happened e.g. He fell to pieces when his girlfriend left him, and didn’t go to work for a whole week.?
+**Q:** If you went to a dinner party at somebody's house and criticized their cooking, would you expect to be invited back again fall to pieces =?
+**A:** No, if I went ..., I wouldn’t ... lose control of yourself and your emotions after something bad has happened e.g. He fell to pieces when his girlfriend left him, and didn’t go to work for a whole week.
 
 **Q:** What does the idiom 'fall to piecesȀ mean?
 **A:** The idiom ... “lose control ...”
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** She was so shaken by the news that she just fell to pieces and was totally unable to manage the situation
 
-**Q:** have trademarks/ that never really catch the eye./ On what basis/ could such an?
-
-**Q:** unwise decision/ have been made?
+### Dictation
+> Sometimes a university student/ can take quite a long time/ to gain a degree./ She checked out of the hotel/ but left her luggage in the reception./ My mark in mathematics/ was six out of ten,/ which is not too bad/ considering I had not studied too hard./ Some companies have very good trademarks,/ whilst others have trademarks/ that never really catch the eye./ On what basis/ could such an unwise decision/ have been made?
 
 ---
 
@@ -1763,12 +1796,14 @@ studied too hard./ Some companies have very good trademarks,/ whilst others
 - **courtyard**
 - **enclose**
 - **space**
+- **schoolyard, a railway yard, a backyard of a house etc.**
 - **amuse**
 - **comic**
 - **pass (the time)**
 - **cards**
 - **waiting room**
 - **amusement**
+- **for the train, we amused ourselves by playing cards”.**
 - **hobby**
 - **photography**
 - **order**
@@ -1776,7 +1811,7 @@ studied too hard./ Some companies have very good trademarks,/ whilst others
 - **packed**
 - **suitcase**
 - **shorts**
-- **shirt**
+- **T-shirt**
 - **thorn**
 - **rose**
 - **afford**
@@ -1798,40 +1833,46 @@ studied too hard./ Some companies have very good trademarks,/ whilst others
 - **offend**
 - **criticism**
 - **thermometer**
+- **changes“ and “easily hurt or offended“.**
+- **when you have very hot or very cold drinks.**
 - **sensible**
 - **reasonable**
+- **money immediately.**
 - **shopping centre**
 - **balance**
 - **add up**
-- **bind**
-- **bound**
+- **bind – bound – bound**
+- **to bind a book, to bind with a promise.**
 - **Idiom 23**
 
-### Grammar Notes
-Apart from being a measure of distance, the word “yard” can mean
-an open space outside a building, enclosed by walls, but with no roof.
-It is generally used for a special purpose. For example, a farmyard, a
-schoolyard, a railway yard, a backyard of a house etc.
-The two basic meanings of the word “sensitive“ are “able to notice small
-changes“ and “easily hurt or offended“.
-A sensitive person can be either a kind person who is good at noticing
-changes in how other people are feeling, or a person who is easily hurt
-or offended by criticism. If you have sensitive teeth, your teeth can hurt
-Basically, the verb “to bind“ means “to tie“. For example, to bind a wound,
-to bind a book, to bind with a promise.
-hit the nail right on the head = say something that identifies a problem or
-situation exactly, or say something that is exactly right
-e.g. He hit the nail right on the head when he pointed out that the problem had
-been caused by the managers, not the workers.
+### Notes
+> Apart from being a measure of distance, the word “yard” can mean
+> an open space outside a building, enclosed by walls, but with no roof.
+> It is generally used for a special purpose. For example, a farmyard, a
+> A courtyard, on the other hand, is a large space, often enclosed by
+> buildings, and is usually found in colleges, castles or very large houses.
+> The expression “to amuse yourself” means to pass the time, especially
+> when you have nothing else to do. For example, “While we were waiting
+> The two basic meanings of the word “sensitive“ are “able to notice small
+> A sensitive thermometer can measure very small changes in temperature.
+> A sensitive person can be either a kind person who is good at noticing
+> changes in how other people are feeling, or a person who is easily hurt
+> or offended by criticism. If you have sensitive teeth, your teeth can hurt
+> When we are thinking about a person’s behaviour, the opposite of the
+> word “stupid“ is “sensible“. A sensible person behaves in a practical and
+> reasonable manner. For example, it is sensible to look both ways before
+> crossing a road, whereas it is stupid to cross a road without looking both
+> ways. It is sensible to save money for the future rather than spend all your
+> Basically, the verb “to bind“ means “to tie“. For example, to bind a wound,
 
 ### Q&A Drill
-**Q:** Apart from being a measure of distance what can the word 'yardȀ mean?
+**Q:** Apart from being a measure of distance, what can the word 'yardȀ mean?
 **A:** Apart from …, the word “yard” can mean an open space outside a building, enclosed by walls, but with no roof
 
-**Q:** Give me some examples please?
+**Q:** Give me some examples, please.?
 **A:** Farmyard, schoolyard, railway yard ...
 
-**Q:** What is a 'backyard' A courtyard, on the other hand, is a large space, often enclosed by buildings, and is usually found in colleges, castles or very large houses.?
+**Q:** What is a 'backyard'?
 **A:** A “backyard“ is an enclosed space behind a house
 
 **Q:** What's a courtyard?
@@ -1840,12 +1881,10 @@ been caused by the managers, not the workers.
 **Q:** What do people do when they are amused by a comic story?
 **A:** When people are amused by ... they laugh or smile
 
-**Q:** when you have nothing else to do. For example, “While we were waiting for the train, we amused ourselves by playing cards”.?
-
 **Q:** What does the expression 'to amuse yourselfȀ mean?
 **A:** The expression “to amuse yourself” means …
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** While I was waiting to see the doctor, I amused myself by studying the other people in the waiting room, trying to see what they might be thinking from the expression on their faces
 
 **Q:** What kind of amusements are there in your home town?
@@ -1858,7 +1897,7 @@ been caused by the managers, not the workers.
 **A:** Yes, photography can …
 
 **Q:** Why do some people arrange their CDs or books in alphabetical order on the shelf?
-**A:** Some people … so that they are easy to find
+**A:** Some people … so that they are easy to ﬁnd
 
 **Q:** Name some things that people always pack in their suitcase when they go on holiday to a hot country.?
 **A:** Some things that … are shorts, T-shirts, sunglasses etc.
@@ -1866,8 +1905,8 @@ been caused by the managers, not the workers.
 **Q:** Do you like watching a film in a packed cinema?
 **A:** Yes, I like ... ~ No, I don’t like ...
 
-**Q:** Name me a ʞower that's protected by thorns?
-**A:** The rose is a flower that’s ...
+**Q:** Name me a ʞower that's protected by thorns.?
+**A:** The rose is a ﬂower that’s ...
 
 **Q:** What do we mean when we say we can't afford to do something?
 **A:** When we say we ... we mean we haven’t got enough time or money to do it
@@ -1875,13 +1914,13 @@ been caused by the managers, not the workers.
 **Q:** Can most people afford to eat in restaurants every day?
 **A:** No, most people can’t …
 
-**Q:** If you were offered five free hours of English lessons a day could you afford the time to take them?
+**Q:** If you were offered five free hours of English lessons a day, could you afford the time to take them?
 **A:** Yes, if I were …, I could afford … ~ No, if I were …, I couldn’t afford …
 
 **Q:** Do countries always respect the agreements they make with other countries?
 **A:** No, countries don’t always ...
 
-**Q:** When you do the shopping do you normally use a basket or a trolley?
+**Q:** When you do the shopping, do you normally use a basket or a trolley?
 **A:** When I do …, I normally …
 
 **Q:** Are nuts good for the health?
@@ -1902,10 +1941,8 @@ been caused by the managers, not the workers.
 **Q:** Is it important to you to have every modern convenience in your home?
 **A:** Yes, it’s important … ~ No, it isn’t important …
 
-**Q:** Would it be convenient for you to come to school at  am?
+**Q:** Would it be convenient for you to come to school at 4 a.m.?
 **A:** No, it wouldn’t be convenient for ...; it’d be inconvenient
-
-**Q:** when you have very hot or very cold drinks.?
 
 **Q:** What are the two basic meanings of the word 'sensitive'?
 **A:** The two … are “able to notice small changes“ or “easily hurt or offended“
@@ -1922,9 +1959,7 @@ been caused by the managers, not the workers.
 **Q:** What do we mean if we say that somebody is very sensitive to criticism?
 **A:** If we say …, we mean that they are easily hurt or offended by criticism
 
-**Q:** When we are thinking about a person’s behaviour, the opposite of the word “stupid“ is “sensible“. A sensible person behaves in a practical and reasonable manner. For example, it is sensible to look both ways before crossing a road, whereas it is stupid to cross a road without looking both ways. It is sensible to save money for the future rather than spend all your money immediately.?
-
-**Q:** When we're speaking about a person's behaviour what's the opposite of the word 'stupid'?
+**Q:** When we're speaking about a person's behaviour, what's the opposite of the word 'stupid'?
 **A:** When we’re speaking …, the opposite of the word “stupid“ is “sensible“
 
 **Q:** Are you sensible with money?
@@ -1940,24 +1975,24 @@ been caused by the managers, not the workers.
 **A:** Yes, there’s a … ~ No, there isn’t a …
 
 **Q:** What am I doing?
-**A:** You’re balancing your pen on your finger
+**A:** You’re balancing your pen on your ﬁnger
 
-**Q:** If you add up figures in an accounts book and find they don't balance what must you do?
+**Q:** If you add up figures in an accounts book and find they don't balance, what must you do?
 **A:** If you add up ..., you must add them up again
 
-**Q:** If we had c between us and I took c and gave the balance to you how much would you get?
+**Q:** If we had c100 between us, and I took c75 and gave the balance to you, how much would you get?
 **A:** If we had ..., I’d get £25
 
-**Q:** What is basically the meaning of the verb 'to bind'?
+**Q:** What is, basically, the meaning of the verb 'to bind'?
 **A:** Basically, the meaning … is “to tie“
 
-**Q:** What are the three forms of 'bind'?
-**A:** The three forms of “bind“ are “bind, bound, bound“
+**Q:** What are the three forms of 'bind' hit the nail right on the head =?
+**A:** The three forms of “bind“ are “bind, bound, bound“ say something that identiﬁes a problem or situation exactly, or say something that is exactly right e.g. He hit the nail right on the head when he pointed out that the problem had been caused by the managers, not the workers.
 
 **Q:** What does the idiom 'hit the nail right on the headȀ mean?
 **A:** The idiom ... “say something …”
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** He hit the nail right on the head, and then we could see the problem perfectly
 
 ### Dictation
@@ -1968,7 +2003,9 @@ been caused by the managers, not the workers.
 ## Lesson 123
 
 ### Vocabulary
-- **ǿBȀPSǿUIFȀ**
+- **Use of the indeﬁnite articles: “a” and “an”**
+- **phoned yesterday.**
+- **as a waiter”.**
 - **note**
 - **note down**
 - **take notes**
@@ -1984,57 +2021,61 @@ been caused by the managers, not the workers.
 - **murderer**
 - **evidence**
 - **i.e. = id est = that is**
+- **is“. We use this abbreviation mainly in writing.**
 - **Be used to something**
 - **Get used to something**
-- **at first**
+- **at ﬁrst**
 - **accustomed**
+- **sentence expresses a habit or repeated action in the past.**
+- **example, we say “I am getting used to waking up early“.**
 - **Idiom 24**
-- **difficult experience**
 
-### Grammar Notes
-The indefinite article “a“ (or “an“) is used when we use a noun for the
-first time. If we then refer to the same thing or person again, we normally
-use the definite article “the”. For example, “Yesterday, I received a letter
-and an email. I haven’t read the letter yet, but I have read the email“.
-phoned yesterday.
-jobs. For example, we say “She wants to become a doctor”, or “He works
-as a waiter”.
-The letters “i.e.“ are the abbreviation of “id est“, which is Latin for “that
-is“. We use this abbreviation mainly in writing.
-Instead of saying “I played football regularly at school“, we can use
-the auxiliary “used to“ and say “I used to play football at school“. This
-sentence expresses a habit or repeated action in the past.
-However, we have another, completely different, “used to“ in English.
-In the sentence “I am used to hot weather“, the word “used“ is an
-adjective, followed by the preposition “to“. If we say that we are “used
-to“ something, it means that it is not strange or uncomfortable for us
-anymore because we have experience of it. If a person from a cold country
-goes to live in a hot country, at first they feel uncomfortable; they “are
-not used to“ the weather. Then, they slowly become accustomed to the
-weather, or “get used to“ the weather. Finally, one day they say “I am
-used to hot weather“ because now they are comfortable with it.
-pull yourself together = gain control of yourself and your emotions after a
-e.g. He fell to pieces when his girlfriend left him, and it took him a few weeks to
-pull himself together again.
+### Notes
+> The indeﬁnite article “a“ (or “an“) is used when we use a noun for the
+> ﬁrst time. If we then refer to the same thing or person again, we normally
+> use the deﬁnite article “the”. For example, “Yesterday, I received a letter
+> and an email. I haven’t read the letter yet, but I have read the email“.
+> We sometimes use the deﬁnite article “the“ when we use a noun for the
+> ﬁrst time, but only when the speaker and the listener both know who or
+> what is being talked about. For example, “Ah, Doctor Jones. Good morning.
+> The woman who phoned yesterday has arrived for her appointment.”
+> Here, it is clear which woman we are talking about – the woman who
+> Another use of the indeﬁnite article “a” is when we talk about people’s
+> jobs. For example, we say “She wants to become a doctor”, or “He works
+> The letters “i.e.“ are the abbreviation of “id est“, which is Latin for “that
+> Instead of saying “I played football regularly at school“, we can use
+> the auxiliary “used to“ and say “I used to play football at school“. This
+> However, we have another, completely different, “used to“ in English.
+> In the sentence “I am used to hot weather“, the word “used“ is an
+> adjective, followed by the preposition “to“. If we say that we are “used
+> to“ something, it means that it is not strange or uncomfortable for us
+> anymore because we have experience of it. If a person from a cold country
+> goes to live in a hot country, at ﬁrst they feel uncomfortable; they “are
+> not used to“ the weather. Then, they slowly become accustomed to the
+> weather, or “get used to“ the weather. Finally, one day they say “I am
+> used to hot weather“ because now they are comfortable with it.
+> Notice that, because the word “to“ is a preposition, we put the gerund
+> (“-ing“ form) after the expression “to be used to“, not the inﬁnitive. For
 
 ### Q&A Drill
-**Q:** When we use a noun for the first time in a conversation do we use the article 'aȀ or 'theȀ?
+**Q:** When we use a noun for the first time in a conversation, do we use the article 'aȀ or 'theȀ?
 **A:** When we use …, we use the article “a”
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** Hi Jessica. I’ve just bought a new computer, and a printer too!
 
-**Q:** If we then refer to the same thing or person again do we normally use?
+**Q:** If we then refer to the same thing or person again, do we normally use?
 
-**Q:** Give me an example please We sometimes use the definite article “the“ when we use a noun for the first time, but only when the speaker and the listener both know who or?
+**Q:** 'aȀ or 'theȀ?
+**A:** If we then refer …, we normally use “the”
+
+**Q:** Give me an example, please.?
 **A:** Hi Jessica. I’ve just bought a new computer, and a printer too! The computer is really good but I ’m not sure about the printer; it was very cheap.
 
-**Q:** what is being talked about. For example, “Ah, Doctor Jones. Good morning. The woman who phoned yesterday has arrived for her appointment.”?
-
 **Q:** In which situation do we use the definite article 'the' when we use a noun for the first time?
-**A:** We use the definite article “the“ … only when the speaker and the listener both know who or what is being talked about
+**A:** We use the deﬁnite article “the“ … only when the speaker and the listener both know who or what is being talked about
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** The book which is on the table is yours
 
 **Q:** Do we use the indefinite article when we talk about people's jobs?
@@ -2059,15 +2100,15 @@ pull himself together again.
 **A:** Yes, I note something … ~ No, I don’t note anything …
 
 **Q:** What colour are the banknotes of your country?
-**A:**  The banknotes of my country are …
+**A:** The banknotes of my country are …
 
 **Q:** Can women normally sing higher notes than men can?
-**A:**  Yes, women can …
+**A:** Yes, women can …
 
-**Q:** Does each key on a piano keyboard play a different note?
+**Q:** Does each key on a piano keyboard play a different note? ?
 **A:** Yes, each key …
 
-**Q:** What's the difference between a note and a letter?
+**Q:** What's the difference between a note and a letter? ?
 **A:** The difference ... is that a note is normally shorter than a letter and less formal
 
 **Q:** Why did soldiers wear armour in the old days?
@@ -2088,8 +2129,8 @@ pull himself together again.
 **Q:** Can a court find someone guilty of a crime if there is no evidence?
 **A:** No, a court can’t …
 
-**Q:** What are the letters 'ie' the abbreviation of?
-**A:**  The letters “i.e.“ are the abbreviation of “id est“ ... “that is“
+**Q:** What are the letters 'i.e.' the abbreviation of?
+**A:** The letters “i.e.“ are the abbreviation of “id est“ ... “that is“
 
 **Q:** When do we use this abbreviation?
 **A:** We use this abbreviation mainly in writing
@@ -2097,8 +2138,8 @@ pull himself together again.
 **Q:** What does it mean if we say that we are used to something?
 **A:** If we say that …, it means that it is not strange or uncomfortable for us anymore because we have experience of it
 
-**Q:** Give me an example please?
-**A:** He’s lived on that busy street for many years, so he is used to the traffic noise
+**Q:** Give me an example, please.?
+**A:** He’s lived on that busy street for many years, so he is used to the trafﬁc noise
 
 **Q:** Is an African person used to hot weather?
 **A:** Yes, an African person is used to hot weather
@@ -2106,36 +2147,36 @@ pull himself together again.
 **Q:** Why?
 **A:** Because it is hot in Africa, and if someone is born and brought up there, hot weather is normal for them
 
-**Q:** When a family moves to a new town do you think it's easier for the children to get used to everything than it is for the parents Notice that, because the word “to“ is a preposition, we put the gerund (“-ing“ form) after the expression “to be used to“, not the infinitive. For example, we say “I am getting used to waking up early“.?
+**Q:** When a family moves to a new town, do you think it's easier for the children to get used to everything than it is for the parents?
 **A:** Yes, when a family moves …, I think … ~ No, when a family moves ..., I don’t think …
 
 **Q:** Why do we put the gerund after the expression 'to be used to'?
 **A:** We put … because the word “to“ is a preposition
 
-**Q:** Give me an example please?
-**A:** At first it was difficult, but now I’m used to getting up early
+**Q:** Give me an example, please.?
+**A:** At ﬁrst it was difﬁcult, but now I’m used to getting up early
 
-**Q:** Are you used to studyingXJUIUIF$BMMBO.FUIPE ?
+**Q:** Are you used to studyingwith the Callan Method?
 **A:** Yes, I’m used to studying … ~ No, I’m not used to studying …
 
-**Q:** Do you think you could ever get used to living in a country where your language wasn't spoken?
-**A:** Yes, I think I could … ~ No, I don’t think I could ever …
+**Q:** Do you think you could ever get used to livingin a country where your language wasn't spoken pull yourself together =?
+**A:** Yes, I think I could … ~ No, I don’t think I could ever … gain control of yourself and your emotions after a difﬁcult experience e.g. He fell to pieces when his girlfriend left him, and it took him a few weeks to pull himself together again.
 
 **Q:** What does the idiom 'pull yourself togetherȀ mean?
 **A:** The idiom ... “gain control of …”
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** Stop crying and pull yourself together!
 
 ### Dictation
-> I should really do the work now;/ otherwise, I’ll have twice as much/ to do later on./ I’ve seen that film/ on several occasions,/ but never on the big screen./ Whatever else happens during the day,/ I always keep to a set time/ for getting up,/ eating and going to bed,/ and so I always feel healthy./ In a civilized society,/ people show respect to others./ It is said/ that one should always practise/ what one preaches.
+> I should really do the work now;/ otherwise, I’ll have twice as much/ to do later on./ I’ve seen that ﬁlm/ on several occasions,/ but never on the big screen./ Whatever else happens during the day,/ I always keep to a set time/ for getting up,/ eating and going to bed,/ and so I always feel healthy./ In a civilized society,/ people show respect to others./ It is said/ that one should always practise/ what one preaches.
 
 ---
 
 ## Lesson 124
 
 ### Vocabulary
-- **benefit**
+- **beneﬁt**
 - **sake**
 - **give up**
 - **mixed up**
@@ -2143,24 +2184,38 @@ pull himself together again.
 - **dress**
 - **master**
 - **masterpiece**
-- **“So”**
-- **and its many uses**
+- **“So” – and its many uses**
 - **so**
+- **so that**
+- **so as to**
+- **and so on**
 - **so many**
 - **so far**
 - **so far as I know**
-- **4) “Everybody was at the party**
+- **are some examples:**
+- **1) “They were very cheap, (and) so I bought two of them”.**
+- **Here, the word “so” means “therefore” or “consequently”.**
+- **Here, the expression “so that” means “in order that”.**
+- **3) “Come early, so as to get a good seat”.**
+- **Here, the expression “so as to” means “in order to”.**
+- **Here, the expression “and so on” means “etc”.**
 - **Here are some more uses of “so”:**
 - **quantity of”.)**
+- **6) “I have not made any mistakes so far”.**
+- **Here, the expression “so far” means “till now”.**
+- **7) “So far as I know, they left yesterday”.**
+- **Here, the expression “so far as I know” means “as regards my**
+- **knowledge of the situation”.**
 - **praise**
 - **loan**
 - **furthermore**
 - **moreover**
+- **he was going to pay me more money”.**
 - **toe**
 - **personally**
 - **conscious**
 - **unconscious**
-- **self**
+- **self-conscious**
 - **patient**
 - **injection**
 - **gathering**
@@ -2168,44 +2223,37 @@ pull himself together again.
 - **axe**
 - **equally**
 - **Idiom 25**
-- **therefore, save time and energy**
 
-### Grammar Notes
-There are many expressions in English that contain the word “so”. Here
-Here, the expression “and so on” means “etc”.
-5) “I never realized there were so many people living in that house”.
-Here, the expression “so many” means “such a large number of”.
-(For uncountable nouns, we use “so much”, meaning “such a large
-6) “I have not made any mistakes so far”.
-Here, the expression “so far” means “till now”.
-7) “So far as I know, they left yesterday”.
-Here, the expression “so far as I know” means “as regards my
-knowledge of the situation”.
-The words “furthermore” and “moreover” mean “also”, and are often
-used at the beginning of the sentence in formal English. For example,
-“The goods arrived two weeks late. Furthermore, they were damaged”.
-The word “moreover” often communicates that the information in the
-second sentence is more important than the information in the first. For
-example, “My boss praised me for my work yesterday. Moreover, he said
-he was going to pay me more money”.
-LJMMUXPCJSETXJUIPOFTUPOFdo two things at the same time and,
-e.g. When we go to the station to buy the tickets, let’s ask about the train times
-for our next trip. By doing that, we can kill two birds with one stone.
+### Notes
+> There are many expressions in English that contain the word “so”. Here
+> 2) “You should read it again, so that you can remember it well”.
+> 4) “Everybody was at the party – Sam, Louise, Richard and so on”.
+> 5) “I never realized there were so many people living in that house”.
+> Here, the expression “so many” means “such a large number of”.
+> (For uncountable nouns, we use “so much”, meaning “such a large
+> The words “furthermore” and “moreover” mean “also”, and are often
+> used at the beginning of the sentence in formal English. For example,
+> “The goods arrived two weeks late. Furthermore, they were damaged”.
+> The word “moreover” often communicates that the information in the
+> second sentence is more important than the information in the ﬁrst. For
+> example, “My boss praised me for my work yesterday. Moreover, he said
 
 ### Q&A Drill
 **Q:** What are the benefits of regular physical exercise?
-**A:** The benefits … are good health, more energy etc.
+**A:** The beneﬁts … are good health, more energy etc.
 
-**Q:** When arguing with someone do you ever suddenly agree with them just for the sake of peace and quiet?
+**Q:** When arguing with someone, do you ever suddenly agree with them just for the sake of peace and quiet?
 **A:** Yes, when arguing …, I sometimes suddenly … ~ No, when arguing ..., I never suddenly …
 
 **Q:** Do you think it's important for parents who smoke to try to give up smoking for the sake of their children?
 **A:** Yes, I think it’s … ~ No, I don’t think it’s …
 
-**Q:** If two people have very similar names do you sometimes get them mixed up?
+**Q:** If two people have very similar names, do you sometimes get them mixed?
+
+**Q:** VQ?
 **A:** Yes, if two people …, I sometimes … ~ No, if two people …, I never …
 
-**Q:** Which word am I spelling all mixed up c-i-r-h-a?
+**Q:** Which word am I spelling all mixed up? cirha?
 **A:** You’re spelling the word “chair” all mixed up
 
 **Q:** Do you think a sense of humour is one of the most important parts of a person's character?
@@ -2214,40 +2262,38 @@ for our next trip. By doing that, we can kill two birds with one stone.
 **Q:** Do people wear formal dress when they go to a wedding?
 **A:** Yes, people wear formal dress when they go to a wedding
 
-**Q:** When discussing painting who do we mean by the Old Masters?
+**Q:** When discussing painting, who do we mean by the Old Masters?
 **A:** When discussing painting, by the Old Masters we mean painters such as Rembrandt, Michelangelo etc.
 
 **Q:** Can you name me one of Shakespeare's masterpieces?
 **A:** Yes, I can name you one of Shakespeare’s masterpieces – Hamlet (Macbeth, Othello, King Lear etc.)
 
-**Q:** How long do you think it would take you to master another foreign language or the game of golf?
+**Q:** How long do you think it would take you to master another foreign language (or the game of golf)?
 **A:** I think it’d take me about … to master …
 
-**Q:** are some examples: 1) “They were very cheap, (and) so I bought two of them”. Here, the word “so” means “therefore” or “consequently”. 2) “You should read it again, so that you can remember it well”. Here, the expression “so that” means “in order that”. 3) “Come early, so as to get a good seat”. Here, the expression “so as to” means “in order to”.?
+**Q:** Now, I will say a sentence and I want you to make a similar sentence with the word 'soȀ:?
 
-**Q:** Now I will say a sentence and I want you to make a similar sentence with the word 'soȀ?
-
-**Q:** I had no money for the bus and consequently I had to walk home?
+**Q:** I had no money for the bus and consequently I had to walk home.?
 **A:** I had … bus, so I had to …
 
-**Q:** I'll show you where the key is kept in order that you don't have to ask me next time.?
-**A:** I’ll show … kept so that you don’t ȅ
+**Q:** I'll show you where the key is kept in order that you don't have to ask me next time. ȅ?
+**A:** I’ll show … kept so that you don’t
 
-**Q:** We wore very light clothes in order not to suffer from the heat?
+**Q:** We wore very light clothes in order not to suffer from the heat.?
 **A:** We wore … clothes so as not to suffer …
 
-**Q:** I went to the supermarket and bought some milk cheese bread etc?
+**Q:** I went to the supermarket and bought some milk, cheese, bread etc.?
 **A:** I went … cheese, bread and so on
 
-**Q:** Now as before I will say a sentence and I want you to make a similar sentence with the word 'soȀ?
+**Q:** Now, as before, I will say a sentence and I want you to make a similar sentence with the word 'soȀ:?
 
-**Q:** I never knew he had such a large quantity of money?
-**A:**  I never … had so much money
+**Q:** I never knew he had such a large quantity of money.?
+**A:** I never … had so much money
 
-**Q:** I haven't had an accident in my car till now?
+**Q:** I haven't had an accident in my car till now.?
 **A:** I haven’t … car so far
 
-**Q:** As regards my knowledge of the situation the problem has been solved?
+**Q:** As regards my knowledge of the situation, the problem has been solved.?
 **A:** So far as I know, the problem …
 
 **Q:** Is it important for teachers to praise children when they do things well?
@@ -2259,10 +2305,10 @@ for our next trip. By doing that, we can kill two birds with one stone.
 **Q:** Is it easy to get a loan from a bank?
 **A:** Yes, it’s easy to … ~ No, it isn’t easy to …
 
-**Q:** Give me an example of the word 'furthermoreȀ please?
+**Q:** Give me an example of the word 'furthermoreȀ, please.?
 **A:** Alison speaks French perfectly. Furthermore, she can communicate quite well in German.
 
-**Q:** Give me an example of the word 'moreoverȀ please?
+**Q:** Give me an example of the word 'moreoverȀ, please.?
 **A:** The company make good products. Moreover, their prices are low.
 
 **Q:** How many toes do you have?
@@ -2274,7 +2320,7 @@ for our next trip. By doing that, we can kill two birds with one stone.
 **Q:** Do sensitive people sometimes take criticism too personally?
 **A:** Yes, sensitive people …
 
-**Q:** When a person is in danger, do you think it’s better for them to be conscious of the danger or not?
+**Q:** When a person is in danger, do you think it's better for them to be conscious of the danger or not?
 **A:** When a person …, I think it’s better …
 
 **Q:** Why?
@@ -2282,43 +2328,46 @@ for our next trip. By doing that, we can kill two birds with one stone.
 **Q:** What do they give a hospital patient to make them unconscious before an operation?
 **A:** They usually … a special kind of gas or an injection to make …
 
-**Q:** On what occasions do people often feel selfconscious?
+**Q:** On what occasions do people often feel self-conscious?
 **A:** People often feel self-conscious on occasions such as formal gatherings, or when they’re with people they don’t know
 
 **Q:** What do we use to split wood?
 **A:** We use an axe to split wood
 
-**Q:** If your favourite trousers split would you repair them or throw them away?
+**Q:** If your favourite trousers split, would you repair them or throw them away?
 **A:** If my …, I’d …
 
-**Q:** When you eat in a restaurant with a group of friends do you think the bill should be split equally among everyone or do you think each person should pay for what they personally ordered?
-**A:** When I eat in …, I think …
+**Q:** When you eat in a restaurant with a group of friends, do you think the bill should be split equally among everyone or do you think each person should pay for what they personally ordered kill two birds with one stone =?
+**A:** When I eat in …, I think … do two things at the same time and, therefore, save time and energy e.g. When we go to the station to buy the tickets, let’s ask about the train times for our next trip. By doing that, we can kill two birds with one stone.
 
 **Q:** What does the idiom 'kill two birds with one stoneȀ mean?
 **A:** The idiom … “do two things …”
 
-**Q:** Give me an example please?
-**A:** If I can find the book I need for school at the library when I go there to return your books, I’ll be killing two birds with one stone
+**Q:** Give me an example, please.?
+**A:** If I can ﬁnd the book I need for school at the library when I go there to return your books, I’ll be killing two birds with one stone
 
 ---
 
 ## Lesson 125
 
 ### Vocabulary
-- **Uses of the definite article: “the”**
+- **Uses of the deﬁnite article: “the”**
 - **Alps**
 - **Andes**
 - **Himalayas**
 - **Netherlands**
+- **today”.**
+- **should remember:**
+- **very useful thing”. This means computers in general.**
+- **For example, we say “Queen Elizabeth lives in London”.**
+- **we say “France” (not “the France”).**
 - **present**
-- **SU×ʰ]HQW**
-- **(noun + adjective)**
-- **(verb)**
-- **swear**
-- **swore**
-- **sworn**
+- **swear – swore – sworn**
+- **they hurt themselves or when they’re very angry.**
 - **lazy**
 - **idle**
+- **“Don’t be so idle. Go and ﬁnd a job!“**
+- **to be doing something useful“.**
 - **play**
 - **scene**
 - **verse**
@@ -2330,26 +2379,42 @@ for our next trip. By doing that, we can kill two birds with one stone.
 - **heads**
 - **tails**
 
-### Grammar Notes
-The most important use of the definite article “the” is when we are
-referring to something specific that is known to both the speaker and the
-listener. This is similar to the way that we use the words “this”, “that”,
-“these” or “those”. For example, “The teacher we had last week has left”,
-or “John’s got a new house; the garden’s lovely”, or “The sun rose early
-The verb “to swear” means to say bad words. People often swear when
-they hurt themselves or when they’re very angry.
-The word “lazy“ means “not willing to work“. For example, “My brother
-go in one ear and out the other = be heard but then immediately forgotten
-e.g. There’s no use telling him anything; it just goes in one ear and out the other.
+### Notes
+> The most important use of the deﬁnite article “the” is when we are
+> referring to something speciﬁc that is known to both the speaker and the
+> listener. This is similar to the way that we use the words “this”, “that”,
+> “these” or “those”. For example, “The teacher we had last week has left”,
+> or “John’s got a new house; the garden’s lovely”, or “The sun rose early
+> There are three other special uses of the deﬁnite article “the” that we
+> 1) We can sometimes use the word “the” to speak about things in
+> general, but only when we are speaking about types of animals or
+> types of things. For example, instead of saying “Tigers are dangerous
+> animals”, we can say “The tiger is a dangerous animal”. This doesn’t
+> refer to one speciﬁc tiger, but to tigers in general. Instead of saying
+> “Computers are very useful things”, we can say “The computer is a
+> 2) We sometimes put the deﬁnite article “the” in front of a name, but
+> only when it is the name of a river, sea, ocean or mountain chain. For
+> example “the Thames”, “the Mediterranean”, “the Atlantic”, “the
+> Alps” etc. We do not use “the” with the names of people and places.
+> 3) Finally, we occasionally put the word “the” in front of the name of
+> a country, but only if the name is plural in form. For example, “the
+> Netherlands”, “the United States of America” etc. With country
+> names that are singular in form, we do not use “the”. For example,
+> The verb “to swear” means to say bad words. People often swear when
+> The word “lazy“ means “not willing to work“. For example, “My brother
+> is so lazy; he does nothing all day!“ The word “idle“ usually means the
+> same as “lazy“, but only when we are describing people. For example,
+> When we are describing things, the word “idle“ means “not doing
+> anything“. For example, “The ship remained idle in the port for two
+> years“. We can sometimes use “idle“ with this meaning for people but it
+> is not very common. For example, “I hate to be idle at work; I always like
 
 ### Q&A Drill
 **Q:** What is the most important use of the definite article 'theȀ?
-**A:** The most important … is when we are referring to something specific that is known to both the speaker and the listener
+**A:** The most important … is when we are referring to something speciﬁc that is known to both the speaker and the listener
 
-**Q:** Give me some examples please There are three other special uses of the definite article “the” that we?
+**Q:** Give me some examples, please.?
 **A:** The DVDs I bought yesterday are great. Could you close the window, please? The sky’s grey today.
-
-**Q:** should remember: 1) We can sometimes use the word “the” to speak about things in general, but only when we are speaking about types of animals or types of things. For example, instead of saying “Tigers are dangerous animals”, we can say “The tiger is a dangerous animal”. This doesn’t refer to one specific tiger, but to tigers in general. Instead of saying “Computers are very useful things”, we can say “The computer is a very useful thing”. This means computers in general.?
 
 **Q:** How can we sometimes use the word 'theȀ to speak about things in general?
 **A:** We can sometimes use the word “the” to speak about things in general when we are speaking about types of animals or types of things
@@ -2357,23 +2422,23 @@ e.g. There’s no use telling him anything; it just goes in one ear and out the 
 **Q:** Which is the heaviest land animal on earth?
 **A:** The elephant is …
 
-**Q:** When was the mobile phone invented 2) We sometimes put the definite article “the” in front of a name, but only when it is the name of a river, sea, ocean or mountain chain. For example “the Thames”, “the Mediterranean”, “the Atlantic”, “the Alps” etc. We do not use “the” with the names of people and places. For example, we say “Queen Elizabeth lives in London”.?
+**Q:** When was the mobile phone invented?
 **A:** The mobile phone was invented in 1973
 
 **Q:** When do we put the definite article 'theȀ in front of a name?
-**A:** We put the definite article “the” in front of a name when it is the name of a river, sea, ocean or mountain chain
+**A:** We put the deﬁnite article “the” in front of a name when it is the name of a river, sea, ocean or mountain chain
 
-**Q:** Give me some examples of mountain chains?
+**Q:** Give me some examples of mountain chains.?
 **A:** Some examples … are the Andes, the Himalayas, the Alps etc.
 
-**Q:** Which is the longest river in the world 3) Finally, we occasionally put the word “the” in front of the name of a country, but only if the name is plural in form. For example, “the Netherlands”, “the United States of America” etc. With country names that are singular in form, we do not use “the”. For example, we say “France” (not “the France”).?
+**Q:** Which is the longest river in the world?
 **A:** The Nile is …
 
 **Q:** When do we put the word 'theȀ in front of the name of a country?
 **A:** We put the word “the” in front of the name of a country only if the name is plural in form
 
 **Q:** Name some countries that are plural in form, please.?
-**A:** The Netherlands, the United States of America etc.
+**A:** The Netherlands, the United States of America etc. ʰSUH]ɊQW SU×ʰ]HQW (noun + adjective) (verb)
 
 **Q:** Do you think that the present state of the world is better than a hundred years ago?
 **A:** Yes, I think … ~ No, I don’t think …
@@ -2383,14 +2448,14 @@ e.g. There’s no use telling him anything; it just goes in one ear and out the 
 **Q:** Were all the pupils present for the last lesson?
 **A:** Yes, all the pupils … ~ No, not all the pupils ...
 
-**Q:** When a person retires from work after many years of employment in the same company are they usually presented with a gift?
+**Q:** When a person retires from work after many years of employment in the same company, are they usually presented with a gift?
 **A:** Yes, when a person …
 
-**Q:** In job interviews are people sometimes judged more by the way they present themselves than by their abilities and experience?
+**Q:** In job interviews, are people sometimes judged more by the way they present themselves than by their abilities and experience?
 **A:** Yes, in job interviews, people are …
 
 **Q:** Do you enjoy choosing presents to give to other people or do you find it stressful?
-**A:** I enjoy choosing … ~ I find choosing …
+**A:** I enjoy choosing … ~ I ﬁnd choosing …
 
 **Q:** What does the verb 'to swearȀ mean?
 **A:** The verb “to swear” …
@@ -2404,25 +2469,19 @@ e.g. There’s no use telling him anything; it just goes in one ear and out the 
 **Q:** Are there some people who have never sworn in their lives?
 **A:** Yes, there are …
 
-**Q:** is so lazy; he does nothing all day!“ The word “idle“ usually means the same as “lazy“, but only when we are describing people. For example, “Don’t be so idle. Go and find a job!“?
-
 **Q:** Who's the laziest person you know?
 **A:** The laziest …
 
 **Q:** Does hot weather make you feel lazy?
 **A:** Yes, hot weather makes … ~ No, hot weather doesn’t make …
 
-**Q:** When we're describing people what's another word for 'lazy'?
+**Q:** When we're describing people, what's another word for 'lazy'?
 **A:** When we’re …, another word … “idle“
 
-**Q:** When we are describing things, the word “idle“ means “not doing anything“. For example, “The ship remained idle in the port for two years“. We can sometimes use “idle“ with this meaning for people but it?
-
-**Q:** is not very common. For example, “I hate to be idle at work; I always like to be doing something useful“.?
-
-**Q:** When we're describing things what does the word 'idle' mean?
+**Q:** When we're describing things, what does the word 'idle' mean?
 **A:** When we’re …, the word … “not doing anything“
 
-**Q:** If you parked a car outside your house and left it idle for a few months would it get very dirty?
+**Q:** If you parked a car outside your house and left it idle for a few months, would it get very dirty?
 **A:** Yes, if I parked a car …, it’d get …
 
 **Q:** What do I mean if I say 'The workers were idle because the machines had broken down'?
@@ -2437,23 +2496,23 @@ e.g. There’s no use telling him anything; it just goes in one ear and out the 
 **Q:** Are Shakespeare's plays written mainly in verse?
 **A:** Yes, Shakespeare’s plays are written mainly in verse
 
-**Q:** What do we call a part of a song that is repeated more than once a verse or a chorus?
+**Q:** What do we call a part of a song that is repeated more than once: a verse or a chorus?
 **A:** We call … a chorus
 
-**Q:** How do people pray and what do they usually say in their prayers?
+**Q:** How do people pray, and what do they usually say in their prayers?
 **A:** People often pray with their eyes closed, and they usually ask for something in their prayers
 
-**Q:** Tell me the name of a job that you think combines work and pleasure?
-**A:** The name of …
+**Q:** Tell me the name of a job that you think combines work and pleasure. go in one ear and out the other =?
+**A:** The name of … be heard but then immediately forgotten e.g. There’s no use telling him anything; it just goes in one ear and out the other.
 
 **Q:** What does the idiom 'go in one ear and out the other' mean?
 **A:** The idiom … “be heard …”
 
-**Q:** Give me an example please?
+**Q:** Give me an example, please.?
 **A:** I’ve told my son a hundred times not to go out without his coat on, but it goes in one ear and out the other
 
 ### Dictation
-> One side of a coin/ we call “heads”,/ and the other side/ we call “tails”./ Totally by accident,/ he knocked the glass/ containing the liquid/ off the table/ onto the floor./ His lips rarely part/ to show his teeth,/ even when he smiles broadly./ The poor bird could hardly fly,/ as one of its wings/ was badly damaged./ Before the battle began,/ it was expected that many of the sailors/ would fail to do their duty,/ and that, consequently,/ the battle would be lost.
+> One side of a coin/ we call “heads”,/ and the other side/ we call “tails”./ Totally by accident,/ he knocked the glass/ containing the liquid/ off the table/ onto the ﬂoor./ His lips rarely part/ to show his teeth,/ even when he smiles broadly./ The poor bird could hardly ﬂy,/ as one of its wings/ was badly damaged./ Before the battle began,/ it was expected that many of the sailors/ would fail to do their duty,/ and that, consequently,/ the battle would be lost.
 
 ---
 
@@ -2464,15 +2523,20 @@ e.g. There’s no use telling him anything; it just goes in one ear and out the 
 - **as far as**
 - **Future time clauses**
 - **watch TV“. We must say either**
+- **“When I eat dinner, I will watch TV”**
 - **or**
-- **and**
+- **“When I have eaten dinner, I will watch TV”.**
+- **dinner and then, after that, I will watch TV.**
 - **trust**
 - **dependent**
 - **independent**
 - **punctual**
 - **row**
 - **oar**
+- **with oars, or by using a sail.**
 - **wish**
+- **past. For example, “I wish I were a millionaire”.**
+- **raining).**
 - **ideal**
 - **theoretical**
 - **actual**
@@ -2480,402 +2544,56 @@ e.g. There’s no use telling him anything; it just goes in one ear and out the 
 - **check**
 - **change**
 - **log**
-- **fireplace**
+- **ﬁreplace**
 - **common sense**
 - **tool**
 - **bean**
 - **Idiom 27**
-- **Grammar Questions**
-- **Stage 7**
-- **Stage 8**
-- ** 8IBUǽTUIFEJGGFSFODFCFUXFFOǿBǿBOEǿBOǿ The difference**
-- ****
-- ****
-- ****
-- **worked for, I’d …**
-- **Index**
-- **a piece of cake**
-- **case........................628**
-- **disturb ...................**
-- **future time**
-- **JEJPN ..............639**
-- **ability.....................**
-- **DBWF .......................**
-- **about.....................611**
-- **gathering ..............682**
-- **account .................622**
-- **celebrate ...............639**
-- **dress ......................**
-- **get used to**
-- **accustomed ...........**
-- **celebration ............639**
-- **drop a line**
-- **something .............**
-- **actual.....................693**
-- **actually ..................693**
-- **add up ...................**
-- **change ..................**
-- **due ........................**
-- **out the other**
-- **BEWBOUBHF .............**
-- **check .....................**
-- **due to ....................**
-- **JEJPN ..............688**
-- **afford ....................**
-- **BGUFSXBSET.............**
-- **class .......................628**
-- **EVWFU .....................668**
-- **goddess .................**
-- **agreement ............**
-- **classmate ...............**
-- **effect .....................**
-- **HPPEMPPLJOH ........**
-- **BMMPWFS...................**
-- **cliff.........................618**
-- **efficient .................**
-- **grandfather...........608**
-- **Alps .......................**
-- **collect ....................612**
-- **emotion.................**
-- **grandmother ........608**
-- **amuse ....................**
-- **amusement ...........**
-- **comic .....................**
-- **enclose ..................**
-- **and so on ..............**
-- **common sense ......**
-- **encyclopedia .........**
-- **Andes ....................**
-- **companion ............660**
-- **energy ...................**
-- **anger .....................610**
-- **compete ................**
-- **FOWFMPQF ...............603**
-- **argue .....................610**
-- **argument ..............610**
-- **concentrate ...........**
-- **essential ................639**
-- **hammer.................663**
-- **aristocracy .............628**
-- **concern .................638**
-- **FWFOU .....................638**
-- **handbag................**
-- **armour ..................**
-- **conscious ...............682**
-- **FWFOUGVM .................638**
-- **harbour .................636**
-- **arms.......................616**
-- **article ....................**
-- **DPOWFOJFOU ............668**
-- **FWJM .........................660**
-- **head teacher .........**
-- **artificial .................613**
-- **as far as .................690**
-- **association ............**
-- **QBTUPGȀDBOȀ.........**
-- **GBDFQPXEFS ..........612**
-- **Himalayas ..............**
-- **at first ....................**
-- **attend....................**
-- **courage .................**
-- **JEJPN ..............663**
-- **on the head**
-- **attention ...............**
-- **courtyard ...............**
-- **fascinated..............**
-- **JEJPN ..............**
-- **attract ....................**
-- **attraction ..............**
-- **criticism .................668**
-- **feast ......................661**
-- **honour ..................629**
-- **BUUSBDUJWF ...............**
-- **DSJUJDJ[F ..................663**
-- **feminine ................**
-- **housemate ............**
-- **automobile ...........**
-- **crop .......................623**
-- **GFTUJWBM ...................661**
-- **human being.........613**
-- **BWBJMBCMF ................613**
-- **cut corners**
-- **ʝGUZʝGUZ ...............606**
-- **human nature .......**
-- **axe .........................683**
-- **JEJPN ..............**
-- **fingernail ..............663**
-- **humour .................**
-- **balance ..................**
-- **dare .......................661**
-- **fireplace ................**
-- **hunger ..................**
-- **balcony ..................632**
-- **banknote...............**
-- **deck .......................620**
-- **firstly .....................**
-- **basket ....................**
-- **declare...................628**
-- **fix ..........................663**
-- **coming or going**
-- **bat .........................**
-- **deed ......................**
-- **flatmate.................**
-- **JEJPN ..............**
-- **be used to**
-- **bean ......................**
-- **benefit ..................**
-- **bound....................**
-- **dining room ..........668**
-- **JODPOWFOJFODF .......668**
-- **blackboard ............620**
-- **director..................620**
-- **BEKFDUJWF .............**
-- **JODPOWFOJFOU .........668**
-- **CMPXVQ .................611**
-- **EJTBEWBOUBHF ........**
-- **indefinite article....**
-- **board .....................620**
-- **discipline ...............**
-- **independent .........691**
-- **break out...............**
-- **discuss ...................610**
-- **BEWFSC .................**
-- **industrialist ...........628**
-- **bring up ................662**
-- **calculator...............662**
-- **dish ........................616**
-- **furniture ................613**
-- **innocent ................628**
-- **cards ......................**
-- **item .......................**
-- **product..................**
-- **KPLF........................603**
-- **professional ..........**
-- **production ............**
-- **KVOHMF ....................606**
-- **key .........................**
-- **keyboard ...............**
-- **OPUFEPXO.............**
-- **protection .............632**
-- **TJMLXPSN................**
-- **one stone**
-- **JEJPN ..............683**
-- **kiss .........................**
-- **different forms ......**
-- **together**
-- **LOPXMFEHF ............**
-- **nurse .....................**
-- **JEJPN ..............**
-- **so many .................**
-- **land .......................**
-- **landlady ................638**
-- **landlord .................638**
-- **oar .........................692**
-- **RVBSSFM...................610**
-- **MB[Z ........................**
-- **offend ...................668**
-- **rail .........................632**
-- **many uses..............**
-- **leaf ........................618**
-- **leather ...................668**
-- **MFBWFPVU ...............603**
-- **let me see ..............**
-- **let yourself go**
-- **JEJPN ..............609**
-- **limb .......................**
-- **pass .......................**
-- **SFEIBOEFE ...........628**
-- **loaf ........................618**
-- **loan .......................681**
-- **patient ...................682**
-- **regular...................611**
-- **spread ...................**
-- **log .........................**
-- **payment ................**
-- **stamp ....................603**
-- **look before you**
-- **MFBQ JEJPN ......**
-- **lose control ...........**
-- **MPXFS .....................628**
-- **loyal .......................660**
-- **loyalty ....................660**
-- **masculine ..............**
-- **mass ......................**
-- **WFSCT ......................**
-- **salary .....................**
-- **sunshine ................**
-- **mass‐production...**
-- **plural of nouns**
-- **satisfied .................623**
-- **support..................626**
-- **master ...................**
-- **scene .....................**
-- **surgeon .................**
-- **masterpiece ..........**
-- **PSǿGFȀ ...................618**
-- **scene .....................**
-- **mate ......................**
-- **poison ...................**
-- **schedule ................622**
-- **TXPSO ....................686**
-- **material .................668**
-- **meeting .................612**
-- **mention.................619**
-- **middle ...................628**
-- **postcode ...............603**
-- **seaside...................**
-- **take control ...........**
-- **miserable...............**
-- **mixed up ...............**
-- **QPXEFS ..................612**
-- **seat belt.................**
-- **take notes .............**
-- **monument ............629**
-- **NPSFPWFS...............681**
-- **mostly ....................608**
-- **NPUIFSJOMBX ......632**
-- **NPWF .....................**
-- **murderer ...............**
-- **present**
-- **sensible .................669**
-- **theoretical .............693**
-- **nail.........................663**
-- **OPVO BEK ..........**
-- **TFOTJUJWF.................668**
-- **theory ....................**
-- **naturally ................**
-- **QSFTFOU WFSC .......**
-- **sentence ................609**
-- **thermometer ........668**
-- **nature....................**
-- **need as a modal**
-- **WFSC .......................**
-- **pretend .................603**
-- **share......................**
-- **to be excused ........629**
-- **OFQIFX .................638**
-- **QSFWFOU ..................636**
-- **shelf .......................618**
-- **Netherlands ..........**
-- **prince ....................**
-- **shopkeeper ...........**
-- **something .............616**
-- **/FX:FBSǽT&WF ......639**
-- **niece ......................638**
-- **QSJWBUF ...................623**
-- **shorts.....................666**
-- **JEJPN ..............633**
-- **XJUIǿUPȀ ...............**
-- **to go up to ............**
-- **to look**
-- **GPSXBSEUP .............**
-- **toe .........................682**
-- **tool ........................**
-- **totally ....................608**
-- **USBOTJUJWF ...............630**
-- **trolley ....................**
-- **trust .......................691**
-- **unconscious ..........682**
-- **uncountable ..........**
-- **unemployment .....**
-- **VOFWFOUGVM.............638**
-- **up to date..............639**
-- **upper.....................628**
-- **use of the indefinite**
-- **ǿBOȀ ......................**
-- **ȀBOȀ DPOU ...........**
-- **uses of the definite**
-- **BSUJDMFȀUIFȀ .........**
-- **using nouns in the**
-- **general sense ........**
-- **WFSTF ......................688**
-- **WJSUVF .....................**
-- **WPDBCVMBSZ.............**
-- **WPUF .......................**
-- **XBHF .....................**
-- **XBJUJOHSPPN ........**
-- **JEJPN ..............**
-- **XIBU ......................**
-- **XIJTUMF ...................606**
-- **XIPN ....................**
-- **XIPTF ....................626**
-- **XJEPX ..................638**
-- **XJEPXFS ................638**
-- **XJTI .......................692**
-- **XPPE .....................618**
-- **XPSLJOH .................628**
-- **XPSLNBUF..............**
-- **XPSN .....................**
-- **XPSTIJQ .................631**
-- **XPSUIZ ...................631**
-- **yard .......................**
 
-### Grammar Notes
-As we know, we cannot use future verb forms in time clauses; we use
-present verb forms instead. We cannot say “When I will eat dinner, I will
-“When I eat dinner, I will watch TV”
-“When I have eaten dinner, I will watch TV”.
-In the old days before steam, ships were made to move either by rowing
-with oars, or by using a sail.
-We use the verb “wish” to communicate the idea that we would like
-things to be different from the way they in fact are now, or were in the
-past. For example, “I wish I were a millionaire”.
-cut corners = do something quickly and not as well as you could
-e.g. The new road is not very smooth because the workmen obviously cut
-corners to get it finished quickly.
-The following grammar questions are to be asked and revised in exactly the same way
-as any other questions in the Method. They act as a complete and rapid revision of all
-the grammar in Stages 7 and 8.
-reading etc.
-I’d organize ... for them.
-into the air.
-“told”, “commanded” or “ordered”, and we use the infinitive without “to”
-instead of the imperative.
-even run a small coffee shop.
-be made to study; I think studying ought to be voluntary.
-letter or email with the words “Dear Sir” or “Dear Madam”.
-get a refund.
-   The kind of things I look forward to most are …
-on objects, whereas “powder“ is something that is made.
-immediately, I’d wait/leave a message/call back later.
-No, when I was a child, I didn’t always like what I was given for my birthday.
-whom she took the payment”, we say “We need to contact the customer
-metal and has straight sides, whereas a barrel is usually made of wood and
-concern him. ~ No, I’m not the kind of person who likes to put his nose into
-things that don’t concern him.
-The Callan ® Method was first developed and published
-This edition was published for the international market in 2012.
-Copyright © R.K.T. Callan 2012
+### Notes
+> As we know, we cannot use future verb forms in time clauses; we use
+> present verb forms instead. We cannot say “When I will eat dinner, I will
+> If I use the present simple and say “When I eat dinner, I will watch TV“, it
+> is possible that the two actions will happen at the same time or one after
+> the other. On the other hand, if I use the present perfect and say “When I
+> have eaten dinner, I will watch TV“, I am emphasizing that I will ﬁrst eat
+> In the old days before steam, ships were made to move either by rowing
+> We use the verb “wish” to communicate the idea that we would like
+> things to be different from the way they in fact are now, or were in the
+> We must remember that the tense of any verb that follows “wish” is one
+> step back into the past from the time that we are referring to. So, instead
+> of the present simple tense we use the past simple tense; for example,
+> “Maria wishes she spoke perfect English” (she doesn’t speak perfect
+> English). Instead of the past simple tense we use the past perfect tense;
+> for example, “Daniel wishes he had gone to the party last night” (he
+> didn’t go to the party). Instead of the present continuous tense we use
+> the past continuous tense; for example, “I wish it wasn’t raining” (it is
+> Grammar Questions
+> Index
 
 ### Q&A Drill
 **Q:** How far does the road outside this window extend?
 **A:** The road outside this window extends as far as …
 
-**Q:** Extend your arms towards the ceiling please?
+**Q:** Extend your arms towards the ceiling, please.?
 
 **Q:** What are you doing?
 **A:** I’m extending my …
 
-**Q:** If I use the present simple and say “When I eat dinner, I will watch TV“, it?
+**Q:** Tell me the difference between these two sentences:?
 
-**Q:** is possible that the two actions will happen at the same time or one after the other. On the other hand, if I use the present perfect and say “When I?
+**Q:** 'When she writes the letter, she will drink a coffee' and?
 
-**Q:** have eaten dinner, I will watch TV“, I am emphasizing that I will first eat dinner and then, after that, I will watch TV.?
-
-**Q:** Tell me the difference between these two sentences?
-
-**Q:** 'When she writes the letter she will drink a coffee'?
-
-**Q:** 'When she has written the letter she will drink a coffee' writes the letter, she will drink a coffee“ means that it is possible that the two actions will happen at the same time or one after the other,?
-**A:** The difference between these two sentences is that “When she whereas “When she has written the letter, she will drink a coffee“ means that she will write first and then, after that, drink
+**Q:** 'When she has written the letter, she will drink a coffee'.?
+**A:** The difference between these two sentences is that “When she writes the letter, she will drink a coffee“ means that it is possible that the two actions will happen at the same time or one after the other, whereas “When she has written the letter, she will drink a coffee“ means that she will write ﬁrst and then, after that, drink
 
 **Q:** Is there anyone you can think of who you could trust with your life?
 **A:** Yes, there’s someone … ~ No, there isn’t anyone …
 
-**Q:** Do you think it’s a good idea for parents to put money in a trust for their children so that the children can only use it when they reach a certain age?
+**Q:** Do you think it's a good idea for parents to put money in a trust for their children so that the children can only use it when they reach a certain age?
 **A:** Yes, I think it’s … ~ No, I don’t think it’s …
 
-**Q:** When you were a young child were you completely dependent on your parents for everything?
+**Q:** When you were a young child, were you completely dependent on your parents for everything?
 **A:** Yes, when I was …
 
 **Q:** When did the United States of America become independent from?
@@ -2889,7 +2607,7 @@ Copyright © R.K.T. Callan 2012
 **Q:** How were ships made to move in the old days before steam?
 **A:** In the old days before steam, ships were …
 
-**Q:** What does the verb 'wishȀ communicate We must remember that the tense of any verb that follows “wish” is one step back into the past from the time that we are referring to. So, instead of the present simple tense we use the past simple tense; for example, “Maria wishes she spoke perfect English” (she doesn’t speak perfect English). Instead of the past simple tense we use the past perfect tense; for example, “Daniel wishes he had gone to the party last night” (he didn’t go to the party). Instead of the present continuous tense we use the past continuous tense; for example, “I wish it wasn’t raining” (it is raining).?
+**Q:** What does the verb 'wishȀ communicate?
 **A:** The verb “wish” communicates the idea that we would like things to be different from the way they in fact are now, or were in the past
 
 **Q:** What must we remember about the tense of any verb that follows?
@@ -2897,8 +2615,8 @@ Copyright © R.K.T. Callan 2012
 **Q:** 'wishȀ?
 **A:** We must remember that the tense of any verb that follows “wish” is one step back into the past from the time that we are referring to
 
-**Q:** Give me an example please?
-**A:** I wish I could fly
+**Q:** Give me an example, please.?
+**A:** I wish I could ﬂy
 
 **Q:** Do you have a million pounds?
 **A:** No, I don’t have …
@@ -2915,32 +2633,30 @@ Copyright © R.K.T. Callan 2012
 **Q:** Did you meet a famous film star yesterday?
 **A:** No, I didn’t meet …
 
-**Q:** Do you wish you had met a famous film star yesterday xesK h wish h had?
-**A:** met … ~ No, I don’t wish I had met …
+**Q:** Do you wish you had met a famous film star yesterday?
+**A:** Yes, I wish I had met … ~ No, I don’t wish I had met …
 
-**Q:** Are you the kind of person who enjoys talking about the ideal theoretical state of things or do you consider such things a waste of time and prefer to talk about the actual state of things?
+**Q:** Are you the kind of person who enjoys talking about the ideal, theoretical state of things, or do you consider such things a waste of time and prefer to talk about the actual state of things?
 **A:** I’m the kind of person who ...
 
-**Q:** Give me a sentence with the word 'actually' in it?
+**Q:** Give me a sentence with the word 'actually' in it.?
 **A:** He always used to say he was a good football player but, actually, he wasn’t very good
 
-**Q:** If you gave a shopkeeper c for something that cost c and he gave you only c change what would you do?
+**Q:** If you gave a shopkeeper c10 for something that cost c5 and he gave you only c4 change, what would you do?
 **A:** If I gave ..., I’d ...
 
-**Q:** When you pay for something in a shop do you always check to see that they have given you the right change?
+**Q:** When you pay for something in a shop, do you always check to see that they have given you the right change?
 **A:** Yes, when I pay …, I always … ~ No, when I pay …, I don’t always …
 
 **Q:** Why or why not?
 
-**Q:** Which would you prefer to sit in front of on a cold winter's day a real log?
-
-**Q:** fire burning in the fireplace or a modern gas fire?
+**Q:** Which would you prefer to sit in front of on a cold winter's day: a real log fire burning in the fireplace, or a modern gas fire?
 **A:** On a cold …, I’d prefer to …
 
 **Q:** What is common sense?
 **A:** Common sense is practical good sense which is not gained from any special studies
 
-**Q:** Which is more important in everyday life intelligence or common sense?
+**Q:** Which is more important in everyday life: intelligence or common sense?
 **A:** Common sense is more important …
 
 **Q:** Why?
@@ -2951,1208 +2667,1322 @@ Copyright © R.K.T. Callan 2012
 **Q:** Are beans good for the health?
 **A:** Yes, beans are …
 
-**Q:** What do we mean when we say that someone's full of beans?
-**A:** When we say …, we mean they’re full of life and energy
+**Q:** What do we mean when we say that someone's full of beans cut corners =?
+**A:** When we say …, we mean they’re full of life and energy do something quickly and not as well as you could e.g. The new road is not very smooth because the workmen obviously cut corners to get it ﬁnished quickly.
 
 **Q:** What does the idiom 'cut cornersȀ mean?
 **A:** The idiom ... “do something quickly …”
 
-**Q:** Give me an example please?
-**A:** There wasn’t enough money to complete the job properly, so we had to cut corners
+**Q:** Give me an example, please.?
+**A:** There wasn’t enough money to complete the job properly, so we had to cut corners The following grammar questions are to be asked and revised in exactly the same way as any other questions in the Method. They act as a complete and rapid revision of all the grammar in Stages 7 and 8.
 
-**Q:**  When the past tense of a regular verb ends in 'ded' or 'ted' how do we pronounce the final sound Give me some examples?
-**A:** When the past tense of a regular verb ends in “ded“ or “ted“, we pronounce the final sound “id” ɛG. For example, “included”, “lasted” etc.
+**Q:** 1) When the past tense of a regular verb ends in 'ded' or 'ted', how do we pronounce the final sound? Give me some examples.?
+**A:** When the past tense of a regular verb ends in “ded“ or “ted“, we pronounce the ﬁnal sound “id” ɛG . For example, “included”, “lasted” etc.
 
-**Q:**  When the past tense of a regular verb does not end in 'dedȀ or 'tedȀ how do we pronounce the final sound Give me some examples?
-**A:** When the past tense of a regular verb does not end in “ded” or “ted”, we pronounce the final sound “t” W or “d” G. For example, “crossed”, “seemed” etc.
+**Q:** 2) When the past tense of a regular verb does not end in 'dedȀ or 'tedȀ, how do we pronounce the final sound? Give me some examples.?
+**A:** When the past tense of a regular verb does not end in “ded” or “ted”, we pronounce the ﬁnal sound “t” W or “d” G . For example, “crossed”, “seemed” etc.
 
-**Q:**  What's the difference between 'a few' and 'few'?
+**Q:** 3) What's the difference between 'a few' and 'few'?
 **A:** The difference between “a few“ and “few“ is that “a few“ simply means “not many“, whereas “few“ often expresses the idea of “not enough“ or “fewer than expected“.
 
-**Q:**  What's the difference between 'a little' and 'little'?
+**Q:** 4) What's the difference between 'a little' and 'little'?
 **A:** The difference between “a little“ and “little“ is that “a little“ simply means “not much“, whereas “little“ often expresses the idea of “not enough“ or “less than expected“.
 
-**Q:**  When do we use the words 'used to' and what does it mean Give me an example.?
-**A:** We use the words “used to”, for a habit or repeated action in the past, especially when the action is now finished. For example, “I used to go to the cinema a lot when I was a child”.
+**Q:** 5) When do we use the words 'used to', and what does it mean? Give me an example.?
+**A:** We use the words “ used to ”, for a habit or repeated action in the past, especially when the action is now ﬁnished. For example, “I used to go to the cinema a lot when I was a child”.
 
-**Q:**  What's the difference between 'we're going to go to the theatre' and?
+**Q:** 6) What's the difference between 'we're going to go to the theatre' and?
 
 **Q:** 'we're going to the theatre'?
 **A:** The difference between “We’re going to go to the theatre“ and “We’re going to the theatre“ is that “We’re going to go to the theatre“ communicates that it is our intention to go, whereas “We’re going to the theatre“ communicates that the visit has already been arranged; we already have the tickets, for example.
 
-**Q:**  How do we make the question form in English Give me an example?
-**A:** We make the question form in English by putting the subject after the first auxiliary verb. For example, the statement “She has been eating“ becomes “Has she been eating?“
+**Q:** 7) How do we make the question form in English? Give me an example.?
+**A:** We make the question form in English by putting the subject after the ﬁrst auxiliary verb. For example, the statement “She has been eating“ becomes “Has she been eating?“
 
-**Q:**  For the present simple and the past simple which auxiliary verb do we use in the question form Give me an example?
+**Q:** 8) For the present simple and the past simple, which auxiliary verb do we use in the question form? Give me an example.?
 **A:** For the present simple and the past simple, we use the auxiliary verb “do“ in the question form. For example, “Do you want some tea?”
 
-**Q:**  What's a clause Give me an example?
+**Q:** 9) What's a clause? Give me an example.?
 **A:** A clause is any group of words with a subject and a main verb. For example, “The door opened”.
 
-**Q:**  What's a conjunction Give me some examples?
+**Q:** 10) What's a conjunction? Give me some examples.?
 **A:** A conjunction is a word that joins clauses together to make long sentences. For example, “and“, “because“, “but“, “so“ and “if“.
 
-**Q:**  Give me an example of a sentence that contains two clauses joined together by a conjunction?
+**Q:** 11) Give me an example of a sentence that contains two clauses joined together by a conjunction.?
 **A:** For example, “I love chocolate because it tastes so good“.
 
-**Q:**  What's the difference between a main clause and a dependent clause?
+**Q:** 12) What's the difference between a main clause and a dependent clause?
 **A:** The difference between a main clause and a dependent clause is that a main clause contains the main message of the sentence whereas a dependent clause contains other information.
 
-**Q:**  Which is the main clause in this sentence 'If I don't sleep enough I feel tired'?
+**Q:** 13) Which is the main clause in this sentence? 'If I don't sleep enough, I feel tired.'?
 **A:** “I feel tired“ is the main clause in that sentence.
 
-**Q:**  And which is the dependent clause?
+**Q:** 14) And which is the dependent clause?
 **A:** “If I don’t sleep enough“ is the dependent clause.
 
-**Q:**  Which conjunctions cannot start a sentence?
+**Q:** 15) Which conjunctions cannot start a sentence?
 **A:** The conjunctions “and “, “or“ and “but“ cannot start a sentence.
 
-**Q:**  Give me an example of the construction 'make object adjectiveȀ?
+**Q:** 16) Give me an example of the construction 'make + object + adjectiveȀ.?
 **A:** “Work makes us tired“.
 
-**Q:**  Give me an example of the construction 'keep object adjectiveȀ?
+**Q:** 17) Give me an example of the construction 'keep + object + adjectiveȀ.?
 **A:** “Exercise keeps you healthy“.
 
-**Q:**  What is a relative clause?
+**Q:** 18) What is a relative clause?
 **A:** A relative clause is a clause that we use to describe a noun.
 
-**Q:**  Where do we put a relative clause?
+**Q:** 19) Where do we put a relative clause?
 **A:** We put a relative clause immediately after the noun it describes.
 
-**Q:**  What's the difference between 'who' 'which' and 'that' things and animals, and “that“ for people, things and animals.?
-**A:** The difference between “who“, “which“ and “that“ is that we use “who“ for people, “which“ for
+**Q:** 20) What's the difference between 'who', 'which' and 'that'?
+**A:** The difference between “who“, “which“ and “that“ is that we use “who“ for people, “which“ for things and animals, and “that“ for people, things and animals.
 
-**Q:**  Give me a sentence with a relative clause in it?
-**A:** “I know someone who lives in that street“. “The film that I saw yesterday was great“.
+**Q:** 21) Give me a sentence with a relative clause in it.?
+**A:** “I know someone who lives in that street“. “The ﬁlm that I saw yesterday was great“.
 
-**Q:**  When do we put the words 'so' 'neither' or 'nor' at the beginning of a sentence?
+**Q:** 22) When do we put the words 'so', 'neither' or 'nor' at the beginning of a sentence?
 **A:** We put the words “so“, “neither“ or “nor“ at the beginning of a sentence when someone makes a statement and we want to reply that the same situation is true for us or somebody else.
 
-**Q:**  How do we make this kind of short reply Give me some examples “I can speak English” – “So can I”. “I won’t go there” – “Neither will I”.?
-**A:** We make this kind of short reply by using the words “so”, “neither”, or “nor“, and by putting the auxiliary verb before the subject. For example,
+**Q:** 23) How do we make this kind of short reply? Give me some examples.?
+**A:** We make this kind of short reply by using the words “so”, “neither”, or “nor“, and by putting the auxiliary verb before the subject. For example, “I can speak English” – “So can I”. “I won’t go there” – “Neither will I”.
 
-**Q:**  If there is no auxiliary verb which verb do we use Give me an example.?
+**Q:** 24) If there is no auxiliary verb, which verb do we use? Give me an example.?
 **A:** If there is no auxiliary verb, we use “do” in the short reply. For example, “He lives in this building” – “So does my sister”.
 
-**Q:**  What is a phrase Give me an example?
+**Q:** 25) What is a phrase? Give me an example.?
 **A:** A phrase is a collection of words that belong together in a sentence because, together, they form a particular part of the sentence. For example, “at high speed”.
 
-**Q:**  What do we mean by a preparatory 'it' Give me some examples For example, “It is very difficult to understand what he says“; “Was it usual for him to come here every Sunday?“; “It isn’t common to find that kind of bird in this part of the country“.?
-**A:** By a preparatory “it“ we mean that we use the word “it“ at the beginning of a sentence to prepare us for some information that comes later in the sentence.
+**Q:** 26) What do we mean by a preparatory 'it'? Give me some examples.?
+**A:** By a preparatory “it“ we mean that we use the word “it“ at the beginning of a sentence to prepare us for some information that comes later in the sentence. For example, “It is very difﬁcult to understand what he says“; “Was it usual for him to come here every Sunday?“; “It isn’t common to ﬁnd that kind of bird in this part of the country“.
 
-**Q:**  Why do we use the words 'so' and 'not' when replying to something that someone has just said someone has just said to avoid repeating the whole sentence.?
-**A:** We use the words “so“ and “not“ when replying to something that
+**Q:** 27) Why do we use the words 'so' and 'not' when replying to something that someone has just said?
+**A:** We use the words “so“ and “not“ when replying to something that someone has just said to avoid repeating the whole sentence.
 
-**Q:**  Give me some examples of this use of the word 'so'?
+**Q:** 28) Give me some examples of this use of the word 'so'.?
 **A:** “Is that right what James said?“ – “I’m afraid so“; “I hope so“; “I suppose so“; “I think so“.
 
-**Q:**  Give me some examples of the use of the word 'not'?
+**Q:** 29) Give me some examples of the use of the word 'not'.?
 **A:** “Is that right what James said?“ – “I’m afraid not“; “I hope not“; “I suppose not“.
 
-**Q:**  When do we use the word 'so' at the beginning of a sentence Give me an example.?
+**Q:** 30) When do we use the word 'so' at the beginning of a sentence? Give me an example.?
 **A:** We use the word “so“ at the beginning of a sentence when we already know something that someone has just told us. For example, someone says to us “Mr Jones has gone to Australia“ and, knowing this fact, we reply “So we’ve been told“.
 
-**Q:**  Why do we say 'I ate eggs for breakfast today' and not 'I have eaten eggs for breakfast today'?
-**A:** We say “I ate eggs for breakfast today“ because we are thinking about what happened at a specific past time – breakfast time. We are not thinking about now.
+**Q:** 31) Why do we say 'I ate eggs for breakfast today' and not 'I have eaten eggs for breakfast today'?
+**A:** We say “I ate eggs for breakfast today“ because we are thinking about what happened at a speciﬁc past time – breakfast time. We are not thinking about now.
 
-**Q:**  What are some common adverbs of frequency?
+**Q:** 32) What are some common adverbs of frequency?
 **A:** Some common adverbs of frequency are: “never”, “rarely”, “occasionally”, “sometimes”, “often”, “usually” and “always”.
 
-**Q:**  Where do these adverbs normally go Give me an example?
-**A:** These adverbs normally go after the first auxiliary verb. For example, “I have never been to Australia“ or “He will always love her“.
+**Q:** 33) Where do these adverbs normally go? Give me an example.?
+**A:** These adverbs normally go after the ﬁrst auxiliary verb. For example, “I have never been to Australia“ or “He will always love her“.
 
-**Q:**  If there is no auxiliary verb where do these adverbs normally go Give me an example.?
+**Q:** 34) If there is no auxiliary verb, where do these adverbs normally go? Give me an example.?
 **A:** If there is no auxiliary verb, these adverbs normally go directly before the verb. For example, “They rarely go to the theatre“ or “Steve usually drinks beer“.
 
-**Q:**  If the verb is negative where do these adverbs normally go Give me an example.?
+**Q:** 35) If the verb is negative, where do these adverbs normally go? Give me an example.?
 **A:** If the verb is negative, these adverbs normally go after the word “not”. For example, “He has not often spoken to us“ or “I haven’t always had long hair“.
 
-**Q:**  Where do adverbs such as 'evenȀ and 'alsoȀ usually go Give me some examples.?
+**Q:** 36) Where do adverbs such as 'evenȀ and 'alsoȀ usually go? Give me some examples.?
 **A:** Adverbs such as “even” and “also” usually go in the same position as adverbs of frequency. For example, “I have also been reading that book“ or “Sophie can speak several languages; she even speaks Chinese“.
 
-**Q:**  What do we do when we change a question from direct into indirect speech Give me an example question mark. For example, “I asked them what they wanted to drink“.?
-**A:** When we change a question from direct into indirect speech, we move the verb one step back into the past, we use “asked“ instead of “said”, and we do not use the question form or a
+**Q:** 37) What do we do when we change a question from direct into indirect speech? Give me an example.?
+**A:** When we change a question from direct into indirect speech, we move the verb one step back into the past, we use “asked“ instead of “said”, and we do not use the question form or a question mark. For example, “I asked them what they wanted to drink“.
 
-**Q:**  If the question does not contain a question word what do we use instead Give me an example?
+**Q:** 38) If the question does not contain a question word, what do we use instead? Give me an example.?
 **A:** If the question does not contain a question word, we use the word “if” or “whether” instead. For example, “He asked her if (or whether) she spoke English“.
 
-**Q:**  What do we do when we change an imperative from direct into indirect speech Give me an example imperative. For example, “The king commanded him to leave“.?
-**A:** When we change an imperative from direct into indirect speech, we use “told”, “commanded” or “ordered”, and we use the infinitive without “to” instead of the
+**Q:** 39) What do we do when we change an imperative from direct into indirect speech? Give me an example.?
+**A:** When we change an imperative from direct into indirect speech, we use “told”, “commanded” or “ordered”, and we use the inﬁnitive without “to” instead of the imperative. For example, “The king commanded him to leave“.
 
-**Q:**  With negative imperatives what do we do Give me an example?
-**A:** With negative imperatives, we put “not” before the infinitive. For example, “His mum told him not to get home late“.
+**Q:** 40) With negative imperatives, what do we do? Give me an example.?
+**A:** With negative imperatives, we put “not” before the inﬁnitive. For example, “His mum told him not to get home late“.
 
-**Q:**  What do we do when we change a request from direct into indirect speech Give me an example?
+**Q:** 41) What do we do when we change a request from direct into indirect speech? Give me an example.?
 **A:** When we change a request from direct into indirect speech, we use “asked”, and we can use the same constructions that we use for indirect questions or imperatives. For example, “We asked them if they could show us the way“ or “We asked them to show us the way“.
 
-**Q:**  Can we use future tenses in time clauses and conditional clauses?
+**Q:** 42) Can we use future tenses in time clauses and conditional clauses?
 **A:** No, we can’t use future tenses in time clauses and conditional clauses.
 
-**Q:**  What do we use instead Give me some examples?
+**Q:** 43) What do we use instead? Give me some examples.?
 **A:** We use present tenses instead. For example, “She is going to buy a house in the countryside when she retires“. “They will call me tomorrow if they have any problems“.
 
-**Q:**  What words can we use when we want to emphasize the person who does the action in a particular sentence?
+**Q:** 44) What words can we use when we want to emphasize the person who does the action in a particular sentence?
 **A:** When we want to emphasize the person who does the action in a particular sentence, we can use “myself”, “yourself”, “himself” etc.
 
-**Q:**  What do we call these words?
+**Q:** 45) What do we call these words?
 **A:** We call these words emphasizing pronouns.
 
-**Q:**  Give me three sentences containing emphasizing pronouns?
+**Q:** 46) Give me three sentences containing emphasizing pronouns.?
 **A:** “I remember it very clearly, because I gave him the money myself“. “People cannot usually repair laptops themselves; they have to take them to a computer repair centre“. “She always drove the car herself“.
 
-**Q:**  What's the difference between these two sentences 'I did the translation myself' and 'I did the translation by myself'?
+**Q:** 47) What's the difference between these two sentences: 'I did the translation myself' and 'I did the translation by myself'?
 **A:** The difference between these two sentences is that “I did the translation myself“ emphasizes the fact that I did the translation and not someone else, whereas “I did the translation by myself” means that I did the translation alone, without any help.
 
-**Q:**  What are the two types of relative clause?
-**A:** The two types of relative clause are defining clauses and non-defining clauses.
+**Q:** 48) What are the two types of relative clause?
+**A:** The two types of relative clause are deﬁning clauses and non-deﬁning clauses.
 
-**Q:**  What's the difference between defining clauses and nondefining clauses Give me an example of each clauses do not identify a person or thing, but simply give us extra information about them. For example, “The milk that she bought?
-**A:** The difference between defining clauses and non-defining clauses is that defining clauses identify (or define) which person or thing we are talking about, whereas non-defining this morning is in the fridge“ and “My new glasses, which I bought yesterday, are really expensive“.
+**Q:** 49) What's the difference between defining clauses and non-defining clauses? Give me an example of each.?
+**A:** The difference between deﬁning clauses and non-deﬁning clauses is that deﬁning clauses identify (or deﬁne) which person or thing we are talking about, whereas non-deﬁning clauses do not identify a person or thing, but simply give us extra information about them. For example, “The milk that she bought this morning is in the fridge“ and “My new glasses, which I bought yesterday, are really expensive“.
 
-**Q:**  How is a nondefining clause separated from the main part of the sentence?
-**A:** A non-defining clause is separated from the main part of the sentence by commas.
+**Q:** 50) How is a non-defining clause separated from the main part of the sentence?
+**A:** A non-deﬁning clause is separated from the main part of the sentence by commas.
 
-**Q:**  When can we use the relative pronoun 'thatȀ instead of 'whoȀ or?
+**Q:** 51) When can we use the relative pronoun 'thatȀ instead of 'whoȀ or?
 
-**Q:** 'whichȀ Give me an example?
-**A:** We can use the relative pronoun “that” instead of “who” or “which” in defining clauses; we cannot use “that” in non-defining clauses. For example, “The biscuits that I ate were very tasty“.
+**Q:** 'whichȀ? Give me an example.?
+**A:** We can use the relative pronoun “that” instead of “who” or “which” in deﬁning clauses; we cannot use “that” in non-deﬁning clauses. For example, “The biscuits that I ate were very tasty“.
 
-**Q:**  When do we add the letters 'es' to form the plural of a noun and the third person singular of a verb Give me an example of each ǹ both noun and verb For example, “One potato – two potatoes”; “I go – you go – he goes“.?
-**A:** We add the letters “es“ to form the plural of a noun and the third person singular of a verb when a word ends in one of the letters “o“, “s“, “x“, “z“, “ch“ or “sh“.
+**Q:** 52) When do we add the letters 'es' to form the plural of a noun and the third person singular of a verb? Give me an example of each ǹ both noun and verb.?
+**A:** We add the letters “es“ to form the plural of a noun and the third person singular of a verb when a word ends in one of the letters “o“, “s“, “x“, “z“, “ch“ or “sh“. For example, “One potato – two potatoes”; “I go – you go – he goes“.
 
-**Q:**  What happens when a noun or verb ends in a consonant plus 'yȀ?
+**Q:** 53) What happens when a noun or verb ends in a consonant plus 'yȀ?
 
-**Q:** Give me an example - both noun and verb?
+**Q:** Give me an exampleboth noun and verb.?
 **A:** When a noun or verb ends in a consonant plus “y”, the “y” is changed to “i” and then the letters “es” are added. For example, “one lady – two ladies”; “I cry – you cry – he cries”.
 
-**Q:**  How do we generally form the plural of a noun ending in 'f' or 'fe'?
+**Q:** 54) How do we generally form the plural of a noun ending in 'f' or 'fe'?
 
 **Q:** Give me an example?
 **A:** We generally form the plural of a noun ending in “f” or “fe” by changing the “f” or “fe” to “ves“. For example, “leaf – leaves”.
 
-**Q:**  What are three common exceptions to this rule?
+**Q:** 55) What are three common exceptions to this rule?
 **A:** Three common exceptions to this rule are “chefs“, “cliffs“, and “roofs“.
 
-**Q:**  When do we use the present simple to speak about a future action?
+**Q:** 56) When do we use the present simple to speak about a future action?
 
-**Q:** Give me an example?
-**A:** We use the present simple to speak about a future action when we are talking about timetables or schedules. For example, “My train leaves in fifteen minutes“.
+**Q:** Give me an example.?
+**A:** We use the present simple to speak about a future action when we are talking about timetables or schedules. For example, “My train leaves in ﬁfteen minutes“.
 
-**Q:**  When do we use the relative pronoun 'whatȀ Give me an example?
+**Q:** 57) When do we use the relative pronoun 'whatȀ? Give me an example.?
 **A:** We use the relative pronoun “what” when we don’t mention the thing that the relative clause describes. For example, “She told the waiter what she wanted”.
 
-**Q:**  When do some people prefer to use the relative pronoun 'whomȀ instead of 'whoȀ Give me an example For example, “The gentleman whom he informed was the manager”.?
-**A:** Some people prefer to use the relative pronoun “whom” instead of “who” with formal English, when the relative pronoun is not the subject of the verb that follows.
+**Q:** 58) When do some people prefer to use the relative pronoun 'whomȀ instead of 'whoȀ? Give me an example.?
+**A:** Some people prefer to use the relative pronoun “whom” instead of “who” with formal English, when the relative pronoun is not the subject of the verb that follows. For example, “The gentleman whom he informed was the manager”.
 
-**Q:**  When we have a preposition at the beginning of a relative clause can we follow the preposition with the word 'whoȀ Give me an example “We need to contact the customer from whom she took the payment”.?
-**A:** No, when we have a preposition at the beginning of a relative clause, we cannot follow the preposition with “who”; we must use “whom”. For example,
+**Q:** 59) When we have a preposition at the beginning of a relative clause, can we follow the preposition with the word 'whoȀ? Give me an example.?
+**A:** No, when we have a preposition at the beginning of a relative clause, we cannot follow the preposition with “who”; we must use “whom”. For example, “We need to contact the customer from whom she took the payment”.
 
-**Q:**  When do we use the word 'whoseȀ at the beginning of a relative clause Give me an example “The woman whose handbag was stolen is on her way to the police station”.?
-**A:** We use the word “whose” at the beginning of a relative clause instead of using a possessive adjective like “my”, “your”, “his” etc. For example,
+**Q:** 60) When do we use the word 'whoseȀ at the beginning of a relative clause? Give me an example.?
+**A:** We use the word “whose” at the beginning of a relative clause instead of using a possessive adjective like “my”, “your”, “his” etc. For example, “The woman whose handbag was stolen is on her way to the police station”.
 
-**Q:**  What's the difference between a transitive verb and an intransitive verb?
+**Q:** 61) What's the difference between a transitive verb and an intransitive verb?
 **A:** The difference between a transitive verb and an intransitive verb is that a transitive verb has an object, whereas an intransitive verb does not have an object.
 
-**Q:**  Give me some sentences containing transitive verbs?
+**Q:** 62) Give me some sentences containing transitive verbs.?
 **A:** The car hit the wall. The boy cut his thumb. They pushed the table. He opened the door.
 
-**Q:**  Give me some sentences containing intransitive verbs morning. People walk very quickly in winter. The door opened.?
-**A:** The sun rises at 6 o’clock. He gets up very early in the
+**Q:** 63) Give me some sentences containing intransitive verbs.?
+**A:** The sun rises at 6 o’clock. He gets up very early in the morning. People walk very quickly in winter. The door opened.
 
-**Q:**  Is the object of a transitive verb always stated Give me an example?
+**Q:** 64) Is the object of a transitive verb always stated? Give me an example.?
 **A:** No, the object of a transitive verb isn’t always stated. For example, “He ate quickly”.
 
-**Q:**  Name some English nouns that are never used in the plural?
+**Q:** 65) Name some English nouns that are never used in the plural.?
 **A:** Some English nouns that are never used in the plural are “advice“, “furniture“, “information“, “knowledge“, “progress“ and “news“.
 
-**Q:**  How can we sometimes communicate a plural idea with nouns like this Give me an example “items of“. For example, “She gave him two pieces of valuable advice”.?
-**A:** We can sometimes communicate a plural idea with nouns like this by using expressions such as “pieces of“ or
+**Q:** 66) How can we sometimes communicate a plural idea with nouns like this? Give me an example.?
+**A:** We can sometimes communicate a plural idea with nouns like this by using expressions such as “pieces of“ or “items of“. For example, “She gave him two pieces of valuable advice”.
 
-**Q:**  How can we sometimes form a feminine noun from a masculine noun Give me some examples?
+**Q:** 67) How can we sometimes form a feminine noun from a masculine noun? Give me some examples.?
 **A:** We can sometimes form a feminine noun from a masculine noun by adding the letters “ess“. For example, “actress“, “hostess“, “princess“.
 
-**Q:**  What do we do with nouns when we use them in the general sense?
+**Q:** 68) What do we do with nouns when we use them in the general sense?
 
-**Q:** Give me an example?
-**A:** When we use nouns in the general sense, we put them in the plural and we do not put an article in front of them. For example, “People go to cinemas to watch films”.
+**Q:** Give me an example.?
+**A:** When we use nouns in the general sense, we put them in the plural and we do not put an article in front of them. For example, “People go to cinemas to watch ﬁlms”.
 
-**Q:**  What do we do if a noun doesn't have a plural form?
+**Q:** 69) What do we do if a noun doesn't have a plural form?
 **A:** If a noun doesn’t have a plural form, we simply use it on its own, also without an article. For example, “Paper comes from wood”.
 
-**Q:**  What are the articles in English?
+**Q:** 70) What are the articles in English?
 **A:** The articles in English are “the“, “a“ and “an“.
 
-**Q:**  What do we call the word 'the'?
-**A:** We call the word “the“ the definite article.
+**Q:** 71) What do we call the word 'the'?
+**A:** We call the word “the“ the deﬁnite article.
 
-**Q:**  What do we call the words 'a' and 'an'?
-**A:** We call the words “a“ and “an“ the indefinite articles. between “a“ and “an“ is that we use “a“ before a word that starts with a consonant sound, whereas we use “an“ before a word that starts with a vowel sound.
+**Q:** 72) What do we call the words 'a' and 'an'?
+**A:** We call the words “a“ and “an“ the indeﬁnite articles.
 
-**Q:**  When do we use the indefinite articles 'a' and 'an' Give me some examples.?
-**A:** We use the indefinite articles “a” and “an” with singular countable nouns. For example, “a table”, “an address”.
+**Q:** 73) What's the difference between 'a' and 'an'?
+**A:** The difference between “a“ and “an“ is that we use “a“ before a word that starts with a consonant sound, whereas we use “an“ before a word that starts with a vowel sound.
 
-**Q:**  When do we use the word 'one' instead of the indefinite article?
-**A:** We use the word “one“ instead of the indefinite article when we want to emphasize the number.
+**Q:** 74) When do we use the indefinite articles 'a' and 'an'? Give me some examples.?
+**A:** We use the indeﬁnite articles “a” and “an” with singular countable nouns. For example, “a table”, “an address”.
 
-**Q:**  Give me a sentence with the word 'oneȀ?
+**Q:** 75) When do we use the word 'one' instead of the indefinite article?
+**A:** We use the word “one“ instead of the indeﬁnite article when we want to emphasize the number.
+
+**Q:** 76) Give me a sentence with the word 'oneȀ.?
 **A:** “I like one song on that CD but all the others are really boring”.
 
-**Q:**  What are two common uses of the structure 'to be' infinitive with?
+**Q:** 77) What are two common uses of the structure 'to be' + infinitive with?
 
-**Q:** 'to' Give me an example of each?
-**A:** Two common uses of the structure “to be“ + infinitive with “to“ are to communicate an arrangement or an obligation. For example, “The two countries are to begin new discussions on trade”. “You are to wait until I get back”.
+**Q:** 'to'? Give me an example of each.?
+**A:** Two common uses of the structure “to be“ + inﬁnitive with “to“ are to communicate an arrangement or an obligation. For example, “The two countries are to begin new discussions on trade”. “You are to wait until I get back”.
 
-**Q:**  When do we use 'could' as the past of 'can' Give me an example “My grandfather could run very fast when he was a young man”.?
-**A:** We use “could“ as the past of “can“ to speak about general abilities. For example,
+**Q:** 78) When do we use 'could' as the past of 'can'? Give me an example.?
+**A:** We use “could“ as the past of “can“ to speak about general abilities. For example, “My grandfather could run very fast when he was a young man”.
 
-**Q:**  When don't we use 'could' as the past of 'can'?
+**Q:** 79) When don't we use 'could' as the past of 'can'?
 **A:** We don’t use “could” as the past of “can” if we talk about a particular occasion when somebody managed to do something.
 
-**Q:**  What do we use instead Give me an example?
+**Q:** 80) What do we use instead? Give me an example.?
 **A:** We use “was able“, “managed“ or “succeeded“ instead. For example, “The woman gave the children some money, and so they were able to buy some sweets”.
 
-**Q:**  What happens when a sentence is negative Give me an example?
+**Q:** 81) What happens when a sentence is negative? Give me an example.?
 **A:** When a sentence is negative, we can use either “couldn’t“ or “wasn’t able“. For example, “The woman did not give the children any money, and so they could not buy any sweets”.
 
-**Q:**  How do we express the idea of past time with the modals 'should' BOEǿPVHIUUPǿ (JWFNFTPNFFYBNQMFT We express the idea of past to have gone to the police after the accident, but they didn’t“.?
-**A:** time with the modals “should“ and “ought to“ by following them with the word “have“ and a past participle. For example, “I should have told her, but I forgot“. “They ought
+**Q:** 82) How do we express the idea of past time with the modals 'should' and 'ought to'? Give me some examples.?
+**A:** We express the idea of past time with the modals “should“ and “ought to“ by following them with the word “have“ and a past participle. For example, “I should have told her, but I forgot“. “They ought to have gone to the police after the accident, but they didn’t“.
 
-**Q:**  How do we express a future idea with 'should' or 'ought to' Give me some examples.?
+**Q:** 83) How do we express a future idea with 'should' or 'ought to'? Give me some examples.?
 **A:** We express a future idea with “should” or “ought to” by using a word or phrase that expresses future time. For example, “She should do it as soon as possible”. “They ought to arrive next week”.
 
-**Q:**  Tell me one common way of making a request Give me an example?
+**Q:** 84) Tell me one common way of making a request. Give me an example.?
 **A:** One common way of making a request is to say “Can you …?“ or “Could you …?“ For example, “Could you possibly lend me your pen for a second, please?”
 
-**Q:**  Which is more polite 'can' or 'could'?
+**Q:** 85) Which is more polite: 'can' or 'could'?
 **A:** “Could“ is more polite than “can“.
 
-**Q:**  Tell me another common way of making a request Give me an example.?
+**Q:** 86) Tell me another common way of making a request. Give me an example.?
 **A:** Another common way of making a request is to say “Do you mind …?“ or “Would you mind …?“ For example, “Would you mind passing me that book, please?”
 
-**Q:**  Would you say 'Do you mind ȅ ' or 'Would you mind ȅ ' if you wanted to be especially polite?
+**Q:** 87) Would you say 'Do you mind ȅ?' or 'Would you mind ȅ?' if you wanted to be especially polite?
 **A:** I would say “Would you mind …?“ if I wanted to be especially polite.
 
-**Q:**  Give me an example of need as a modal verb in a question?
+**Q:** 88) Give me an example of need as a modal verb in a question.?
 **A:** “Need he come to work next Saturday?”
 
-**Q:**  Give me an example of need as a modal verb in a negative sentence?
+**Q:** 89) Give me an example of need as a modal verb in a negative sentence.?
 **A:** “She needn’t worry about the exam”.
 
-**Q:**  What does somebody mean if they say that they needn't have done something?
+**Q:** 90) What does somebody mean if they say that they needn't have done something?
 **A:** If somebody says that they needn’t have done something, it means that they did it, but it was, in fact, not necessary.
 
-**Q:**  Can the verb 'dareȀ be used as both an ordinary verb and a modal verb?
+**Q:** 91) Can the verb 'dareȀ be used as both an ordinary verb and a modal verb?
 **A:** Yes, the verb “dare” can be used as both an ordinary verb and a modal verb.
 
-**Q:**  What can we say instead of 'He doesn't dare to argue with his bossȀ?
+**Q:** 92) What can we say instead of 'He doesn't dare to argue with his bossȀ?
 **A:** Instead of saying “He doesn’t dare to argue with his boss”, we can say “He daren’t argue with his boss”.
 
-**Q:**  When we use a noun for the first time in a conversation do we use the article 'aȀ or 'theȀ Give me an example?
-**A:** When we use a noun for the first time in a conversation, we use the article “a”. For example, “My uncle has a dog and a cat”.
+**Q:** 93) When we use a noun for the first time in a conversation, do we use the article 'aȀ or 'theȀ? Give me an example.?
+**A:** When we use a noun for the ﬁrst time in a conversation, we use the article “a”. For example, “My uncle has a dog and a cat”.
 
-**Q:**  If we then refer to the same thing or person again do we normally use 'aȀ or 'theȀ Give me an example?
+**Q:** 94) If we then refer to the same thing or person again, do we normally use 'aȀ or 'theȀ? Give me an example.?
 **A:** If we then refer to the same thing or person again, we normally use “the”. For example, “My uncle has a cat and a dog. The cat is friendly but I’m afraid of the dog”.
 
-**Q:**  In which situation do we use the definite article 'the' when we use a noun for the first time Give me an example?
-**A:** We use the definite article “the” when we use a noun for the first time only when the speaker and thelistener both know who or what is being talked about. For example, “The book which is on the table is yours”.
+**Q:** 95) In which situation do we use the definite article 'the' when we use a noun for the first time? Give me an example.?
+**A:** We use the deﬁnite article “the” when we use a noun for the ﬁrst time only when the speaker and thelistener both know who or what is being talked about. For example, “The book which is on the table is yours”.
 
-**Q:**  Which of these sentences is correct 'She is a doctor' or 'She is doctor'?
+**Q:** 96) Which of these sentences is correct: 'She is a doctor' or 'She is doctor'?
 **A:** “She is a doctor“ is correct.
 
-**Q:**  What does it mean if we say we are used to something Give me an example.?
-**A:** If we say we are used to something, it means that it is not strange or uncomfortable for us anymore because we have experience of it. For example, “He’s lived on that busy street for many years, so he is used to the traffic noise”.
+**Q:** 97) What does it mean if we say we are used to something? Give me an example.?
+**A:** If we say we are used to something, it means that it is not strange or uncomfortable for us anymore because we have experience of it. For example, “He’s lived on that busy street for many years, so he is used to the trafﬁc noise”.
 
-**Q:**  Why do we put the gerund after the expression 'to be used to' Give me an example. “At first it was difficult, but now I’m used to getting up early”.?
-**A:** We put the gerund after the expression “to be used to” because the word “to“ is a preposition. For example,
+**Q:** 98) Why do we put the gerund after the expression 'to be used to'? Give me an example.?
+**A:** We put the gerund after the expression “to be used to” because the word “to“ is a preposition. For example, “At ﬁrst it was difﬁcult, but now I’m used to getting up early”.
 
-**Q:**  What is the most important use of the definite article 'theȀ Give me some examples. “Could you close the window, please?”; “The sky’s grey today”.?
-**A:** The most important use of the definite article “the” is when we are referring to something specific that is known to both the speaker and the listener. For example, “The DVDs I bought yesterday are great”;
+**Q:** 99) What is the most important use of the definite article 'theȀ? Give me some examples.?
+**A:** The most important use of the deﬁnite article “the” is when we are referring to something speciﬁc that is known to both the speaker and the listener. For example, “The DVDs I bought yesterday are great”; “Could you close the window, please?”; “The sky’s grey today”.
 
-**Q:**  How can we sometimes use the word 'the' to speak about things in general Give me an example?
+**Q:** 100) How can we sometimes use the word 'the' to speak about things in general? Give me an example.?
 **A:** We can sometimes use the word “the“ to speak about things in general when we are speaking about types of animals or types of things. For example, “The computer is a very useful thing”.
 
-**Q:**  When do we put the definite article 'the' in front of a name Give me an example.?
-**A:** We put the definite article “the“ in front of a name when it is the name of a river, sea, ocean or mountain chain. For example, The Nile, The Andes.
+**Q:** 101) When do we put the definite article 'the' in front of a name? Give me an example.?
+**A:** We put the deﬁnite article “the“ in front of a name when it is the name of a river, sea, ocean or mountain chain. For example, The Nile, The Andes.
 
-**Q:**  When do we put the word 'the' in front of the name of a country?
+**Q:** 102) When do we put the word 'the' in front of the name of a country?
 
-**Q:** Give me an example?
+**Q:** Give me an example.?
 **A:** We put the word “the“ in front of the name of a country only if the name is plural in form. For example, The Netherlands.
 
-**Q:**  Tell me the difference between these two sentences 'When she writes the letter she will drink a coffee' and 'When she has written the letter she will drink a coffee'?
-**A:** The difference between these two sentences is that “When she writes the letter, she will drink a coffee“ means that it is possible that the two actions will happen at the same time or one after the other, whereas “When she has written the letter, she will drink a coffee“ means that she will write first and then, after that, drink.
+**Q:** 103) Tell me the difference between these two sentences: 'When she writes the letter, she will drink a coffee' and 'When she has written the letter, she will drink a coffee'.?
+**A:** The difference between these two sentences is that “When she writes the letter, she will drink a coffee“ means that it is possible that the two actions will happen at the same time or one after the other, whereas “When she has written the letter, she will drink a coffee“ means that she will write ﬁrst and then, after that, drink.
 
-**Q:**  What does the verb 'wishȀ communicate different from the way they in fact are now, or were in the past.?
-**A:** The verb “wish” communicates the idea that we would like things to be
+**Q:** 104) What does the verb 'wishȀ communicate?
+**A:** The verb “wish” communicates the idea that we would like things to be different from the way they in fact are now, or were in the past.
 
-**Q:**  What must we remember about the tense of any verb that follows?
+**Q:** 105) What must we remember about the tense of any verb that follows?
 
-**Q:** 'wishȀ Give me an example Revision Exercise 49 (Lessons 102 – 103)?
+**Q:** 'wishȀ? Give me an example.?
 **A:** We must remember that the tense of any verb that follows “wish” is one step back into the past from the time that we are referring to. For example, “Maria wishes she spoke perfect English”.
 
-**Q:** o?
-**A:** If someone tells you that they would like some coffee, and you would also
+**Q:** 1?
+**A:** If someone tells you that they would like some coffee, and you would also like some coffee, what can you reply?
 
-**Q:** like some coffee, what can you reply?
+**Q:** 2?
+**A:** If someone tells you that they couldn’t sleep last night, and you couldn’t sleep either, what can you reply?
 
-**Q:** p?
-**A:** If someone tells you that they couldn’t sleep last night, and you couldn’t
+**Q:** 3?
+**A:** Although sweets aren’t good for the health, is it ok to have a bit of chocolate sometimes?
 
-**Q:** sleep either, what can you reply?
+**Q:** 4?
+**A:** What is a snag and give me an example?
 
-**Q:** q?
-**A:** Although sweets aren’t good for the health, is it ok to have a bit of chocolate
+**Q:** 5?
+**A:** Do you know which political party suffered defeat in the last elections in your country?
 
-**Q:** sometimes?
-**A:**  What is a snag and give me an example?  Do you know which political party suffered defeat in the last elections in your
+**Q:** 6?
+**A:** What can we say to the other passengers before opening the window of a train or a bus?
 
-**Q:** country?
+**Q:** 7?
+**A:** If a sign above a door says “Mind your head“, what does it mean?
 
-**Q:** t?
-**A:** What can we say to the other passengers before opening the window of a
+**Q:** 8?
+**A:** When parents have to go out together in the evening, who usually minds their baby?
 
-**Q:** train or a bus?
-**A:**  If a sign above a door says “Mind your head“, what does it mean?
-
-**Q:** v?
-**A:** When parents have to go out together in the evening, who usually minds
-
-**Q:** their baby?
-
-**Q:** w?
+**Q:** 9?
 **A:** What does the idiom “be into something” mean?
 
-**Q:** on?
-**A:** Is it common in your country for people to eat a cooked breakfast in the
+**Q:** 10?
+**A:** Is it common in your country for people to eat a cooked breakfast in the morning?
 
-**Q:** morning?
-
-**Q:** oo?
+**Q:** 11?
 **A:** Have you determined what you’re going to do for your next holidays?
 
-**Q:** op?
-**A:** For success in life generally, which do you think is more important than
+**Q:** 12?
+**A:** For success in life generally, which do you think is more important than anything else: the determination to succeed, luck, hard work, or intelligence?
 
-**Q:** anything else: the determination to succeed, luck, hard work, or intelligence?
+**Q:** 13?
+**A:** If someone stole a book from a shop and was caught doing so, what’d probably happen?
 
-**Q:** oq?
-**A:** If someone stole a book from a shop and was caught doing so, what’d
+**Q:** 14?
+**A:** What kind of activities interest you most of all?
 
-**Q:** probably happen?
+**Q:** 15?
+**A:** Supposing a group of foreign students came to stay with you for the weekend, what would you organize for them?
 
-**Q:** weekend, what would you organize for them?
-
-**Q:** ot?
+**Q:** 16?
 **A:** What do we mean if we say that someone has a gift for languages?
 
-**Q:** ov?
+**Q:** 17?
+**A:** How’s steam produced?
+
+**Q:** 18?
 **A:** About how many passengers does the average bus seat?
 
-**Q:** ow?
+**Q:** 19?
 **A:** Where’s the seat of government in this country?
 
-**Q:** pn?
+**Q:** 20?
 **A:** What does the idiom “get on somebody’s nerves” mean?
 
 **Q:** Answers?
 
-**Q:** P some coffee, I can reply “So would I“.?
-**A:** If someone tells me that they would like some coffee, and I would also like
+**Q:** 1?
+**A:** If someone tells me that they would like some coffee, and I would also like some coffee, I can reply “So would I“.
 
-**Q:** Q either, I can reply “Neither could I“ or “Nor could I“.?
-**A:** If someone tells me that they couldn’t sleep last night, and I couldn’t sleep
+**Q:** 2?
+**A:** If someone tells me that they couldn’t sleep last night, and I couldn’t sleep either, I can reply “Neither could I“ or “Nor could I“.
 
-**Q:** R chocolate sometimes.  one snag: my Wi-Fi isn’t working.  country ~ No, I don’t know which political party suffered defeat in the last elections in my country.?
-**A:** Yes, although sweets aren’t good for the health, it’s ok to have a bit of A snag is a small problem; e.g. I need to send him an email but there’s just Yes, I know which political party suffered defeat in the last elections in my
+**Q:** 3?
+**A:** Yes, although sweets aren’t good for the health, it’s ok to have a bit of chocolate sometimes.
 
-**Q:** U passengers “Excuse me, would you mind if I opened the window?“  and you must be careful not to hit your head on it.?
-**A:** Before opening the window of a train or a bus, we can say to the other If a sign above a door says “Mind your head“, it means that the door is low
+**Q:** 4?
+**A:** A snag is a small problem; e.g. I need to send him an email but there’s just one snag: my Wi-Fi isn’t working.
 
-**Q:** W minds their baby.?
-**A:** When parents have to go out together in the evening, a babysitter usually
+**Q:** 5?
+**A:** Yes, I know which political party suffered defeat in the last elections in my country ~ No, I don’t know which political party suffered defeat in the last elections in my country.
 
-**Q:** w?
+**Q:** 6?
+**A:** Before opening the window of a train or a bus, we can say to the other passengers “Excuse me, would you mind if I opened the window?“
+
+**Q:** 7?
+**A:** If a sign above a door says “Mind your head“, it means that the door is low and you must be careful not to hit your head on it.
+
+**Q:** 8?
+**A:** When parents have to go out together in the evening, a babysitter usually minds their baby.
+
+**Q:** 9?
 **A:** The idiom “be into something” means have a strong interest in something.
 
-**Q:** PO morning. ~ No, it isn’t common in my country for people to eat a cooked breakfast in the morning.?
-**A:** Yes, it’s common in my country for people to eat a cooked breakfast in the
+**Q:** 10?
+**A:** Yes, it’s common in my country for people to eat a cooked breakfast in the morning. ~ No, it isn’t common in my country for people to eat a cooked breakfast in the morning.
 
-**Q:** PP haven’t determined what I’m going to do for my next holidays.?
-**A:** Yes, I’ve determined what I’m going to do for my next holidays. ~ No, I
+**Q:** 11?
+**A:** Yes, I’ve determined what I’m going to do for my next holidays. ~ No, I haven’t determined what I’m going to do for my next holidays.
 
-**Q:** op?
+**Q:** 12?
 **A:** For success in life generally, I think … is more important than anything else.
 
-**Q:** PR the shop would probably call the police.?
-**A:** If someone stole a book from a shop and was caught doing so, the owner of
+**Q:** 13?
+**A:** If someone stole a book from a shop and was caught doing so, the owner of the shop would probably call the police.
 
-**Q:** PU naturally good at learning languages.?
-**A:** If we say that someone has a gift for languages, we mean that they are
+**Q:** 14?
+**A:** The kind of activities that interest me most of all are going out with friends, reading etc.
 
-**Q:** ov?
+**Q:** 15?
+**A:** Supposing a group of foreign students came to stay with me for the weekend, I’d organize ... for them.
+
+**Q:** 16?
+**A:** If we say that someone has a gift for languages, we mean that they are naturally good at learning languages.
+
+**Q:** 17?
+**A:** Steam is produced by boiling water.
+
+**Q:** 18?
 **A:** The average bus seats about ... passengers.
 
-**Q:** ow?
+**Q:** 19?
 **A:** The seat of government in this country is in ...
 
-**Q:** QO Revision Exercise 50 (Lessons 104 – 105)?
+**Q:** 20?
 **A:** The idiom “get on somebody’s nerves” means “irritate somebody”.
 
-**Q:** o?
-**A:** Why do we use the words “so“ and “not“ when replying to something that
+**Q:** 1?
+**A:** Why do we use the words “so“ and “not“ when replying to something that someone has just said?
 
-**Q:** someone has just said?
+**Q:** 2?
+**A:** What are the ﬁve senses?
 
-**Q:** p?
-**A:** What are the five senses?
+**Q:** 3?
+**A:** Do you prefer bright colours or dark colours?
 
-**Q:** R  ?
-**A:** Do you prefer bright colours or dark colours? Do you usually feel brighter in the evening than first thing in the morning? Do you spend a great deal of your time doing nothing?
+**Q:** 4?
+**A:** Do you usually feel brighter in the evening than ﬁrst thing in the morning?
 
-**Q:** U you think that the individual ought to be made to do the same things and?
-**A:** Do you think that the personal freedom of the individual is important, or do
+**Q:** 5?
+**A:** Do you spend a great deal of your time doing nothing?
 
-**Q:** live in the same way as other people?
-**A:**  What do we mean by a fierce animal?
+**Q:** 6?
+**A:** Do you think that the personal freedom of the individual is important, or do you think that the individual ought to be made to do the same things and live in the same way as other people?
 
-**Q:** v?
+**Q:** 7?
+**A:** What do we mean by a ﬁerce animal?
+
+**Q:** 8?
 **A:** What had we better do if we want to get high marks in an examination?
 
-**Q:** w?
-**A:** If you buy clothes and find out later that they don’t fit you properly, what
+**Q:** 9?
+**A:** If you buy clothes and ﬁnd out later that they don’t ﬁt you properly, what do you do?
 
-**Q:** do you do?
+**Q:** 10?
+**A:** Are you ﬁt to teach English?
 
-**Q:** on?
-**A:** Are you fit to teach English?
+**Q:** 11?
+**A:** How would you be able to identify yourself in the street if you were stopped by the police?
 
-**Q:** oo?
-**A:** How would you be able to identify yourself in the street if you were
-
-**Q:** stopped by the police?
-
-**Q:** op?
+**Q:** 12?
 **A:** On what occasions do all the members of a family gather together?
 
-**Q:** oq?
+**Q:** 13?
 **A:** What does it mean - “You can’t have your cake and eat it“?
 
-**Q:** ot?
-**A:** What’s the most common way to move liquid or gas from one place to
+**Q:** 14?
+**A:** What do you do when you want to relax?
 
-**Q:** another?
+**Q:** 15?
+**A:** If you could be in the audience at any concert, who would you like to see?
 
-**Q:** ov?
+**Q:** 16?
+**A:** What’s the most common way to move liquid or gas from one place to another?
+
+**Q:** 17?
+**A:** What’s the use of a chimney?
+
+**Q:** 18?
 **A:** What’s the difference between the present perfect and the past simple?
 
-**Q:** ow?
-**A:** Why do we say “I ate eggs for breakfast today“ and not “I have eaten eggs
+**Q:** 19?
+**A:** Why do we say “I ate eggs for breakfast today“ and not “I have eaten eggs for breakfast today“?
 
-**Q:** for breakfast today“?
-
-**Q:** pn?
-**A:** Which of these two sentences is correct: “John got up quite late today“ or
-
-**Q:** “John has got up quite late today“?
+**Q:** 20?
+**A:** Which of these two sentences is correct: “John got up quite late today“ or “John has got up quite late today“?
 
 **Q:** Answers?
 
-**Q:** P someone has just said to avoid repeating the whole sentence.?
-**A:** We use the words “so“ and “not“ when replying to something that
+**Q:** 1?
+**A:** We use the words “so“ and “not“ when replying to something that someone has just said to avoid repeating the whole sentence.
 
-**Q:** p?
-**A:** The five senses are sight, hearing, taste, touch and smell.
+**Q:** 2?
+**A:** The ﬁve senses are sight, hearing, taste, touch and smell.
 
-**Q:** R  ~ No, I don’t usually feel brighter in the evening than first thing in the morning; I usually feel more tired.  great deal of my time doing nothing.?
-**A:** I prefer ... colours. Yes, I usually feel brighter in the evening than first thing in the morning. Yes, I spend a great deal of my time doing nothing. ~ No, I don’t spend a
+**Q:** 3?
+**A:** I prefer ... colours.
 
-**Q:** U think that the personal freedom of the individual is important; I think that the individual ought to be made to do the same things and live in the same way as other people. ?
-**A:** I think that the personal freedom of the individual is important. ~ I don’t By a fierce animal we mean a dangerous and wild animal.
+**Q:** 4?
+**A:** Yes, I usually feel brighter in the evening than ﬁrst thing in the morning. ~ No, I don’t usually feel brighter in the evening than ﬁrst thing in the morning; I usually feel more tired.
 
-**Q:** v?
+**Q:** 5?
+**A:** Yes, I spend a great deal of my time doing nothing. ~ No, I don’t spend a great deal of my time doing nothing.
+
+**Q:** 6?
+**A:** I think that the personal freedom of the individual is important. ~ I don’t think that the personal freedom of the individual is important; I think that the individual ought to be made to do the same things and live in the same way as other people.
+
+**Q:** 7?
+**A:** By a ﬁerce animal we mean a dangerous and wild animal.
+
+**Q:** 8?
 **A:** We had better study hard if we want to get high marks in an examination.
 
-**Q:** X them back and try to change them.?
-**A:** If I buy clothes and find out later that they don’t fit me properly, I take
+**Q:** 9?
+**A:** If I buy clothes and ﬁnd out later that they don’t ﬁt me properly, I take them back and try to change them.
 
-**Q:** on?
-**A:** Maybe I’m fit to teach beginner level English.
+**Q:** 10?
+**A:** Maybe I’m ﬁt to teach beginner level English.
 
-**Q:** PP showing them my identity card, passport etc.?
-**A:** I’d be able to identify myself in the street if I were stopped by the police by
+**Q:** 11?
+**A:** I’d be able to identify myself in the street if I were stopped by the police by showing them my identity card, passport etc.
 
-**Q:** PQ weddings, birthday parties etc.?
-**A:** All the members of a family gather together on occasions such as
+**Q:** 12?
+**A:** All the members of a family gather together on occasions such as weddings, birthday parties etc.
 
-**Q:** oq?
-**A:** The meaning of “You can’t have your cake and eat it“ is that sometimes you
+**Q:** 13?
+**A:** The meaning of “You can’t have your cake and eat it“ is that sometimes you have to choose between having one thing or another thing, because you cannot have everything you want.
 
-**Q:** have to choose between having one thing or another thing, because you cannot have everything you want.?
+**Q:** 14?
+**A:** When I want to relax, I ...
 
-**Q:** PU through a pipe.?
-**A:** The most common way to move liquid or gas from one place to another is
+**Q:** 15?
+**A:** If I could be in the audience at any concert, I’d like to see …
 
-**Q:** PW use the present perfect when we are thinking about time before and up to now, whereas we use the past simple when we are thinking about a specific past time.?
-**A:** The difference between the present perfect and the past simple is that we
+**Q:** 16?
+**A:** The most common way to move liquid or gas from one place to another is through a pipe.
 
-**Q:** PX breakfast today“ because we are thinking about what happened at a specific past time - breakfast time. We are not thinking about now.?
-**A:** We say “I ate eggs for breakfast today“ and not “I have eaten eggs for
+**Q:** 17?
+**A:** The use of a chimney is to carry the smoke from a ﬁre out of a building and into the air.
 
-**Q:** QO Revision Exercise 51 (Lessons 106 – 107)?
+**Q:** 18?
+**A:** The difference between the present perfect and the past simple is that we use the present perfect when we are thinking about time before and up to now, whereas we use the past simple when we are thinking about a speciﬁc past time.
+
+**Q:** 19?
+**A:** We say “I ate eggs for breakfast today“ and not “I have eaten eggs for breakfast today“ because we are thinking about what happened at a speciﬁc past time - breakfast time. We are not thinking about now.
+
+**Q:** 20?
 **A:** Of those two sentences, “John got up quite late today“ is correct.
 
-**Q:** P questions“.?
-**A:** Put the word “usually” in this sentence, please: “She can answer his
+**Q:** 1?
+**A:** Put the word “usually” in this sentence, please: “She can answer his questions“.
 
-**Q:** p?
+**Q:** 2?
 **A:** Is oil used a lot in cooking in your country?
 
-**Q:** R ?
-**A:** Do you prefer the heat of the summer rather than the cold of the winter? When you lack sufficient money to buy something, do you wait and save
+**Q:** 3?
+**A:** Do you prefer the heat of the summer rather than the cold of the winter?
 
-**Q:** the money or do you buy it on credit?
-**A:**  Why do you think it is that some people just don’t get on well with their
+**Q:** 4?
+**A:** When you lack sufﬁcient money to buy something, do you wait and save the money or do you buy it on credit?
 
-**Q:** next-door neighbours?
+**Q:** 5?
+**A:** Why do you think it is that some people just don’t get on well with their next-door neighbours?
 
-**Q:** t?
-**A:** Do you think parents should teach their children about the importance of
+**Q:** 6?
+**A:** Do you think parents should teach their children about the importance of being honest?
 
-**Q:** being honest?
-**A:**  Do you have more of a taste for plain clothes or for colourful clothes?
+**Q:** 7?
+**A:** Do you have more of a taste for plain clothes or for colourful clothes?
 
-**Q:** v?
+**Q:** 8?
 **A:** What kind of work does a plain-clothes policeman do?
 
-**Q:** w?
-**A:** Do you think life is easier when people speak plainly to each other, that is,
+**Q:** 9?
+**A:** Do you think life is easier when people speak plainly to each other, that is, speak openly, directly, and honestly to each other?
 
-**Q:** speak openly, directly, and honestly to each other?
-
-**Q:** on?
+**Q:** 10?
 **A:** What do you do when you arrive at somebody’s house to pay a visit?
 
-**Q:** oo?
-**A:** If someone rang you while you were busy talking to another person, would
+**Q:** 11?
+**A:** If someone rang you while you were busy talking to another person, would you answer the call?
 
-**Q:** you answer the call?
+**Q:** 12?
+**A:** Have you ever rung someone up without realizing how late it was and accidentally woken them up?
 
-**Q:** op?
-**A:** Have you ever rung someone up without realizing how late it was and
+**Q:** 13?
+**A:** What do we do when we change a question from direct into indirect speech?
 
-**Q:** accidentally woken them up?
+**Q:** 14?
+**A:** What do we do when we change an imperative from direct into indirect speech?
 
-**Q:** oq?
-**A:** What do we do when we change a question from direct into indirect
+**Q:** 15?
+**A:** With negative imperatives, what do we do?
 
-**Q:** speech?
-
-**Q:** speech?
-
-**Q:** ot?
+**Q:** 16?
 **A:** What do we do when we change a request from direct into indirect speech?
 
-**Q:** and “home”?
+**Q:** 17?
+**A:** What, generally speaking, is the difference between the words “house” and “home”?
 
-**Q:** ov?
-**A:** Do you think it’s a good thing for boys and girls to leave home when they
+**Q:** 18?
+**A:** Do you think it’s a good thing for boys and girls to leave home when they are teenagers?
 
-**Q:** are teenagers?
-
-**Q:** ow?
+**Q:** 19?
 **A:** What’s the difference between housework and homework?
 
-**Q:** pn?
+**Q:** 20?
 **A:** What does the idiom “I couldn’t care less” mean?
 
 **Q:** Answers?
 
-**Q:** o?
+**Q:** 1?
 **A:** She can usually answer his questions.
 
-**Q:** Q cooking in my country.?
-**A:** Yes, oil’s used a lot in cooking in my country. ~ No, oil isn’t used a lot in
+**Q:** 2?
+**A:** Yes, oil’s used a lot in cooking in my country. ~ No, oil isn’t used a lot in cooking in my country.
 
-**Q:** R No, I don’t prefer the heat of the summer rather than the cold of the winter.  money/I buy it on credit.  door neighbours is that we can choose our friends, but cannot choose our neighbours.?
-**A:** Yes, I prefer the heat of the summer rather than the cold of the winter. ~ When I lack sufficient money to buy something, I wait and save the I think the reason that some people just don’t get on well with their next-
+**Q:** 3?
+**A:** Yes, I prefer the heat of the summer rather than the cold of the winter. ~ No, I don’t prefer the heat of the summer rather than the cold of the winter.
 
-**Q:** U being honest. ?
-**A:** Yes, I think parents should teach their children about the importance of I have more of a taste for plain/colourful clothes.
+**Q:** 4?
+**A:** When I lack sufﬁcient money to buy something, I wait and save the money/I buy it on credit.
 
-**Q:** W policeman in uniform could not do because he would be too noticeable.?
-**A:** A plain-clothes policeman does detective work, the kind of work a
+**Q:** 5?
+**A:** I think the reason that some people just don’t get on well with their next- door neighbours is that we can choose our friends, but cannot choose our neighbours.
 
-**Q:** X speak openly, directly, and honestly to each other. ~ No, I don’t think life?
-**A:** Yes, I think life is easier when people speak plainly to each other, that is,
+**Q:** 6?
+**A:** Yes, I think parents should teach their children about the importance of being honest.
 
-**Q:** is easier when people speak plainly to each other, that is, speak openly, directly, and honestly to each other.?
+**Q:** 7?
+**A:** I have more of a taste for plain/colourful clothes.
 
-**Q:** on?
+**Q:** 8?
+**A:** A plain-clothes policeman does detective work, the kind of work a policeman in uniform could not do because he would be too noticeable.
+
+**Q:** 9?
+**A:** Yes, I think life is easier when people speak plainly to each other, that is, speak openly, directly, and honestly to each other. ~ No, I don’t think life is easier when people speak plainly to each other, that is, speak openly, directly, and honestly to each other.
+
+**Q:** 10?
 **A:** When I arrive at somebody’s house to pay a visit, I ring the doorbell.
 
-**Q:** PP answer the call. ~ No, if someone rang me while I was busy talking to another person, I wouldn’t answer the call.?
-**A:** Yes, if someone rang me while I was busy talking to another person, I’d
+**Q:** 11?
+**A:** Yes, if someone rang me while I was busy talking to another person, I’d answer the call. ~ No, if someone rang me while I was busy talking to another person, I wouldn’t answer the call.
 
-**Q:** PQ accidentally woken them up. ~ No, I’ve never rung someone up without realizing how late it was and accidentally woken them up.?
-**A:** Yes, I’ve rung someone up without realizing how late it was and
+**Q:** 12?
+**A:** Yes, I’ve rung someone up without realizing how late it was and accidentally woken them up. ~ No, I’ve never rung someone up without realizing how late it was and accidentally woken them up.
 
-**Q:** PR verb one step back into the past, we use “asked“ instead of “said”, and we?
-**A:** When we change a question from direct into indirect speech, we move the
+**Q:** 13?
+**A:** When we change a question from direct into indirect speech, we move the verb one step back into the past, we use “asked“ instead of “said”, and we do not use the question form or a question mark.
 
-**Q:** do not use the question form or a question mark.?
+**Q:** 14?
+**A:** When we change an imperative from direct into indirect speech, we use “told”, “commanded” or “ordered”, and we use the inﬁnitive without “to” instead of the imperative.
 
-**Q:** PU “asked”, and we can use the same constructions that we use for indirect questions or imperatives.?
-**A:** When we change a request from direct into indirect speech, we use
+**Q:** 15?
+**A:** With negative imperatives, we put “not” before the inﬁnitive.
 
-**Q:** is that we use “house“ when we are thinking about a physical building, whereas we use “home“ in a more abstract sense to mean the place where we live or come from.?
+**Q:** 16?
+**A:** When we change a request from direct into indirect speech, we use “asked”, and we can use the same constructions that we use for indirect questions or imperatives.
 
-**Q:** PW teenagers. ~ No, I don’t think it’s a good thing for boys and girls to leave home when they are teenagers.?
-**A:** Yes, I think it’s a good thing for boys and girls to leave home when they are
+**Q:** 17?
+**A:** Generally speaking, the difference between the words “house” and “home” is that we use “house“ when we are thinking about a physical building, whereas we use “home“ in a more abstract sense to mean the place where we live or come from.
 
-**Q:** PX work we have to do in the house, such as the washing, cleaning, washing up etc., whereas homework is the work a pupil has to do at home.?
-**A:** The difference between housework and homework is that housework is the
+**Q:** 18?
+**A:** Yes, I think it’s a good thing for boys and girls to leave home when they are teenagers. ~ No, I don’t think it’s a good thing for boys and girls to leave home when they are teenagers.
 
-**Q:** QO me”. Revision Exercise 52 (Lessons 108 – 109)?
-**A:** The idiom “I couldn’t care less” means “it is of no interest or importance to
+**Q:** 19?
+**A:** The difference between housework and homework is that housework is the work we have to do in the house, such as the washing, cleaning, washing up etc., whereas homework is the work a pupil has to do at home.
 
-**Q:** o?
+**Q:** 20?
+**A:** The idiom “I couldn’t care less” means “it is of no interest or importance to me”.
+
+**Q:** 1?
 **A:** What’s the difference between “He hardly works“ and “He works hard“?
 
-**Q:** p?
-**A:** If you had a car accident but your car was hardly damaged, would you get it
+**Q:** 2?
+**A:** If you had a car accident but your car was hardly damaged, would you get it repaired or would you just leave it?
 
-**Q:** repaired or would you just leave it?
+**Q:** 3?
+**A:** What kind of jobs make great demands on one’s nerves?
 
-**Q:** R  ?
-**A:** What kind of jobs make great demands on one’s nerves? Do you think human life could continue if there was a nuclear war? What do we mean by a pair of earrings?
+**Q:** 4?
+**A:** Do you think human life could continue if there was a nuclear war?
 
-**Q:** U ?
-**A:** Can a bird fly with only one wing? Do you have any original paintings hanging up on the walls of your home?
+**Q:** 5?
+**A:** What do we mean by a pair of earrings?
 
-**Q:** v?
+**Q:** 6?
+**A:** Can a bird ﬂy with only one wing?
+
+**Q:** 7?
+**A:** Do you have any original paintings hanging up on the walls of your home?
+
+**Q:** 8?
 **A:** Can we use future verb forms in time clauses and conditional clauses?
 
-**Q:** w?
-**A:** What’s the difference between a “racehorse“, a “horse race“ and a
+**Q:** 9?
+**A:** What’s the difference between a “racehorse“, a “horse race“ and a “racecourse“?
 
-**Q:** “racecourse“?
-
-**Q:** on?
+**Q:** 10?
 **A:** Do you think the human race will always go on living?
 
-**Q:** oo?
-**A:** Do you agree it’s dangerous for a young child to cross the road unless they
+**Q:** 11?
+**A:** Do you agree it’s dangerous for a young child to cross the road unless they have an adult with them?
 
-**Q:** have an adult with them?
+**Q:** 12?
+**A:** If you were walking across a park and a ball rolled your way, would you kick it back to its owner or would you pick it up and throw it back?
 
-**Q:** op?
-**A:** If you were walking across a park and a ball rolled your way, would you kick
-
-**Q:** it back to its owner or would you pick it up and throw it back?
-
-**Q:** oq?
+**Q:** 13?
 **A:** What’s the difference between a teacup and a cup of tea?
 
-**Q:** deal in food?
+**Q:** 14?
+**A:** In the animal world, which is usually more colourful: the male or the female?
 
-**Q:** ot?
+**Q:** 15?
+**A:** Which would you say was more proﬁtable in business: to deal in cars or to deal in food?
+
+**Q:** 16?
 **A:** What do we mean when we say we make a deal with someone?
 
-**Q:** run a small coffee shop?
+**Q:** 17?
+**A:** Do you think you could run a large factory, or don’t you think you could even run a small coffee shop?
 
-**Q:** ov?
-**A:** What words can we use when we want to emphasize the person who does
+**Q:** 18?
+**A:** What words can we use when we want to emphasize the person who does the action in a particular sentence?
 
-**Q:** the action in a particular sentence?
-
-**Q:** ow?
+**Q:** 19?
 **A:** Does someone else usually make breakfast for you or do you make it yourself?
 
-**Q:** pn?
-**A:** What’s the difference between these two sentences: “He painted the house
-
-**Q:** himself” and “He painted the house by himself”?
+**Q:** 20?
+**A:** What’s the difference between these two sentences: “He painted the house himself” and “He painted the house by himself”?
 
 **Q:** Answers?
 
-**Q:** P hardly works“ means that he does almost no work, whereas “He works hard“ means that he works a lot.?
-**A:** The difference between “He hardly works“ and “He works hard“ is that “He
+**Q:** 1?
+**A:** The difference between “He hardly works“ and “He works hard“ is that “He hardly works“ means that he does almost no work, whereas “He works hard“ means that he works a lot.
 
-**Q:** Q just leave it.?
-**A:** If I had a car accident but my car was hardly damaged, I’d get it repaired/
+**Q:** 2?
+**A:** If I had a car accident but my car was hardly damaged, I’d get it repaired/ just leave it.
 
-**Q:** R bus driver, teacher, and any kind of job where one has to work with the public.  don’t think human life could continue if there was a nuclear war. ?
-**A:** The kind of jobs that make great demands on one’s nerves are police officer, Yes, I think human life could continue if there was a nuclear war. ~ No, I By a pair of earrings, we mean two earrings that are the same.
+**Q:** 3?
+**A:** The kind of jobs that make great demands on one’s nerves are police ofﬁcer, bus driver, teacher, and any kind of job where one has to work with the public.
 
-**Q:** U  No, I don’t have any original paintings hanging up on the walls of my home.?
-**A:** No, a bird can’t fly with only one wing; it must have a pair of wings. Yes, I have some original paintings hanging up on the walls of my home. ~
+**Q:** 4?
+**A:** Yes, I think human life could continue if there was a nuclear war. ~ No, I don’t think human life could continue if there was a nuclear war.
 
-**Q:** v?
+**Q:** 5?
+**A:** By a pair of earrings, we mean two earrings that are the same.
+
+**Q:** 6?
+**A:** No, a bird can’t ﬂy with only one wing; it must have a pair of wings.
+
+**Q:** 7?
+**A:** Yes, I have some original paintings hanging up on the walls of my home. ~ No, I don’t have any original paintings hanging up on the walls of my home.
+
+**Q:** 8?
 **A:** No, we can’t use future verb forms in time clauses and conditional clauses.
 
-**Q:** w?
-**A:** The difference between a “racehorse“, a “horse race“ and a “racecourse“
+**Q:** 9?
+**A:** The difference between a “racehorse“, a “horse race“ and a “racecourse“ is that a “racehorse“ is a horse we use for racing, a “horse race” is a race between horses, and a “racecourse” is a place where people meet in order to race horses.
 
-**Q:** is that a “racehorse“ is a horse we use for racing, a “horse race” is a race between horses, and a “racecourse” is a place where people meet in order to race horses.?
+**Q:** 10?
+**A:** Yes, I think the human race will always go on living. ~ No, I don’t think the human race will always go on living.
 
-**Q:** PO human race will always go on living.?
-**A:** Yes, I think the human race will always go on living. ~ No, I don’t think the
+**Q:** 11?
+**A:** Yes, I agree it’s dangerous for a young child to cross the road unless they have an adult with them.
 
-**Q:** oo?
-**A:** Yes, I agree it’s dangerous for a young child to cross the road unless they
+**Q:** 12?
+**A:** If I were walking across a park and a ball rolled my way, I’d kick it back to its owner/pick it up and throw it back.
 
-**Q:** have an adult with them.?
+**Q:** 13?
+**A:** The difference between a teacup and a cup of tea is that a teacup is a cup for tea, whereas a cup of tea is a cup with tea in it.
 
-**Q:** PQ owner/pick it up and throw it back.?
-**A:** If I were walking across a park and a ball rolled my way, I’d kick it back to its
+**Q:** 14?
+**A:** In the animal world, the male is usually more colourful than the female.
 
-**Q:** PR tea, whereas a cup of tea is a cup with tea in it.?
-**A:** The difference between a teacup and a cup of tea is that a teacup is a cup for
+**Q:** 15?
+**A:** I’d say that it was more proﬁtable in business to deal in cars/to deal in food.
 
-**Q:** PU someone something in return for something they will give us, or to do something for someone in return for something they will do for us.?
-**A:** When we say we make a deal with someone we mean we agree to give
+**Q:** 16?
+**A:** When we say we make a deal with someone we mean we agree to give someone something in return for something they will give us, or to do something for someone in return for something they will do for us.
 
-**Q:** PW sentence, we can use “myself”, “yourself”, “himself” etc.?
-**A:** When we want to emphasize the person who does the action in a particular
+**Q:** 17?
+**A:** I think I could run a large factory. ~ I don’t think I could run a large factory or even run a small coffee shop.
 
-**Q:** PX myself.?
-**A:** Someone else usually makes breakfast for me. ~ I usually make breakfast
+**Q:** 18?
+**A:** When we want to emphasize the person who does the action in a particular sentence, we can use “myself”, “yourself”, “himself” etc.
 
-**Q:** QO emphasizes the fact that “he“ painted the house not someone else, whereas the second sentence means he painted the house alone, without any help. Revision Exercise 53 (Lessons 110 – 111)?
-**A:** The difference between these two sentences is that the first sentence
+**Q:** 19?
+**A:** Someone else usually makes breakfast for me. ~ I usually make breakfast myself.
 
-**Q:** o?
-**A:** Are there any mountains in your country where snow settles on the top even
+**Q:** 20?
+**A:** The difference between these two sentences is that the ﬁrst sentence emphasizes the fact that “he“ painted the house not someone else, whereas the second sentence means he painted the house alone, without any help.
 
-**Q:** in the middle of summer?
+**Q:** 1?
+**A:** Are there any mountains in your country where snow settles on the top even in the middle of summer?
 
-**Q:** p?
-**A:** Would you find it difficult to settle in a foreign country forever?
+**Q:** 2?
+**A:** Would you ﬁnd it difﬁcult to settle in a foreign country forever?
 
-**Q:** R  ?
-**A:** What does a teacher say to pupils when they are making too much noise? Would you say that success in life was partly a question of luck? Is it often difficult for parents to get their children to tidy their rooms?
+**Q:** 3?
+**A:** What does a teacher say to pupils when they are making too much noise?
 
-**Q:** U ?
-**A:** Would you be afraid to act on the stage? At what stage of your English studies are you at the moment: beginner,
+**Q:** 4?
+**A:** Would you say that success in life was partly a question of luck?
 
-**Q:** intermediate or advanced?
+**Q:** 5?
+**A:** Is it often difﬁcult for parents to get their children to tidy their rooms?
 
-**Q:** v?
+**Q:** 6?
+**A:** Would you be afraid to act on the stage?
+
+**Q:** 7?
+**A:** At what stage of your English studies are you at the moment: beginner, intermediate or advanced?
+
+**Q:** 8?
 **A:** If you followed a river upstream, where would it eventually lead you to?
 
-**Q:** w?
-**A:** If you saw a stream of people streaming out of a building in a hurry, what’d
+**Q:** 9?
+**A:** If you saw a stream of people streaming out of a building in a hurry, what’d you think?
 
-**Q:** you think?
+**Q:** 10?
+**A:** How is a non-deﬁning clause separated from the main part of the sentence?
 
-**Q:** on?
-**A:** How is a non-defining clause separated from the main part of the sentence?
-
-**Q:** oo?
+**Q:** 11?
 **A:** What happens to the branch of a tree when it waves too much in the wind?
 
-**Q:** op?
+**Q:** 12?
 **A:** What do you recommend that people do in order to succeed in life?
 
-**Q:** oq?
+**Q:** 13?
 **A:** What, generally speaking, is the difference between an injury and a wound?
 
-**Q:** ought to be voluntary?
+**Q:** 14?
+**A:** Do you think children ought to be made to study, or do you think studying ought to be voluntary?
 
-**Q:** a formal letter or email?
+**Q:** 15?
+**A:** If we don’t know the name of the person we’re writing to, how do we begin a formal letter or email?
 
-**Q:** ot?
+**Q:** 16?
 **A:** How do we generally end such a letter or email?
 
-**Q:** get a refund?
+**Q:** 17?
+**A:** If you order goods online but they don’t arrive, can you cancel the order and get a refund?
 
-**Q:** ov?
+**Q:** 18?
 **A:** Why do people go on strike?
 
-**Q:** ow?
+**Q:** 19?
 **A:** What does a manager do?
 
-**Q:** pn?
+**Q:** 20?
 **A:** Which do you think it’s better to possess: brains, beauty or money?
 
 **Q:** Answers?
 
-**Q:** P top even in the middle of summer. ~ No, there aren’t any mountains in my country where snow settles on the top even in the middle of summer.?
-**A:** Yes, there are some mountains in my country where snow settles on the
+**Q:** 1?
+**A:** Yes, there are some mountains in my country where snow settles on the top even in the middle of summer. ~ No, there aren’t any mountains in my country where snow settles on the top even in the middle of summer.
 
-**Q:** Q find it difficult to settle in a foreign country forever.?
-**A:** Yes, I’d find it difficult to settle in a foreign country forever. ~ No, I wouldn’t
+**Q:** 2?
+**A:** Yes, I’d ﬁnd it difﬁcult to settle in a foreign country forever. ~ No, I wouldn’t ﬁnd it difﬁcult to settle in a foreign country forever.
 
-**Q:** R too much noise. ?
-**A:** A teacher says “Come on now, settle down“ to pupils when they are making Yes, I’d say that success in life was partly a question of luck. ~ No, I wouldn’t
+**Q:** 3?
+**A:** A teacher says “Come on now, settle down“ to pupils when they are making too much noise.
 
-**Q:** say that success in life was partly a question of luck. ?
-**A:** Yes, it’s often difficult for parents to get their children to tidy their rooms.
+**Q:** 4?
+**A:** Yes, I’d say that success in life was partly a question of luck. ~ No, I wouldn’t say that success in life was partly a question of luck.
 
-**Q:** U stage. ?
-**A:** Yes, I’d be afraid to act on the stage. ~ No, I wouldn’t be afraid to act on the I’m at an intermediate stage of my English studies at the moment.
+**Q:** 5?
+**A:** Yes, it’s often difﬁcult for parents to get their children to tidy their rooms.
 
-**Q:** W or hills.?
-**A:** If you followed a river upstream, it’d eventually lead you to the mountains
+**Q:** 6?
+**A:** Yes, I’d be afraid to act on the stage. ~ No, I wouldn’t be afraid to act on the stage.
 
-**Q:** X that either the building was on fire or that the people had just finished work.?
-**A:** If I saw a stream of people streaming out of a building in a hurry, I’d think
+**Q:** 7?
+**A:** I’m at an intermediate stage of my English studies at the moment.
 
-**Q:** PO commas.?
-**A:** A non-defining clause is separated from the main part of the sentence by
+**Q:** 8?
+**A:** If you followed a river upstream, it’d eventually lead you to the mountains or hills.
 
-**Q:** PP to the ground.?
-**A:** When the branch of a tree waves too much in the wind, it breaks and falls
+**Q:** 9?
+**A:** If I saw a stream of people streaming out of a building in a hurry, I’d think that either the building was on ﬁre or that the people had just ﬁnished work.
 
-**Q:** op?
+**Q:** 10?
+**A:** A non-deﬁning clause is separated from the main part of the sentence by commas.
+
+**Q:** 11?
+**A:** When the branch of a tree waves too much in the wind, it breaks and falls to the ground.
+
+**Q:** 12?
 **A:** I recommend that people ... in order to succeed in life.
 
-**Q:** PR we use we use the word “injury“ for something we receive by accident and “wound“ for something we receive from fighting.?
-**A:** Generally speaking, the difference between an injury and a wound is that
+**Q:** 13?
+**A:** Generally speaking, the difference between an injury and a wound is that we use we use the word “injury“ for something we receive by accident and “wound“ for something we receive from ﬁghting.
 
-**Q:** PU “Kind regards” or “Best regards”.?
-**A:** We generally end such a letter or email with the words “Yours faithfully” or
+**Q:** 14?
+**A:** I think children ought to be made to study. ~ I don’t think children ought to be made to study; I think studying ought to be voluntary.
 
-**Q:** PW conditions.?
-**A:** People go on strike because they want more money or better working
+**Q:** 15?
+**A:** If we don’t know the name of the person we’re writing to, we begin a formal letter or email with the words “Dear Sir” or “Dear Madam”.
 
-**Q:** PX important decisions about how the business operates.?
-**A:** A manager manages a business, or part of a business; that is, he makes
+**Q:** 16?
+**A:** We generally end such a letter or email with the words “Yours faithfully” or “Kind regards” or “Best regards”.
 
-**Q:** QO Revision Exercise 54 (Lessons 112 – 113)?
+**Q:** 17?
+**A:** Yes, if I order goods online but they don’t arrive, I can cancel the order and get a refund.
+
+**Q:** 18?
+**A:** People go on strike because they want more money or better working conditions.
+
+**Q:** 19?
+**A:** A manager manages a business, or part of a business; that is, he makes important decisions about how the business operates.
+
+**Q:** 20?
 **A:** I think it’s better to possess brains/beauty/money.
 
-**Q:** o?
+**Q:** 1?
 **A:** When children play together, do they often pretend to be adults?
 
-**Q:** p?
-**A:** If you write the address on an envelope but leave out the postcode, will the
+**Q:** 2?
+**A:** If you write the address on an envelope but leave out the postcode, will the letter still arrive?
 
-**Q:** letter still arrive?
+**Q:** 3?
+**A:** Would you ﬁnd it difﬁcult to behave naturally if you met someone really famous?
 
-**Q:** q?
-**A:** Would you find it difficult to behave naturally if you met someone really
+**Q:** 4?
+**A:** If you thought one of your workmates was stealing money from the company you worked for, what would you do?
 
-**Q:** famous?
-**A:**  If you thought one of your workmates was stealing money from the company
+**Q:** 5?
+**A:** What kind of things do you look forward to most?
 
-**Q:** you worked for, what would you do?
-**A:**  What kind of things do you look forward to most?
+**Q:** 6?
+**A:** If you were the owner of a business and one of your workers stole something from the business, would you give them a second chance, or would you dismiss them at once?
 
-**Q:** U from the business, would you give them a second chance, or would you?
-**A:** If you were the owner of a business and one of your workers stole something
+**Q:** 7?
+**A:** Many years ago, did humans have to hunt animals for food?
 
-**Q:** dismiss them at once?
-**A:**  Many years ago, did humans have to hunt animals for food?
-
-**Q:** v?
+**Q:** 8?
 **A:** What do we use a pair of scissors for?
 
-**Q:** w?
+**Q:** 9?
 **A:** What does the idiom “let yourself go” mean?
 
-**Q:** on?
-**A:** If you were in a bus going downhill and the driver suddenly lost control of
+**Q:** 10?
+**A:** If you were in a bus going downhill and the driver suddenly lost control of the bus, what’d you do?
 
-**Q:** the bus, what’d you do?
-
-**Q:** oo?
+**Q:** 11?
 **A:** Why don’t trains always arrive when they are due?
 
-**Q:** op?
-**A:** If a friend of yours is wearing clothes that look totally wrong on them, do
+**Q:** 12?
+**A:** If a friend of yours is wearing clothes that look totally wrong on them, do you tell them?
 
-**Q:** you tell them?
-
-**Q:** oq?
+**Q:** 13?
 **A:** Why do housemates sometimes argue with one another?
 
-**Q:** ot?
+**Q:** 14?
+**A:** Can a dentist do anything about irregular teeth?
+
+**Q:** 15?
+**A:** What’s the difference between “dust“ and “powder“?
+
+**Q:** 16?
 **A:** What do you consider to be a good cause worth collecting money for?
 
-**Q:** immediately, would you wait, leave a message or call back later?
+**Q:** 17?
+**A:** If you rang somebody up when they were at work but they weren’t available immediately, would you wait, leave a message or call back later?
 
-**Q:** ov?
-**A:** What artificial parts of the body can science provide us with?
+**Q:** 18?
+**A:** What artiﬁcial parts of the body can science provide us with?
 
-**Q:** ow?
+**Q:** 19?
 **A:** What does the idiom “pull someone’s leg” mean?
 
-**Q:** pn?
+**Q:** 20?
 **A:** What do we mean by the “rush hour” in a large city?
 
 **Q:** Answers?
 
-**Q:** o?
+**Q:** 1?
 **A:** Yes, when children play together, they often pretend to be adults.
 
-**Q:** Q letter will still arrive, but it may take longer.?
-**A:** Yes, if you write the address on an envelope but leave out the postcode, the
+**Q:** 2?
+**A:** Yes, if you write the address on an envelope but leave out the postcode, the letter will still arrive, but it may take longer.
 
-**Q:** R ~ No, I wouldn’t find it difficult to behave naturally if I met someone really famous. ?
-**A:** Yes, I’d find it difficult to behave naturally if I met someone really famous. If I thought one of my workmates was stealing money from the company I
+**Q:** 3?
+**A:** Yes, I’d ﬁnd it difﬁcult to behave naturally if I met someone really famous. ~ No, I wouldn’t ﬁnd it difﬁcult to behave naturally if I met someone really famous.
 
-**Q:** U from the business, I’d give them a second chance/dismiss them at once. ?
-**A:** If I were the owner of a business and one of my workers stole something Yes, many years ago, humans had to hunt animals for food.
+**Q:** 4?
+**A:** If I thought one of my workmates was stealing money from the company I worked for, I’d …
 
-**Q:** v?
+**Q:** 5?
+**A:** The kind of things I look forward to most are …
+
+**Q:** 6?
+**A:** If I were the owner of a business and one of my workers stole something from the business, I’d give them a second chance/dismiss them at once.
+
+**Q:** 7?
+**A:** Yes, many years ago, humans had to hunt animals for food.
+
+**Q:** 8?
 **A:** We use a pair of scissors for cutting paper etc.
 
-**Q:** w?
+**Q:** 9?
 **A:** The idiom “let yourself go” means “relax and enjoy yourself”.
 
-**Q:** PO bus, I’d try to take control of the bus etc.?
-**A:** If I were in a bus going downhill and the driver suddenly lost control of the
+**Q:** 10?
+**A:** If I were in a bus going downhill and the driver suddenly lost control of the bus, I’d try to take control of the bus etc.
 
-**Q:** PP breakdowns etc.?
-**A:** Trains don’t always arrive when they are due because of bad weather,
+**Q:** 11?
+**A:** Trains don’t always arrive when they are due because of bad weather, breakdowns etc.
 
-**Q:** PQ tell them. ~ No, if a friend of mine is wearing clothes that look totally wrong on them, I don’t tell them.?
-**A:** Yes, if a friend of mine is wearing clothes that look totally wrong on them, I
+**Q:** 12?
+**A:** Yes, if a friend of mine is wearing clothes that look totally wrong on them, I tell them. ~ No, if a friend of mine is wearing clothes that look totally wrong on them, I don’t tell them.
 
-**Q:** oq?
+**Q:** 13?
 **A:** Housemates sometimes argue with one another because …
 
-**Q:** ot?
+**Q:** 14?
+**A:** Yes, a dentist can do something about irregular teeth.
+
+**Q:** 15?
+**A:** The difference between dust and powder is that “dust“ is natural and collects on objects, whereas “powder“ is something that is made.
+
+**Q:** 16?
 **A:** I consider … to be a good cause worth collecting money for.
 
-**Q:** ov?
-**A:** Science can provide us with artificial arms, legs, teeth, hair etc.
+**Q:** 17?
+**A:** If I rang somebody up when they were at work but they weren’t available immediately, I’d wait/leave a message/call back later.
 
-**Q:** PX believe something that is not true”.?
-**A:** The idiom “pull someone’s leg” means “joke with someone, by making them
+**Q:** 18?
+**A:** Science can provide us with artiﬁcial arms, legs, teeth, hair etc.
 
-**Q:** QO to work or home from work. Revision Exercise 55 (Lessons 114 – 115)?
-**A:** By the “rush hour” in a large city, we mean the time when everyone rushes
+**Q:** 19?
+**A:** The idiom “pull someone’s leg” means “joke with someone, by making them believe something that is not true”.
 
-**Q:** o?
+**Q:** 20?
+**A:** By the “rush hour” in a large city, we mean the time when everyone rushes to work or home from work.
+
+**Q:** 1?
 **A:** What’s the difference between a dish and a plate?
 
-**Q:** p?
-**A:** Are you for or against the police carrying arms when they’re walking around
+**Q:** 2?
+**A:** Are you for or against the police carrying arms when they’re walking around the streets on duty?
 
-**Q:** the streets on duty?
+**Q:** 3?
+**A:** What do members of the general public do when they see a criminal seize a woman’s handbag in the street?
 
-**Q:** q?
-**A:** What do members of the general public do when they see a criminal seize a
+**Q:** 4?
+**A:** What’s the difference between “wage“ and “salary“?
 
-**Q:** woman’s handbag in the street?
-**A:**  What’s the difference between “wage“ and “salary“?  What kind of people don’t earn a steady wage or salary?
+**Q:** 5?
+**A:** What kind of people don’t earn a steady wage or salary?
 
-**Q:** U ?
-**A:** How do we generally form the plural of a noun ending in “f“ or “fe“? Where do deer prefer to live: in woods or open fields?
+**Q:** 6?
+**A:** How do we generally form the plural of a noun ending in “f“ or “fe“?
 
-**Q:** v?
-**A:** What kind of things do people often mention when they’re telling you about
+**Q:** 7?
+**A:** Where do deer prefer to live: in woods or open ﬁelds?
 
-**Q:** a holiday they’ve just been on?
+**Q:** 8?
+**A:** What kind of things do people often mention when they’re telling you about a holiday they’ve just been on?
 
-**Q:** w?
-**A:** If a friend buys you a drink in a bar, do you normally insist on giving them the
+**Q:** 9?
+**A:** If a friend buys you a drink in a bar, do you normally insist on giving them the money or do you just buy them a drink the next time?
 
-**Q:** money or do you just buy them a drink the next time?
+**Q:** 10?
+**A:** If you stayed at a hotel on holiday, would you choose “full board“, “half board“ or “bed and breakfast“?
 
-**Q:** on?
-**A:** If you stayed at a hotel on holiday, would you choose “full board“, “half
-
-**Q:** board“ or “bed and breakfast“?
-
-**Q:** oo?
+**Q:** 11?
 **A:** Do you know when your local football team play their next game?
 
-**Q:** op?
+**Q:** 12?
 **A:** Do you keep an account of all the money you spend?
 
-**Q:** oq?
-**A:** What sometimes happens if two people differ greatly in their opinions on a
+**Q:** 13?
+**A:** What sometimes happens if two people differ greatly in their opinions on a particular subject?
 
-**Q:** particular subject?
+**Q:** 14?
+**A:** Have you ever had private English lessons?
 
-**Q:** birthday?
+**Q:** 15?
+**A:** When you were a child, did you always like what you were given for your birthday?
 
-**Q:** ot?
-**A:** When do some people prefer to use the relative pronoun “whom” instead
+**Q:** 16?
+**A:** When do some people prefer to use the relative pronoun “whom” instead of “who“?
 
-**Q:** of “who“?
+**Q:** 17?
+**A:** In normal spoken English, what do we say instead of “We need to contact the customer from whom she took the payment”?
 
-**Q:** the customer from whom she took the payment”?
-
-**Q:** ov?
+**Q:** 18?
 **A:** Do you know the people whose house is next to yours?
 
-**Q:** ow?
+**Q:** 19?
 **A:** Have you ever been searched at an airport?
 
-**Q:** pn?
+**Q:** 20?
 **A:** Do you support any particular football team?
 
 **Q:** Answers?
 
-**Q:** P dish is deeper. We usually eat food from a plate, whereas we serve food from a dish.?
-**A:** The difference between a dish and a plate is that a plate is flat, whereas a
+**Q:** 1?
+**A:** The difference between a dish and a plate is that a plate is ﬂat, whereas a dish is deeper. We usually eat food from a plate, whereas we serve food from a dish.
 
-**Q:** Q duty. ~ I’m against the police carrying arms when they’re walking around the streets on duty.?
-**A:** I’m for the police carrying arms when they’re walking around the streets on
+**Q:** 2?
+**A:** I’m for the police carrying arms when they’re walking around the streets on duty. ~ I’m against the police carrying arms when they’re walking around the streets on duty.
 
-**Q:** R handbag in the street, some run after the criminal or shout for help, but most people just stand and look too surprised to do anything.  word “wage“ for a non-professional job, or a job in which a person earns a fixed amount of money for each hour they work, whereas we generally use “salary“ for a professional job, or a job in which a person earns a fixed amount of money each year.  writers etc.?
-**A:** When members of the general public see a criminal seize a woman’s The difference between “wage“ and “salary“ is that we generally use the The kind of people who don’t earn a steady wage or salary are actors, artists,
+**Q:** 3?
+**A:** When members of the general public see a criminal seize a woman’s handbag in the street, some run after the criminal or shout for help, but most people just stand and look too surprised to do anything.
 
-**Q:** U “f” or “fe” to “ves“. ?
-**A:** We generally form the plural of a noun ending in “f“ or “fe“ by changing the Deer prefer to live in woods.
+**Q:** 4?
+**A:** The difference between “wage“ and “salary“ is that we generally use the word “wage“ for a non-professional job, or a job in which a person earns a ﬁxed amount of money for each hour they work, whereas we generally use “salary“ for a professional job, or a job in which a person earns a ﬁxed amount of money each year.
 
-**Q:** W a holiday they’ve just been on.?
-**A:** People often mention the weather, food etc. when they’re telling you about
+**Q:** 5?
+**A:** The kind of people who don’t earn a steady wage or salary are actors, artists, writers etc.
 
-**Q:** X money/ don’t normally insist on giving them the money; I just buy them a drink the next time.?
-**A:** If a friend buys me a drink in a bar, I normally insist on giving them the
+**Q:** 6?
+**A:** We generally form the plural of a noun ending in “f“ or “fe“ by changing the “f” or “fe” to “ves“.
 
-**Q:** PO and breakfast“.?
-**A:** If I stayed at a hotel on holiday, I’d choose “full board“/“half board“/“bed
+**Q:** 7?
+**A:** Deer prefer to live in woods.
 
-**Q:** PP know when my local football team play their next game.?
-**A:** Yes, I know when my local football team play their next game. ~ No, I don’t
+**Q:** 8?
+**A:** People often mention the weather, food etc. when they’re telling you about a holiday they’ve just been on.
 
-**Q:** PQ account of all the money I spend.?
-**A:** Yes, I keep an account of all the money I spend. ~ No, I don’t keep an
+**Q:** 9?
+**A:** If a friend buys me a drink in a bar, I normally insist on giving them the money/ don’t normally insist on giving them the money; I just buy them a drink the next time.
 
-**Q:** PR sometimes have an argument.?
-**A:** If two people differ greatly in their opinions on a particular subject, they
+**Q:** 10?
+**A:** If I stayed at a hotel on holiday, I’d choose “full board“/“half board“/“bed and breakfast“.
 
-**Q:** PU with formal English, when the relative pronoun is not the subject of the verb that follows.?
-**A:** Some people prefer to use the relative pronoun “whom” instead of “who“
+**Q:** 11?
+**A:** Yes, I know when my local football team play their next game. ~ No, I don’t know when my local football team play their next game.
 
-**Q:** who she took the payment from”.?
+**Q:** 12?
+**A:** Yes, I keep an account of all the money I spend. ~ No, I don’t keep an account of all the money I spend.
 
-**Q:** PW people whose house is next to mine.?
-**A:** Yes, I know the people whose house is next to mine. ~ No, I don’t know the
+**Q:** 13?
+**A:** If two people differ greatly in their opinions on a particular subject, they sometimes have an argument.
 
-**Q:** PX airport.?
-**A:** Yes, I’ve been searched at an airport. ~ No, I’ve never been searched at an
+**Q:** 14?
+**A:** Yes, I’ve had private English lessons. ~ No, I’ve never had private English lessons.
 
-**Q:** QO football team. Revision Exercise 56 (Lessons 116 – 117)?
-**A:** Yes, I support a particular football team. ~ No, I don’t support any particular
+**Q:** 15?
+**A:** Yes, when I was a child, I always liked what I was given for my birthday. ~ No, when I was a child, I didn’t always like what I was given for my birthday.
 
-**Q:** o?
-**A:** If you were caught red-handed stealing something, would you declare
+**Q:** 16?
+**A:** Some people prefer to use the relative pronoun “whom” instead of “who“ with formal English, when the relative pronoun is not the subject of the verb that follows.
 
-**Q:** yourself innocent before the judge when you appeared in court for your trial?
+**Q:** 17?
+**A:** In normal spoken English, instead of “We need to contact the customer from whom she took the payment”, we say “We need to contact the customer who she took the payment from”.
 
-**Q:** p?
+**Q:** 18?
+**A:** Yes, I know the people whose house is next to mine. ~ No, I don’t know the people whose house is next to mine.
+
+**Q:** 19?
+**A:** Yes, I’ve been searched at an airport. ~ No, I’ve never been searched at an airport.
+
+**Q:** 20?
+**A:** Yes, I support a particular football team. ~ No, I don’t support any particular football team.
+
+**Q:** 1?
+**A:** If you were caught red-handed stealing something, would you declare yourself innocent before the judge when you appeared in court for your trial?
+
+**Q:** 2?
 **A:** In writing, what do we mean by upper case and lower case letters?
 
-**Q:** q?
-**A:** If you were a great person, what kind of monument would you like the
+**Q:** 3?
+**A:** If you were a great person, what kind of monument would you like the public to raise in your honour after you were dead?
 
-**Q:** public to raise in your honour after you were dead?
-**A:**  What’s the difference between a transitive verb and an intransitive verb?  What is scorn?
+**Q:** 4?
+**A:** What’s the difference between a transitive verb and an intransitive verb?
 
-**Q:** U ?
-**A:** How does a cowboy keep his cattle together? What happens at harvest time?
+**Q:** 5?
+**A:** What is scorn?
 
-**Q:** v?
-**A:** Where do we find railings?
+**Q:** 6?
+**A:** How does a cowboy keep his cattle together?
 
-**Q:** w?
+**Q:** 7?
+**A:** What happens at harvest time?
+
+**Q:** 8?
+**A:** Where do we ﬁnd railings?
+
+**Q:** 9?
 **A:** What’s the meaning of the idiom “to be on about”?
 
-**Q:** on?
+**Q:** 10?
 **A:** Name some English nouns that are never used in the plural, please.
 
-**Q:** oo?
+**Q:** 11?
 **A:** What do you think is the best piece of advice a father can give to his son?
 
-**Q:** op?
+**Q:** 12?
 **A:** What would you say were the advantages of mass-production?
 
-**Q:** oq?
-**A:** When a boy and a girl have a date, is it more common for the boy to pick the
+**Q:** 13?
+**A:** When a boy and a girl have a date, is it more common for the boy to pick the girl up at her house or to meet her somewhere in town?
 
-**Q:** girl up at her house or to meet her somewhere in town?
+**Q:** 14?
+**A:** What’s the difference between a drum and a barrel?
 
-**Q:** ot?
+**Q:** 15?
+**A:** What’s the difference between the words “harbour“ and “port“?
+
+**Q:** 16?
 **A:** What has been the most important event of your life so far?
 
-**Q:** concern him?
+**Q:** 17?
+**A:** Are you the kind of person who likes to put his nose into things that don’t concern him?
 
-**Q:** ov?
+**Q:** 18?
 **A:** If you won the lottery, how would you celebrate?
 
-**Q:** ow?
-**A:** If you’re planning to travel around the world, is it essential to have an up-to-
+**Q:** 19?
+**A:** If you’re planning to travel around the world, is it essential to have an up-to- date passport?
 
-**Q:** date passport?
-
-**Q:** pn?
+**Q:** 20?
 **A:** What does the idiom “a piece of cake” mean?
 
 **Q:** Answers?
 
-**Q:** P innocent before the judge when I appeared in court for my trial. ~ No, if I were caught red-handed stealing something, I wouldn’t declare myself innocent before the judge when I appeared in court for my trial.?
-**A:** Yes, if I were caught red-handed stealing something, I’d declare myself
+**Q:** 1?
+**A:** Yes, if I were caught red-handed stealing something, I’d declare myself innocent before the judge when I appeared in court for my trial. ~ No, if I were caught red-handed stealing something, I wouldn’t declare myself innocent before the judge when I appeared in court for my trial.
 
-**Q:** Q small letters.?
-**A:** In writing, by upper case and lower case letters we mean capital letters and
+**Q:** 2?
+**A:** In writing, by upper case and lower case letters we mean capital letters and small letters.
 
-**Q:** R my honour after I were dead would be a statue etc.  transitive verb has an object, whereas an intransitive verb does not have an object. ?
-**A:** If I were a great person, the kind of monument I’d like the public to raise in The difference between a transitive verb and an intransitive verb is that a Scorn is a feeling that somebody or something is not worthy of our respect.
+**Q:** 3?
+**A:** If I were a great person, the kind of monument I’d like the public to raise in my honour after I were dead would be a statue etc.
 
-**Q:** U horse or motorbike. ?
-**A:** A cowboy keeps his cattle together by constantly riding around them on a Farmers gather their crops at harvest time.
+**Q:** 4?
+**A:** The difference between a transitive verb and an intransitive verb is that a transitive verb has an object, whereas an intransitive verb does not have an object.
 
-**Q:** W piece of private land to stop people entering.?
-**A:** We find railings on a balcony to stop people falling, or sometimes around a
+**Q:** 5?
+**A:** Scorn is a feeling that somebody or something is not worthy of our respect.
 
-**Q:** w?
+**Q:** 6?
+**A:** A cowboy keeps his cattle together by constantly riding around them on a horse or motorbike.
+
+**Q:** 7?
+**A:** Farmers gather their crops at harvest time.
+
+**Q:** 8?
+**A:** We ﬁnd railings on a balcony to stop people falling, or sometimes around a piece of private land to stop people entering.
+
+**Q:** 9?
 **A:** The meaning of the idiom “to be on about” is “to mean”.
 
-**Q:** PO “information“, “knowledge“, “progress“ and “news“.?
-**A:** Some English nouns that are never used in the plural are “advice“, “furniture“,
+**Q:** 10?
+**A:** Some English nouns that are never used in the plural are “advice“, “furniture“, “information“, “knowledge“, “progress“ and “news“.
 
-**Q:** oo?
+**Q:** 11?
 **A:** I think the best piece of advice a father can give to his son is …
 
-**Q:** PQ quickly and more cheaply.?
-**A:** I’d say the advantages of mass-production were that products can be made
+**Q:** 12?
+**A:** I’d say the advantages of mass-production were that products can be made quickly and more cheaply.
 
-**Q:** PR girl up at her house/to meet her somewhere in town.?
-**A:** When a boy and a girl have a date, it’s more common for the boy to pick the
+**Q:** 13?
+**A:** When a boy and a girl have a date, it’s more common for the boy to pick the girl up at her house/to meet her somewhere in town.
 
-**Q:** has round sides.?
+**Q:** 14?
+**A:** The difference between a drum and a barrel is that a drum is usually made of metal and has straight sides, whereas a barrel is usually made of wood and has round sides.
 
-**Q:** is anywhere a boat or ship is protected from the weather, whereas a port is a place where goods are put onto or taken off a ship, or where passengers board a ship.?
+**Q:** 15?
+**A:** The difference between the words “harbour“ and “port“ is that a harbour is anywhere a boat or ship is protected from the weather, whereas a port is a place where goods are put onto or taken off a ship, or where passengers board a ship.
 
-**Q:** ot?
+**Q:** 16?
 **A:** The most important event of my life so far has been …
 
-**Q:** ov?
+**Q:** 17?
+**A:** Yes, I’m the kind of person who likes to put his nose into things that don’t concern him. ~ No, I’m not the kind of person who likes to put his nose into things that don’t concern him.
+
+**Q:** 18?
 **A:** If I won the lottery, I’d celebrate by …
 
-**Q:** PX up-to-date passport.?
-**A:** Yes, if you’re planning to travel around the world, it’s essential to have an
+**Q:** 19?
+**A:** Yes, if you’re planning to travel around the world, it’s essential to have an up-to-date passport.
 
-**Q:** pn?
+**Q:** 20?
 **A:** The idiom “a piece of cake” means “extremely easy to do”.
-
-**Q:** bind ǹ bound ǹ?
-**A:** differ......................623 fox hunting ...........616 idle.........................
-
-**Q:** kill two birds with?
-**A:** notebook .............. pull someone’s leg so ...........................
-
-**Q:** making requests MMM?
-**A:** plural of nouns and rush ....................... suitable..................
-
-**Q:** 'to beȀ infinitive?
-
-**Q:** transitive and intransitive verbs MMMURO?
-
-**Q:** articles 'aȀ and?
-
-**Q:** articles 'aȀ and?
-
-**Q:** watch your step?
-
-**Q:** words not used in the plural ...............?
-**A:** in 1960 by R.K. T. Callan.
 
 ---
